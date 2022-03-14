@@ -1,0 +1,3602 @@
+/* screen - ueber-borbus-1200 */
+
+.ueber-borbus-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1392px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .gruppe-540-A9iRUH {
+  background-color: transparent;
+  height: 810px;
+  left: 10.33%;
+  position: absolute;
+  top: calc(43.13% - 349px);
+  width: 1270px;
+}
+
+.ueber-borbus-1200 .kontakt-min-s0wPSI {
+  background-color: transparent;
+  display: block;
+  height: 810px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 405px);
+  width: 913px;
+}
+
+.ueber-borbus-1200 .kontakt-min-s0wPSI.bp3-animate-enter286 {
+  animation: bp3-animate-enter286-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter286-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-1200 .unsere-kleidchen-sin-s0wPSI {
+  background-color: transparent;
+  display: block;
+  height: 514px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(29.05% - 149px);
+  white-space: nowrap;
+  width: 528px;
+}
+
+.ueber-borbus-1200 .unsere-kleidchen-sin-s0wPSI.bp3-animate-enter287 {
+  animation: bp3-animate-enter287-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter287-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-1200 .rechteck-118-A9iRUH {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .stoffqualitt-A9iRUH {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.ueber-borbus-1200 .handarbeit-A9iRUH {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.ueber-borbus-1200 .sichere-bezahlung-A9iRUH {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.ueber-borbus-1200 .gruppe-199-A9iRUH {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.ueber-borbus-1200 .rechteck-155-FO456a {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .pfad-284-FO456a {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.ueber-borbus-1200 .pfad-285-FO456a {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.ueber-borbus-1200 .rechteck-157-A9iRUH {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.ueber-borbus-1200 .iconfinder_4265038_b-A9iRUH {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.ueber-borbus-1200 .ellipse-41-bIwD1T {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.ueber-borbus-1200 .pfad-286-bIwD1T {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .iconfinder_scissor_s-A9iRUH {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.ueber-borbus-1200 .pfad-273-E0RmuC {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.ueber-borbus-1200 .pfad-274-E0RmuC {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.ueber-borbus-1200 .pfad-275-E0RmuC {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.ueber-borbus-1200 .pfad-276-E0RmuC {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.ueber-borbus-1200 .home-A9iRUH {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(37.79% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.ueber-borbus-1200 .home-A9iRUH.bp3-animate-enter288 {
+  animation: bp3-animate-enter288-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter288-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-1200 .shop-A9iRUH {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.89% - 23px);
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.ueber-borbus-1200 .shop-A9iRUH.bp3-animate-enter289 {
+  animation: bp3-animate-enter289-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter289-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-1200 .gruppe-188-A9iRUH {
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(35.53% - 40px);
+  top: 220px;
+  width: 113px;
+}
+
+.ueber-borbus-1200 .gruppe-188-A9iRUH.bp3-animate-enter290 {
+  animation: bp3-animate-enter290-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter290-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-1200 .ber-borbus-bWMS8q {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .borbus-A9iRUH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.ueber-borbus-1200 .iconfinder_basket_ecommerce_shop_4177565-A9iRUH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 96px;
+  top: 74px;
+  width: 28px;
+}
+
+.ueber-borbus-1200 .gruppe-322-A9iRUH {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .gruppe-163-qmADx4 {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .gruppe-163-qmADx4.bp3-animate-enter291 {
+  animation: bp3-animate-enter291-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter291-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-1200 .rechteck-90-kbdLuL {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .exklusive-serviceleistungen-kbdLuL {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.ueber-borbus-1200 .gruppe-137-kbdLuL {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.ueber-borbus-1200 .versand-frei-3z0C2C {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.ueber-borbus-1200 .truck-3z0C2C {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.ueber-borbus-1200 .gruppe-341-kbdLuL {
+  background-color: transparent;
+  height: 155px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.ueber-borbus-1200 .knnen-wir-helfen-6wtNqJ {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.ueber-borbus-1200 .gruppe-339-6wtNqJ {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.ueber-borbus-1200 .gruppe-140-iBOCO5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.ueber-borbus-1200 .kontakt-Z3yUxX {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .contact-iBOCO5 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.ueber-borbus-1200 .gruppe-340-6wtNqJ {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.ueber-borbus-1200 .gruppe-141-Nx3DKR {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.ueber-borbus-1200 .zahlungsoptionen-LKjXwU {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .money-Nx3DKR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.ueber-borbus-1200 .gruppe-345-kbdLuL {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.ueber-borbus-1200 .das-unternehmen-lGlWst {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.ueber-borbus-1200 .gruppe-344-lGlWst {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.ueber-borbus-1200 .gruppe-158-gOxszz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.ueber-borbus-1200 .impressum-3l5PSf {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .gruppe-154-gOxszz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.ueber-borbus-1200 .gruppe-159-ZGPX5r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .ellipse-25-0QkvOH {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.ueber-borbus-1200 .i-0QkvOH {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.ueber-borbus-1200 .gruppe-160-lGlWst {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.ueber-borbus-1200 .gruppe-155-Tqeuxh {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.ueber-borbus-1200 .gruppe-138-BXAxbM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-1200 .ber-borbus-42OExL {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .b-Tqeuxh {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.ueber-borbus-1200 .gruppe-342-lGlWst {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.ueber-borbus-1200 .gruppe-156-m3r442 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.ueber-borbus-1200 .geschfts-und-nutzungsbediengungen-JFOBw6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .solid-m3r442 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.ueber-borbus-1200 .gruppe-343-lGlWst {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.ueber-borbus-1200 .gruppe-157-8n7zsF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.ueber-borbus-1200 .datenschutz-cookies-VveHKn {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .cookie-8n7zsF {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ueber-borbus-1200 .gruppe-346-kbdLuL {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.ueber-borbus-1200 .besuche-uns-JGuxQo {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.ueber-borbus-1200 .gruppe-321-JGuxQo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.ueber-borbus-1200 .gruppe-162-9IJGxD {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.ueber-borbus-1200 .instagram-RQE85q {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-1200 .instagram-sketched-9IJGxD {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.ueber-borbus-1200 .ssl-qmADx4 {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.ueber-borbus-1200 .ssl-qmADx4.bp3-animate-enter292 {
+  animation: bp3-animate-enter292-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter292-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - ueber-borbus-375 */
+
+.ueber-borbus-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1726px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ueber-borbus-375 .kontakt-min-wZ4CaH {
+  background-color: transparent;
+  bottom: 330px;
+  display: block;
+  height: 1028px;
+  left: calc(50.00% - 578px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 1157px;
+}
+
+.ueber-borbus-375 .kontakt-min-wZ4CaH.bp1-animate-enter272 {
+  animation: bp1-animate-enter272-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter272-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-375 .gruppe-166-wZ4CaH {
+  background-color: transparent;
+  bottom: calc(48.12% - 465px);
+  display: block;
+  height: 966px;
+  left: 31px;
+  opacity: 0;
+  position: absolute;
+  width: calc(100.00% - 57px);
+}
+
+.ueber-borbus-375 .gruppe-166-wZ4CaH.bp1-animate-enter273 {
+  animation: bp1-animate-enter273-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter273-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-375 .unsere-kleidchen-sin-C0jKtM {
+  background-color: transparent;
+  height: 968px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .gruppe-293-wZ4CaH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: calc(10.12% - 5px);
+  position: absolute;
+  top: 224px;
+  width: 46px;
+}
+
+.ueber-borbus-375 .home-jw7xTz {
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.ueber-borbus-375 .home-jw7xTz.bp1-animate-enter274 {
+  animation: bp1-animate-enter274-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter274-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-375 .shop-wZ4CaH {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(42.19% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.ueber-borbus-375 .shop-wZ4CaH.bp1-animate-enter275 {
+  animation: bp1-animate-enter275-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter275-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-375 .gruppe-188-wZ4CaH {
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  opacity: 0;
+  position: absolute;
+  right: 33px;
+  top: 222px;
+  width: 100px;
+}
+
+.ueber-borbus-375 .gruppe-188-wZ4CaH.bp1-animate-enter276 {
+  animation: bp1-animate-enter276-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter276-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-375 .ber-borbus-p8GiUB {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .borbus-wZ4CaH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.ueber-borbus-375 .iconfinder_basket_ecommerce_shop_4177565-wZ4CaH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 20px;
+  top: 54px;
+  width: 28px;
+}
+
+.ueber-borbus-375 .rechteck-118-wZ4CaH {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-375 .gruppe-546-wZ4CaH {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.ueber-borbus-375 .sichere-bezahlung-6YkJXq {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.ueber-borbus-375 .gruppe-199-6YkJXq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.ueber-borbus-375 .rechteck-155-S5EIpx {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.ueber-borbus-375 .pfad-284-S5EIpx {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.ueber-borbus-375 .pfad-285-S5EIpx {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.ueber-borbus-375 .gruppe-548-wZ4CaH {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.ueber-borbus-375 .stoffqualitt-2g42xG {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ueber-borbus-375 .iconfinder_4265038_b-2g42xG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.ueber-borbus-375 .ellipse-41-b6ZRKg {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.ueber-borbus-375 .pfad-286-b6ZRKg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-375 .gruppe-547-wZ4CaH {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.ueber-borbus-375 .handarbeit-PoVWG6 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.ueber-borbus-375 .iconfinder_scissor_s-PoVWG6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.ueber-borbus-375 .pfad-273-k6FnxB {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.ueber-borbus-375 .pfad-274-k6FnxB {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.ueber-borbus-375 .pfad-275-k6FnxB {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.ueber-borbus-375 .pfad-276-k6FnxB {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.ueber-borbus-375 .gruppe-327-wZ4CaH {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ueber-borbus-375 .rechteck-90-IKdQoK {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-375 .gruppe-356-IKdQoK {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.ueber-borbus-375 .exklusive-serviceleistungen-zU5Rf3 {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .gruppe-137-zU5Rf3 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.ueber-borbus-375 .versand-frei-qLOV52 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ueber-borbus-375 .truck-qLOV52 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.ueber-borbus-375 .gruppe-359-IKdQoK {
+  background-color: transparent;
+  height: 120px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.ueber-borbus-375 .knnen-wir-helfen-AnC8Gk {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.ueber-borbus-375 .gruppe-357-AnC8Gk {
+  background-color: transparent;
+  bottom: calc(29.92% - 3px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.ueber-borbus-375 .gruppe-140-LNX4L3 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.ueber-borbus-375 .kontakt-XppJIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .contact-LNX4L3 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.ueber-borbus-375 .gruppe-358-AnC8Gk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.ueber-borbus-375 .gruppe-141-By54EX {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.ueber-borbus-375 .zahlungsoptionen-yzZdNF {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .money-By54EX {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.ueber-borbus-375 .gruppe-363-IKdQoK {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.ueber-borbus-375 .das-unternehmen-wZK9n6 {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.ueber-borbus-375 .gruppe-362-wZK9n6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.ueber-borbus-375 .gruppe-158-XQMkn1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.ueber-borbus-375 .impressum-eaMXft {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .gruppe-154-XQMkn1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.ueber-borbus-375 .gruppe-159-gWKyXi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-375 .ellipse-25-JGOhfF {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-375 .i-JGOhfF {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.ueber-borbus-375 .gruppe-160-wZK9n6 {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.ueber-borbus-375 .gruppe-155-R7IeM8 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.ueber-borbus-375 .gruppe-138-uTL5A9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-375 .ber-borbus-DQKdqv {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .b-R7IeM8 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.ueber-borbus-375 .gruppe-361-wZK9n6 {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.ueber-borbus-375 .gruppe-156-PXTgxK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.ueber-borbus-375 .geschftsbedien-gungen-mAwSkp {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .solid-PXTgxK {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.ueber-borbus-375 .gruppe-360-wZK9n6 {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.ueber-borbus-375 .gruppe-157-xsUGET {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.ueber-borbus-375 .datenschutz-0n7wIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .cookie-xsUGET {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.ueber-borbus-375 .gruppe-325-IKdQoK {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.ueber-borbus-375 .gruppe-162-NTGASg {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.ueber-borbus-375 .folge-uns-auf-instagram-rec8GL {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-375 .instagram-sketched-NTGASg {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.ueber-borbus-375 .ssl-IKdQoK {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.ueber-borbus-375 .ssl-IKdQoK.bp1-animate-enter277 {
+  animation: bp1-animate-enter277-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter277-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - ueber-borbus-767 */
+
+.ueber-borbus-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1392px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ueber-borbus-767 .kontakt-min-YI5wt5 {
+  background-color: transparent;
+  display: block;
+  height: 1028px;
+  left: -98px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(9.34% - 96px);
+  width: calc(100.00% + 390px);
+}
+
+.ueber-borbus-767 .kontakt-min-YI5wt5.bp2-animate-enter283 {
+  animation: bp2-animate-enter283-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter283-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-767 .gruppe-166-YI5wt5 {
+  background-color: transparent;
+  display: block;
+  height: 708px;
+  left: 95px;
+  opacity: 0;
+  position: absolute;
+  top: calc(44.15% - 313px);
+  width: calc(100.00% - 151px);
+}
+
+.ueber-borbus-767 .gruppe-166-YI5wt5.bp2-animate-enter284 {
+  animation: bp2-animate-enter284-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter284-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-767 .unsere-kleidchen-sin-4QFtLG {
+  background-color: transparent;
+  height: 710px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .linie-29-YI5wt5 {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 20.22%;
+  width: 100%;
+}
+
+.ueber-borbus-767 .rechteck-118-YI5wt5 {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-767 .stoffqualitt-YI5wt5 {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.ueber-borbus-767 .handarbeit-YI5wt5 {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.ueber-borbus-767 .sichere-bezahlung-YI5wt5 {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.ueber-borbus-767 .gruppe-199-YI5wt5 {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.ueber-borbus-767 .rechteck-155-rdSven {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.ueber-borbus-767 .pfad-284-rdSven {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.ueber-borbus-767 .pfad-285-rdSven {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.ueber-borbus-767 .rechteck-157-YI5wt5 {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.ueber-borbus-767 .iconfinder_4265038_b-YI5wt5 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.ueber-borbus-767 .ellipse-41-sojlVz {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.ueber-borbus-767 .pfad-286-sojlVz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.ueber-borbus-767 .iconfinder_scissor_s-YI5wt5 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.ueber-borbus-767 .pfad-273-1nAxxV {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.ueber-borbus-767 .pfad-274-1nAxxV {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.ueber-borbus-767 .pfad-275-1nAxxV {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.ueber-borbus-767 .pfad-276-1nAxxV {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.ueber-borbus-767 .home-YI5wt5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(23.17% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.ueber-borbus-767 .home-YI5wt5.bp2-animate-enter285 {
+  animation: bp2-animate-enter285-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter285-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-767 .shop-YI5wt5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 22px;
+  left: calc(49.21% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.ueber-borbus-767 .shop-YI5wt5.bp2-animate-enter286 {
+  animation: bp2-animate-enter286-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter286-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-767 .gruppe-188-YI5wt5 {
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(17.86% - 20px);
+  top: 220px;
+  width: 113px;
+}
+
+.ueber-borbus-767 .gruppe-188-YI5wt5.bp2-animate-enter287 {
+  animation: bp2-animate-enter287-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter287-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-767 .ber-borbus-EsECsE {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .borbus-YI5wt5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.ueber-borbus-767 .iconfinder_basket_ecommerce_shop_4177565-YI5wt5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 96px;
+  top: 74px;
+  width: 28px;
+}
+
+.ueber-borbus-767 .gruppe-163-YI5wt5 {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.ueber-borbus-767 .gruppe-163-YI5wt5.bp2-animate-enter288 {
+  animation: bp2-animate-enter288-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter288-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueber-borbus-767 .rechteck-90-Grm1QJ {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ueber-borbus-767 .gruppe-347-Grm1QJ {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.ueber-borbus-767 .exklusive-serviceleistungen-Q09gZy {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .gruppe-137-Q09gZy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.ueber-borbus-767 .versand-frei-ZRCwtw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.ueber-borbus-767 .truck-ZRCwtw {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.ueber-borbus-767 .gruppe-350-Grm1QJ {
+  background-color: transparent;
+  height: 155px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.ueber-borbus-767 .knnen-wir-helfen-iTJoHi {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.ueber-borbus-767 .gruppe-348-iTJoHi {
+  background-color: transparent;
+  bottom: calc(29.79% - 4px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.ueber-borbus-767 .gruppe-140-FWjbqB {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.ueber-borbus-767 .kontakt-uk5Itz {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .contact-FWjbqB {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.ueber-borbus-767 .gruppe-349-iTJoHi {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.ueber-borbus-767 .gruppe-141-0TXjbw {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.ueber-borbus-767 .zahlungsoptionen-A0rURP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .money-0TXjbw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.ueber-borbus-767 .gruppe-354-Grm1QJ {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.ueber-borbus-767 .das-unternehmen-5G12xy {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.ueber-borbus-767 .gruppe-353-5G12xy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.ueber-borbus-767 .gruppe-158-6dG2tj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.ueber-borbus-767 .impressum-DBb459 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .gruppe-154-6dG2tj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.ueber-borbus-767 .gruppe-159-k5Yrnh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-767 .ellipse-25-YtFALg {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.ueber-borbus-767 .i-YtFALg {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.ueber-borbus-767 .gruppe-160-5G12xy {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.ueber-borbus-767 .gruppe-155-13FVlC {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.ueber-borbus-767 .gruppe-138-KOAr8I {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueber-borbus-767 .ber-borbus-f2tYJa {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .b-13FVlC {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.ueber-borbus-767 .gruppe-351-5G12xy {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ueber-borbus-767 .gruppe-156-w2QPaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.ueber-borbus-767 .geschfts-und-nutzungsbediengungen-HTMMtN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .solid-w2QPaB {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.ueber-borbus-767 .gruppe-352-5G12xy {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.ueber-borbus-767 .gruppe-157-3CWpK9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.ueber-borbus-767 .datenschutz-cookies-IXORqj {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .cookie-3CWpK9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.ueber-borbus-767 .gruppe-355-Grm1QJ {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.ueber-borbus-767 .besuche-uns-pFRxxW {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .gruppe-323-pFRxxW {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.ueber-borbus-767 .gruppe-162-EMu9j9 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.ueber-borbus-767 .instagram-jcA7yD {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueber-borbus-767 .instagram-sketched-EMu9j9 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.ueber-borbus-767 .ssl-YI5wt5 {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.ueber-borbus-767 .ssl-YI5wt5.bp2-animate-enter289 {
+  animation: bp2-animate-enter289-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter289-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - ueberborbus */
+
+.ueberborbus {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1392px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ueberborbus .unsere-kleidchen-sin-ZGjEw1 {
+  background-color: transparent;
+  display: block;
+  height: 410px;
+  left: calc(21.04% - 173px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(34.32% - 141px);
+  white-space: nowrap;
+  width: 822px;
+}
+
+.ueberborbus .unsere-kleidchen-sin-ZGjEw1.bp4-animate-enter286 {
+  animation: bp4-animate-enter286-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter286-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueberborbus .kontakt-min-ZGjEw1 {
+  background-color: transparent;
+  bottom: 331px;
+  display: block;
+  height: 810px;
+  left: calc(107.15% - 978px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 913px;
+}
+
+.ueberborbus .kontakt-min-ZGjEw1.bp4-animate-enter287 {
+  animation: bp4-animate-enter287-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter287-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueberborbus .rechteck-118-ZGjEw1 {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueberborbus .stoffqualitt-ZGjEw1 {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.ueberborbus .handarbeit-ZGjEw1 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.ueberborbus .sichere-bezahlung-ZGjEw1 {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.ueberborbus .gruppe-199-ZGjEw1 {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.ueberborbus .rechteck-155-zlcTpf {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.ueberborbus .pfad-284-zlcTpf {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.ueberborbus .pfad-285-zlcTpf {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.02% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.ueberborbus .rechteck-157-ZGjEw1 {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.ueberborbus .iconfinder_scissor_s-ZGjEw1 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.ueberborbus .pfad-273-oahvLb {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.ueberborbus .pfad-274-oahvLb {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.ueberborbus .pfad-275-oahvLb {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.ueberborbus .pfad-276-oahvLb {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.ueberborbus .iconfinder_4265038_b-ZGjEw1 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.ueberborbus .ellipse-41-L2rvR5 {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.ueberborbus .pfad-286-L2rvR5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueberborbus .home-ZGjEw1 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(37.76% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.ueberborbus .home-ZGjEw1.bp4-animate-enter288 {
+  animation: bp4-animate-enter288-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter288-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueberborbus .shop-ZGjEw1 {
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.92% - 23px);
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.ueberborbus .shop-ZGjEw1.bp4-animate-enter289 {
+  animation: bp4-animate-enter289-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter289-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueberborbus .gruppe-188-ZGjEw1 {
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(35.53% - 40px);
+  top: 220px;
+  width: 113px;
+}
+
+.ueberborbus .gruppe-188-ZGjEw1.bp4-animate-enter290 {
+  animation: bp4-animate-enter290-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter290-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueberborbus .ber-borbus-DqBH3u {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .borbus-ZGjEw1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.ueberborbus .iconfinder_basket_ecommerce_shop_4177565-ZGjEw1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 96px;
+  top: 74px;
+  width: 28px;
+}
+
+.ueberborbus .gruppe-163-ZGjEw1 {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.ueberborbus .gruppe-163-ZGjEw1.bp4-animate-enter291 {
+  animation: bp4-animate-enter291-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter291-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueberborbus .rechteck-90-u7xG6e {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ueberborbus .gruppe-364-u7xG6e {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.ueberborbus .exklusive-serviceleistungen-pLQBfE {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.ueberborbus .gruppe-137-pLQBfE {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ueberborbus .versand-rckversand-frei-UgkrRy {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.ueberborbus .truck-UgkrRy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.ueberborbus .gruppe-367-u7xG6e {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.ueberborbus .knnen-wir-helfen-DU4ebl {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.ueberborbus .gruppe-365-DU4ebl {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.ueberborbus .gruppe-140-JNe06h {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.ueberborbus .kontakt-bOPET3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .contact-JNe06h {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.ueberborbus .gruppe-366-DU4ebl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.ueberborbus .gruppe-141-eThTnw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.ueberborbus .zahlungsoptionen-ZsH4rk {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .money-eThTnw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.ueberborbus .gruppe-372-u7xG6e {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.ueberborbus .besuche-uns-tanAQU {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .gruppe-320-tanAQU {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.ueberborbus .gruppe-162-AOwofE {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.ueberborbus .instagram-mkNGtO {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .instagram-sketched-AOwofE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.ueberborbus .ssl-ZGjEw1 {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.ueberborbus .ssl-ZGjEw1.bp4-animate-enter292 {
+  animation: bp4-animate-enter292-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter292-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.ueberborbus .gruppe-554-ZGjEw1 {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.ueberborbus .gruppe-371-JNwNls {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.ueberborbus .das-unternehmen-YpzFp3 {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.ueberborbus .gruppe-370-YpzFp3 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.ueberborbus .gruppe-154-CF1hMX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueberborbus .gruppe-159-D9CsV6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueberborbus .ellipse-25-gRAOlx {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.ueberborbus .i-gRAOlx {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.ueberborbus .gruppe-160-YpzFp3 {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.ueberborbus .gruppe-155-X62dSq {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.ueberborbus .gruppe-138-3xeVbR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ueberborbus .ber-borbus-8xHtRb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .b-X62dSq {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.ueberborbus .gruppe-368-YpzFp3 {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.ueberborbus .gruppe-156-VNOr5V {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.ueberborbus .geschfts-und-nutzungs-bediengungen-hF9hx4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .solid-VNOr5V {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.ueberborbus .gruppe-369-YpzFp3 {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.ueberborbus .gruppe-157-K7jQUE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.ueberborbus .datenschutz-cookies-wLzB5C {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ueberborbus .cookie-K7jQUE {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.ueberborbus .impressum-JNwNls {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+@media screen and (max-width: 766px) {
+  .screen.ueberborbus { 
+    display: none;
+   }
+  .screen.ueber-borbus-1200 { 
+    display: none;
+   }
+  .screen.ueber-borbus-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.ueberborbus { 
+    display: none;
+   }
+  .screen.ueber-borbus-1200 { 
+    display: none;
+   }
+  .screen.ueber-borbus-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.ueberborbus { 
+    display: none;
+   }
+  .screen.ueber-borbus-767 { 
+    display: none;
+   }
+  .screen.ueber-borbus-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.ueber-borbus-1200 { 
+    display: none;
+   }
+  .screen.ueber-borbus-767 { 
+    display: none;
+   }
+  .screen.ueber-borbus-375 { 
+    display: none;
+   }
+}
