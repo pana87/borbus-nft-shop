@@ -5,6 +5,7 @@
   },
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "rm -rf ./public && eleventy",
+    "clean": "rm -rf ./public"
   }
 }

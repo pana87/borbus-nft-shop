@@ -245,6 +245,14 @@
   font-weight: 400;
 }
 
+.hiraginomarugothicpron-w4-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .hiraginominchopron-w6-normal-black-20px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w6);
@@ -257,14 +265,6 @@
   color: var(--black);
   font-family: var(--font-family-mshtakan-regular);
   font-size: 45px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginomarugothicpron-w4-normal-black-20px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
@@ -333,14 +333,6 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w6-normal-black-18px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .hiraginominchopron-w6-normal-black-35px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w6);
@@ -357,10 +349,10 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w3-normal-black-30px {
+.hiraginominchopron-w6-normal-black-18px {
   color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 30px;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -401,6 +393,14 @@
   color: var(--stratos);
   font-family: var(--font-family-hiraginomincho_pron-w3);
   font-size: 85px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w3-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 30px;
   font-style: normal;
   font-weight: 400;
 }

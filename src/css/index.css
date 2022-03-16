@@ -24,13 +24,13 @@
   width: calc(100.00% + 18px);
 }
 
-.index .borbus-homescreentransparent-IO3Fu5.bp4-animate-enter243 {
-  animation: bp4-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+.index .borbus-homescreentransparent-IO3Fu5.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter243-frames {
+@keyframes bp4-animate-enter7-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -63,13 +63,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.index .home-IO3Fu5.bp4-animate-enter244 {
-  animation: bp4-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+.index .home-IO3Fu5.bp4-animate-enter8 {
+  animation: bp4-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter244-frames {
+@keyframes bp4-animate-enter8-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -92,13 +92,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.index .shop-IO3Fu5.bp4-animate-enter245 {
-  animation: bp4-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.index .shop-IO3Fu5.bp4-animate-enter9 {
+  animation: bp4-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter245-frames {
+@keyframes bp4-animate-enter9-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -130,13 +130,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.index .gruppe-188-IO3Fu5.bp4-animate-enter246 {
-  animation: bp4-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.index .gruppe-188-IO3Fu5.bp4-animate-enter10 {
+  animation: bp4-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter246-frames {
+@keyframes bp4-animate-enter10-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -171,13 +171,13 @@ to{opacity: 1;
   width: 623px;
 }
 
-.index .detaillierte-handarb-IO3Fu5.bp4-animate-enter247 {
-  animation: bp4-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+.index .detaillierte-handarb-IO3Fu5.bp4-animate-enter11 {
+  animation: bp4-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter247-frames {
+@keyframes bp4-animate-enter11-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -195,13 +195,13 @@ to{opacity: 1;
   width: 38px;
 }
 
-.index .gruppe-198-IO3Fu5.bp4-animate-enter248 {
-  animation: bp4-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+.index .gruppe-198-IO3Fu5.bp4-animate-enter12 {
+  animation: bp4-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter248-frames {
+@keyframes bp4-animate-enter12-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -257,14 +257,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index .gruppe-212-IO3Fu5.bp4-animate-enter249 {
-  animation: bp4-animate-enter249-frames 0.50s ease 0.00s 1 normal forwards;
+.index .gruppe-212-IO3Fu5.bp4-animate-enter13 {
+  animation: bp4-animate-enter13-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp4-animate-enter249-frames {
+@keyframes bp4-animate-enter13-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -366,13 +366,13 @@ transform: translate(0,0);
   width: 126px;
 }
 
-.index .gruppe-207-IO3Fu5.bp4-animate-enter250 {
-  animation: bp4-animate-enter250-frames 0.20s ease 0.10s 1 normal forwards;
+.index .gruppe-207-IO3Fu5.bp4-animate-enter14 {
+  animation: bp4-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter250-frames {
+@keyframes bp4-animate-enter14-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -418,14 +418,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index .gruppe-213-IO3Fu5.bp4-animate-enter251 {
-  animation: bp4-animate-enter251-frames 0.50s ease 0.00s 1 normal forwards;
+.index .gruppe-213-IO3Fu5.bp4-animate-enter15 {
+  animation: bp4-animate-enter15-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp4-animate-enter251-frames {
+@keyframes bp4-animate-enter15-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -519,13 +519,13 @@ transform: translate(0,0);
   width: 208px;
 }
 
-.index .kollektion-i-IO3Fu5.bp4-animate-enter252 {
-  animation: bp4-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
+.index .kollektion-i-IO3Fu5.bp4-animate-enter16 {
+  animation: bp4-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter252-frames {
+@keyframes bp4-animate-enter16-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -543,13 +543,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.index .rechteck-152-IO3Fu5.bp4-animate-enter253 {
-  animation: bp4-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
+.index .rechteck-152-IO3Fu5.bp4-animate-enter17 {
+  animation: bp4-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter253-frames {
+@keyframes bp4-animate-enter17-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -566,7 +566,7 @@ to{opacity: 1;
   width: calc(100.00% + 30px);
 }
 
-.index .nahaufnahme1-min-IO3Fu5 {
+.index .nahaufnahme1-min-min-IO3Fu5 {
   background-color: transparent;
   bottom: calc(45.73% - 255px);
   display: block;
@@ -578,20 +578,20 @@ to{opacity: 1;
   width: 550px;
 }
 
-.index .nahaufnahme1-min-IO3Fu5.bp4-animate-enter254 {
-  animation: bp4-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+.index .nahaufnahme1-min-min-IO3Fu5.bp4-animate-enter18 {
+  animation: bp4-animate-enter18-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter254-frames {
+@keyframes bp4-animate-enter18-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index .nahaufnahme3-min-IO3Fu5 {
+.index .nahaufnahme3-min-min-IO3Fu5 {
   background-color: transparent;
   bottom: calc(45.73% - 255px);
   display: block;
@@ -603,20 +603,20 @@ to{opacity: 1;
   width: 550px;
 }
 
-.index .nahaufnahme3-min-IO3Fu5.bp4-animate-enter255 {
-  animation: bp4-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+.index .nahaufnahme3-min-min-IO3Fu5.bp4-animate-enter19 {
+  animation: bp4-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter255-frames {
+@keyframes bp4-animate-enter19-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index .nahaufnahme2-min-IO3Fu5 {
+.index .nahaufnahme2-min-min-IO3Fu5 {
   background-color: transparent;
   bottom: calc(45.73% - 255px);
   display: block;
@@ -628,20 +628,20 @@ to{opacity: 1;
   width: 550px;
 }
 
-.index .nahaufnahme2-min-IO3Fu5.bp4-animate-enter256 {
-  animation: bp4-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.index .nahaufnahme2-min-min-IO3Fu5.bp4-animate-enter20 {
+  animation: bp4-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter256-frames {
+@keyframes bp4-animate-enter20-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index .nahaufnahme6-min-IO3Fu5 {
+.index .nahaufnahme6-min-min-IO3Fu5 {
   background-color: transparent;
   bottom: calc(31.16% - 174px);
   display: block;
@@ -653,20 +653,20 @@ to{opacity: 1;
   width: 550px;
 }
 
-.index .nahaufnahme6-min-IO3Fu5.bp4-animate-enter257 {
-  animation: bp4-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.index .nahaufnahme6-min-min-IO3Fu5.bp4-animate-enter21 {
+  animation: bp4-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter257-frames {
+@keyframes bp4-animate-enter21-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index .nahaufnahme5-min-IO3Fu5 {
+.index .nahaufnahme5-min-min-IO3Fu5 {
   background-color: transparent;
   bottom: calc(31.16% - 174px);
   display: block;
@@ -678,13 +678,13 @@ to{opacity: 1;
   width: 550px;
 }
 
-.index .nahaufnahme5-min-IO3Fu5.bp4-animate-enter258 {
-  animation: bp4-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+.index .nahaufnahme5-min-min-IO3Fu5.bp4-animate-enter22 {
+  animation: bp4-animate-enter22-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter258-frames {
+@keyframes bp4-animate-enter22-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -703,14 +703,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index .gruppe-214-IO3Fu5.bp4-animate-enter259 {
-  animation: bp4-animate-enter259-frames 0.50s ease 0.00s 1 normal forwards;
+.index .gruppe-214-IO3Fu5.bp4-animate-enter23 {
+  animation: bp4-animate-enter23-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp4-animate-enter259-frames {
+@keyframes bp4-animate-enter23-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -925,13 +925,13 @@ transform: translate(0,0);
   width: 1846px;
 }
 
-.index .mehrerekleidchen-min-IO3Fu5.bp4-animate-enter260 {
-  animation: bp4-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.index .mehrerekleidchen-min-IO3Fu5.bp4-animate-enter24 {
+  animation: bp4-animate-enter24-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter260-frames {
+@keyframes bp4-animate-enter24-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -952,13 +952,13 @@ to{opacity: 1;
   width: 378px;
 }
 
-.index .gruppe-210-IO3Fu5.bp4-animate-enter261 {
-  animation: bp4-animate-enter261-frames 0.20s ease 0.10s 1 normal forwards;
+.index .gruppe-210-IO3Fu5.bp4-animate-enter25 {
+  animation: bp4-animate-enter25-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter261-frames {
+@keyframes bp4-animate-enter25-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1019,13 +1019,13 @@ to{opacity: 1;
   width: 517px;
 }
 
-.index .handmade-M1qKlo.bp4-animate-enter262 {
-  animation: bp4-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.index .handmade-M1qKlo.bp4-animate-enter26 {
+  animation: bp4-animate-enter26-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter262-frames {
+@keyframes bp4-animate-enter26-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1046,13 +1046,13 @@ to{opacity: 1;
   width: 304px;
 }
 
-.index .eine-von-kinderlache-M1qKlo.bp4-animate-enter263 {
-  animation: bp4-animate-enter263-frames 0.20s ease 0.10s 1 normal forwards;
+.index .eine-von-kinderlache-M1qKlo.bp4-animate-enter27 {
+  animation: bp4-animate-enter27-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter263-frames {
+@keyframes bp4-animate-enter27-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1075,13 +1075,13 @@ to{opacity: 1;
   width: 406px;
 }
 
-.index .exclusive-M1qKlo.bp4-animate-enter264 {
-  animation: bp4-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
+.index .exclusive-M1qKlo.bp4-animate-enter28 {
+  animation: bp4-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter264-frames {
+@keyframes bp4-animate-enter28-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1102,13 +1102,13 @@ to{opacity: 1;
   width: 244px;
 }
 
-.index .gruppe-206-M1qKlo.bp4-animate-enter265 {
-  animation: bp4-animate-enter265-frames 0.20s ease 0.10s 1 normal forwards;
+.index .gruppe-206-M1qKlo.bp4-animate-enter29 {
+  animation: bp4-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter265-frames {
+@keyframes bp4-animate-enter29-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1154,13 +1154,13 @@ to{opacity: 1;
   width: 663px;
 }
 
-.index .linie-43-M1qKlo.bp4-animate-enter266 {
-  animation: bp4-animate-enter266-frames 0.20s ease 0.10s 1 normal forwards;
+.index .linie-43-M1qKlo.bp4-animate-enter30 {
+  animation: bp4-animate-enter30-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter266-frames {
+@keyframes bp4-animate-enter30-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1319,7 +1319,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.index .nahaufnahme4-min-IO3Fu5 {
+.index .nahaufnahme4-min-min-IO3Fu5 {
   background-color: transparent;
   bottom: calc(31.11% - 174px);
   display: block;
@@ -1331,13 +1331,13 @@ to{opacity: 1;
   width: 550px;
 }
 
-.index .nahaufnahme4-min-IO3Fu5.bp4-animate-enter267 {
-  animation: bp4-animate-enter267-frames 0.20s ease 0.10s 1 normal forwards;
+.index .nahaufnahme4-min-min-IO3Fu5.bp4-animate-enter31 {
+  animation: bp4-animate-enter31-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter267-frames {
+@keyframes bp4-animate-enter31-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1355,13 +1355,13 @@ to{opacity: 1;
   width: 99px;
 }
 
-.index .gruppe-189-IO3Fu5.bp4-animate-enter268 {
-  animation: bp4-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
+.index .gruppe-189-IO3Fu5.bp4-animate-enter32 {
+  animation: bp4-animate-enter32-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter268-frames {
+@keyframes bp4-animate-enter32-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1417,14 +1417,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index .gruppe-215-IO3Fu5.bp4-animate-enter269 {
-  animation: bp4-animate-enter269-frames 0.50s ease 0.00s 1 normal forwards;
+.index .gruppe-215-IO3Fu5.bp4-animate-enter33 {
+  animation: bp4-animate-enter33-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp4-animate-enter269-frames {
+@keyframes bp4-animate-enter33-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -1515,14 +1515,14 @@ transform: translate(0,0);
   width: 288px;
 }
 
-.index .gruppe-216-IO3Fu5.bp4-animate-enter270 {
-  animation: bp4-animate-enter270-frames 0.50s ease 0.00s 1 normal forwards;
+.index .gruppe-216-IO3Fu5.bp4-animate-enter34 {
+  animation: bp4-animate-enter34-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes bp4-animate-enter270-frames {
+@keyframes bp4-animate-enter34-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1642,13 +1642,13 @@ transform: translate(0,0);
   width: 891px;
 }
 
-.index .rechteck-160-IO3Fu5.bp4-animate-enter271 {
-  animation: bp4-animate-enter271-frames 0.20s ease 0.10s 1 normal forwards;
+.index .rechteck-160-IO3Fu5.bp4-animate-enter35 {
+  animation: bp4-animate-enter35-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter271-frames {
+@keyframes bp4-animate-enter35-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1666,13 +1666,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.index .gruppe-163-IO3Fu5.bp4-animate-enter272 {
-  animation: bp4-animate-enter272-frames 0.20s ease 0.10s 1 normal forwards;
+.index .gruppe-163-IO3Fu5.bp4-animate-enter36 {
+  animation: bp4-animate-enter36-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter272-frames {
+@keyframes bp4-animate-enter36-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1924,13 +1924,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.index .ssl-IO3Fu5.bp4-animate-enter273 {
-  animation: bp4-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
+.index .ssl-IO3Fu5.bp4-animate-enter37 {
+  animation: bp4-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter273-frames {
+@keyframes bp4-animate-enter37-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2196,13 +2196,13 @@ to{opacity: 1;
   width: calc(100.00% + 738px);
 }
 
-.index-1200 .borbus-homescreentransparent-32l9S6.bp3-animate-enter244 {
-  animation: bp3-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .borbus-homescreentransparent-32l9S6.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter244-frames {
+@keyframes bp3-animate-enter7-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2235,13 +2235,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.index-1200 .home-32l9S6.bp3-animate-enter245 {
-  animation: bp3-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .home-32l9S6.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter245-frames {
+@keyframes bp3-animate-enter8-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2264,13 +2264,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.index-1200 .shop-32l9S6.bp3-animate-enter246 {
-  animation: bp3-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .shop-32l9S6.bp3-animate-enter9 {
+  animation: bp3-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter246-frames {
+@keyframes bp3-animate-enter9-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2302,13 +2302,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.index-1200 .gruppe-188-32l9S6.bp3-animate-enter247 {
-  animation: bp3-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .gruppe-188-32l9S6.bp3-animate-enter10 {
+  animation: bp3-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter247-frames {
+@keyframes bp3-animate-enter10-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2343,13 +2343,13 @@ to{opacity: 1;
   width: 623px;
 }
 
-.index-1200 .detaillierte-handarb-32l9S6.bp3-animate-enter248 {
-  animation: bp3-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .detaillierte-handarb-32l9S6.bp3-animate-enter11 {
+  animation: bp3-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter248-frames {
+@keyframes bp3-animate-enter11-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2367,13 +2367,13 @@ to{opacity: 1;
   width: 38px;
 }
 
-.index-1200 .gruppe-198-32l9S6.bp3-animate-enter249 {
-  animation: bp3-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .gruppe-198-32l9S6.bp3-animate-enter12 {
+  animation: bp3-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter249-frames {
+@keyframes bp3-animate-enter12-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2429,14 +2429,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-1200 .gruppe-212-32l9S6.bp3-animate-enter250 {
-  animation: bp3-animate-enter250-frames 0.50s ease 0.00s 1 normal forwards;
+.index-1200 .gruppe-212-32l9S6.bp3-animate-enter13 {
+  animation: bp3-animate-enter13-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp3-animate-enter250-frames {
+@keyframes bp3-animate-enter13-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -2538,13 +2538,13 @@ transform: translate(0,0);
   width: 126px;
 }
 
-.index-1200 .gruppe-207-32l9S6.bp3-animate-enter251 {
-  animation: bp3-animate-enter251-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .gruppe-207-32l9S6.bp3-animate-enter14 {
+  animation: bp3-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter251-frames {
+@keyframes bp3-animate-enter14-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2590,14 +2590,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-1200 .gruppe-213-32l9S6.bp3-animate-enter252 {
-  animation: bp3-animate-enter252-frames 0.50s ease 0.00s 1 normal forwards;
+.index-1200 .gruppe-213-32l9S6.bp3-animate-enter15 {
+  animation: bp3-animate-enter15-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp3-animate-enter252-frames {
+@keyframes bp3-animate-enter15-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -2691,13 +2691,13 @@ transform: translate(0,0);
   width: 208px;
 }
 
-.index-1200 .kollektion-i-32l9S6.bp3-animate-enter253 {
-  animation: bp3-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .kollektion-i-32l9S6.bp3-animate-enter16 {
+  animation: bp3-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter253-frames {
+@keyframes bp3-animate-enter16-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2715,13 +2715,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.index-1200 .rechteck-152-32l9S6.bp3-animate-enter254 {
-  animation: bp3-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .rechteck-152-32l9S6.bp3-animate-enter17 {
+  animation: bp3-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter254-frames {
+@keyframes bp3-animate-enter17-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2750,14 +2750,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-1200 .gruppe-214-32l9S6.bp3-animate-enter255 {
-  animation: bp3-animate-enter255-frames 0.50s ease 0.00s 1 normal forwards;
+.index-1200 .gruppe-214-32l9S6.bp3-animate-enter18 {
+  animation: bp3-animate-enter18-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp3-animate-enter255-frames {
+@keyframes bp3-animate-enter18-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -2943,13 +2943,13 @@ transform: translate(0,0);
   width: 1126px;
 }
 
-.index-1200 .mehrerekleidchen-min-32l9S6.bp3-animate-enter256 {
-  animation: bp3-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .mehrerekleidchen-min-32l9S6.bp3-animate-enter19 {
+  animation: bp3-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter256-frames {
+@keyframes bp3-animate-enter19-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2982,13 +2982,13 @@ to{opacity: 1;
   width: 517px;
 }
 
-.index-1200 .handmade-0noddo.bp3-animate-enter257 {
-  animation: bp3-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .handmade-0noddo.bp3-animate-enter20 {
+  animation: bp3-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter257-frames {
+@keyframes bp3-animate-enter20-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3009,13 +3009,13 @@ to{opacity: 1;
   width: 304px;
 }
 
-.index-1200 .eine-von-kinderlache-0noddo.bp3-animate-enter258 {
-  animation: bp3-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .eine-von-kinderlache-0noddo.bp3-animate-enter21 {
+  animation: bp3-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter258-frames {
+@keyframes bp3-animate-enter21-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3038,13 +3038,13 @@ to{opacity: 1;
   width: 406px;
 }
 
-.index-1200 .exclusive-0noddo.bp3-animate-enter259 {
-  animation: bp3-animate-enter259-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .exclusive-0noddo.bp3-animate-enter22 {
+  animation: bp3-animate-enter22-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter259-frames {
+@keyframes bp3-animate-enter22-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3065,13 +3065,13 @@ to{opacity: 1;
   width: 244px;
 }
 
-.index-1200 .gruppe-206-0noddo.bp3-animate-enter260 {
-  animation: bp3-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .gruppe-206-0noddo.bp3-animate-enter23 {
+  animation: bp3-animate-enter23-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter260-frames {
+@keyframes bp3-animate-enter23-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3117,13 +3117,13 @@ to{opacity: 1;
   width: calc(100.00% - 13px);
 }
 
-.index-1200 .linie-43-0noddo.bp3-animate-enter261 {
-  animation: bp3-animate-enter261-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .linie-43-0noddo.bp3-animate-enter24 {
+  animation: bp3-animate-enter24-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter261-frames {
+@keyframes bp3-animate-enter24-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3139,7 +3139,7 @@ to{opacity: 1;
   width: calc(100.00% - 211px);
 }
 
-.index-1200 .nahaufnahme1-min-AKFcOB {
+.index-1200 .nahaufnahme1-min-min-AKFcOB {
   background-color: transparent;
   display: block;
   height: 490px;
@@ -3151,20 +3151,20 @@ to{opacity: 1;
   width: 48.84%;
 }
 
-.index-1200 .nahaufnahme1-min-AKFcOB.bp3-animate-enter262 {
-  animation: bp3-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .nahaufnahme1-min-min-AKFcOB.bp3-animate-enter25 {
+  animation: bp3-animate-enter25-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter262-frames {
+@keyframes bp3-animate-enter25-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-1200 .nahaufnahme2-min-AKFcOB {
+.index-1200 .nahaufnahme2-min-min-AKFcOB {
   background-color: transparent;
   display: block;
   height: 490px;
@@ -3176,20 +3176,20 @@ to{opacity: 1;
   width: 48.74%;
 }
 
-.index-1200 .nahaufnahme2-min-AKFcOB.bp3-animate-enter263 {
-  animation: bp3-animate-enter263-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .nahaufnahme2-min-min-AKFcOB.bp3-animate-enter26 {
+  animation: bp3-animate-enter26-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter263-frames {
+@keyframes bp3-animate-enter26-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-1200 .nahaufnahme5-min-AKFcOB {
+.index-1200 .nahaufnahme5-min-min-AKFcOB {
   background-color: transparent;
   bottom: 1px;
   display: block;
@@ -3201,20 +3201,20 @@ to{opacity: 1;
   width: 48.94%;
 }
 
-.index-1200 .nahaufnahme5-min-AKFcOB.bp3-animate-enter264 {
-  animation: bp3-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .nahaufnahme5-min-min-AKFcOB.bp3-animate-enter27 {
+  animation: bp3-animate-enter27-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter264-frames {
+@keyframes bp3-animate-enter27-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-1200 .nahaufnahme4-min-AKFcOB {
+.index-1200 .nahaufnahme4-min-min-AKFcOB {
   background-color: transparent;
   bottom: 0px;
   display: block;
@@ -3226,13 +3226,13 @@ to{opacity: 1;
   width: 48.94%;
 }
 
-.index-1200 .nahaufnahme4-min-AKFcOB.bp3-animate-enter265 {
-  animation: bp3-animate-enter265-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .nahaufnahme4-min-min-AKFcOB.bp3-animate-enter28 {
+  animation: bp3-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter265-frames {
+@keyframes bp3-animate-enter28-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3250,13 +3250,13 @@ to{opacity: 1;
   width: 99px;
 }
 
-.index-1200 .gruppe-189-32l9S6.bp3-animate-enter266 {
-  animation: bp3-animate-enter266-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .gruppe-189-32l9S6.bp3-animate-enter29 {
+  animation: bp3-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter266-frames {
+@keyframes bp3-animate-enter29-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3312,14 +3312,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-1200 .gruppe-215-32l9S6.bp3-animate-enter267 {
-  animation: bp3-animate-enter267-frames 0.50s ease 0.00s 1 normal forwards;
+.index-1200 .gruppe-215-32l9S6.bp3-animate-enter30 {
+  animation: bp3-animate-enter30-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp3-animate-enter267-frames {
+@keyframes bp3-animate-enter30-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -3421,13 +3421,13 @@ transform: translate(0,0);
   width: 378px;
 }
 
-.index-1200 .gruppe-210-59XRLp.bp3-animate-enter268 {
-  animation: bp3-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .gruppe-210-59XRLp.bp3-animate-enter31 {
+  animation: bp3-animate-enter31-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter268-frames {
+@keyframes bp3-animate-enter31-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3474,14 +3474,14 @@ to{opacity: 1;
   width: 288px;
 }
 
-.index-1200 .gruppe-216-59XRLp.bp3-animate-enter269 {
-  animation: bp3-animate-enter269-frames 0.50s ease 0.00s 1 normal forwards;
+.index-1200 .gruppe-216-59XRLp.bp3-animate-enter32 {
+  animation: bp3-animate-enter32-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes bp3-animate-enter269-frames {
+@keyframes bp3-animate-enter32-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -3572,13 +3572,13 @@ transform: translate(0,0);
   width: 480px;
 }
 
-.index-1200 .rechteck-160-32l9S6.bp3-animate-enter270 {
-  animation: bp3-animate-enter270-frames 0.20s ease 0.10s 1 normal forwards;
+.index-1200 .rechteck-160-32l9S6.bp3-animate-enter33 {
+  animation: bp3-animate-enter33-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter270-frames {
+@keyframes bp3-animate-enter33-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3778,14 +3778,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-1200 .gruppe-338-32l9S6.bp3-animate-enter271 {
-  animation: bp3-animate-enter271-frames 0.50s ease 0.00s 1 normal forwards;
+.index-1200 .gruppe-338-32l9S6.bp3-animate-enter34 {
+  animation: bp3-animate-enter34-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp3-animate-enter271-frames {
+@keyframes bp3-animate-enter34-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -3884,13 +3884,13 @@ transform: translate(0,0);
   width: 100%;
 }
 
-.index-1200 .gruppe-163-Nhc1Z2.bp3-animate-enter272 {
-  animation: bp3-animate-enter272-frames 0.20s linear 0.10s 1 normal forwards;
+.index-1200 .gruppe-163-Nhc1Z2.bp3-animate-enter35 {
+  animation: bp3-animate-enter35-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter272-frames {
+@keyframes bp3-animate-enter35-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4368,13 +4368,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.index-1200 .ssl-Nhc1Z2.bp3-animate-enter273 {
-  animation: bp3-animate-enter273-frames 0.20s linear 0.10s 1 normal forwards;
+.index-1200 .ssl-Nhc1Z2.bp3-animate-enter36 {
+  animation: bp3-animate-enter36-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter273-frames {
+@keyframes bp3-animate-enter36-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4406,13 +4406,13 @@ to{opacity: 1;
   width: calc(100.00% + 1706px);
 }
 
-.index-375 .borbus-homescreentransparent-45cYux.bp1-animate-enter238 {
-  animation: bp1-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .borbus-homescreentransparent-45cYux.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter238-frames {
+@keyframes bp1-animate-enter6-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4448,13 +4448,13 @@ to{opacity: 1;
   width: 316px;
 }
 
-.index-375 .detaillierte-handarb-4kT4LG.bp1-animate-enter239 {
-  animation: bp1-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .detaillierte-handarb-4kT4LG.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter239-frames {
+@keyframes bp1-animate-enter7-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4472,13 +4472,13 @@ to{opacity: 1;
   width: 38px;
 }
 
-.index-375 .gruppe-198-4kT4LG.bp1-animate-enter240 {
-  animation: bp1-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .gruppe-198-4kT4LG.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter240-frames {
+@keyframes bp1-animate-enter8-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4536,13 +4536,13 @@ to{opacity: 1;
   width: 126px;
 }
 
-.index-375 .gruppe-207-4kT4LG.bp1-animate-enter241 {
-  animation: bp1-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .gruppe-207-4kT4LG.bp1-animate-enter9 {
+  animation: bp1-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter241-frames {
+@keyframes bp1-animate-enter9-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4591,13 +4591,13 @@ to{opacity: 1;
   width: 208px;
 }
 
-.index-375 .kollektion-i-45cYux.bp1-animate-enter242 {
-  animation: bp1-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .kollektion-i-45cYux.bp1-animate-enter10 {
+  animation: bp1-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter242-frames {
+@keyframes bp1-animate-enter10-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4615,13 +4615,13 @@ to{opacity: 1;
   width: calc(100.00% + 392px);
 }
 
-.index-375 .rechteck-152-45cYux.bp1-animate-enter243 {
-  animation: bp1-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .rechteck-152-45cYux.bp1-animate-enter11 {
+  animation: bp1-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter243-frames {
+@keyframes bp1-animate-enter11-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4638,7 +4638,7 @@ to{opacity: 1;
   width: calc(100.00% + 404px);
 }
 
-.index-375 .nahaufnahme1-min-45cYux {
+.index-375 .nahaufnahme1-min-min-45cYux {
   background-color: transparent;
   display: block;
   height: 606px;
@@ -4650,13 +4650,13 @@ to{opacity: 1;
   width: calc(100.00% + 221px);
 }
 
-.index-375 .nahaufnahme1-min-45cYux.bp1-animate-enter244 {
-  animation: bp1-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .nahaufnahme1-min-min-45cYux.bp1-animate-enter12 {
+  animation: bp1-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter244-frames {
+@keyframes bp1-animate-enter12-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4758,13 +4758,13 @@ to{opacity: 1;
   width: calc(100.00% + 318px);
 }
 
-.index-375 .mehrerekleidchen-min-45cYux.bp1-animate-enter245 {
-  animation: bp1-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .mehrerekleidchen-min-45cYux.bp1-animate-enter13 {
+  animation: bp1-animate-enter13-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter245-frames {
+@keyframes bp1-animate-enter13-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4802,13 +4802,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.index-375 .handmade-LRFDjv.bp1-animate-enter246 {
-  animation: bp1-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .handmade-LRFDjv.bp1-animate-enter14 {
+  animation: bp1-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter246-frames {
+@keyframes bp1-animate-enter14-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4829,13 +4829,13 @@ to{opacity: 1;
   width: calc(100.00% - 38px);
 }
 
-.index-375 .eine-von-kinderlache-LRFDjv.bp1-animate-enter247 {
-  animation: bp1-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .eine-von-kinderlache-LRFDjv.bp1-animate-enter15 {
+  animation: bp1-animate-enter15-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter247-frames {
+@keyframes bp1-animate-enter15-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4863,13 +4863,13 @@ to{opacity: 1;
   width: calc(100.00% - 74px);
 }
 
-.index-375 .exclusive-LRFDjv.bp1-animate-enter248 {
-  animation: bp1-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .exclusive-LRFDjv.bp1-animate-enter16 {
+  animation: bp1-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter248-frames {
+@keyframes bp1-animate-enter16-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4890,13 +4890,13 @@ to{opacity: 1;
   width: 244px;
 }
 
-.index-375 .gruppe-206-LRFDjv.bp1-animate-enter249 {
-  animation: bp1-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .gruppe-206-LRFDjv.bp1-animate-enter17 {
+  animation: bp1-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter249-frames {
+@keyframes bp1-animate-enter17-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4942,20 +4942,20 @@ to{opacity: 1;
   width: calc(100.00% - 80px);
 }
 
-.index-375 .linie-43-LRFDjv.bp1-animate-enter250 {
-  animation: bp1-animate-enter250-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .linie-43-LRFDjv.bp1-animate-enter18 {
+  animation: bp1-animate-enter18-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter250-frames {
+@keyframes bp1-animate-enter18-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-375 .nahaufnahme4-min-45cYux {
+.index-375 .nahaufnahme4-min-min-45cYux {
   background-color: transparent;
   bottom: calc(47.93% - 291px);
   display: block;
@@ -4967,13 +4967,13 @@ to{opacity: 1;
   width: calc(100.00% + 223px);
 }
 
-.index-375 .nahaufnahme4-min-45cYux.bp1-animate-enter251 {
-  animation: bp1-animate-enter251-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .nahaufnahme4-min-min-45cYux.bp1-animate-enter19 {
+  animation: bp1-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter251-frames {
+@keyframes bp1-animate-enter19-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4991,13 +4991,13 @@ to{opacity: 1;
   width: 99px;
 }
 
-.index-375 .gruppe-189-45cYux.bp1-animate-enter252 {
-  animation: bp1-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .gruppe-189-45cYux.bp1-animate-enter20 {
+  animation: bp1-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter252-frames {
+@keyframes bp1-animate-enter20-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5064,13 +5064,13 @@ to{opacity: 1;
   width: 267px;
 }
 
-.index-375 .gruppe-210-dSApVx.bp1-animate-enter253 {
-  animation: bp1-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .gruppe-210-dSApVx.bp1-animate-enter21 {
+  animation: bp1-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter253-frames {
+@keyframes bp1-animate-enter21-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5122,14 +5122,14 @@ to{opacity: 1;
   width: 288px;
 }
 
-.index-375 .gruppe-216-dSApVx.bp1-animate-enter254 {
-  animation: bp1-animate-enter254-frames 0.50s ease 0.00s 1 normal forwards;
+.index-375 .gruppe-216-dSApVx.bp1-animate-enter22 {
+  animation: bp1-animate-enter22-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes bp1-animate-enter254-frames {
+@keyframes bp1-animate-enter22-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -5220,20 +5220,20 @@ transform: translate(0,0);
   width: 323px;
 }
 
-.index-375 .rechteck-160-45cYux.bp1-animate-enter255 {
-  animation: bp1-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .rechteck-160-45cYux.bp1-animate-enter23 {
+  animation: bp1-animate-enter23-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter255-frames {
+@keyframes bp1-animate-enter23-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-375 .nahaufnahme2-min-45cYux {
+.index-375 .nahaufnahme2-min-min-45cYux {
   background-color: transparent;
   bottom: calc(35.54% - 216px);
   display: block;
@@ -5245,20 +5245,20 @@ to{opacity: 1;
   width: calc(100.00% + 223px);
 }
 
-.index-375 .nahaufnahme2-min-45cYux.bp1-animate-enter256 {
-  animation: bp1-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .nahaufnahme2-min-min-45cYux.bp1-animate-enter24 {
+  animation: bp1-animate-enter24-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter256-frames {
+@keyframes bp1-animate-enter24-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-375 .nahaufnahme5-min-45cYux {
+.index-375 .nahaufnahme5-min-min-45cYux {
   background-color: transparent;
   bottom: calc(23.15% - 140px);
   display: block;
@@ -5270,13 +5270,13 @@ to{opacity: 1;
   width: calc(100.00% + 223px);
 }
 
-.index-375 .nahaufnahme5-min-45cYux.bp1-animate-enter257 {
-  animation: bp1-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .nahaufnahme5-min-min-45cYux.bp1-animate-enter25 {
+  animation: bp1-animate-enter25-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter257-frames {
+@keyframes bp1-animate-enter25-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5295,14 +5295,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-375 .gruppe-267-45cYux.bp1-animate-enter258 {
-  animation: bp1-animate-enter258-frames 0.50s ease 0.00s 1 normal forwards;
+.index-375 .gruppe-267-45cYux.bp1-animate-enter26 {
+  animation: bp1-animate-enter26-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp1-animate-enter258-frames {
+@keyframes bp1-animate-enter26-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -5393,14 +5393,14 @@ transform: translate(0,0);
   width: 213px;
 }
 
-.index-375 .gruppe-214-45cYux.bp1-animate-enter259 {
-  animation: bp1-animate-enter259-frames 0.50s ease 0.00s 1 normal forwards;
+.index-375 .gruppe-214-45cYux.bp1-animate-enter27 {
+  animation: bp1-animate-enter27-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp1-animate-enter259-frames {
+@keyframes bp1-animate-enter27-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -5516,13 +5516,13 @@ transform: translate(0,0);
   width: 48px;
 }
 
-.index-375 .home-SEvYMe.bp1-animate-enter260 {
-  animation: bp1-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .home-SEvYMe.bp1-animate-enter28 {
+  animation: bp1-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter260-frames {
+@keyframes bp1-animate-enter28-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5545,13 +5545,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.index-375 .shop-45cYux.bp1-animate-enter261 {
-  animation: bp1-animate-enter261-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .shop-45cYux.bp1-animate-enter29 {
+  animation: bp1-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter261-frames {
+@keyframes bp1-animate-enter29-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5570,13 +5570,13 @@ to{opacity: 1;
   width: 100px;
 }
 
-.index-375 .gruppe-188-45cYux.bp1-animate-enter262 {
-  animation: bp1-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.index-375 .gruppe-188-45cYux.bp1-animate-enter30 {
+  animation: bp1-animate-enter30-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter262-frames {
+@keyframes bp1-animate-enter30-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5608,14 +5608,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-375 .gruppe-213-45cYux.bp1-animate-enter263 {
-  animation: bp1-animate-enter263-frames 0.50s ease 0.00s 1 normal forwards;
+.index-375 .gruppe-213-45cYux.bp1-animate-enter31 {
+  animation: bp1-animate-enter31-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp1-animate-enter263-frames {
+@keyframes bp1-animate-enter31-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -5706,14 +5706,14 @@ transform: translate(0,0);
   width: 213px;
 }
 
-.index-375 .gruppe-215-45cYux.bp1-animate-enter264 {
-  animation: bp1-animate-enter264-frames 0.50s ease 0.00s 1 normal forwards;
+.index-375 .gruppe-215-45cYux.bp1-animate-enter32 {
+  animation: bp1-animate-enter32-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp1-animate-enter264-frames {
+@keyframes bp1-animate-enter32-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -6472,13 +6472,13 @@ transform: translate(0,0);
   width: 90px;
 }
 
-.index-375 .ssl-Z3n0uJ.bp1-animate-enter265 {
-  animation: bp1-animate-enter265-frames 0.20s linear 0.10s 1 normal forwards;
+.index-375 .ssl-Z3n0uJ.bp1-animate-enter33 {
+  animation: bp1-animate-enter33-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter265-frames {
+@keyframes bp1-animate-enter33-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6507,13 +6507,13 @@ to{opacity: 1;
   width: 2081px;
 }
 
-.index-767 .borbus-homescreentransparent-RciI0J.bp2-animate-enter242 {
-  animation: bp2-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .borbus-homescreentransparent-RciI0J.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter242-frames {
+@keyframes bp2-animate-enter7-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6546,13 +6546,13 @@ to{opacity: 1;
   width: auto;
 }
 
-.index-767 .home-RciI0J.bp2-animate-enter243 {
-  animation: bp2-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .home-RciI0J.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter243-frames {
+@keyframes bp2-animate-enter8-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6575,13 +6575,13 @@ to{opacity: 1;
   width: auto;
 }
 
-.index-767 .shop-RciI0J.bp2-animate-enter244 {
-  animation: bp2-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .shop-RciI0J.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter244-frames {
+@keyframes bp2-animate-enter9-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6613,13 +6613,13 @@ to{opacity: 1;
   width: 115px;
 }
 
-.index-767 .gruppe-188-RciI0J.bp2-animate-enter245 {
-  animation: bp2-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .gruppe-188-RciI0J.bp2-animate-enter10 {
+  animation: bp2-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter245-frames {
+@keyframes bp2-animate-enter10-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6663,13 +6663,13 @@ to{opacity: 1;
   width: 623px;
 }
 
-.index-767 .detaillierte-handarb-gUvYxq.bp2-animate-enter246 {
-  animation: bp2-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .detaillierte-handarb-gUvYxq.bp2-animate-enter11 {
+  animation: bp2-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter246-frames {
+@keyframes bp2-animate-enter11-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6687,13 +6687,13 @@ to{opacity: 1;
   width: 38px;
 }
 
-.index-767 .gruppe-198-gUvYxq.bp2-animate-enter247 {
-  animation: bp2-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .gruppe-198-gUvYxq.bp2-animate-enter12 {
+  animation: bp2-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter247-frames {
+@keyframes bp2-animate-enter12-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6751,13 +6751,13 @@ to{opacity: 1;
   width: 126px;
 }
 
-.index-767 .gruppe-207-gUvYxq.bp2-animate-enter248 {
-  animation: bp2-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .gruppe-207-gUvYxq.bp2-animate-enter13 {
+  animation: bp2-animate-enter13-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter248-frames {
+@keyframes bp2-animate-enter13-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6806,13 +6806,13 @@ to{opacity: 1;
   width: auto;
 }
 
-.index-767 .kollektion-i-RciI0J.bp2-animate-enter249 {
-  animation: bp2-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .kollektion-i-RciI0J.bp2-animate-enter14 {
+  animation: bp2-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter249-frames {
+@keyframes bp2-animate-enter14-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6830,13 +6830,13 @@ to{opacity: 1;
   width: 767px;
 }
 
-.index-767 .rechteck-152-RciI0J.bp2-animate-enter250 {
-  animation: bp2-animate-enter250-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .rechteck-152-RciI0J.bp2-animate-enter15 {
+  animation: bp2-animate-enter15-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter250-frames {
+@keyframes bp2-animate-enter15-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6853,7 +6853,7 @@ to{opacity: 1;
   width: 779px;
 }
 
-.index-767 .nahaufnahme1-min-RciI0J {
+.index-767 .nahaufnahme1-min-min-RciI0J {
   background-color: transparent;
   display: block;
   height: 606px;
@@ -6865,13 +6865,13 @@ to{opacity: 1;
   width: 596px;
 }
 
-.index-767 .nahaufnahme1-min-RciI0J.bp2-animate-enter251 {
-  animation: bp2-animate-enter251-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .nahaufnahme1-min-min-RciI0J.bp2-animate-enter16 {
+  animation: bp2-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter251-frames {
+@keyframes bp2-animate-enter16-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6986,13 +6986,13 @@ to{opacity: 1;
   width: 693px;
 }
 
-.index-767 .mehrerekleidchen-min-RciI0J.bp2-animate-enter252 {
-  animation: bp2-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .mehrerekleidchen-min-RciI0J.bp2-animate-enter17 {
+  animation: bp2-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter252-frames {
+@keyframes bp2-animate-enter17-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7025,13 +7025,13 @@ to{opacity: 1;
   width: calc(100.00% - 16px);
 }
 
-.index-767 .handmade-K4d5uX.bp2-animate-enter253 {
-  animation: bp2-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .handmade-K4d5uX.bp2-animate-enter18 {
+  animation: bp2-animate-enter18-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter253-frames {
+@keyframes bp2-animate-enter18-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7052,13 +7052,13 @@ to{opacity: 1;
   width: 304px;
 }
 
-.index-767 .eine-von-kinderlache-K4d5uX.bp2-animate-enter254 {
-  animation: bp2-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .eine-von-kinderlache-K4d5uX.bp2-animate-enter19 {
+  animation: bp2-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter254-frames {
+@keyframes bp2-animate-enter19-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7081,13 +7081,13 @@ to{opacity: 1;
   width: 406px;
 }
 
-.index-767 .exclusive-K4d5uX.bp2-animate-enter255 {
-  animation: bp2-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .exclusive-K4d5uX.bp2-animate-enter20 {
+  animation: bp2-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter255-frames {
+@keyframes bp2-animate-enter20-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7108,13 +7108,13 @@ to{opacity: 1;
   width: 244px;
 }
 
-.index-767 .gruppe-206-K4d5uX.bp2-animate-enter256 {
-  animation: bp2-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .gruppe-206-K4d5uX.bp2-animate-enter21 {
+  animation: bp2-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter256-frames {
+@keyframes bp2-animate-enter21-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7160,20 +7160,20 @@ to{opacity: 1;
   width: calc(100.00% - 17px);
 }
 
-.index-767 .linie-43-K4d5uX.bp2-animate-enter257 {
-  animation: bp2-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .linie-43-K4d5uX.bp2-animate-enter22 {
+  animation: bp2-animate-enter22-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter257-frames {
+@keyframes bp2-animate-enter22-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-767 .nahaufnahme4-min-RciI0J {
+.index-767 .nahaufnahme4-min-min-RciI0J {
   background-color: transparent;
   display: block;
   height: 608px;
@@ -7185,13 +7185,13 @@ to{opacity: 1;
   width: 598px;
 }
 
-.index-767 .nahaufnahme4-min-RciI0J.bp2-animate-enter258 {
-  animation: bp2-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .nahaufnahme4-min-min-RciI0J.bp2-animate-enter23 {
+  animation: bp2-animate-enter23-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter258-frames {
+@keyframes bp2-animate-enter23-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7209,13 +7209,13 @@ to{opacity: 1;
   width: 99px;
 }
 
-.index-767 .gruppe-189-RciI0J.bp2-animate-enter259 {
-  animation: bp2-animate-enter259-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .gruppe-189-RciI0J.bp2-animate-enter24 {
+  animation: bp2-animate-enter24-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter259-frames {
+@keyframes bp2-animate-enter24-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7282,13 +7282,13 @@ to{opacity: 1;
   width: 378px;
 }
 
-.index-767 .gruppe-210-4PdF4F.bp2-animate-enter260 {
-  animation: bp2-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .gruppe-210-4PdF4F.bp2-animate-enter25 {
+  animation: bp2-animate-enter25-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter260-frames {
+@keyframes bp2-animate-enter25-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7335,14 +7335,14 @@ to{opacity: 1;
   width: 288px;
 }
 
-.index-767 .gruppe-216-4PdF4F.bp2-animate-enter261 {
-  animation: bp2-animate-enter261-frames 0.50s ease 0.00s 1 normal forwards;
+.index-767 .gruppe-216-4PdF4F.bp2-animate-enter26 {
+  animation: bp2-animate-enter26-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes bp2-animate-enter261-frames {
+@keyframes bp2-animate-enter26-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -7433,13 +7433,13 @@ transform: translate(0,0);
   width: 440px;
 }
 
-.index-767 .rechteck-160-RciI0J.bp2-animate-enter262 {
-  animation: bp2-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .rechteck-160-RciI0J.bp2-animate-enter27 {
+  animation: bp2-animate-enter27-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter262-frames {
+@keyframes bp2-animate-enter27-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7627,7 +7627,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.index-767 .nahaufnahme2-min-RciI0J {
+.index-767 .nahaufnahme2-min-min-RciI0J {
   background-color: transparent;
   display: block;
   height: 608px;
@@ -7639,20 +7639,20 @@ to{opacity: 1;
   width: 598px;
 }
 
-.index-767 .nahaufnahme2-min-RciI0J.bp2-animate-enter263 {
-  animation: bp2-animate-enter263-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .nahaufnahme2-min-min-RciI0J.bp2-animate-enter28 {
+  animation: bp2-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter263-frames {
+@keyframes bp2-animate-enter28-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.index-767 .nahaufnahme5-min-RciI0J {
+.index-767 .nahaufnahme5-min-min-RciI0J {
   background-color: transparent;
   display: block;
   height: 607px;
@@ -7664,13 +7664,13 @@ to{opacity: 1;
   width: 598px;
 }
 
-.index-767 .nahaufnahme5-min-RciI0J.bp2-animate-enter264 {
-  animation: bp2-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
+.index-767 .nahaufnahme5-min-min-RciI0J.bp2-animate-enter29 {
+  animation: bp2-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter264-frames {
+@keyframes bp2-animate-enter29-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7689,14 +7689,14 @@ to{opacity: 1;
   width: 213px;
 }
 
-.index-767 .gruppe-267-RciI0J.bp2-animate-enter265 {
-  animation: bp2-animate-enter265-frames 0.50s ease 0.00s 1 normal forwards;
+.index-767 .gruppe-267-RciI0J.bp2-animate-enter30 {
+  animation: bp2-animate-enter30-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp2-animate-enter265-frames {
+@keyframes bp2-animate-enter30-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -7787,14 +7787,14 @@ transform: translate(0,0);
   width: 213px;
 }
 
-.index-767 .gruppe-213-RciI0J.bp2-animate-enter266 {
-  animation: bp2-animate-enter266-frames 0.50s ease 0.00s 1 normal forwards;
+.index-767 .gruppe-213-RciI0J.bp2-animate-enter31 {
+  animation: bp2-animate-enter31-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp2-animate-enter266-frames {
+@keyframes bp2-animate-enter31-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -7885,14 +7885,14 @@ transform: translate(0,0);
   width: 213px;
 }
 
-.index-767 .gruppe-214-RciI0J.bp2-animate-enter267 {
-  animation: bp2-animate-enter267-frames 0.50s ease 0.00s 1 normal forwards;
+.index-767 .gruppe-214-RciI0J.bp2-animate-enter32 {
+  animation: bp2-animate-enter32-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
-@keyframes bp2-animate-enter267-frames {
+@keyframes bp2-animate-enter32-frames {
   from{opacity: 0;
 transform: translate(25px, 0);
 }
@@ -7983,14 +7983,14 @@ transform: translate(0,0);
   width: 213px;
 }
 
-.index-767 .gruppe-215-RciI0J.bp2-animate-enter268 {
-  animation: bp2-animate-enter268-frames 0.50s ease 0.00s 1 normal forwards;
+.index-767 .gruppe-215-RciI0J.bp2-animate-enter33 {
+  animation: bp2-animate-enter33-frames 0.50s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
-@keyframes bp2-animate-enter268-frames {
+@keyframes bp2-animate-enter33-frames {
   from{opacity: 0;
 transform: translate(-25px, 0);
 }
@@ -8080,13 +8080,13 @@ transform: translate(0,0);
   width: 767px;
 }
 
-.index-767 .gruppe-163-RciI0J.bp2-animate-enter269 {
-  animation: bp2-animate-enter269-frames 0.20s linear 0.10s 1 normal forwards;
+.index-767 .gruppe-163-RciI0J.bp2-animate-enter34 {
+  animation: bp2-animate-enter34-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter269-frames {
+@keyframes bp2-animate-enter34-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8574,13 +8574,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.index-767 .ssl-RciI0J.bp2-animate-enter270 {
-  animation: bp2-animate-enter270-frames 0.20s linear 0.10s 1 normal forwards;
+.index-767 .ssl-RciI0J.bp2-animate-enter35 {
+  animation: bp2-animate-enter35-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter270-frames {
+@keyframes bp2-animate-enter35-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
