@@ -38,11 +38,11 @@
   <body style="margin: 0; background: #ffffff">
     <input type="hidden" id="anPageName" name="page" value="shop" />
     <div class="shop screen">
-      <div class="x24-artikel-Gd4xtk hiraginomarugothicpron-w4-normal-black-16px">24 Artikel</div>
+      <div class="x24-artikel-Gd4xtk hiraginomarugothicpron-w4-normal-black-16px">{{ items.length }} Artikel</div>
       <img class="linie-29-Gd4xtk" src="../img/linie-29-1@1x.png" />
       <div class="gruppe-373-Gd4xtk">
-        <div class="kleidchen-1-yTOLoa hiraginominchopron-w3-normal-black-20px bp4-animate-enter156">Kleidchen #1</div>
-        <div class="x2750-yTOLoa hiraginominchopron-w3-normal-black-19px bp4-animate-enter157">27,50 €</div>
+        <div class="kleidchen-1-yTOLoa hiraginominchopron-w3-normal-black-20px bp4-animate-enter156">{{ items[0].name }}</div>
+        <div class="x2750-yTOLoa hiraginominchopron-w3-normal-black-19px bp4-animate-enter157">{{ items[0].price }} €</div>
         <a href="https://borbus-shop.com/produktansicht">
           <div class="gruppe-208-yTOLoa smart-layers-pointers">
             <img class="polygon-17-tBGpTb bp4-animate-enter158" src="../img/polygon-17@1x.png" />
@@ -50,18 +50,18 @@
           </div></a
         ><img
           class="enten-kleid-front-min-yTOLoa smart-layers-pointers bp4-animate-enter160"
-          src="../img/entenkleidfront-min-1x-png@1x.png"
+          src="{{ items[0].images.front }}"
         />
       </div>
       <div class="gruppe-374-Gd4xtk">
-        <div class="kleidchen-2-KdpxWG hiraginominchopron-w3-normal-black-20px bp4-animate-enter161">Kleidchen #2</div>
-        <div class="x4370-KdpxWG hiraginominchopron-w3-normal-black-19px bp4-animate-enter162">43,70 €</div>
-        <a href="https://borbus-shop.com/produktansicht2">
+        <div class="kleidchen-2-KdpxWG hiraginominchopron-w3-normal-black-20px bp4-animate-enter161">{{ nfts[1].name }}</div>
+        <div class="x4370-KdpxWG hiraginominchopron-w3-normal-black-19px bp4-animate-enter162">{{ nfts[1].price }} €</div>
+        <a href="{{ nfts[1].links.overview }}">
           <div class="gruppe-222-KdpxWG smart-layers-pointers">
             <img class="polygon-18-gCRSxg bp4-animate-enter163" src="../img/polygon-17@1x.png" />
             <div class="einkaufen-gCRSxg hiraginominchopron-w3-normal-black-16px bp4-animate-enter164">Einkaufen</div>
           </div></a
-        ><img class="x2-min-KdpxWG smart-layers-pointers bp4-animate-enter165" src="../img/2-min-1x-png@1x.png" />
+        ><img class="x2-min-KdpxWG smart-layers-pointers bp4-animate-enter165" src="{{ nfts[1].images.front }}" />
       </div>
       <div class="gruppe-375-Gd4xtk">
         <div class="kleidchen-3-x9NjCF hiraginominchopron-w3-normal-black-20px bp4-animate-enter166">Kleidchen #3</div>
@@ -492,12 +492,12 @@
       </div>
     </div>
     <div class="shop-1200 screen">
-      <div class="x24-artikel-1kf0tj hiraginomarugothicpron-w4-normal-black-16px">24 Artikel</div>
+      <div class="x24-artikel-1kf0tj hiraginomarugothicpron-w4-normal-black-16px">{{ items.length }} Artikel</div>
       <img class="linie-29-1kf0tj" src="../img/linie-29@1x.png" />
       <div class="x3580-1kf0tj hiraginominchopron-w3-normal-black-19px bp3-animate-enter156">35,80 €</div>
       <div class="gruppe-397-1kf0tj">
-        <div class="kleidchen-1-b5CAin hiraginominchopron-w3-normal-black-20px bp3-animate-enter157">Kleidchen #1</div>
-        <div class="x2750-b5CAin hiraginominchopron-w3-normal-black-19px bp3-animate-enter158">27,50 €</div>
+        <div class="kleidchen-1-b5CAin hiraginominchopron-w3-normal-black-20px bp3-animate-enter157">{{ items[0].name }}</div>
+        <div class="x2750-b5CAin hiraginominchopron-w3-normal-black-19px bp3-animate-enter158">{{ items[0].price }} €</div>
         <a href="https://borbus-shop.com/produktansicht">
           <div class="gruppe-208-b5CAin smart-layers-pointers">
             <img class="polygon-17-sfWtAU bp3-animate-enter159" src="../img/polygon-17@1x.png" />
@@ -945,7 +945,7 @@
       </div>
     </div>
     <div class="shop-767 screen">
-      <div class="x24-artikel-PWMKzL hiraginomarugothicpron-w4-normal-black-16px">24 Artikel</div>
+      <div class="x24-artikel-PWMKzL hiraginomarugothicpron-w4-normal-black-16px">{{ items.length }} Artikel</div>
       <img class="linie-29-PWMKzL" src="../img/linie-29@1x.png" />
       <a href="https://borbus-shop.com/produktansicht14">
         <div class="gruppe-279-PWMKzL smart-layers-pointers">
@@ -954,8 +954,8 @@
         </div></a
       >
       <div class="gruppe-421-PWMKzL">
-        <div class="kleidchen-1-lcVEA1 hiraginominchopron-w3-normal-black-20px bp2-animate-enter155">Kleidchen #1</div>
-        <div class="x2750-lcVEA1 hiraginominchopron-w3-normal-black-19px bp2-animate-enter156">27,50 €</div>
+        <div class="kleidchen-1-lcVEA1 hiraginominchopron-w3-normal-black-20px bp2-animate-enter155">{{ items[0].name }}</div>
+        <div class="x2750-lcVEA1 hiraginominchopron-w3-normal-black-19px bp2-animate-enter156">{{ items[0].price }} €</div>
         <a href="https://borbus-shop.com/produktansicht">
           <div class="gruppe-208-lcVEA1 smart-layers-pointers">
             <img class="polygon-17-PrS33I bp2-animate-enter157" src="../img/polygon-17@1x.png" />
@@ -1400,10 +1400,10 @@
       <img class="ssl-PWMKzL bp2-animate-enter277" src="../img/ssl-10@1x.png" />
     </div>
     <div class="shop-375 screen">
-      <div class="x24-artikel-QJyBHd hiraginomarugothicpron-w4-normal-black-10px">24 Artikel</div>
+      <div class="x24-artikel-QJyBHd hiraginomarugothicpron-w4-normal-black-10px">{{ items.length }} Artikel</div>
       <div class="gruppe-445-QJyBHd">
-        <div class="kleidchen-1-Lg1hPZ hiraginominchopron-w3-normal-black-20px bp1-animate-enter148">Kleidchen #1</div>
-        <div class="x2750-Lg1hPZ hiraginominchopron-w3-normal-black-19px bp1-animate-enter149">27,50 €</div>
+        <div class="kleidchen-1-Lg1hPZ hiraginominchopron-w3-normal-black-20px bp1-animate-enter148">{{ items[0].name }}</div>
+        <div class="x2750-Lg1hPZ hiraginominchopron-w3-normal-black-19px bp1-animate-enter149">{{ items[0].price }} €</div>
         <a href="https://borbus-shop.com/produktansicht">
           <div class="gruppe-208-Lg1hPZ smart-layers-pointers">
             <img class="polygon-17-C8dUln bp1-animate-enter150" src="../img/polygon-17@1x.png" />
