@@ -12,214 +12,6 @@
   width: 100%;
 }
 
-.zahlungsoptionen .gruppe-541-0TygvI {
-  background-color: transparent;
-  height: 358px;
-  position: absolute;
-  right: calc(44.89% - 449px);
-  top: calc(34.53% - 124px);
-  width: 1000px;
-}
-
-.zahlungsoptionen .gruppe-166-ioTt0d {
-  background-color: transparent;
-  display: block;
-  height: calc(100.00% - 69px);
-  left: 0px;
-  opacity: 0;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.zahlungsoptionen .gruppe-166-ioTt0d.bp4-animate-enter299 {
-  animation: bp4-animate-enter299-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter299-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen .bezahlen-sie-sicher-L62fJm {
-  background-color: transparent;
-  height: 37px;
-  left: calc(43.09% - 144px);
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 5px;
-  white-space: nowrap;
-  width: 334px;
-}
-
-.zahlungsoptionen .sie-knnen-unter-folg-L62fJm {
-  background-color: transparent;
-  bottom: 3px;
-  height: 73px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 35px;
-  position: absolute;
-  text-align: left;
-  width: calc(100.00% + 2px);
-}
-
-.zahlungsoptionen .linie-28-L62fJm {
-  background-color: transparent;
-  height: 1px;
-  left: calc(44.82% - 34px);
-  object-fit: cover;
-  position: absolute;
-  top: 31.64%;
-  width: 76px;
-}
-
-.zahlungsoptionen .paypal-ioTt0d {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: 6px;
-  cursor: pointer;
-  display: block;
-  height: 27px;
-  left: calc(26.33% - 16px);
-  letter-spacing: 0.00px;
-  line-height: 14px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  transition: all 0.4s ease;
-  width: 62px;
-}
-
-.zahlungsoptionen .paypal-ioTt0d.bp4-animate-enter300 {
-  animation: bp4-animate-enter300-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter300-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen .paypal-ioTt0d:hover {
-  transform: translate(0, -5px);
-}
-
-.zahlungsoptionen .iconfinder__-paypal-39_1156727-ioTt0d {
-  background-color: transparent;
-  bottom: 20px;
-  display: block;
-  height: 16px;
-  left: calc(17.66% - 11px);
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  width: 64px;
-}
-
-.zahlungsoptionen .iconfinder__-paypal-39_1156727-ioTt0d.bp4-animate-enter301 {
-  animation: bp4-animate-enter301-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter301-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen .bitcoin-ioTt0d {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: -2px;
-  cursor: pointer;
-  display: block;
-  height: 35px;
-  letter-spacing: 0.00px;
-  line-height: 14px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  right: calc(49.33% - 54px);
-  text-align: left;
-  text-decoration: underline;
-  transition: all 0.4s ease;
-  width: 110px;
-}
-
-.zahlungsoptionen .bitcoin-ioTt0d.bp4-animate-enter302 {
-  animation: bp4-animate-enter302-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter302-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen .bitcoin-ioTt0d:hover {
-  transform: translate(0, -5px);
-}
-
-.zahlungsoptionen .x34_5-bitcoin-ioTt0d {
-  background-color: transparent;
-  bottom: 11px;
-  display: block;
-  height: 35px;
-  left: calc(41.80% - 11px);
-  opacity: 0;
-  position: absolute;
-  width: 26px;
-}
-
-.zahlungsoptionen .x34_5-bitcoin-ioTt0d.bp4-animate-enter303 {
-  animation: bp4-animate-enter303-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter303-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen .gruppe-205-x0NMPd {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.zahlungsoptionen .pfad-287-jSwD2a {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
 .zahlungsoptionen .rechteck-118-0TygvI {
   background-color: var(--gallery);
   box-shadow: 0px 2px 4px #00000029;
@@ -426,13 +218,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen .gruppe-163-0TygvI.bp4-animate-enter304 {
-  animation: bp4-animate-enter304-frames 0.20s ease 0.10s 1 normal forwards;
+.zahlungsoptionen .gruppe-163-0TygvI.bp4-animate-enter141 {
+  animation: bp4-animate-enter141-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter304-frames {
+@keyframes bp4-animate-enter141-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -683,13 +475,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen .ssl-0TygvI.bp4-animate-enter305 {
-  animation: bp4-animate-enter305-frames 0.20s ease 0.10s 1 normal forwards;
+.zahlungsoptionen .ssl-0TygvI.bp4-animate-enter142 {
+  animation: bp4-animate-enter142-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter305-frames {
+@keyframes bp4-animate-enter142-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -929,6 +721,188 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.zahlungsoptionen .gruppe-558-0TygvI {
+  background-color: transparent;
+  height: 356px;
+  position: absolute;
+  right: calc(44.89% - 449px);
+  top: calc(34.46% - 123px);
+  width: 1000px;
+}
+
+.zahlungsoptionen .gruppe-541-B2atoo {
+  background-color: transparent;
+  height: 289px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1000px;
+}
+
+.zahlungsoptionen .gruppe-166-b2CJFp {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen .gruppe-166-b2CJFp.bp4-animate-enter143 {
+  animation: bp4-animate-enter143-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter143-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen .bezahlen-sie-sicher-NyF5wD {
+  background-color: transparent;
+  height: 37px;
+  left: calc(43.09% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.zahlungsoptionen .sie-knnen-unter-folg-NyF5wD {
+  background-color: transparent;
+  bottom: 3px;
+  height: 73px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen .linie-28-NyF5wD {
+  background-color: transparent;
+  height: 1px;
+  left: calc(44.82% - 34px);
+  object-fit: cover;
+  position: absolute;
+  top: 31.64%;
+  width: 76px;
+}
+
+.zahlungsoptionen .gruppe-557-B2atoo {
+  background-color: transparent;
+  bottom: 0px;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  width: 105px;
+}
+
+.zahlungsoptionen .hedera-dFPx2M {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(45.45% - 7px);
+  cursor: pointer;
+  display: block;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.zahlungsoptionen .hedera-dFPx2M.bp4-animate-enter144 {
+  animation: bp4-animate-enter144-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter144-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen .hedera-dFPx2M:hover {
+  transform: translate(0, -5px);
+}
+
+.zahlungsoptionen .gruppe-556-dFPx2M {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 49px;
+}
+
+.zahlungsoptionen .ellipse-46-Na5Sxb {
+  background-color: var(--black);
+  border-radius: 24.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen .linie-49-Na5Sxb {
+  background-color: transparent;
+  height: 22px;
+  left: calc(29.79% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 11px);
+  width: 2px;
+}
+
+.zahlungsoptionen .linie-51-Na5Sxb {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  top: calc(42.55% - 1px);
+  width: 20px;
+}
+
+.zahlungsoptionen .linie-52-Na5Sxb {
+  background-color: transparent;
+  bottom: calc(42.55% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  width: 20px;
+}
+
+.zahlungsoptionen .linie-50-Na5Sxb {
+  background-color: transparent;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.79% - 1px);
+  top: calc(50.00% - 11px);
+  width: 2px;
+}
 /* screen - zahlungsoptionen-1200 */
 
 .zahlungsoptionen-1200 {
@@ -945,17 +919,17 @@ to{opacity: 1;
 
 .zahlungsoptionen-1200 .gruppe-542-rZWhS0 {
   background-color: transparent;
-  height: 358px;
+  height: 356px;
   left: calc(37.74% - 253px);
   position: absolute;
-  top: calc(34.53% - 124px);
+  top: calc(34.46% - 123px);
   width: 670px;
 }
 
 .zahlungsoptionen-1200 .gruppe-166-CUa2yE {
   background-color: transparent;
   display: block;
-  height: calc(100.00% - 112px);
+  height: calc(100.00% - 110px);
   left: 0px;
   opacity: 0;
   position: absolute;
@@ -963,13 +937,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-1200 .gruppe-166-CUa2yE.bp3-animate-enter299 {
-  animation: bp3-animate-enter299-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .gruppe-166-CUa2yE.bp3-animate-enter229 {
+  animation: bp3-animate-enter229-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter299-frames {
+@keyframes bp3-animate-enter229-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1012,144 +986,109 @@ to{opacity: 1;
   width: 76px;
 }
 
-.zahlungsoptionen-1200 .paypal-CUa2yE {
+.zahlungsoptionen-1200 .gruppe-557-CUa2yE {
+  background-color: transparent;
+  bottom: 0px;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  width: 105px;
+}
+
+.zahlungsoptionen-1200 .hedera-Uf2r8Z {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: 6px;
+  bottom: calc(45.45% - 7px);
   cursor: pointer;
-  display: block;
-  height: 27px;
-  left: calc(33.24% - 21px);
-  letter-spacing: 0.00px;
-  line-height: 14px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  transition: all 0.4s ease;
-  width: 62px;
-}
-
-.zahlungsoptionen-1200 .paypal-CUa2yE.bp3-animate-enter300 {
-  animation: bp3-animate-enter300-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter300-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-1200 .paypal-CUa2yE:hover {
-  transform: translate(0, -5px);
-}
-
-.zahlungsoptionen-1200 .iconfinder__-paypal-39_1156727-CUa2yE {
-  background-color: transparent;
-  bottom: 20px;
   display: block;
   height: 16px;
-  left: calc(21.37% - 14px);
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  width: 64px;
-}
-
-.zahlungsoptionen-1200 .iconfinder__-paypal-39_1156727-CUa2yE.bp3-animate-enter301 {
-  animation: bp3-animate-enter301-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter301-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-1200 .bitcoin-CUa2yE {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: -2px;
-  cursor: pointer;
-  display: block;
-  height: 35px;
   letter-spacing: 0.00px;
   line-height: 14px;
   opacity: 0;
   pointer-events: auto;
   position: absolute;
-  right: calc(28.69% - 32px);
+  right: -2px;
   text-align: left;
   text-decoration: underline;
   transition: all 0.4s ease;
-  width: 110px;
+  white-space: nowrap;
+  width: 50px;
 }
 
-.zahlungsoptionen-1200 .bitcoin-CUa2yE.bp3-animate-enter302 {
-  animation: bp3-animate-enter302-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .hedera-Uf2r8Z.bp3-animate-enter230 {
+  animation: bp3-animate-enter230-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter302-frames {
+@keyframes bp3-animate-enter230-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.zahlungsoptionen-1200 .bitcoin-CUa2yE:hover {
+.zahlungsoptionen-1200 .hedera-Uf2r8Z:hover {
   transform: translate(0, -5px);
 }
 
-.zahlungsoptionen-1200 .x34_5-bitcoin-CUa2yE {
-  background-color: transparent;
-  bottom: 11px;
-  display: block;
-  height: 35px;
-  opacity: 0;
-  position: absolute;
-  right: calc(43.08% - 11px);
-  width: 26px;
-}
-
-.zahlungsoptionen-1200 .x34_5-bitcoin-CUa2yE.bp3-animate-enter303 {
-  animation: bp3-animate-enter303-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter303-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-1200 .gruppe-205-uSKppt {
+.zahlungsoptionen-1200 .gruppe-556-Uf2r8Z {
   background-color: transparent;
   height: 100%;
   left: 0px;
-  position: relative;
+  position: absolute;
+  top: 0px;
+  width: 49px;
+}
+
+.zahlungsoptionen-1200 .ellipse-46-OJXrhc {
+  background-color: var(--black);
+  border-radius: 24.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
   top: 0px;
   width: 100%;
 }
 
-.zahlungsoptionen-1200 .pfad-287-LyKO29 {
+.zahlungsoptionen-1200 .linie-49-OJXrhc {
   background-color: transparent;
-  height: 100%;
-  left: 0px;
+  height: 22px;
+  left: calc(29.79% - 1px);
   object-fit: cover;
   position: absolute;
-  top: 0px;
-  width: 100%;
+  top: calc(50.00% - 11px);
+  width: 2px;
+}
+
+.zahlungsoptionen-1200 .linie-51-OJXrhc {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  top: calc(42.55% - 1px);
+  width: 20px;
+}
+
+.zahlungsoptionen-1200 .linie-52-OJXrhc {
+  background-color: transparent;
+  bottom: calc(42.55% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  width: 20px;
+}
+
+.zahlungsoptionen-1200 .linie-50-OJXrhc {
+  background-color: transparent;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.79% - 1px);
+  top: calc(50.00% - 11px);
+  width: 2px;
 }
 
 .zahlungsoptionen-1200 .rechteck-118-rZWhS0 {
@@ -1367,13 +1306,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-1200 .gruppe-163-uqr4d0.bp3-animate-enter304 {
-  animation: bp3-animate-enter304-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .gruppe-163-uqr4d0.bp3-animate-enter231 {
+  animation: bp3-animate-enter231-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter304-frames {
+@keyframes bp3-animate-enter231-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1850,13 +1789,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen-1200 .ssl-uqr4d0.bp3-animate-enter305 {
-  animation: bp3-animate-enter305-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .ssl-uqr4d0.bp3-animate-enter232 {
+  animation: bp3-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter305-frames {
+@keyframes bp3-animate-enter232-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1878,31 +1817,31 @@ to{opacity: 1;
 
 .zahlungsoptionen-375 .gruppe-544-lIRXnO {
   background-color: transparent;
-  height: 282px;
-  left: calc(48.31% - 150px);
+  height: 293px;
+  left: calc(28.31% - 75px);
   position: absolute;
-  top: calc(35.87% - 101px);
-  width: 310px;
+  top: calc(36.32% - 106px);
+  width: 266px;
 }
 
 .zahlungsoptionen-375 .gruppe-166-PADnV4 {
   background-color: transparent;
   display: block;
   height: 197px;
-  left: 0px;
+  left: 1px;
   opacity: 0;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 45px);
+  width: 100%;
 }
 
-.zahlungsoptionen-375 .gruppe-166-PADnV4.bp1-animate-enter282 {
-  animation: bp1-animate-enter282-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-375 .gruppe-166-PADnV4.bp1-animate-enter226 {
+  animation: bp1-animate-enter226-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter282-frames {
+@keyframes bp1-animate-enter226-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1945,74 +1884,22 @@ to{opacity: 1;
   width: 76px;
 }
 
-.zahlungsoptionen-375 .paypal-PADnV4 {
+.zahlungsoptionen-375 .gruppe-557-PADnV4 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  width: 105px;
+}
+
+.zahlungsoptionen-375 .hedera-l3dQpI {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: 5px;
+  bottom: calc(45.45% - 7px);
   cursor: pointer;
-  display: block;
-  height: 27px;
-  left: calc(30.14% - 19px);
-  letter-spacing: 0.00px;
-  line-height: 14px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  transition: all 0.4s ease;
-  width: 62px;
-}
-
-.zahlungsoptionen-375 .paypal-PADnV4.bp1-animate-enter283 {
-  animation: bp1-animate-enter283-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter283-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-375 .paypal-PADnV4:hover {
-  transform: translate(0, -5px);
-}
-
-.zahlungsoptionen-375 .iconfinder__-paypal-39_1156727-PADnV4 {
-  background-color: transparent;
-  bottom: 20px;
   display: block;
   height: 16px;
-  left: 0px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  width: 64px;
-}
-
-.zahlungsoptionen-375 .iconfinder__-paypal-39_1156727-PADnV4.bp1-animate-enter284 {
-  animation: bp1-animate-enter284-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter284-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-375 .bitcoin-PADnV4 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: -2px;
-  cursor: pointer;
-  display: block;
-  height: 35px;
   letter-spacing: 0.00px;
   line-height: 14px;
   opacity: 0;
@@ -2022,67 +1909,84 @@ to{opacity: 1;
   text-align: left;
   text-decoration: underline;
   transition: all 0.4s ease;
-  width: 110px;
+  white-space: nowrap;
+  width: 50px;
 }
 
-.zahlungsoptionen-375 .bitcoin-PADnV4.bp1-animate-enter285 {
-  animation: bp1-animate-enter285-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-375 .hedera-l3dQpI.bp1-animate-enter227 {
+  animation: bp1-animate-enter227-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter285-frames {
+@keyframes bp1-animate-enter227-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.zahlungsoptionen-375 .bitcoin-PADnV4:hover {
+.zahlungsoptionen-375 .hedera-l3dQpI:hover {
   transform: translate(0, -5px);
 }
 
-.zahlungsoptionen-375 .x34_5-bitcoin-PADnV4 {
-  background-color: transparent;
-  bottom: 11px;
-  display: block;
-  height: 28px;
-  opacity: 0;
-  position: absolute;
-  right: calc(41.82% - 9px);
-  width: 21px;
-}
-
-.zahlungsoptionen-375 .x34_5-bitcoin-PADnV4.bp1-animate-enter286 {
-  animation: bp1-animate-enter286-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter286-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-375 .gruppe-205-z2dx53 {
+.zahlungsoptionen-375 .gruppe-556-l3dQpI {
   background-color: transparent;
   height: 100%;
   left: 0px;
-  position: relative;
+  position: absolute;
+  top: 0px;
+  width: 49px;
+}
+
+.zahlungsoptionen-375 .ellipse-46-yGhHJA {
+  background-color: var(--black);
+  border-radius: 24.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
   top: 0px;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .pfad-287-5qrpDj {
+.zahlungsoptionen-375 .linie-49-yGhHJA {
   background-color: transparent;
-  height: 100%;
-  left: 1px;
+  height: 22px;
+  left: calc(29.79% - 1px);
   object-fit: cover;
   position: absolute;
-  top: 0px;
-  width: 100%;
+  top: calc(50.00% - 11px);
+  width: 2px;
+}
+
+.zahlungsoptionen-375 .linie-51-yGhHJA {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  top: calc(42.55% - 1px);
+  width: 20px;
+}
+
+.zahlungsoptionen-375 .linie-52-yGhHJA {
+  background-color: transparent;
+  bottom: calc(42.55% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  width: 20px;
+}
+
+.zahlungsoptionen-375 .linie-50-yGhHJA {
+  background-color: transparent;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.79% - 1px);
+  top: calc(50.00% - 11px);
+  width: 2px;
 }
 
 .zahlungsoptionen-375 .rechteck-118-lIRXnO {
@@ -2767,13 +2671,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen-375 .ssl-WrfoDi.bp1-animate-enter287 {
-  animation: bp1-animate-enter287-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-375 .ssl-WrfoDi.bp1-animate-enter228 {
+  animation: bp1-animate-enter228-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter287-frames {
+@keyframes bp1-animate-enter228-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2795,31 +2699,31 @@ to{opacity: 1;
 
 .zahlungsoptionen-767 .gruppe-543-aDxOOq {
   background-color: transparent;
-  height: 359px;
-  left: calc(41.26% - 221px);
+  height: 357px;
+  left: calc(41.18% - 221px);
   position: absolute;
-  top: calc(34.46% - 124px);
+  top: calc(34.40% - 123px);
   width: 536px;
 }
 
 .zahlungsoptionen-767 .gruppe-166-xeQNI5 {
   background-color: transparent;
   display: block;
-  height: calc(100.00% - 118px);
-  left: 0px;
+  height: 241px;
+  left: 1px;
   opacity: 0;
   position: absolute;
   top: 0px;
   width: 100%;
 }
 
-.zahlungsoptionen-767 .gruppe-166-xeQNI5.bp2-animate-enter296 {
-  animation: bp2-animate-enter296-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .gruppe-166-xeQNI5.bp2-animate-enter230 {
+  animation: bp2-animate-enter230-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter296-frames {
+@keyframes bp2-animate-enter230-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2862,144 +2766,109 @@ to{opacity: 1;
   width: 76px;
 }
 
-.zahlungsoptionen-767 .paypal-xeQNI5 {
+.zahlungsoptionen-767 .gruppe-557-xeQNI5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  width: 105px;
+}
+
+.zahlungsoptionen-767 .hedera-P8Pcl4 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: 6px;
+  bottom: calc(45.45% - 7px);
   cursor: pointer;
-  display: block;
-  height: 27px;
-  left: calc(32.51% - 20px);
-  letter-spacing: 0.00px;
-  line-height: 14px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  transition: all 0.4s ease;
-  width: 62px;
-}
-
-.zahlungsoptionen-767 .paypal-xeQNI5.bp2-animate-enter297 {
-  animation: bp2-animate-enter297-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter297-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-767 .paypal-xeQNI5:hover {
-  transform: translate(0, -5px);
-}
-
-.zahlungsoptionen-767 .iconfinder__-paypal-39_1156727-xeQNI5 {
-  background-color: transparent;
-  bottom: 19px;
   display: block;
   height: 16px;
-  left: 77px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  width: 64px;
-}
-
-.zahlungsoptionen-767 .iconfinder__-paypal-39_1156727-xeQNI5.bp2-animate-enter298 {
-  animation: bp2-animate-enter298-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter298-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-767 .bitcoin-xeQNI5 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: -2px;
-  cursor: pointer;
-  display: block;
-  height: 35px;
   letter-spacing: 0.00px;
   line-height: 14px;
   opacity: 0;
   pointer-events: auto;
   position: absolute;
-  right: calc(29.02% - 32px);
+  right: -2px;
   text-align: left;
   text-decoration: underline;
   transition: all 0.4s ease;
-  width: 110px;
+  white-space: nowrap;
+  width: 50px;
 }
 
-.zahlungsoptionen-767 .bitcoin-xeQNI5.bp2-animate-enter299 {
-  animation: bp2-animate-enter299-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .hedera-P8Pcl4.bp2-animate-enter231 {
+  animation: bp2-animate-enter231-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter299-frames {
+@keyframes bp2-animate-enter231-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.zahlungsoptionen-767 .bitcoin-xeQNI5:hover {
+.zahlungsoptionen-767 .hedera-P8Pcl4:hover {
   transform: translate(0, -5px);
 }
 
-.zahlungsoptionen-767 .x34_5-bitcoin-xeQNI5 {
-  background-color: transparent;
-  bottom: 11px;
-  display: block;
-  height: 35px;
-  opacity: 0;
-  position: absolute;
-  right: calc(47.20% - 12px);
-  width: 26px;
-}
-
-.zahlungsoptionen-767 .x34_5-bitcoin-xeQNI5.bp2-animate-enter300 {
-  animation: bp2-animate-enter300-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter300-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-767 .gruppe-205-waaqxc {
+.zahlungsoptionen-767 .gruppe-556-P8Pcl4 {
   background-color: transparent;
   height: 100%;
   left: 0px;
-  position: relative;
+  position: absolute;
+  top: 0px;
+  width: 49px;
+}
+
+.zahlungsoptionen-767 .ellipse-46-QBR0xq {
+  background-color: var(--black);
+  border-radius: 24.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
   top: 0px;
   width: 100%;
 }
 
-.zahlungsoptionen-767 .pfad-287-UTxWw0 {
+.zahlungsoptionen-767 .linie-49-QBR0xq {
   background-color: transparent;
-  height: 100%;
-  left: 0px;
+  height: 22px;
+  left: calc(29.79% - 1px);
   object-fit: cover;
   position: absolute;
-  top: 0px;
-  width: 100%;
+  top: calc(50.00% - 11px);
+  width: 2px;
+}
+
+.zahlungsoptionen-767 .linie-51-QBR0xq {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  top: calc(42.55% - 1px);
+  width: 20px;
+}
+
+.zahlungsoptionen-767 .linie-52-QBR0xq {
+  background-color: transparent;
+  bottom: calc(42.55% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  width: 20px;
+}
+
+.zahlungsoptionen-767 .linie-50-QBR0xq {
+  background-color: transparent;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.79% - 1px);
+  top: calc(50.00% - 11px);
+  width: 2px;
 }
 
 .zahlungsoptionen-767 .rechteck-118-aDxOOq {
@@ -3208,13 +3077,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-767 .gruppe-163-aDxOOq.bp2-animate-enter301 {
-  animation: bp2-animate-enter301-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .gruppe-163-aDxOOq.bp2-animate-enter232 {
+  animation: bp2-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter301-frames {
+@keyframes bp2-animate-enter232-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3701,13 +3570,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen-767 .ssl-aDxOOq.bp2-animate-enter302 {
-  animation: bp2-animate-enter302-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .ssl-aDxOOq.bp2-animate-enter233 {
+  animation: bp2-animate-enter233-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter302-frames {
+@keyframes bp2-animate-enter233-frames {
   from{opacity: 0;
 }
 to{opacity: 1;

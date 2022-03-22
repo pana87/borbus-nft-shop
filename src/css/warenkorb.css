@@ -24,13 +24,13 @@
   width: 100%;
 }
 
-.warenkorb .linie-29-Bxv3WM.bp4-animate-enter45 {
-  animation: bp4-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .linie-29-Bxv3WM.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter45-frames {
+@keyframes bp4-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -49,13 +49,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb .linie-44-Bxv3WM.bp4-animate-enter46 {
-  animation: bp4-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .linie-44-Bxv3WM.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter46-frames {
+@keyframes bp4-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -64,14 +64,14 @@ to{opacity: 1;
 
 .warenkorb .gruppe-508-Bxv3WM {
   background-color: transparent;
-  height: 392px;
+  height: 534px;
   position: absolute;
   right: calc(22.99% - 47px);
-  top: calc(22.94% - 90px);
+  top: calc(26.71% - 143px);
   width: 206px;
 }
 
-.warenkorb .preis-yXsHv9 {
+.warenkorb .preiswort-yXsHv9 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -87,23 +87,52 @@ to{opacity: 1;
   width: 52px;
 }
 
-.warenkorb .preis-yXsHv9.bp4-animate-enter47 {
-  animation: bp4-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .preiswort-yXsHv9.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter47-frames {
+@keyframes bp4-animate-enter2-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb .gesamtpreis-6799-yXsHv9 {
+.warenkorb .gesamtpreis-yXsHv9 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: -3px;
+  bottom: calc(27.50% - 6px);
+  display: block;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.warenkorb .gesamtpreis-yXsHv9.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .gesamtpreiswort-yXsHv9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(27.45% - 7px);
   display: block;
   height: 24px;
   left: 0px;
@@ -113,26 +142,25 @@ to{opacity: 1;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 126px;
 }
 
-.warenkorb .gesamtpreis-6799-yXsHv9.bp4-animate-enter48 {
-  animation: bp4-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .gesamtpreiswort-yXsHv9.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter48-frames {
+@keyframes bp4-animate-enter4-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb .x6799-yXsHv9 {
+.warenkorb .preis-yXsHv9 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: calc(41.35% - 9px);
   display: block;
   height: 22px;
   left: 0px;
@@ -141,375 +169,51 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
+  top: calc(42.38% - 9px);
   white-space: nowrap;
   width: 75px;
 }
 
-.warenkorb .x6799-yXsHv9.bp4-animate-enter49 {
-  animation: bp4-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .preis-yXsHv9.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter49-frames {
+@keyframes bp4-animate-enter5-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb .gruppe-510-Bxv3WM {
-  background-color: transparent;
-  height: 350px;
-  left: calc(22.46% - 121px);
-  position: absolute;
-  top: calc(28.50% - 100px);
-  width: 538px;
-}
-
-.warenkorb .gruppe-509-EfHUtm {
-  background-color: transparent;
-  bottom: calc(45.36% - 76px);
-  height: 167px;
-  position: absolute;
-  right: 0px;
-  width: 217px;
-}
-
-.warenkorb .kleidchen-1-nUcj9U {
+.warenkorb .jetzt-kaufen-yXsHv9 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 22px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: 136px;
-}
-
-.warenkorb .kleidchen-1-nUcj9U.bp4-animate-enter50 {
-  animation: bp4-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter50-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .versand-5-7-werktage-nUcj9U {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(36.92% - 6px);
-  display: block;
-  height: 16px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 147px;
-}
-
-.warenkorb .versand-5-7-werktage-nUcj9U.bp4-animate-enter51 {
-  animation: bp4-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter51-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .lschen-nUcj9U {
   background-color: transparent;
   bottom: -2px;
   display: block;
-  height: 16px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 55px;
-}
-
-.warenkorb .lschen-nUcj9U.bp4-animate-enter52 {
-  animation: bp4-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter52-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .rot-weies-entenkleidchen-nUcj9U {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 19px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(33.11% - 6px);
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.warenkorb .rot-weies-entenkleidchen-nUcj9U.bp4-animate-enter53 {
-  animation: bp4-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter53-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .enten-kleid-front-min-EfHUtm {
-  background-color: transparent;
-  display: block;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  top: 0px;
-  width: 241px;
-}
-
-.warenkorb .enten-kleid-front-min-EfHUtm.bp4-animate-enter54 {
-  animation: bp4-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter54-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .gruppe-511-Bxv3WM {
-  background-color: transparent;
-  bottom: calc(40.24% - 19px);
-  height: 47px;
-  position: absolute;
-  right: calc(26.94% - 163px);
-  width: 606px;
-}
-
-.warenkorb .oder-M4lVz0 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(44.35% - 7px);
-  display: block;
-  height: 16px;
-  left: calc(49.91% - 15px);
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 31px;
-}
-
-.warenkorb .oder-M4lVz0.bp4-animate-enter55 {
-  animation: bp4-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter55-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .gruppe-197-M4lVz0 {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 100%;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  transition: all 0.3s ease;
-  width: 246px;
-}
-
-.warenkorb .gruppe-197-M4lVz0.bp4-animate-enter56 {
-  animation: bp4-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter56-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .gruppe-197-M4lVz0:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb .rechteck-114-xZnkx4 {
-  background-color: var(--stratos);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 100%;
-  left: 0px;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb .bezahlen-mit-xZnkx4 {
-  background-color: transparent;
-  height: 22px;
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  top: calc(48.80% - 11px);
-  white-space: nowrap;
-  width: 147px;
-}
-
-.warenkorb .x34_5-bitcoin-xZnkx4 {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: calc(25.59% - 4px);
-  top: calc(50.00% - 12px);
-  width: 17px;
-}
-
-.warenkorb .gruppe-205-jk6EvG {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb .pfad-287-bWbmFh {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 100%;
-}
-
-.warenkorb .gruppe-211-M4lVz0 {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 100%;
-  left: 0px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.3s ease;
-  width: 246px;
-}
-
-.warenkorb .gruppe-211-M4lVz0.bp4-animate-enter57 {
-  animation: bp4-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter57-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb .gruppe-211-M4lVz0:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb .gruppe-204-14vdVz {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb .rechteck-114-N0qumQ {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 100%;
-  left: 1px;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb .bezahlen-mit-N0qumQ {
-  background-color: transparent;
   height: 22px;
   left: 0px;
   letter-spacing: 0.00px;
-  line-height: 24px;
+  line-height: 20px;
+  opacity: 0;
   position: absolute;
-  text-align: center;
-  top: calc(48.80% - 11px);
+  text-align: left;
   white-space: nowrap;
-  width: 147px;
+  width: 122px;
 }
 
-.warenkorb .iconfinder__-paypal-39_1156727-14vdVz {
-  background-color: transparent;
-  height: 19px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(22.54% - 17px);
-  top: calc(50.00% - 10px);
-  width: 75px;
+.warenkorb .jetzt-kaufen-yXsHv9.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
 }
 
 .warenkorb .rechteck-118-Bxv3WM {
@@ -718,13 +422,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb .gruppe-163-Bxv3WM.bp4-animate-enter58 {
-  animation: bp4-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .gruppe-163-Bxv3WM.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter58-frames {
+@keyframes bp4-animate-enter7-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -976,13 +680,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb .ssl-Bxv3WM.bp4-animate-enter59 {
-  animation: bp4-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .ssl-Bxv3WM.bp4-animate-enter8 {
+  animation: bp4-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter59-frames {
+@keyframes bp4-animate-enter8-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1222,6 +926,440 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.warenkorb .bezahlen-Bxv3WM {
+  background-color: transparent;
+  bottom: calc(39.61% - 24px);
+  height: 61px;
+  position: absolute;
+  right: calc(20.96% - 52px);
+  width: 250px;
+}
+
+.warenkorb .gruppe-204-0l3fa2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb .rechteck-114-fqQkfx {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 1px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb .bezahlen-mit-fqQkfx {
+  background-color: transparent;
+  bottom: calc(48.53% - 14px);
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 60px);
+}
+
+.warenkorb .gruppe-556-0l3fa2 {
+  background-color: transparent;
+  bottom: calc(48.00% - 17px);
+  height: 36px;
+  position: absolute;
+  right: 33px;
+  width: 37px;
+}
+
+.warenkorb .ellipse-46-JYUlCu {
+  background-color: var(--black);
+  border-radius: 18.5px/18px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb .linie-49-JYUlCu {
+  background-color: transparent;
+  height: 17px;
+  left: calc(30.23% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.35% - 8px);
+  width: 2px;
+}
+
+.warenkorb .linie-51-JYUlCu {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.17% - 7px);
+  top: calc(41.89% - 1px);
+  width: 15px;
+}
+
+.warenkorb .linie-52-JYUlCu {
+  background-color: transparent;
+  bottom: calc(42.63% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.17% - 7px);
+  width: 15px;
+}
+
+.warenkorb .linie-50-JYUlCu {
+  background-color: transparent;
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.96% - 1px);
+  top: calc(49.35% - 8px);
+  width: 2px;
+}
+
+.warenkorb .gruppe-568-Bxv3WM {
+  background-color: transparent;
+  height: 188px;
+  left: calc(21.35% - 99px);
+  position: absolute;
+  top: calc(31.83% - 60px);
+  width: 466px;
+}
+
+.warenkorb .gruppe-510-ykumxx {
+  background-color: transparent;
+  height: 161px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 80px);
+  width: 145px;
+}
+
+.warenkorb .kleidchenbezeichung-LToOkr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% - 9px);
+}
+
+.warenkorb .kleidchenbezeichung-LToOkr.bp4-animate-enter9 {
+  animation: bp4-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .versand-5-7-werktage-LToOkr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(34.31% - 5px);
+  display: block;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13.5px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.warenkorb .versand-5-7-werktage-LToOkr.bp4-animate-enter10 {
+  animation: bp4-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .lschen-LToOkr {
+  background-color: transparent;
+  bottom: -2px;
+  display: block;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13.5px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.warenkorb .lschen-LToOkr.bp4-animate-enter11 {
+  animation: bp4-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .vorderseiteklein-ykumxx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 241px;
+}
+
+.warenkorb .gruppe-574-Bxv3WM {
+  background-color: transparent;
+  height: 210px;
+  left: calc(16.81% - 129px);
+  position: absolute;
+  top: 765px;
+  width: 766px;
+}
+
+.warenkorb .ssl-Zz7vhC {
+  background-color: transparent;
+  bottom: 66px;
+  display: block;
+  height: 144px;
+  left: calc(0.80% - 1px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 144px;
+}
+
+.warenkorb .ssl-Zz7vhC.bp4-animate-enter12 {
+  animation: bp4-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .sichere-verbindung-Zz7vhC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 24px;
+  display: block;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.warenkorb .sichere-verbindung-Zz7vhC.bp4-animate-enter13 {
+  animation: bp4-animate-enter13-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter13-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .versand-rckversand-kostenlos-Zz7vhC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 4px;
+  display: block;
+  height: 45px;
+  left: calc(49.65% - 94px);
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 190px;
+}
+
+.warenkorb .versand-rckversand-kostenlos-Zz7vhC.bp4-animate-enter14 {
+  animation: bp4-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter14-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .starkes-netzwerk-Zz7vhC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 30px;
+  display: block;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.warenkorb .starkes-netzwerk-Zz7vhC.bp4-animate-enter15 {
+  animation: bp4-animate-enter15-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter15-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb .gruppe-573-Zz7vhC {
+  background-color: transparent;
+  height: 65px;
+  left: calc(49.81% - 117px);
+  position: absolute;
+  top: calc(29.66% - 19px);
+  width: 234px;
+}
+
+.warenkorb .rechteck-170-O6HyyC {
+  background-color: var(--candlelight);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb .x8666246_dhl_icon-O6HyyC {
+  background-color: transparent;
+  height: 16px;
+  left: calc(47.95% - 53px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.26% - 8px);
+  width: 111px;
+}
+
+.warenkorb .gruppe-572-Zz7vhC {
+  background-color: transparent;
+  height: 132px;
+  position: absolute;
+  right: calc(0.47% - 1px);
+  top: calc(8.97% - 12px);
+  width: 132px;
+}
+
+.warenkorb .gruppe-556-QjyyR1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb .ellipse-46-18uYvs {
+  background-color: var(--black);
+  border-radius: 66px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb .linie-49-18uYvs {
+  background-color: transparent;
+  height: 60px;
+  left: calc(30.41% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.64% - 29px);
+  width: 4px;
+}
+
+.warenkorb .linie-51-18uYvs {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.99% - 26px);
+  top: calc(41.76% - 2px);
+  width: 53px;
+}
+
+.warenkorb .linie-52-18uYvs {
+  background-color: transparent;
+  bottom: calc(43.29% - 2px);
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.99% - 26px);
+  width: 53px;
+}
+
+.warenkorb .linie-50-18uYvs {
+  background-color: transparent;
+  height: 60px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.01% - 1px);
+  top: calc(48.64% - 29px);
+  width: 4px;
+}
 /* screen - warenkorb-1200 */
 
 .warenkorb-1200 {
@@ -1248,13 +1386,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .linie-29-qEoC5i.bp3-animate-enter44 {
-  animation: bp3-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .linie-29-qEoC5i.bp3-animate-enter88 {
+  animation: bp3-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter44-frames {
+@keyframes bp3-animate-enter88-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1273,42 +1411,80 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .linie-44-qEoC5i.bp3-animate-enter45 {
-  animation: bp3-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .linie-44-qEoC5i.bp3-animate-enter89 {
+  animation: bp3-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter45-frames {
+@keyframes bp3-animate-enter89-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-1200 .gesamtpreis-6799-qEoC5i {
+.warenkorb-1200 .gruppe-582-qEoC5i {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: calc(22.64% - 47px);
+  top: calc(46.05% - 10px);
+  width: 206px;
+}
+
+.warenkorb-1200 .gesamtpreis-EzBGOk {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
-  height: 24px;
+  height: 23px;
+  left: calc(101.55% - 78px);
   letter-spacing: 0.00px;
   line-height: 20px;
   opacity: 0;
   position: absolute;
-  right: calc(22.83% - 47px);
   text-align: left;
-  top: calc(46.24% - 11px);
+  top: 4.55%;
   white-space: nowrap;
-  width: 208px;
+  width: 77px;
 }
 
-.warenkorb-1200 .gesamtpreis-6799-qEoC5i.bp3-animate-enter46 {
-  animation: bp3-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .gesamtpreis-EzBGOk.bp3-animate-enter90 {
+  animation: bp3-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter46-frames {
+@keyframes bp3-animate-enter90-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .gesamtpreiswort-EzBGOk {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 4.55%;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.warenkorb-1200 .gesamtpreiswort-EzBGOk.bp3-animate-enter91 {
+  animation: bp3-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter91-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1324,7 +1500,7 @@ to{opacity: 1;
   width: 73px;
 }
 
-.warenkorb-1200 .preis-Vpo0L9 {
+.warenkorb-1200 .preiswort-Vpo0L9 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1340,20 +1516,20 @@ to{opacity: 1;
   width: 52px;
 }
 
-.warenkorb-1200 .preis-Vpo0L9.bp3-animate-enter47 {
-  animation: bp3-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .preiswort-Vpo0L9.bp3-animate-enter92 {
+  animation: bp3-animate-enter92-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter47-frames {
+@keyframes bp3-animate-enter92-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-1200 .x6799-Vpo0L9 {
+.warenkorb-1200 .preis-Vpo0L9 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   bottom: -2px;
@@ -1369,43 +1545,34 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-1200 .x6799-Vpo0L9.bp3-animate-enter48 {
-  animation: bp3-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .preis-Vpo0L9.bp3-animate-enter93 {
+  animation: bp3-animate-enter93-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter48-frames {
+@keyframes bp3-animate-enter93-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-1200 .gruppe-514-qEoC5i {
+.warenkorb-1200 .gruppe-584-qEoC5i {
   background-color: transparent;
-  height: 350px;
-  left: calc(17.16% - 84px);
+  bottom: calc(40.56% - 42px);
+  height: 103px;
   position: absolute;
-  top: calc(30.63% - 107px);
-  width: 490px;
+  right: calc(24.13% - 46px);
+  width: 191px;
 }
 
-.warenkorb-1200 .gruppe-513-Wj0aPQ {
-  background-color: transparent;
-  bottom: calc(45.36% - 76px);
-  height: 167px;
-  position: absolute;
-  right: 0px;
-  width: 217px;
-}
-
-.warenkorb-1200 .kleidchen-1-qtWrAl {
+.warenkorb-1200 .jetzt-kaufen-pHxyv8 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
   height: 22px;
-  left: 1px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 20px;
   opacity: 0;
@@ -1413,286 +1580,32 @@ to{opacity: 1;
   text-align: left;
   top: 0px;
   white-space: nowrap;
-  width: 136px;
+  width: 122px;
 }
 
-.warenkorb-1200 .kleidchen-1-qtWrAl.bp3-animate-enter49 {
-  animation: bp3-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .jetzt-kaufen-pHxyv8.bp3-animate-enter94 {
+  animation: bp3-animate-enter94-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter49-frames {
+@keyframes bp3-animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-1200 .versand-5-7-werktage-qtWrAl {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
+.warenkorb-1200 .bezahlen-pHxyv8 {
   background-color: transparent;
-  bottom: calc(36.92% - 6px);
-  display: block;
-  height: 16px;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 147px;
-}
-
-.warenkorb-1200 .versand-5-7-werktage-qtWrAl.bp3-animate-enter50 {
-  animation: bp3-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter50-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-1200 .lschen-qtWrAl {
-  background-color: transparent;
-  bottom: -2px;
-  display: block;
-  height: 16px;
-  left: 11px;
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 55px;
-}
-
-.warenkorb-1200 .lschen-qtWrAl.bp3-animate-enter51 {
-  animation: bp3-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter51-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-1200 .rot-weies-entenkleidchen-qtWrAl {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 19px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(33.11% - 6px);
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.warenkorb-1200 .rot-weies-entenkleidchen-qtWrAl.bp3-animate-enter52 {
-  animation: bp3-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter52-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-1200 .enten-kleid-front-min-Wj0aPQ {
-  background-color: transparent;
-  display: block;
-  height: 350px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  right: calc(100.00% - 241px);
-  top: calc(50.00% - 175px);
-  width: 241px;
-}
-
-.warenkorb-1200 .enten-kleid-front-min-Wj0aPQ.bp3-animate-enter53 {
-  animation: bp3-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter53-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-1200 .gruppe-515-qEoC5i {
-  background-color: transparent;
-  bottom: calc(42.14% - 20px);
+  bottom: 0px;
   height: 47px;
+  left: calc(50.00% - 96px);
   position: absolute;
-  right: calc(31.84% - 188px);
-  width: 590px;
+  width: 191px;
 }
 
-.warenkorb-1200 .oder-2ZIgbh {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(44.35% - 7px);
-  display: block;
-  height: 16px;
-  left: calc(49.98% - 15px);
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 31px;
-}
-
-.warenkorb-1200 .oder-2ZIgbh.bp3-animate-enter54 {
-  animation: bp3-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter54-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-1200 .gruppe-197-2ZIgbh {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 100%;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  transition: all 0.3s ease;
-  width: 246px;
-}
-
-.warenkorb-1200 .gruppe-197-2ZIgbh.bp3-animate-enter55 {
-  animation: bp3-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter55-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-1200 .gruppe-197-2ZIgbh:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb-1200 .rechteck-114-rPeflo {
-  background-color: var(--stratos);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 100%;
-  left: 0px;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb-1200 .bezahlen-mit-rPeflo {
-  background-color: transparent;
-  height: 22px;
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  top: calc(48.80% - 11px);
-  white-space: nowrap;
-  width: 147px;
-}
-
-.warenkorb-1200 .x34_5-bitcoin-rPeflo {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: calc(25.59% - 4px);
-  top: calc(50.00% - 12px);
-  width: 17px;
-}
-
-.warenkorb-1200 .gruppe-205-2WA2cj {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb-1200 .pfad-287-YiY9ZU {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb-1200 .gruppe-211-2ZIgbh {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 100%;
-  left: 0px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.3s ease;
-  width: 246px;
-}
-
-.warenkorb-1200 .gruppe-211-2ZIgbh.bp3-animate-enter56 {
-  animation: bp3-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter56-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-1200 .gruppe-211-2ZIgbh:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb-1200 .gruppe-204-4h9uXN {
+.warenkorb-1200 .gruppe-204-DXMSlQ {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1701,7 +1614,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .rechteck-114-khh6ua {
+.warenkorb-1200 .rechteck-114-x06hAi {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1713,7 +1626,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .bezahlen-mit-khh6ua {
+.warenkorb-1200 .bezahlen-mit-x06hAi {
   background-color: transparent;
   height: 22px;
   left: 0px;
@@ -1723,17 +1636,66 @@ to{opacity: 1;
   text-align: center;
   top: calc(48.80% - 11px);
   white-space: nowrap;
-  width: 147px;
+  width: calc(100.00% - 44px);
 }
 
-.warenkorb-1200 .iconfinder__-paypal-39_1156727-4h9uXN {
+.warenkorb-1200 .gruppe-556-DXMSlQ {
   background-color: transparent;
-  height: 19px;
+  bottom: 7px;
+  height: 30px;
+  position: absolute;
+  right: 24px;
+  width: 30px;
+}
+
+.warenkorb-1200 .ellipse-46-fPisOf {
+  background-color: var(--black);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-1200 .linie-49-fPisOf {
+  background-color: transparent;
+  height: 14px;
+  left: calc(29.74% - 1px);
   object-fit: cover;
   position: absolute;
-  right: calc(22.54% - 17px);
-  top: calc(50.00% - 10px);
-  width: 75px;
+  top: calc(48.55% - 7px);
+  width: 2px;
+}
+
+.warenkorb-1200 .linie-51-fPisOf {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.81% - 6px);
+  top: calc(41.38% - 1px);
+  width: 12px;
+}
+
+.warenkorb-1200 .linie-52-fPisOf {
+  background-color: transparent;
+  bottom: calc(43.07% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.81% - 6px);
+  width: 12px;
+}
+
+.warenkorb-1200 .linie-50-fPisOf {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.06% - 1px);
+  top: calc(48.55% - 7px);
+  width: 2px;
 }
 
 .warenkorb-1200 .rechteck-118-qEoC5i {
@@ -1951,13 +1913,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .gruppe-163-egvS0n.bp3-animate-enter57 {
-  animation: bp3-animate-enter57-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-1200 .gruppe-163-egvS0n.bp3-animate-enter95 {
+  animation: bp3-animate-enter95-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter57-frames {
+@keyframes bp3-animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2435,17 +2397,358 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb-1200 .ssl-egvS0n.bp3-animate-enter58 {
-  animation: bp3-animate-enter58-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-1200 .ssl-egvS0n.bp3-animate-enter96 {
+  animation: bp3-animate-enter96-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter58-frames {
+@keyframes bp3-animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.warenkorb-1200 .gruppe-569-qEoC5i {
+  background-color: transparent;
+  height: 188px;
+  left: calc(22.29% - 95px);
+  position: absolute;
+  top: calc(34.13% - 64px);
+  width: 428px;
+}
+
+.warenkorb-1200 .gruppe-514-cF5xHF {
+  background-color: transparent;
+  bottom: calc(50.00% - 83px);
+  height: 167px;
+  position: absolute;
+  right: 0px;
+  width: 145px;
+}
+
+.warenkorb-1200 .gruppe-513-0u6a9i {
+  background-color: transparent;
+  height: 167px;
+  left: calc(50.00% - 72px);
+  position: relative;
+  top: calc(50.00% - 84px);
+  width: 145px;
+}
+
+.warenkorb-1200 .kleidchenbezeichnung-xaXJTK {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% - 9px);
+}
+
+.warenkorb-1200 .kleidchenbezeichnung-xaXJTK.bp3-animate-enter97 {
+  animation: bp3-animate-enter97-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter97-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .versand-5-7-werktage-xaXJTK {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(36.92% - 6px);
+  display: block;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13.5px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.warenkorb-1200 .versand-5-7-werktage-xaXJTK.bp3-animate-enter98 {
+  animation: bp3-animate-enter98-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter98-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .lschen-xaXJTK {
+  background-color: transparent;
+  bottom: -2px;
+  display: block;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 13.5px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.warenkorb-1200 .lschen-xaXJTK.bp3-animate-enter99 {
+  animation: bp3-animate-enter99-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter99-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .vorderseiteklein-cF5xHF {
+  background-color: transparent;
+  bottom: 0px;
+  height: 188px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 241px;
+}
+
+.warenkorb-1200 .gruppe-574-qEoC5i {
+  background-color: transparent;
+  bottom: calc(33.42% - 44px);
+  height: 132px;
+  left: calc(13.65% - 66px);
+  position: absolute;
+  width: 482px;
+}
+
+.warenkorb-1200 .ssl-RxAIJp {
+  background-color: transparent;
+  bottom: 41px;
+  display: block;
+  height: 91px;
+  left: calc(0.77% - 1px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 91px;
+}
+
+.warenkorb-1200 .ssl-RxAIJp.bp3-animate-enter100 {
+  animation: bp3-animate-enter100-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter100-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .sichere-verbindung-RxAIJp {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 14px;
+  display: block;
+  height: 13px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.warenkorb-1200 .sichere-verbindung-RxAIJp.bp3-animate-enter101 {
+  animation: bp3-animate-enter101-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter101-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .versand-rckversand-kostenlos-RxAIJp {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 2px;
+  display: block;
+  height: 29px;
+  left: calc(49.45% - 58px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.warenkorb-1200 .versand-rckversand-kostenlos-RxAIJp.bp3-animate-enter102 {
+  animation: bp3-animate-enter102-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter102-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .starkes-netzwerk-RxAIJp {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 18px;
+  display: block;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.warenkorb-1200 .starkes-netzwerk-RxAIJp.bp3-animate-enter103 {
+  animation: bp3-animate-enter103-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter103-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-1200 .gruppe-573-RxAIJp {
+  background-color: transparent;
+  height: 41px;
+  left: calc(49.55% - 73px);
+  position: absolute;
+  top: calc(29.67% - 12px);
+  width: 147px;
+}
+
+.warenkorb-1200 .rechteck-170-j2Ay1V {
+  background-color: var(--candlelight);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-1200 .x8666246_dhl_icon-j2Ay1V {
+  background-color: transparent;
+  height: 10px;
+  left: calc(48.26% - 34px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.13% - 5px);
+  width: 69px;
+}
+
+.warenkorb-1200 .gruppe-572-RxAIJp {
+  background-color: transparent;
+  height: 83px;
+  position: absolute;
+  right: calc(0.75% - 1px);
+  top: calc(8.16% - 7px);
+  width: 83px;
+}
+
+.warenkorb-1200 .gruppe-556-bBgeXs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-1200 .ellipse-46-Fnq3zH {
+  background-color: var(--black);
+  border-radius: 41.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-1200 .linie-49-Fnq3zH {
+  background-color: transparent;
+  height: 38px;
+  left: calc(29.89% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.50% - 19px);
+  width: 4px;
+}
+
+.warenkorb-1200 .linie-51-Fnq3zH {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.25% - 16px);
+  top: calc(42.10% - 2px);
+  width: 34px;
+}
+
+.warenkorb-1200 .linie-52-Fnq3zH {
+  background-color: transparent;
+  bottom: calc(42.67% - 2px);
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.25% - 16px);
+  width: 34px;
+}
+
+.warenkorb-1200 .linie-50-Fnq3zH {
+  background-color: transparent;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.78% - 1px);
+  top: calc(49.50% - 19px);
+  width: 4px;
 }
 /* screen - warenkorb-375 */
 
@@ -2461,6 +2764,16 @@ to{opacity: 1;
   width: 100%;
 }
 
+.warenkorb-375 .rechteck-171-pxkV8d {
+  background-color: var(--gallery);
+  bottom: 331px;
+  height: 8.90%;
+  left: 0px;
+  opacity: 0.6;
+  position: absolute;
+  width: 100%;
+}
+
 .warenkorb-375 .linie-29-pxkV8d {
   background-color: transparent;
   display: block;
@@ -2473,13 +2786,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-375 .linie-29-pxkV8d.bp1-animate-enter40 {
-  animation: bp1-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .linie-29-pxkV8d.bp1-animate-enter87 {
+  animation: bp1-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter40-frames {
+@keyframes bp1-animate-enter87-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2498,20 +2811,29 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-375 .linie-44-pxkV8d.bp1-animate-enter41 {
-  animation: bp1-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .linie-44-pxkV8d.bp1-animate-enter88 {
+  animation: bp1-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter41-frames {
+@keyframes bp1-animate-enter88-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .gesamtpreis-2750-pxkV8d {
+.warenkorb-375 .gruppe-580-pxkV8d {
+  background-color: transparent;
+  height: 18px;
+  position: absolute;
+  right: calc(10.50% - 18px);
+  top: calc(48.27% - 9px);
+  width: 175px;
+}
+
+.warenkorb-375 .gesamtpreiswort-rrnwaF {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   color: var(--black);
@@ -2521,111 +2843,139 @@ to{opacity: 1;
   font-style: normal;
   font-weight: 400;
   height: 20px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 17px;
   opacity: 0;
   position: absolute;
-  right: 28px;
   text-align: left;
-  top: calc(48.38% - 10px);
+  top: 2.78%;
   white-space: nowrap;
-  width: 177px;
+  width: 107px;
 }
 
-.warenkorb-375 .gesamtpreis-2750-pxkV8d.bp1-animate-enter42 {
-  animation: bp1-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .gesamtpreiswort-rrnwaF.bp1-animate-enter89 {
+  animation: bp1-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter42-frames {
+@keyframes bp1-animate-enter89-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .gruppe-524-pxkV8d {
+.warenkorb-375 .gesamtpreis-rrnwaF {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 168px);
-  position: absolute;
-  top: calc(30.19% - 85px);
-  width: 336px;
-}
-
-.warenkorb-375 .gruppe-521-RbZq6C {
-  background-color: transparent;
-  height: 281px;
-  left: 0px;
-  position: absolute;
-  top: calc(50.00% - 141px);
-  width: 193px;
-}
-
-.warenkorb-375 .enten-kleid-front-min-SkoGl5 {
-  background-color: transparent;
+  color: var(--black);
   display: block;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
   opacity: 0;
   position: absolute;
+  right: -2px;
+  text-align: left;
   top: 1px;
-  width: 100%;
+  white-space: nowrap;
+  width: 66px;
 }
 
-.warenkorb-375 .enten-kleid-front-min-SkoGl5.bp1-animate-enter43 {
-  animation: bp1-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .gesamtpreis-rrnwaF.bp1-animate-enter90 {
+  animation: bp1-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter43-frames {
+@keyframes bp1-animate-enter90-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .kleidchen-1-SkoGl5 {
+.warenkorb-375 .gruppe-571-pxkV8d {
+  background-color: transparent;
+  height: 156px;
+  left: calc(12.52% - 25px);
+  position: absolute;
+  top: calc(33.10% - 52px);
+  width: 200px;
+}
+
+.warenkorb-375 .vorderseiteklein-VsSxAa {
+  background-color: transparent;
+  height: 156px;
+  left: calc(50.00% - 100px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 200px;
+}
+
+.warenkorb-375 .gruppe-560-pxkV8d {
+  background-color: transparent;
+  height: 244px;
+  position: absolute;
+  right: calc(11.28% - 13px);
+  top: calc(31.73% - 77px);
+  width: 118px;
+}
+
+.warenkorb-375 .gruppe-524-Jfwnyo {
+  background-color: transparent;
+  height: 244px;
+  left: calc(50.00% - 59px);
+  position: relative;
+  top: calc(50.00% - 122px);
+  width: 118px;
+}
+
+.warenkorb-375 .gruppe-522-8GTSxP {
+  background-color: transparent;
+  height: 244px;
+  left: calc(50.00% - 59px);
+  position: relative;
+  top: calc(50.00% - 122px);
+  width: 118px;
+}
+
+.warenkorb-375 .kleidchenbezeichnung-Ioxqug {
   background-color: transparent;
   display: block;
   height: 18px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 16px;
   opacity: 0;
   position: absolute;
-  right: calc(49.12% - 54px);
   text-align: left;
-  top: 8px;
+  top: 0px;
   white-space: nowrap;
-  width: 109px;
+  width: calc(100.00% - 9px);
 }
 
-.warenkorb-375 .kleidchen-1-SkoGl5.bp1-animate-enter44 {
-  animation: bp1-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .kleidchenbezeichnung-Ioxqug.bp1-animate-enter91 {
+  animation: bp1-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter44-frames {
+@keyframes bp1-animate-enter91-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .gruppe-522-RbZq6C {
-  background-color: transparent;
-  bottom: calc(10.51% - 20px);
-  height: 193px;
-  position: absolute;
-  right: 0px;
-  width: 118px;
-}
-
-.warenkorb-375 .versand-5-7-werktage-ami9mG {
+.warenkorb-375 .versand-5-7-werktage-Ioxqug {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -2636,26 +2986,27 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: calc(33.23% - 5px);
+  top: calc(48.04% - 7px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-375 .versand-5-7-werktage-ami9mG.bp1-animate-enter45 {
-  animation: bp1-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .versand-5-7-werktage-Ioxqug.bp1-animate-enter92 {
+  animation: bp1-animate-enter92-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter45-frames {
+@keyframes bp1-animate-enter92-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .lschen-ami9mG {
+.warenkorb-375 .lschen-Ioxqug {
   background-color: transparent;
+  bottom: calc(39.66% - 5px);
   color: var(--stratos);
   display: block;
   font-family: var(--font-family-hiraginomincho_pron-w3);
@@ -2669,54 +3020,24 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: calc(49.16% - 6px);
   white-space: nowrap;
   width: 41px;
 }
 
-.warenkorb-375 .lschen-ami9mG.bp1-animate-enter46 {
-  animation: bp1-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .lschen-Ioxqug.bp1-animate-enter93 {
+  animation: bp1-animate-enter93-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter46-frames {
+@keyframes bp1-animate-enter93-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .rot-weies-entenkleidchen-ami9mG {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 39px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 22px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% - 8px);
-}
-
-.warenkorb-375 .rot-weies-entenkleidchen-ami9mG.bp1-animate-enter47 {
-  animation: bp1-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter47-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-375 .x2750-ami9mG {
+.warenkorb-375 .preis-Ioxqug {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   bottom: -2px;
@@ -2732,20 +3053,20 @@ to{opacity: 1;
   width: 60px;
 }
 
-.warenkorb-375 .x2750-ami9mG.bp1-animate-enter48 {
-  animation: bp1-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .preis-Ioxqug.bp1-animate-enter94 {
+  animation: bp1-animate-enter94-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter48-frames {
+@keyframes bp1-animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .preis-ami9mG {
+.warenkorb-375 .preiswort-Ioxqug {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   bottom: -2px;
@@ -2761,172 +3082,67 @@ to{opacity: 1;
   width: 44px;
 }
 
-.warenkorb-375 .preis-ami9mG.bp1-animate-enter49 {
-  animation: bp1-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .preiswort-Ioxqug.bp1-animate-enter95 {
+  animation: bp1-animate-enter95-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter49-frames {
+@keyframes bp1-animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .gruppe-523-pxkV8d {
+.warenkorb-375 .gruppe-585-pxkV8d {
   background-color: transparent;
-  bottom: calc(38.67% - 54px);
-  height: 140px;
-  left: calc(50.00% - 123px);
+  bottom: calc(43.10% - 41px);
+  height: 95px;
+  left: calc(50.00% - 100px);
   position: absolute;
-  width: 246px;
+  width: 199px;
 }
 
-.warenkorb-375 .oder-6NhWb9 {
+.warenkorb-375 .jetzt-kaufen-buujxT {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: calc(48.99% - 8px);
   display: block;
-  height: 16px;
+  height: 18px;
+  left: 0px;
   letter-spacing: 0.00px;
-  line-height: 13.5px;
+  line-height: 16px;
   opacity: 0;
   position: absolute;
-  right: calc(49.53% - 15px);
   text-align: left;
+  top: 0px;
   white-space: nowrap;
-  width: 31px;
+  width: 98px;
 }
 
-.warenkorb-375 .oder-6NhWb9.bp1-animate-enter50 {
-  animation: bp1-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .jetzt-kaufen-buujxT.bp1-animate-enter96 {
+  animation: bp1-animate-enter96-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter50-frames {
+@keyframes bp1-animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .gruppe-197-6NhWb9 {
+.warenkorb-375 .bezahlen-buujxT {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
-  display: block;
   height: 47px;
-  left: 1px;
-  opacity: 0;
-  pointer-events: auto;
+  left: calc(50.00% - 100px);
   position: absolute;
-  transition: all 0.3s ease;
-  width: 100%;
+  width: 199px;
 }
 
-.warenkorb-375 .gruppe-197-6NhWb9.bp1-animate-enter51 {
-  animation: bp1-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter51-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-375 .gruppe-197-6NhWb9:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb-375 .rechteck-114-GaPgEO {
-  background-color: var(--stratos);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 100%;
-  left: 0px;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb-375 .bezahlen-mit-GaPgEO {
-  background-color: transparent;
-  height: 22px;
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  top: calc(48.80% - 11px);
-  white-space: nowrap;
-  width: 147px;
-}
-
-.warenkorb-375 .x34_5-bitcoin-GaPgEO {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: calc(25.59% - 4px);
-  top: calc(50.00% - 12px);
-  width: 17px;
-}
-
-.warenkorb-375 .gruppe-205-zJ8yWB {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb-375 .pfad-287-SEXzl7 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 100%;
-}
-
-.warenkorb-375 .gruppe-211-6NhWb9 {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 47px;
-  left: 0px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.3s ease;
-  width: 100%;
-}
-
-.warenkorb-375 .gruppe-211-6NhWb9.bp1-animate-enter52 {
-  animation: bp1-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter52-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-375 .gruppe-211-6NhWb9:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb-375 .gruppe-204-Zx1FU1 {
+.warenkorb-375 .gruppe-204-m9Zq4s {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -2935,7 +3151,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-375 .rechteck-114-wPu77j {
+.warenkorb-375 .rechteck-114-Kh7aUc {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -2947,7 +3163,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-375 .bezahlen-mit-wPu77j {
+.warenkorb-375 .bezahlen-mit-Kh7aUc {
   background-color: transparent;
   height: 22px;
   left: 0px;
@@ -2957,17 +3173,66 @@ to{opacity: 1;
   text-align: center;
   top: calc(48.80% - 11px);
   white-space: nowrap;
-  width: 147px;
+  width: calc(100.00% - 52px);
 }
 
-.warenkorb-375 .iconfinder__-paypal-39_1156727-Zx1FU1 {
+.warenkorb-375 .gruppe-556-m9Zq4s {
   background-color: transparent;
-  height: 19px;
+  bottom: 5px;
+  height: 34px;
+  position: absolute;
+  right: 26px;
+  width: 34px;
+}
+
+.warenkorb-375 .ellipse-46-f29bzZ {
+  background-color: var(--black);
+  border-radius: 17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-375 .linie-49-f29bzZ {
+  background-color: transparent;
+  height: 15px;
+  left: calc(29.87% - 1px);
   object-fit: cover;
   position: absolute;
-  right: calc(22.54% - 17px);
-  top: calc(50.00% - 10px);
-  width: 75px;
+  top: calc(48.66% - 8px);
+  width: 2px;
+}
+
+.warenkorb-375 .linie-51-f29bzZ {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.91% - 7px);
+  top: calc(41.53% - 1px);
+  width: 14px;
+}
+
+.warenkorb-375 .linie-52-f29bzZ {
+  background-color: transparent;
+  bottom: calc(43.07% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.91% - 7px);
+  width: 14px;
+}
+
+.warenkorb-375 .linie-50-f29bzZ {
+  background-color: transparent;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 1px);
+  top: calc(48.66% - 8px);
+  width: 2px;
 }
 
 .warenkorb-375 .borbus-pxkV8d {
@@ -3653,17 +3918,271 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb-375 .ssl-hbrIwX.bp1-animate-enter53 {
-  animation: bp1-animate-enter53-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-375 .ssl-hbrIwX.bp1-animate-enter97 {
+  animation: bp1-animate-enter97-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter53-frames {
+@keyframes bp1-animate-enter97-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.warenkorb-375 .gruppe-575-pxkV8d {
+  background-color: transparent;
+  bottom: 339px;
+  height: 89px;
+  position: absolute;
+  right: calc(48.39% - 166px);
+  width: 344px;
+}
+
+.warenkorb-375 .gruppe-574-G3ffwz {
+  background-color: transparent;
+  height: 89px;
+  left: calc(50.00% - 172px);
+  position: relative;
+  top: 0px;
+  width: 344px;
+}
+
+.warenkorb-375 .gruppe-578-VXpWEv {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 77px;
+}
+
+.warenkorb-375 .ssl-WpQd1Y {
+  background-color: transparent;
+  bottom: 17px;
+  display: block;
+  height: 63px;
+  left: calc(46.15% - 30px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 64px;
+}
+
+.warenkorb-375 .ssl-WpQd1Y.bp1-animate-enter98 {
+  animation: bp1-animate-enter98-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter98-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-375 .sichere-verbindung-WpQd1Y {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -2px;
+  display: block;
+  height: 12.50%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.warenkorb-375 .sichere-verbindung-WpQd1Y.bp1-animate-enter99 {
+  animation: bp1-animate-enter99-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter99-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-375 .gruppe-577-VXpWEv {
+  background-color: transparent;
+  bottom: 0px;
+  height: 70px;
+  left: calc(50.00% - 51px);
+  position: absolute;
+  width: 102px;
+}
+
+.warenkorb-375 .versand-rckversand-kostenlos-JB45Gr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 28.57%;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 6px);
+}
+
+.warenkorb-375 .versand-rckversand-kostenlos-JB45Gr.bp1-animate-enter100 {
+  animation: bp1-animate-enter100-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter100-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-375 .gruppe-573-JB45Gr {
+  background-color: transparent;
+  bottom: calc(100.00% - 28px);
+  height: 28px;
+  left: calc(50.00% - 51px);
+  position: absolute;
+  width: 102px;
+}
+
+.warenkorb-375 .rechteck-170-mnGjDU {
+  background-color: var(--candlelight);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-375 .x8666246_dhl_icon-mnGjDU {
+  background-color: transparent;
+  height: 7px;
+  left: calc(48.04% - 23px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.13% - 3px);
+  width: 49px;
+}
+
+.warenkorb-375 .gruppe-576-VXpWEv {
+  background-color: transparent;
+  height: 76px;
+  position: absolute;
+  right: 0px;
+  top: calc(23.08% - 18px);
+  width: 66px;
+}
+
+.warenkorb-375 .starkes-netzwerk-xSIolg {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 13.16%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.warenkorb-375 .starkes-netzwerk-xSIolg.bp1-animate-enter101 {
+  animation: bp1-animate-enter101-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter101-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-375 .gruppe-572-xSIolg {
+  background-color: transparent;
+  bottom: calc(100.00% - 58px);
+  height: 58px;
+  left: calc(40.00% - 23px);
+  position: absolute;
+  width: 58px;
+}
+
+.warenkorb-375 .gruppe-556-JEULcS {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-375 .ellipse-46-3JHGjY {
+  background-color: var(--black);
+  border-radius: 29px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-375 .linie-49-3JHGjY {
+  background-color: transparent;
+  height: 26px;
+  left: calc(29.11% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.28% - 13px);
+  width: 4px;
+}
+
+.warenkorb-375 .linie-51-3JHGjY {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.80% - 11px);
+  top: calc(41.22% - 2px);
+  width: 23px;
+}
+
+.warenkorb-375 .linie-52-3JHGjY {
+  background-color: transparent;
+  bottom: calc(43.23% - 2px);
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.80% - 11px);
+  width: 23px;
+}
+
+.warenkorb-375 .linie-50-3JHGjY {
+  background-color: transparent;
+  height: 26px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.68% - 1px);
+  top: calc(48.28% - 13px);
+  width: 4px;
 }
 /* screen - warenkorb-767 */
 
@@ -3691,13 +4210,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .linie-29-tkUahl.bp2-animate-enter43 {
-  animation: bp2-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .linie-29-tkUahl.bp2-animate-enter89 {
+  animation: bp2-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter43-frames {
+@keyframes bp2-animate-enter89-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3716,13 +4235,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .linie-44-tkUahl.bp2-animate-enter44 {
-  animation: bp2-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .linie-44-tkUahl.bp2-animate-enter90 {
+  animation: bp2-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter44-frames {
+@keyframes bp2-animate-enter90-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3738,29 +4257,67 @@ to{opacity: 1;
   width: 206px;
 }
 
-.warenkorb-767 .gesamtpreis-6799-zx7GTQ {
+.warenkorb-767 .gruppe-581-zx7GTQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.warenkorb-767 .gesamtpreis-Hg57IW {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: -3px;
   display: block;
-  height: 24px;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.warenkorb-767 .gesamtpreis-Hg57IW.bp2-animate-enter91 {
+  animation: bp2-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter91-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .gesamtpreiswort-Hg57IW {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
   line-height: 20px;
   opacity: 0;
   position: absolute;
   text-align: left;
+  top: 1px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 126px;
 }
 
-.warenkorb-767 .gesamtpreis-6799-zx7GTQ.bp2-animate-enter45 {
-  animation: bp2-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .gesamtpreiswort-Hg57IW.bp2-animate-enter92 {
+  animation: bp2-animate-enter92-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter45-frames {
+@keyframes bp2-animate-enter92-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3771,12 +4328,12 @@ to{opacity: 1;
   background-color: transparent;
   height: 259px;
   position: absolute;
-  right: 2px;
+  right: 0px;
   top: 0px;
   width: 73px;
 }
 
-.warenkorb-767 .preis-SgkiHa {
+.warenkorb-767 .preiswort-SgkiHa {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -3792,20 +4349,20 @@ to{opacity: 1;
   width: 52px;
 }
 
-.warenkorb-767 .preis-SgkiHa.bp2-animate-enter46 {
-  animation: bp2-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .preiswort-SgkiHa.bp2-animate-enter93 {
+  animation: bp2-animate-enter93-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter46-frames {
+@keyframes bp2-animate-enter93-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-767 .x6799-SgkiHa {
+.warenkorb-767 .preis-SgkiHa {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   bottom: -2px;
@@ -3821,43 +4378,34 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-767 .x6799-SgkiHa.bp2-animate-enter47 {
-  animation: bp2-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .preis-SgkiHa.bp2-animate-enter94 {
+  animation: bp2-animate-enter94-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter47-frames {
+@keyframes bp2-animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-767 .gruppe-519-tkUahl {
+.warenkorb-767 .gruppe-583-tkUahl {
   background-color: transparent;
-  height: 350px;
-  left: calc(11.11% - 53px);
+  bottom: calc(39.11% - 39px);
+  height: 99px;
   position: absolute;
-  top: calc(29.85% - 104px);
-  width: 481px;
+  right: 84px;
+  width: 203px;
 }
 
-.warenkorb-767 .gruppe-518-0KB2IX {
-  background-color: transparent;
-  bottom: calc(45.36% - 76px);
-  height: 167px;
-  position: absolute;
-  right: 0px;
-  width: 219px;
-}
-
-.warenkorb-767 .kleidchen-1-SxlR1S {
+.warenkorb-767 .jetzt-kaufen-282XYF {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
   height: 22px;
-  left: 2px;
+  left: 7px;
   letter-spacing: 0.00px;
   line-height: 20px;
   opacity: 0;
@@ -3865,286 +4413,32 @@ to{opacity: 1;
   text-align: left;
   top: 0px;
   white-space: nowrap;
-  width: 136px;
+  width: 122px;
 }
 
-.warenkorb-767 .kleidchen-1-SxlR1S.bp2-animate-enter48 {
-  animation: bp2-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .jetzt-kaufen-282XYF.bp2-animate-enter95 {
+  animation: bp2-animate-enter95-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter48-frames {
+@keyframes bp2-animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-767 .versand-5-7-werktage-SxlR1S {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
+.warenkorb-767 .bezahlen-282XYF {
   background-color: transparent;
-  bottom: calc(36.92% - 6px);
-  display: block;
-  height: 16px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 147px;
-}
-
-.warenkorb-767 .versand-5-7-werktage-SxlR1S.bp2-animate-enter49 {
-  animation: bp2-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter49-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-767 .lschen-SxlR1S {
-  background-color: transparent;
-  bottom: -2px;
-  display: block;
-  height: 16px;
-  left: 2px;
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 55px;
-}
-
-.warenkorb-767 .lschen-SxlR1S.bp2-animate-enter50 {
-  animation: bp2-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter50-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-767 .rot-weies-entenkleidchen-SxlR1S {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 19px;
-  left: 2px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(33.11% - 6px);
-  white-space: nowrap;
-  width: 100%;
-}
-
-.warenkorb-767 .rot-weies-entenkleidchen-SxlR1S.bp2-animate-enter51 {
-  animation: bp2-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter51-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-767 .enten-kleid-front-min-0KB2IX {
-  background-color: transparent;
-  display: block;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  top: 1px;
-  width: 241px;
-}
-
-.warenkorb-767 .enten-kleid-front-min-0KB2IX.bp2-animate-enter52 {
-  animation: bp2-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter52-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-767 .gruppe-520-tkUahl {
-  background-color: transparent;
-  bottom: calc(42.14% - 20px);
+  bottom: 0px;
   height: 47px;
-  left: calc(50.00% - 302px);
+  left: calc(50.00% - 102px);
   position: absolute;
-  width: 605px;
+  width: 203px;
 }
 
-.warenkorb-767 .oder-yeRSmm {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(44.35% - 7px);
-  display: block;
-  height: 16px;
-  left: calc(49.99% - 15px);
-  letter-spacing: 0.00px;
-  line-height: 13.5px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 31px;
-}
-
-.warenkorb-767 .oder-yeRSmm.bp2-animate-enter53 {
-  animation: bp2-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter53-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-767 .gruppe-197-yeRSmm {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 100%;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  transition: all 0.3s ease;
-  width: 246px;
-}
-
-.warenkorb-767 .gruppe-197-yeRSmm.bp2-animate-enter54 {
-  animation: bp2-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter54-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-767 .gruppe-197-yeRSmm:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb-767 .rechteck-114-BXszKj {
-  background-color: var(--stratos);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 100%;
-  left: 0px;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb-767 .bezahlen-mit-BXszKj {
-  background-color: transparent;
-  height: 22px;
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  top: calc(48.80% - 11px);
-  white-space: nowrap;
-  width: 147px;
-}
-
-.warenkorb-767 .x34_5-bitcoin-BXszKj {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: calc(25.59% - 4px);
-  top: calc(50.00% - 12px);
-  width: 17px;
-}
-
-.warenkorb-767 .gruppe-205-agQm1t {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb-767 .pfad-287-Wgpq7x {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 100%;
-}
-
-.warenkorb-767 .gruppe-211-yeRSmm {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 100%;
-  left: 0px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.3s ease;
-  width: 246px;
-}
-
-.warenkorb-767 .gruppe-211-yeRSmm.bp2-animate-enter55 {
-  animation: bp2-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter55-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.warenkorb-767 .gruppe-211-yeRSmm:hover {
-  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
-}
-
-.warenkorb-767 .gruppe-204-nIGBGy {
+.warenkorb-767 .gruppe-204-dUbIVQ {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -4153,7 +4447,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .rechteck-114-sQsYaa {
+.warenkorb-767 .rechteck-114-7uGNOU {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -4165,7 +4459,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .bezahlen-mit-sQsYaa {
+.warenkorb-767 .bezahlen-mit-7uGNOU {
   background-color: transparent;
   height: 22px;
   left: 0px;
@@ -4175,17 +4469,66 @@ to{opacity: 1;
   text-align: center;
   top: calc(48.80% - 11px);
   white-space: nowrap;
-  width: 147px;
+  width: calc(100.00% - 56px);
 }
 
-.warenkorb-767 .iconfinder__-paypal-39_1156727-nIGBGy {
+.warenkorb-767 .gruppe-556-dUbIVQ {
   background-color: transparent;
-  height: 19px;
+  height: calc(100.00% - 12px);
+  position: absolute;
+  right: 25px;
+  top: 6px;
+  width: 35px;
+}
+
+.warenkorb-767 .ellipse-46-r3kRr8 {
+  background-color: var(--black);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-767 .linie-49-r3kRr8 {
+  background-color: transparent;
+  bottom: calc(49.77% - 8px);
+  height: 16px;
+  left: calc(29.62% - 1px);
   object-fit: cover;
   position: absolute;
-  right: calc(22.54% - 17px);
-  top: calc(50.00% - 10px);
-  width: 75px;
+  width: 2px;
+}
+
+.warenkorb-767 .linie-51-r3kRr8 {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.95% - 7px);
+  top: calc(42.58% - 1px);
+  width: 14px;
+}
+
+.warenkorb-767 .linie-52-r3kRr8 {
+  background-color: transparent;
+  bottom: calc(42.31% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.95% - 7px);
+  width: 14px;
+}
+
+.warenkorb-767 .linie-50-r3kRr8 {
+  background-color: transparent;
+  bottom: calc(49.77% - 8px);
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.36% - 1px);
+  width: 2px;
 }
 
 .warenkorb-767 .rechteck-118-tkUahl {
@@ -4394,13 +4737,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .gruppe-163-tkUahl.bp2-animate-enter56 {
-  animation: bp2-animate-enter56-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-767 .gruppe-163-tkUahl.bp2-animate-enter96 {
+  animation: bp2-animate-enter96-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter56-frames {
+@keyframes bp2-animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4888,17 +5231,358 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb-767 .ssl-tkUahl.bp2-animate-enter57 {
-  animation: bp2-animate-enter57-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-767 .ssl-tkUahl.bp2-animate-enter97 {
+  animation: bp2-animate-enter97-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter57-frames {
+@keyframes bp2-animate-enter97-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.warenkorb-767 .gruppe-570-tkUahl {
+  background-color: transparent;
+  height: 188px;
+  left: calc(8.83% - 36px);
+  position: absolute;
+  top: calc(32.93% - 62px);
+  width: 407px;
+}
+
+.warenkorb-767 .gruppe-519-T49sLK {
+  background-color: transparent;
+  height: 155px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 77px);
+  width: 145px;
+}
+
+.warenkorb-767 .gruppe-518-neknWy {
+  background-color: transparent;
+  height: 155px;
+  left: calc(50.00% - 72px);
+  position: relative;
+  top: calc(50.00% - 78px);
+  width: 145px;
+}
+
+.warenkorb-767 .kleidchenbezeichnung-8XREJr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% - 9px);
+}
+
+.warenkorb-767 .kleidchenbezeichnung-8XREJr.bp2-animate-enter98 {
+  animation: bp2-animate-enter98-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter98-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .versand-5-7-werktage-8XREJr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(31.47% - 5px);
+  display: block;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13.5px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.warenkorb-767 .versand-5-7-werktage-8XREJr.bp2-animate-enter99 {
+  animation: bp2-animate-enter99-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter99-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .lschen-8XREJr {
+  background-color: transparent;
+  bottom: -2px;
+  display: block;
+  height: 16px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 13.5px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.warenkorb-767 .lschen-8XREJr.bp2-animate-enter100 {
+  animation: bp2-animate-enter100-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter100-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .vorderseiteklein-T49sLK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 241px;
+}
+
+.warenkorb-767 .gruppe-574-tkUahl {
+  background-color: transparent;
+  bottom: calc(35.35% - 84px);
+  height: 237px;
+  left: calc(16.21% - 41px);
+  position: absolute;
+  width: 255px;
+}
+
+.warenkorb-767 .ssl-QyFon5 {
+  background-color: transparent;
+  bottom: 174px;
+  display: block;
+  height: 63px;
+  left: calc(9.95% - 6px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 64px;
+}
+
+.warenkorb-767 .ssl-QyFon5.bp2-animate-enter101 {
+  animation: bp2-animate-enter101-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter101-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .sichere-verbindung-QyFon5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0;
+  position: absolute;
+  right: 9px;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.warenkorb-767 .sichere-verbindung-QyFon5.bp2-animate-enter102 {
+  animation: bp2-animate-enter102-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter102-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .versand-rckversand-kostenlos-QyFon5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(46.45% - 12px);
+  display: block;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.warenkorb-767 .versand-rckversand-kostenlos-QyFon5.bp2-animate-enter103 {
+  animation: bp2-animate-enter103-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter103-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .starkes-netzwerk-QyFon5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 23px;
+  display: block;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  right: 17px;
+  text-align: center;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.warenkorb-767 .starkes-netzwerk-QyFon5.bp2-animate-enter104 {
+  animation: bp2-animate-enter104-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter104-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.warenkorb-767 .gruppe-573-QyFon5 {
+  background-color: transparent;
+  bottom: calc(48.80% - 14px);
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.warenkorb-767 .rechteck-170-3PMKrL {
+  background-color: var(--candlelight);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-767 .x8666246_dhl_icon-3PMKrL {
+  background-color: transparent;
+  height: 7px;
+  left: calc(48.04% - 23px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.13% - 3px);
+  width: 49px;
+}
+
+.warenkorb-767 .gruppe-572-QyFon5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 58px;
+  left: calc(11.06% - 6px);
+  position: absolute;
+  width: 58px;
+}
+
+.warenkorb-767 .gruppe-556-ba0qrA {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-767 .ellipse-46-K1sRN1 {
+  background-color: var(--black);
+  border-radius: 29px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-767 .linie-49-K1sRN1 {
+  background-color: transparent;
+  height: 26px;
+  left: calc(29.11% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.28% - 13px);
+  width: 4px;
+}
+
+.warenkorb-767 .linie-51-K1sRN1 {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.80% - 11px);
+  top: calc(41.22% - 2px);
+  width: 23px;
+}
+
+.warenkorb-767 .linie-52-K1sRN1 {
+  background-color: transparent;
+  bottom: calc(43.23% - 2px);
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.80% - 11px);
+  width: 23px;
+}
+
+.warenkorb-767 .linie-50-K1sRN1 {
+  background-color: transparent;
+  height: 26px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.68% - 1px);
+  top: calc(48.28% - 13px);
+  width: 4px;
 }
 @media screen and (max-width: 766px) {
   .screen.warenkorb { 

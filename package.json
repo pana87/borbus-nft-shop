@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "eleventy --serve",
+    "start": "npm run clean && eleventy --serve",
     "build": "npm run clean && eleventy",
     "clean": "rm -rf ./public"
   },
