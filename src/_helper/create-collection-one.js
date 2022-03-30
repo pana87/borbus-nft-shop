@@ -25,7 +25,7 @@ module.exports.createCollectionOne = function (cids) {
     {
       ipfs_car: cids[2],
       price: "39,33",
-      description: "Oben Bunt, unten Rot. Dieses Kleidchen ist für Frühlings- spaziergänge und rumtollen am Sonntag morgen gemacht. Das Borbus Etikett bestätigt die Echtheit und Einzigartigkeit.",
+      description: "Oben Bunt, unten Rot. Dieses Kleidchen ist für Frühlingsspaziergänge und rumtollen am Sonntag morgen gemacht. Das Borbus Etikett bestätigt die Echtheit und Einzigartigkeit.",
       attributes: {
         compatibility: ["Atmungsaktiv", "Hautfreundlich"],
         size: "98",

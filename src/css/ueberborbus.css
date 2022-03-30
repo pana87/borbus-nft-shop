@@ -33,13 +33,13 @@
   width: 913px;
 }
 
-.ueber-borbus-1200 .kontakt-min-s0wPSI.bp3-animate-enter {
-  animation: bp3-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .kontakt-min-s0wPSI.bp3-animate-enter236 {
+  animation: bp3-animate-enter236-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter-frames {
+@keyframes bp3-animate-enter236-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -61,13 +61,13 @@ to{opacity: 1;
   width: 528px;
 }
 
-.ueber-borbus-1200 .unsere-kleidchen-sin-s0wPSI.bp3-animate-enter1 {
-  animation: bp3-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .unsere-kleidchen-sin-s0wPSI.bp3-animate-enter237 {
+  animation: bp3-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter1-frames {
+@keyframes bp3-animate-enter237-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -271,13 +271,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.ueber-borbus-1200 .home-A9iRUH.bp3-animate-enter2 {
-  animation: bp3-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .home-A9iRUH.bp3-animate-enter238 {
+  animation: bp3-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter2-frames {
+@keyframes bp3-animate-enter238-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -300,13 +300,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.ueber-borbus-1200 .shop-A9iRUH.bp3-animate-enter3 {
-  animation: bp3-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .shop-A9iRUH.bp3-animate-enter239 {
+  animation: bp3-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter3-frames {
+@keyframes bp3-animate-enter239-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -324,13 +324,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.ueber-borbus-1200 .gruppe-188-A9iRUH.bp3-animate-enter4 {
-  animation: bp3-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .gruppe-188-A9iRUH.bp3-animate-enter240 {
+  animation: bp3-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter4-frames {
+@keyframes bp3-animate-enter240-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -395,13 +395,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.ueber-borbus-1200 .gruppe-163-qmADx4.bp3-animate-enter5 {
-  animation: bp3-animate-enter5-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-1200 .gruppe-163-qmADx4.bp3-animate-enter241 {
+  animation: bp3-animate-enter241-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter5-frames {
+@keyframes bp3-animate-enter241-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -877,13 +877,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueber-borbus-1200 .ssl-qmADx4.bp3-animate-enter6 {
-  animation: bp3-animate-enter6-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-1200 .ssl-qmADx4.bp3-animate-enter242 {
+  animation: bp3-animate-enter242-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter6-frames {
+@keyframes bp3-animate-enter242-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -915,13 +915,13 @@ to{opacity: 1;
   width: 1157px;
 }
 
-.ueber-borbus-375 .kontakt-min-wZ4CaH.bp1-animate-enter {
-  animation: bp1-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .kontakt-min-wZ4CaH.bp1-animate-enter231 {
+  animation: bp1-animate-enter231-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter-frames {
+@keyframes bp1-animate-enter231-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -939,13 +939,13 @@ to{opacity: 1;
   width: calc(100.00% - 57px);
 }
 
-.ueber-borbus-375 .gruppe-166-wZ4CaH.bp1-animate-enter1 {
-  animation: bp1-animate-enter1-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-375 .gruppe-166-wZ4CaH.bp1-animate-enter232 {
+  animation: bp1-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter1-frames {
+@keyframes bp1-animate-enter232-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -989,13 +989,13 @@ to{opacity: 1;
   width: 48px;
 }
 
-.ueber-borbus-375 .home-jw7xTz.bp1-animate-enter2 {
-  animation: bp1-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .home-jw7xTz.bp1-animate-enter233 {
+  animation: bp1-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter2-frames {
+@keyframes bp1-animate-enter233-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1018,13 +1018,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.ueber-borbus-375 .shop-wZ4CaH.bp1-animate-enter3 {
-  animation: bp1-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .shop-wZ4CaH.bp1-animate-enter234 {
+  animation: bp1-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter3-frames {
+@keyframes bp1-animate-enter234-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1042,13 +1042,13 @@ to{opacity: 1;
   width: 100px;
 }
 
-.ueber-borbus-375 .gruppe-188-wZ4CaH.bp1-animate-enter4 {
-  animation: bp1-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .gruppe-188-wZ4CaH.bp1-animate-enter235 {
+  animation: bp1-animate-enter235-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter4-frames {
+@keyframes bp1-animate-enter235-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1761,13 +1761,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueber-borbus-375 .ssl-IKdQoK.bp1-animate-enter5 {
-  animation: bp1-animate-enter5-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-375 .ssl-IKdQoK.bp1-animate-enter236 {
+  animation: bp1-animate-enter236-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter5-frames {
+@keyframes bp1-animate-enter236-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1799,13 +1799,13 @@ to{opacity: 1;
   width: calc(100.00% + 390px);
 }
 
-.ueber-borbus-767 .kontakt-min-YI5wt5.bp2-animate-enter {
-  animation: bp2-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .kontakt-min-YI5wt5.bp2-animate-enter237 {
+  animation: bp2-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter-frames {
+@keyframes bp2-animate-enter237-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1823,13 +1823,13 @@ to{opacity: 1;
   width: calc(100.00% - 151px);
 }
 
-.ueber-borbus-767 .gruppe-166-YI5wt5.bp2-animate-enter1 {
-  animation: bp2-animate-enter1-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-767 .gruppe-166-YI5wt5.bp2-animate-enter238 {
+  animation: bp2-animate-enter238-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter1-frames {
+@keyframes bp2-animate-enter238-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2055,13 +2055,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.ueber-borbus-767 .home-YI5wt5.bp2-animate-enter2 {
-  animation: bp2-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .home-YI5wt5.bp2-animate-enter239 {
+  animation: bp2-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter2-frames {
+@keyframes bp2-animate-enter239-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2084,13 +2084,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.ueber-borbus-767 .shop-YI5wt5.bp2-animate-enter3 {
-  animation: bp2-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .shop-YI5wt5.bp2-animate-enter240 {
+  animation: bp2-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter3-frames {
+@keyframes bp2-animate-enter240-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2108,13 +2108,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.ueber-borbus-767 .gruppe-188-YI5wt5.bp2-animate-enter4 {
-  animation: bp2-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .gruppe-188-YI5wt5.bp2-animate-enter241 {
+  animation: bp2-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter4-frames {
+@keyframes bp2-animate-enter241-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2170,13 +2170,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.ueber-borbus-767 .gruppe-163-YI5wt5.bp2-animate-enter5 {
-  animation: bp2-animate-enter5-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-767 .gruppe-163-YI5wt5.bp2-animate-enter242 {
+  animation: bp2-animate-enter242-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter5-frames {
+@keyframes bp2-animate-enter242-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2663,13 +2663,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueber-borbus-767 .ssl-YI5wt5.bp2-animate-enter6 {
-  animation: bp2-animate-enter6-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-767 .ssl-YI5wt5.bp2-animate-enter243 {
+  animation: bp2-animate-enter243-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter6-frames {
+@keyframes bp2-animate-enter243-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2704,13 +2704,13 @@ to{opacity: 1;
   width: 822px;
 }
 
-.ueberborbus .unsere-kleidchen-sin-ZGjEw1.bp4-animate-enter {
-  animation: bp4-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .unsere-kleidchen-sin-ZGjEw1.bp4-animate-enter148 {
+  animation: bp4-animate-enter148-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter-frames {
+@keyframes bp4-animate-enter148-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2729,13 +2729,13 @@ to{opacity: 1;
   width: 913px;
 }
 
-.ueberborbus .kontakt-min-ZGjEw1.bp4-animate-enter1 {
-  animation: bp4-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .kontakt-min-ZGjEw1.bp4-animate-enter149 {
+  animation: bp4-animate-enter149-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter1-frames {
+@keyframes bp4-animate-enter149-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2939,13 +2939,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.ueberborbus .home-ZGjEw1.bp4-animate-enter2 {
-  animation: bp4-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .home-ZGjEw1.bp4-animate-enter150 {
+  animation: bp4-animate-enter150-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter2-frames {
+@keyframes bp4-animate-enter150-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2967,13 +2967,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.ueberborbus .shop-ZGjEw1.bp4-animate-enter3 {
-  animation: bp4-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .shop-ZGjEw1.bp4-animate-enter151 {
+  animation: bp4-animate-enter151-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter3-frames {
+@keyframes bp4-animate-enter151-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2991,13 +2991,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.ueberborbus .gruppe-188-ZGjEw1.bp4-animate-enter4 {
-  animation: bp4-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .gruppe-188-ZGjEw1.bp4-animate-enter152 {
+  animation: bp4-animate-enter152-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter4-frames {
+@keyframes bp4-animate-enter152-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3053,13 +3053,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.ueberborbus .gruppe-163-ZGjEw1.bp4-animate-enter5 {
-  animation: bp4-animate-enter5-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .gruppe-163-ZGjEw1.bp4-animate-enter153 {
+  animation: bp4-animate-enter153-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter5-frames {
+@keyframes bp4-animate-enter153-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3311,13 +3311,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueberborbus .ssl-ZGjEw1.bp4-animate-enter6 {
-  animation: bp4-animate-enter6-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .ssl-ZGjEw1.bp4-animate-enter154 {
+  animation: bp4-animate-enter154-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter6-frames {
+@keyframes bp4-animate-enter154-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
