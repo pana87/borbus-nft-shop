@@ -210,13 +210,13 @@
   width: 60px;
 }
 
-.groessentabelle .zurck-jDXr4x.bp4-animate-enter145 {
-  animation: bp4-animate-enter145-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle .zurck-jDXr4x.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter145-frames {
+@keyframes bp4-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -248,13 +248,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle .gruppe-163-jDXr4x.bp4-animate-enter146 {
-  animation: bp4-animate-enter146-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle .gruppe-163-jDXr4x.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter146-frames {
+@keyframes bp4-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -506,13 +506,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle .ssl-jDXr4x.bp4-animate-enter147 {
-  animation: bp4-animate-enter147-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle .ssl-jDXr4x.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter147-frames {
+@keyframes bp4-animate-enter2-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1235,13 +1235,13 @@ to{opacity: 1;
   width: 60px;
 }
 
-.groessentabelle-1200 .zurck-jmXmri.bp3-animate-enter233 {
-  animation: bp3-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle-1200 .zurck-jmXmri.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter233-frames {
+@keyframes bp3-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1282,13 +1282,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-1200 .gruppe-163-UaqECM.bp3-animate-enter234 {
-  animation: bp3-animate-enter234-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-1200 .gruppe-163-UaqECM.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter234-frames {
+@keyframes bp3-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1766,13 +1766,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle-1200 .ssl-UaqECM.bp3-animate-enter235 {
-  animation: bp3-animate-enter235-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-1200 .ssl-UaqECM.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter235-frames {
+@keyframes bp3-animate-enter2-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2090,13 +2090,13 @@ to{opacity: 1;
   width: 54px;
 }
 
-.groessentabelle-375 .zurck-GkQICZ.bp1-animate-enter229 {
-  animation: bp1-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle-375 .zurck-GkQICZ.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter229-frames {
+@keyframes bp1-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2791,13 +2791,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle-375 .ssl-rgpmMD.bp1-animate-enter230 {
-  animation: bp1-animate-enter230-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-375 .ssl-rgpmMD.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter230-frames {
+@keyframes bp1-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3295,13 +3295,13 @@ to{opacity: 1;
   width: 60px;
 }
 
-.groessentabelle-767 .zurck-ZfWh5e.bp2-animate-enter234 {
-  animation: bp2-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle-767 .zurck-ZfWh5e.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter234-frames {
+@keyframes bp2-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3333,13 +3333,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-767 .gruppe-163-ZfWh5e.bp2-animate-enter235 {
-  animation: bp2-animate-enter235-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-767 .gruppe-163-ZfWh5e.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter235-frames {
+@keyframes bp2-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3827,13 +3827,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle-767 .ssl-ZfWh5e.bp2-animate-enter236 {
-  animation: bp2-animate-enter236-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-767 .ssl-ZfWh5e.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter236-frames {
+@keyframes bp2-animate-enter2-frames {
   from{opacity: 0;
 }
 to{opacity: 1;

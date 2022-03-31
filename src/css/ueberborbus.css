@@ -33,13 +33,13 @@
   width: 913px;
 }
 
-.ueber-borbus-1200 .kontakt-min-s0wPSI.bp3-animate-enter236 {
-  animation: bp3-animate-enter236-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .kontakt-min-s0wPSI.bp3-animate-enter280 {
+  animation: bp3-animate-enter280-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter236-frames {
+@keyframes bp3-animate-enter280-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -61,13 +61,13 @@ to{opacity: 1;
   width: 528px;
 }
 
-.ueber-borbus-1200 .unsere-kleidchen-sin-s0wPSI.bp3-animate-enter237 {
-  animation: bp3-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .unsere-kleidchen-sin-s0wPSI.bp3-animate-enter281 {
+  animation: bp3-animate-enter281-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter237-frames {
+@keyframes bp3-animate-enter281-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -271,13 +271,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.ueber-borbus-1200 .home-A9iRUH.bp3-animate-enter238 {
-  animation: bp3-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .home-A9iRUH.bp3-animate-enter282 {
+  animation: bp3-animate-enter282-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter238-frames {
+@keyframes bp3-animate-enter282-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -300,13 +300,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.ueber-borbus-1200 .shop-A9iRUH.bp3-animate-enter239 {
-  animation: bp3-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .shop-A9iRUH.bp3-animate-enter283 {
+  animation: bp3-animate-enter283-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter239-frames {
+@keyframes bp3-animate-enter283-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -324,13 +324,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.ueber-borbus-1200 .gruppe-188-A9iRUH.bp3-animate-enter240 {
-  animation: bp3-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-1200 .gruppe-188-A9iRUH.bp3-animate-enter284 {
+  animation: bp3-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter240-frames {
+@keyframes bp3-animate-enter284-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -348,31 +348,6 @@ to{opacity: 1;
   top: 1px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
-}
-
-.ueber-borbus-1200 .borbus-A9iRUH {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.90% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.ueber-borbus-1200 .iconfinder_basket_ecommerce_shop_4177565-A9iRUH {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 96px;
-  top: 74px;
-  width: 28px;
 }
 
 .ueber-borbus-1200 .gruppe-322-A9iRUH {
@@ -395,13 +370,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.ueber-borbus-1200 .gruppe-163-qmADx4.bp3-animate-enter241 {
-  animation: bp3-animate-enter241-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-1200 .gruppe-163-qmADx4.bp3-animate-enter285 {
+  animation: bp3-animate-enter285-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter241-frames {
+@keyframes bp3-animate-enter285-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -877,17 +852,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueber-borbus-1200 .ssl-qmADx4.bp3-animate-enter242 {
-  animation: bp3-animate-enter242-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-1200 .ssl-qmADx4.bp3-animate-enter286 {
+  animation: bp3-animate-enter286-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter242-frames {
+@keyframes bp3-animate-enter286-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.ueber-borbus-1200 .borbus-A9iRUH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - ueber-borbus-375 */
 
@@ -915,13 +904,13 @@ to{opacity: 1;
   width: 1157px;
 }
 
-.ueber-borbus-375 .kontakt-min-wZ4CaH.bp1-animate-enter231 {
-  animation: bp1-animate-enter231-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .kontakt-min-wZ4CaH.bp1-animate-enter266 {
+  animation: bp1-animate-enter266-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter231-frames {
+@keyframes bp1-animate-enter266-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -939,13 +928,13 @@ to{opacity: 1;
   width: calc(100.00% - 57px);
 }
 
-.ueber-borbus-375 .gruppe-166-wZ4CaH.bp1-animate-enter232 {
-  animation: bp1-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-375 .gruppe-166-wZ4CaH.bp1-animate-enter267 {
+  animation: bp1-animate-enter267-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter232-frames {
+@keyframes bp1-animate-enter267-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -989,13 +978,13 @@ to{opacity: 1;
   width: 48px;
 }
 
-.ueber-borbus-375 .home-jw7xTz.bp1-animate-enter233 {
-  animation: bp1-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .home-jw7xTz.bp1-animate-enter268 {
+  animation: bp1-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter233-frames {
+@keyframes bp1-animate-enter268-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1018,13 +1007,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.ueber-borbus-375 .shop-wZ4CaH.bp1-animate-enter234 {
-  animation: bp1-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .shop-wZ4CaH.bp1-animate-enter269 {
+  animation: bp1-animate-enter269-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter234-frames {
+@keyframes bp1-animate-enter269-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1042,13 +1031,13 @@ to{opacity: 1;
   width: 100px;
 }
 
-.ueber-borbus-375 .gruppe-188-wZ4CaH.bp1-animate-enter235 {
-  animation: bp1-animate-enter235-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-375 .gruppe-188-wZ4CaH.bp1-animate-enter270 {
+  animation: bp1-animate-enter270-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter235-frames {
+@keyframes bp1-animate-enter270-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1066,31 +1055,6 @@ to{opacity: 1;
   top: 1px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
-}
-
-.ueber-borbus-375 .borbus-wZ4CaH {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.26% - 118px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.ueber-borbus-375 .iconfinder_basket_ecommerce_shop_4177565-wZ4CaH {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 20px;
-  top: 54px;
-  width: 28px;
 }
 
 .ueber-borbus-375 .rechteck-118-wZ4CaH {
@@ -1761,17 +1725,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueber-borbus-375 .ssl-IKdQoK.bp1-animate-enter236 {
-  animation: bp1-animate-enter236-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-375 .ssl-IKdQoK.bp1-animate-enter271 {
+  animation: bp1-animate-enter271-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter236-frames {
+@keyframes bp1-animate-enter271-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.ueber-borbus-375 .borbus-wZ4CaH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - ueber-borbus-767 */
 
@@ -1799,13 +1777,13 @@ to{opacity: 1;
   width: calc(100.00% + 390px);
 }
 
-.ueber-borbus-767 .kontakt-min-YI5wt5.bp2-animate-enter237 {
-  animation: bp2-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .kontakt-min-YI5wt5.bp2-animate-enter281 {
+  animation: bp2-animate-enter281-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter237-frames {
+@keyframes bp2-animate-enter281-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1823,13 +1801,13 @@ to{opacity: 1;
   width: calc(100.00% - 151px);
 }
 
-.ueber-borbus-767 .gruppe-166-YI5wt5.bp2-animate-enter238 {
-  animation: bp2-animate-enter238-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-767 .gruppe-166-YI5wt5.bp2-animate-enter282 {
+  animation: bp2-animate-enter282-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter238-frames {
+@keyframes bp2-animate-enter282-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2055,13 +2033,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.ueber-borbus-767 .home-YI5wt5.bp2-animate-enter239 {
-  animation: bp2-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .home-YI5wt5.bp2-animate-enter283 {
+  animation: bp2-animate-enter283-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter239-frames {
+@keyframes bp2-animate-enter283-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2084,13 +2062,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.ueber-borbus-767 .shop-YI5wt5.bp2-animate-enter240 {
-  animation: bp2-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .shop-YI5wt5.bp2-animate-enter284 {
+  animation: bp2-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter240-frames {
+@keyframes bp2-animate-enter284-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2108,13 +2086,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.ueber-borbus-767 .gruppe-188-YI5wt5.bp2-animate-enter241 {
-  animation: bp2-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+.ueber-borbus-767 .gruppe-188-YI5wt5.bp2-animate-enter285 {
+  animation: bp2-animate-enter285-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter241-frames {
+@keyframes bp2-animate-enter285-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2134,31 +2112,6 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.ueber-borbus-767 .borbus-YI5wt5 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.81% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.ueber-borbus-767 .iconfinder_basket_ecommerce_shop_4177565-YI5wt5 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 96px;
-  top: 74px;
-  width: 28px;
-}
-
 .ueber-borbus-767 .gruppe-163-YI5wt5 {
   background-color: transparent;
   bottom: 0px;
@@ -2170,13 +2123,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.ueber-borbus-767 .gruppe-163-YI5wt5.bp2-animate-enter242 {
-  animation: bp2-animate-enter242-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-767 .gruppe-163-YI5wt5.bp2-animate-enter286 {
+  animation: bp2-animate-enter286-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter242-frames {
+@keyframes bp2-animate-enter286-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2663,17 +2616,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueber-borbus-767 .ssl-YI5wt5.bp2-animate-enter243 {
-  animation: bp2-animate-enter243-frames 0.20s linear 0.10s 1 normal forwards;
+.ueber-borbus-767 .ssl-YI5wt5.bp2-animate-enter287 {
+  animation: bp2-animate-enter287-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter243-frames {
+@keyframes bp2-animate-enter287-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.ueber-borbus-767 .borbus-YI5wt5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - ueberborbus */
 
@@ -2704,13 +2671,13 @@ to{opacity: 1;
   width: 822px;
 }
 
-.ueberborbus .unsere-kleidchen-sin-ZGjEw1.bp4-animate-enter148 {
-  animation: bp4-animate-enter148-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .unsere-kleidchen-sin-ZGjEw1.bp4-animate-enter239 {
+  animation: bp4-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter148-frames {
+@keyframes bp4-animate-enter239-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2729,13 +2696,13 @@ to{opacity: 1;
   width: 913px;
 }
 
-.ueberborbus .kontakt-min-ZGjEw1.bp4-animate-enter149 {
-  animation: bp4-animate-enter149-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .kontakt-min-ZGjEw1.bp4-animate-enter240 {
+  animation: bp4-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter149-frames {
+@keyframes bp4-animate-enter240-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2939,13 +2906,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.ueberborbus .home-ZGjEw1.bp4-animate-enter150 {
-  animation: bp4-animate-enter150-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .home-ZGjEw1.bp4-animate-enter241 {
+  animation: bp4-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter150-frames {
+@keyframes bp4-animate-enter241-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2967,13 +2934,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.ueberborbus .shop-ZGjEw1.bp4-animate-enter151 {
-  animation: bp4-animate-enter151-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .shop-ZGjEw1.bp4-animate-enter242 {
+  animation: bp4-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter151-frames {
+@keyframes bp4-animate-enter242-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2991,13 +2958,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.ueberborbus .gruppe-188-ZGjEw1.bp4-animate-enter152 {
-  animation: bp4-animate-enter152-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .gruppe-188-ZGjEw1.bp4-animate-enter243 {
+  animation: bp4-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter152-frames {
+@keyframes bp4-animate-enter243-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3017,31 +2984,6 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.ueberborbus .borbus-ZGjEw1 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.ueberborbus .iconfinder_basket_ecommerce_shop_4177565-ZGjEw1 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 96px;
-  top: 74px;
-  width: 28px;
-}
-
 .ueberborbus .gruppe-163-ZGjEw1 {
   background-color: transparent;
   bottom: 0px;
@@ -3053,13 +2995,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.ueberborbus .gruppe-163-ZGjEw1.bp4-animate-enter153 {
-  animation: bp4-animate-enter153-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .gruppe-163-ZGjEw1.bp4-animate-enter244 {
+  animation: bp4-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter153-frames {
+@keyframes bp4-animate-enter244-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3311,13 +3253,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.ueberborbus .ssl-ZGjEw1.bp4-animate-enter154 {
-  animation: bp4-animate-enter154-frames 0.20s ease 0.10s 1 normal forwards;
+.ueberborbus .ssl-ZGjEw1.bp4-animate-enter245 {
+  animation: bp4-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter154-frames {
+@keyframes bp4-animate-enter245-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3555,6 +3497,20 @@ to{opacity: 1;
   text-align: left;
   white-space: nowrap;
   width: 76px;
+}
+
+.ueberborbus .borbus-ZGjEw1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 @media screen and (max-width: 766px) {
   .screen.ueberborbus { 

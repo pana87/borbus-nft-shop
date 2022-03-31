@@ -36,13 +36,13 @@
   width: calc(100.00% + 2px);
 }
 
-.allgemeine-geschaftsbedingungen-1200 .geltungsbereichfr-al-2T12a9.bp3-animate-enter288 {
-  animation: bp3-animate-enter288-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-1200 .geltungsbereichfr-al-2T12a9.bp3-animate-enter276 {
+  animation: bp3-animate-enter276-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter288-frames {
+@keyframes bp3-animate-enter276-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -64,13 +64,13 @@ to{opacity: 1;
   width: 644px;
 }
 
-.allgemeine-geschaftsbedingungen-1200 .allgemeine-geschftsbedingungen-2T12a9.bp3-animate-enter289 {
-  animation: bp3-animate-enter289-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-1200 .allgemeine-geschftsbedingungen-2T12a9.bp3-animate-enter277 {
+  animation: bp3-animate-enter277-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter289-frames {
+@keyframes bp3-animate-enter277-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -258,20 +258,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.allgemeine-geschaftsbedingungen-1200 .borbus-XYeWvv {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.90% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .allgemeine-geschaftsbedingungen-1200 .gruppe-322-XYeWvv {
   background-color: transparent;
   bottom: 0px;
@@ -292,13 +278,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.allgemeine-geschaftsbedingungen-1200 .gruppe-163-KLd32K.bp3-animate-enter290 {
-  animation: bp3-animate-enter290-frames 0.20s linear 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-1200 .gruppe-163-KLd32K.bp3-animate-enter278 {
+  animation: bp3-animate-enter278-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter290-frames {
+@keyframes bp3-animate-enter278-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -774,17 +760,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.allgemeine-geschaftsbedingungen-1200 .ssl-KLd32K.bp3-animate-enter291 {
-  animation: bp3-animate-enter291-frames 0.20s linear 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-1200 .ssl-KLd32K.bp3-animate-enter279 {
+  animation: bp3-animate-enter279-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter291-frames {
+@keyframes bp3-animate-enter279-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.allgemeine-geschaftsbedingungen-1200 .borbus-XYeWvv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - allgemeine-geschaftsbedingungen-375 */
 
@@ -824,13 +824,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.allgemeine-geschaftsbedingungen-375 .allgemeine-geschftsbedingungen-DNhW6k.bp1-animate-enter275 {
-  animation: bp1-animate-enter275-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-375 .allgemeine-geschftsbedingungen-DNhW6k.bp1-animate-enter264 {
+  animation: bp1-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter275-frames {
+@keyframes bp1-animate-enter264-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -848,20 +848,6 @@ to{opacity: 1;
   top: calc(45.40% - 2640px);
   white-space: nowrap;
   width: 326px;
-}
-
-.allgemeine-geschaftsbedingungen-375 .borbus-lQraW4 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.26% - 118px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .allgemeine-geschaftsbedingungen-375 .rechteck-118-lQraW4 {
@@ -1531,17 +1517,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.allgemeine-geschaftsbedingungen-375 .ssl-pJCeKD.bp1-animate-enter276 {
-  animation: bp1-animate-enter276-frames 0.20s linear 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-375 .ssl-pJCeKD.bp1-animate-enter265 {
+  animation: bp1-animate-enter265-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter276-frames {
+@keyframes bp1-animate-enter265-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.allgemeine-geschaftsbedingungen-375 .borbus-lQraW4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - allgemeine-geschaftsbedingungen-767 */
 
@@ -1580,13 +1580,13 @@ to{opacity: 1;
   width: calc(100.00% - 123px);
 }
 
-.allgemeine-geschaftsbedingungen-767 .allgemeine-geschftsbedingungen-b3pXnj.bp2-animate-enter288 {
-  animation: bp2-animate-enter288-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-767 .allgemeine-geschftsbedingungen-b3pXnj.bp2-animate-enter277 {
+  animation: bp2-animate-enter277-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter288-frames {
+@keyframes bp2-animate-enter277-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1604,13 +1604,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.allgemeine-geschaftsbedingungen-767 .gruppe-166-b3pXnj.bp2-animate-enter289 {
-  animation: bp2-animate-enter289-frames 0.20s linear 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-767 .gruppe-166-b3pXnj.bp2-animate-enter278 {
+  animation: bp2-animate-enter278-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter289-frames {
+@keyframes bp2-animate-enter278-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1811,20 +1811,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.allgemeine-geschaftsbedingungen-767 .borbus-d1s78f {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.81% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .allgemeine-geschaftsbedingungen-767 .gruppe-163-d1s78f {
   background-color: transparent;
   bottom: 0px;
@@ -1836,13 +1822,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.allgemeine-geschaftsbedingungen-767 .gruppe-163-d1s78f.bp2-animate-enter290 {
-  animation: bp2-animate-enter290-frames 0.20s linear 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-767 .gruppe-163-d1s78f.bp2-animate-enter279 {
+  animation: bp2-animate-enter279-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter290-frames {
+@keyframes bp2-animate-enter279-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2328,17 +2314,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.allgemeine-geschaftsbedingungen-767 .ssl-d1s78f.bp2-animate-enter291 {
-  animation: bp2-animate-enter291-frames 0.20s linear 0.10s 1 normal forwards;
+.allgemeine-geschaftsbedingungen-767 .ssl-d1s78f.bp2-animate-enter280 {
+  animation: bp2-animate-enter280-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter291-frames {
+@keyframes bp2-animate-enter280-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.allgemeine-geschaftsbedingungen-767 .borbus-d1s78f {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - allgemeinegeschaftsbedingungen */
 
@@ -2378,13 +2378,13 @@ to{opacity: 1;
   width: 1367px;
 }
 
-.allgemeinegeschaftsbedingungen .geltungsbereichfr-al-sQNZfs.bp4-animate-enter201 {
-  animation: bp4-animate-enter201-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeinegeschaftsbedingungen .geltungsbereichfr-al-sQNZfs.bp4-animate-enter235 {
+  animation: bp4-animate-enter235-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter201-frames {
+@keyframes bp4-animate-enter235-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2406,31 +2406,17 @@ to{opacity: 1;
   width: 644px;
 }
 
-.allgemeinegeschaftsbedingungen .allgemeine-geschftsbedingungen-sQNZfs.bp4-animate-enter202 {
-  animation: bp4-animate-enter202-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeinegeschaftsbedingungen .allgemeine-geschftsbedingungen-sQNZfs.bp4-animate-enter236 {
+  animation: bp4-animate-enter236-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter202-frames {
+@keyframes bp4-animate-enter236-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
-}
-
-.allgemeinegeschaftsbedingungen .borbus-hkuSop {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .allgemeinegeschaftsbedingungen .rechteck-118-hkuSop {
@@ -2625,13 +2611,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.allgemeinegeschaftsbedingungen .gruppe-163-hkuSop.bp4-animate-enter203 {
-  animation: bp4-animate-enter203-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeinegeschaftsbedingungen .gruppe-163-hkuSop.bp4-animate-enter237 {
+  animation: bp4-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter203-frames {
+@keyframes bp4-animate-enter237-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2883,13 +2869,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.allgemeinegeschaftsbedingungen .ssl-hkuSop.bp4-animate-enter204 {
-  animation: bp4-animate-enter204-frames 0.20s ease 0.10s 1 normal forwards;
+.allgemeinegeschaftsbedingungen .ssl-hkuSop.bp4-animate-enter238 {
+  animation: bp4-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter204-frames {
+@keyframes bp4-animate-enter238-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3126,6 +3112,20 @@ to{opacity: 1;
   text-align: left;
   white-space: nowrap;
   width: 76px;
+}
+
+.allgemeinegeschaftsbedingungen .borbus-hkuSop {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 @media screen and (max-width: 766px) {
   .screen.allgemeinegeschaftsbedingungen { 

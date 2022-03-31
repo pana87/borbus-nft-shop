@@ -36,13 +36,13 @@
   width: calc(100.00% + 2px);
 }
 
-.impressum .inhaltlich-verantwor-A4RtYs.bp4-animate-enter193 {
-  animation: bp4-animate-enter193-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum .inhaltlich-verantwor-A4RtYs.bp4-animate-enter227 {
+  animation: bp4-animate-enter227-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter193-frames {
+@keyframes bp4-animate-enter227-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -64,13 +64,13 @@ to{opacity: 1;
   width: 202px;
 }
 
-.impressum .impressum-A4RtYs.bp4-animate-enter194 {
-  animation: bp4-animate-enter194-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum .impressum-A4RtYs.bp4-animate-enter228 {
+  animation: bp4-animate-enter228-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter194-frames {
+@keyframes bp4-animate-enter228-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -258,20 +258,6 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum .borbus-EXDK4C {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .impressum .gruppe-163-EXDK4C {
   background-color: transparent;
   bottom: 0px;
@@ -283,13 +269,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum .gruppe-163-EXDK4C.bp4-animate-enter195 {
-  animation: bp4-animate-enter195-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum .gruppe-163-EXDK4C.bp4-animate-enter229 {
+  animation: bp4-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter195-frames {
+@keyframes bp4-animate-enter229-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -541,13 +527,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.impressum .ssl-EXDK4C.bp4-animate-enter196 {
-  animation: bp4-animate-enter196-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum .ssl-EXDK4C.bp4-animate-enter230 {
+  animation: bp4-animate-enter230-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter196-frames {
+@keyframes bp4-animate-enter230-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -786,6 +772,20 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.impressum .borbus-EXDK4C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
 /* screen - impressum-1200 */
 
 .impressum-1200 {
@@ -824,13 +824,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.impressum-1200 .inhaltlich-verantwor-gEqOEx.bp3-animate-enter280 {
-  animation: bp3-animate-enter280-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-1200 .inhaltlich-verantwor-gEqOEx.bp3-animate-enter268 {
+  animation: bp3-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter280-frames {
+@keyframes bp3-animate-enter268-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -852,31 +852,17 @@ to{opacity: 1;
   width: 202px;
 }
 
-.impressum-1200 .impressum-gEqOEx.bp3-animate-enter281 {
-  animation: bp3-animate-enter281-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-1200 .impressum-gEqOEx.bp3-animate-enter269 {
+  animation: bp3-animate-enter269-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter281-frames {
+@keyframes bp3-animate-enter269-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
-}
-
-.impressum-1200 .borbus-oaVtER {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.90% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .impressum-1200 .rechteck-118-oaVtER {
@@ -1080,13 +1066,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum-1200 .gruppe-163-gzoEhv.bp3-animate-enter282 {
-  animation: bp3-animate-enter282-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-1200 .gruppe-163-gzoEhv.bp3-animate-enter270 {
+  animation: bp3-animate-enter270-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter282-frames {
+@keyframes bp3-animate-enter270-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1562,17 +1548,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.impressum-1200 .ssl-gzoEhv.bp3-animate-enter283 {
-  animation: bp3-animate-enter283-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-1200 .ssl-gzoEhv.bp3-animate-enter271 {
+  animation: bp3-animate-enter271-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter283-frames {
+@keyframes bp3-animate-enter271-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.impressum-1200 .borbus-oaVtER {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - impressum-375 */
 
@@ -1603,13 +1603,13 @@ to{opacity: 1;
   width: 33.60%;
 }
 
-.impressum-375 .impressum-DHh6RZ.bp1-animate-enter271 {
-  animation: bp1-animate-enter271-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-375 .impressum-DHh6RZ.bp1-animate-enter260 {
+  animation: bp1-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter271-frames {
+@keyframes bp1-animate-enter260-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1627,20 +1627,6 @@ to{opacity: 1;
   top: calc(44.87% - 1605px);
   white-space: nowrap;
   width: 326px;
-}
-
-.impressum-375 .borbus-DHh6RZ {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.26% - 118px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .impressum-375 .rechteck-118-DHh6RZ {
@@ -2310,17 +2296,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.impressum-375 .ssl-P8gtDo.bp1-animate-enter272 {
-  animation: bp1-animate-enter272-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-375 .ssl-P8gtDo.bp1-animate-enter261 {
+  animation: bp1-animate-enter261-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter272-frames {
+@keyframes bp1-animate-enter261-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.impressum-375 .borbus-DHh6RZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - impressum-767 */
 
@@ -2359,13 +2359,13 @@ to{opacity: 1;
   width: calc(100.00% - 120px);
 }
 
-.impressum-767 .impressum-ssOKIg.bp2-animate-enter280 {
-  animation: bp2-animate-enter280-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-767 .impressum-ssOKIg.bp2-animate-enter269 {
+  animation: bp2-animate-enter269-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter280-frames {
+@keyframes bp2-animate-enter269-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2383,13 +2383,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum-767 .gruppe-166-ssOKIg.bp2-animate-enter281 {
-  animation: bp2-animate-enter281-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-767 .gruppe-166-ssOKIg.bp2-animate-enter270 {
+  animation: bp2-animate-enter270-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter281-frames {
+@keyframes bp2-animate-enter270-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2407,20 +2407,6 @@ to{opacity: 1;
   top: -8px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
-}
-
-.impressum-767 .borbus-JqU86S {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.81% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .impressum-767 .rechteck-118-JqU86S {
@@ -2615,13 +2601,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum-767 .gruppe-163-JqU86S.bp2-animate-enter282 {
-  animation: bp2-animate-enter282-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-767 .gruppe-163-JqU86S.bp2-animate-enter271 {
+  animation: bp2-animate-enter271-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter282-frames {
+@keyframes bp2-animate-enter271-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3107,17 +3093,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.impressum-767 .ssl-JqU86S.bp2-animate-enter283 {
-  animation: bp2-animate-enter283-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-767 .ssl-JqU86S.bp2-animate-enter272 {
+  animation: bp2-animate-enter272-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter283-frames {
+@keyframes bp2-animate-enter272-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.impressum-767 .borbus-JqU86S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 @media screen and (max-width: 766px) {
   .screen.impressum { 

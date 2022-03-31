@@ -23,13 +23,13 @@
   width: 1000px;
 }
 
-.kontakt .gruppe-166-0Qg6Od.bp4-animate-enter205 {
-  animation: bp4-animate-enter205-frames 0.20s ease 0.10s 1 normal forwards;
+.kontakt .gruppe-166-0Qg6Od.bp4-animate-enter246 {
+  animation: bp4-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter205-frames {
+@keyframes bp4-animate-enter246-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -269,20 +269,6 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt .borbus-0Qg6Od {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .kontakt .gruppe-163-0Qg6Od {
   background-color: transparent;
   bottom: 0px;
@@ -294,13 +280,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt .gruppe-163-0Qg6Od.bp4-animate-enter206 {
-  animation: bp4-animate-enter206-frames 0.20s ease 0.10s 1 normal forwards;
+.kontakt .gruppe-163-0Qg6Od.bp4-animate-enter247 {
+  animation: bp4-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter206-frames {
+@keyframes bp4-animate-enter247-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -550,13 +536,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt .ssl-0Qg6Od.bp4-animate-enter207 {
-  animation: bp4-animate-enter207-frames 0.20s ease 0.10s 1 normal forwards;
+.kontakt .ssl-0Qg6Od.bp4-animate-enter248 {
+  animation: bp4-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter207-frames {
+@keyframes bp4-animate-enter248-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -796,6 +782,20 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.kontakt .borbus-0Qg6Od {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
 /* screen - kontakt-1200 */
 
 .kontakt-1200 {
@@ -821,13 +821,13 @@ to{opacity: 1;
   width: 564px;
 }
 
-.kontakt-1200 .gruppe-166-hKEqi9.bp3-animate-enter292 {
-  animation: bp3-animate-enter292-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-1200 .gruppe-166-hKEqi9.bp3-animate-enter287 {
+  animation: bp3-animate-enter287-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter292-frames {
+@keyframes bp3-animate-enter287-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1070,20 +1070,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.kontakt-1200 .borbus-hKEqi9 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.90% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .kontakt-1200 .gruppe-322-hKEqi9 {
   background-color: transparent;
   bottom: 0px;
@@ -1104,13 +1090,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt-1200 .gruppe-163-SO5xYl.bp3-animate-enter293 {
-  animation: bp3-animate-enter293-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-1200 .gruppe-163-SO5xYl.bp3-animate-enter288 {
+  animation: bp3-animate-enter288-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter293-frames {
+@keyframes bp3-animate-enter288-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1586,17 +1572,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt-1200 .ssl-SO5xYl.bp3-animate-enter294 {
-  animation: bp3-animate-enter294-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-1200 .ssl-SO5xYl.bp3-animate-enter289 {
+  animation: bp3-animate-enter289-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter294-frames {
+@keyframes bp3-animate-enter289-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.kontakt-1200 .borbus-hKEqi9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - kontakt-375 */
 
@@ -1623,13 +1623,13 @@ to{opacity: 1;
   width: 319px;
 }
 
-.kontakt-375 .gruppe-166-Wa9Tec.bp1-animate-enter277 {
-  animation: bp1-animate-enter277-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-375 .gruppe-166-Wa9Tec.bp1-animate-enter272 {
+  animation: bp1-animate-enter272-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter277-frames {
+@keyframes bp1-animate-enter272-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1684,20 +1684,6 @@ to{opacity: 1;
   position: absolute;
   top: 31.68%;
   width: 76px;
-}
-
-.kontakt-375 .borbus-Wa9Tec {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.26% - 118px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .kontakt-375 .rechteck-118-Wa9Tec {
@@ -2368,17 +2354,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt-375 .ssl-9vBU0Y.bp1-animate-enter278 {
-  animation: bp1-animate-enter278-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-375 .ssl-9vBU0Y.bp1-animate-enter273 {
+  animation: bp1-animate-enter273-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter278-frames {
+@keyframes bp1-animate-enter273-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.kontakt-375 .borbus-Wa9Tec {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - kontakt-767 */
 
@@ -2405,13 +2405,13 @@ to{opacity: 1;
   width: 452px;
 }
 
-.kontakt-767 .gruppe-166-u3Nik0.bp2-animate-enter292 {
-  animation: bp2-animate-enter292-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-767 .gruppe-166-u3Nik0.bp2-animate-enter288 {
+  animation: bp2-animate-enter288-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter292-frames {
+@keyframes bp2-animate-enter288-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2654,20 +2654,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.kontakt-767 .borbus-u3Nik0 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.81% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .kontakt-767 .gruppe-163-u3Nik0 {
   background-color: transparent;
   bottom: 0px;
@@ -2679,13 +2665,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt-767 .gruppe-163-u3Nik0.bp2-animate-enter293 {
-  animation: bp2-animate-enter293-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-767 .gruppe-163-u3Nik0.bp2-animate-enter289 {
+  animation: bp2-animate-enter289-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter293-frames {
+@keyframes bp2-animate-enter289-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3172,17 +3158,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt-767 .ssl-u3Nik0.bp2-animate-enter294 {
-  animation: bp2-animate-enter294-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-767 .ssl-u3Nik0.bp2-animate-enter290 {
+  animation: bp2-animate-enter290-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter294-frames {
+@keyframes bp2-animate-enter290-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.kontakt-767 .borbus-u3Nik0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 @media screen and (max-width: 766px) {
   .screen.kontakt { 
