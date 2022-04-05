@@ -193,20 +193,6 @@
   width: 100%;
 }
 
-.zahlungsoptionen .borbus-0TygvI {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .zahlungsoptionen .gruppe-163-0TygvI {
   background-color: transparent;
   bottom: 0px;
@@ -218,13 +204,13 @@
   width: 100%;
 }
 
-.zahlungsoptionen .gruppe-163-0TygvI.bp4-animate-enter141 {
-  animation: bp4-animate-enter141-frames 0.20s ease 0.10s 1 normal forwards;
+.zahlungsoptionen .gruppe-163-0TygvI.bp4-animate-enter252 {
+  animation: bp4-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter141-frames {
+@keyframes bp4-animate-enter252-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -475,13 +461,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen .ssl-0TygvI.bp4-animate-enter142 {
-  animation: bp4-animate-enter142-frames 0.20s ease 0.10s 1 normal forwards;
+.zahlungsoptionen .ssl-0TygvI.bp4-animate-enter253 {
+  animation: bp4-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter142-frames {
+@keyframes bp4-animate-enter253-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -751,13 +737,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen .gruppe-166-b2CJFp.bp4-animate-enter143 {
-  animation: bp4-animate-enter143-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen .gruppe-166-b2CJFp.bp4-animate-enter254 {
+  animation: bp4-animate-enter254-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter143-frames {
+@keyframes bp4-animate-enter254-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -828,13 +814,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.zahlungsoptionen .hedera-dFPx2M.bp4-animate-enter144 {
-  animation: bp4-animate-enter144-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen .hedera-dFPx2M.bp4-animate-enter255 {
+  animation: bp4-animate-enter255-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter144-frames {
+@keyframes bp4-animate-enter255-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -903,6 +889,20 @@ to{opacity: 1;
   top: calc(50.00% - 11px);
   width: 2px;
 }
+
+.zahlungsoptionen .borbus-0TygvI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
 /* screen - zahlungsoptionen-1200 */
 
 .zahlungsoptionen-1200 {
@@ -937,13 +937,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-1200 .gruppe-166-CUa2yE.bp3-animate-enter229 {
-  animation: bp3-animate-enter229-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .gruppe-166-CUa2yE.bp3-animate-enter293 {
+  animation: bp3-animate-enter293-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter229-frames {
+@keyframes bp3-animate-enter293-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1015,13 +1015,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.zahlungsoptionen-1200 .hedera-Uf2r8Z.bp3-animate-enter230 {
-  animation: bp3-animate-enter230-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .hedera-Uf2r8Z.bp3-animate-enter294 {
+  animation: bp3-animate-enter294-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter230-frames {
+@keyframes bp3-animate-enter294-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1272,20 +1272,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.zahlungsoptionen-1200 .borbus-rZWhS0 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.90% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .zahlungsoptionen-1200 .gruppe-322-rZWhS0 {
   background-color: transparent;
   bottom: 0px;
@@ -1306,13 +1292,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-1200 .gruppe-163-uqr4d0.bp3-animate-enter231 {
-  animation: bp3-animate-enter231-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .gruppe-163-uqr4d0.bp3-animate-enter295 {
+  animation: bp3-animate-enter295-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter231-frames {
+@keyframes bp3-animate-enter295-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1789,17 +1775,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen-1200 .ssl-uqr4d0.bp3-animate-enter232 {
-  animation: bp3-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-1200 .ssl-uqr4d0.bp3-animate-enter296 {
+  animation: bp3-animate-enter296-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter232-frames {
+@keyframes bp3-animate-enter296-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.zahlungsoptionen-1200 .borbus-rZWhS0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - zahlungsoptionen-375 */
 
@@ -1835,13 +1835,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .gruppe-166-PADnV4.bp1-animate-enter226 {
-  animation: bp1-animate-enter226-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-375 .gruppe-166-PADnV4.bp1-animate-enter276 {
+  animation: bp1-animate-enter276-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter226-frames {
+@keyframes bp1-animate-enter276-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1913,13 +1913,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.zahlungsoptionen-375 .hedera-l3dQpI.bp1-animate-enter227 {
-  animation: bp1-animate-enter227-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-375 .hedera-l3dQpI.bp1-animate-enter277 {
+  animation: bp1-animate-enter277-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter227-frames {
+@keyframes bp1-animate-enter277-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2184,20 +2184,6 @@ to{opacity: 1;
   position: absolute;
   top: 2px;
   width: 1px;
-}
-
-.zahlungsoptionen-375 .borbus-lIRXnO {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.26% - 118px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .zahlungsoptionen-375 .gruppe-327-lIRXnO {
@@ -2671,17 +2657,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen-375 .ssl-WrfoDi.bp1-animate-enter228 {
-  animation: bp1-animate-enter228-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-375 .ssl-WrfoDi.bp1-animate-enter278 {
+  animation: bp1-animate-enter278-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter228-frames {
+@keyframes bp1-animate-enter278-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.zahlungsoptionen-375 .borbus-lIRXnO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - zahlungsoptionen-767 */
 
@@ -2717,13 +2717,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-767 .gruppe-166-xeQNI5.bp2-animate-enter230 {
-  animation: bp2-animate-enter230-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .gruppe-166-xeQNI5.bp2-animate-enter294 {
+  animation: bp2-animate-enter294-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter230-frames {
+@keyframes bp2-animate-enter294-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2795,13 +2795,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.zahlungsoptionen-767 .hedera-P8Pcl4.bp2-animate-enter231 {
-  animation: bp2-animate-enter231-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .hedera-P8Pcl4.bp2-animate-enter295 {
+  animation: bp2-animate-enter295-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter231-frames {
+@keyframes bp2-animate-enter295-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3052,20 +3052,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.zahlungsoptionen-767 .borbus-aDxOOq {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.81% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .zahlungsoptionen-767 .gruppe-163-aDxOOq {
   background-color: transparent;
   bottom: 0px;
@@ -3077,13 +3063,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-767 .gruppe-163-aDxOOq.bp2-animate-enter232 {
-  animation: bp2-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .gruppe-163-aDxOOq.bp2-animate-enter296 {
+  animation: bp2-animate-enter296-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter232-frames {
+@keyframes bp2-animate-enter296-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3570,17 +3556,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen-767 .ssl-aDxOOq.bp2-animate-enter233 {
-  animation: bp2-animate-enter233-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-767 .ssl-aDxOOq.bp2-animate-enter297 {
+  animation: bp2-animate-enter297-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter233-frames {
+@keyframes bp2-animate-enter297-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.zahlungsoptionen-767 .borbus-aDxOOq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 @media screen and (max-width: 766px) {
   .screen.zahlungsoptionen { 

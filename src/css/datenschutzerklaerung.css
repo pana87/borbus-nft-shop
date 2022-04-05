@@ -36,13 +36,13 @@
   width: 1376px;
 }
 
-.datenschutzerklaerung .geltungsbereichdiese-63D6tT.bp4-animate-enter197 {
-  animation: bp4-animate-enter197-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .geltungsbereichdiese-63D6tT.bp4-animate-enter231 {
+  animation: bp4-animate-enter231-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter197-frames {
+@keyframes bp4-animate-enter231-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -64,13 +64,13 @@ to{opacity: 1;
   width: 397px;
 }
 
-.datenschutzerklaerung .datenschutzerklrung-63D6tT.bp4-animate-enter198 {
-  animation: bp4-animate-enter198-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .datenschutzerklrung-63D6tT.bp4-animate-enter232 {
+  animation: bp4-animate-enter232-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter198-frames {
+@keyframes bp4-animate-enter232-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -258,20 +258,6 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklaerung .borbus-xZ7hOt {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .datenschutzerklaerung .gruppe-163-xZ7hOt {
   background-color: transparent;
   bottom: 0px;
@@ -283,13 +269,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklaerung .gruppe-163-xZ7hOt.bp4-animate-enter199 {
-  animation: bp4-animate-enter199-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .gruppe-163-xZ7hOt.bp4-animate-enter233 {
+  animation: bp4-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter199-frames {
+@keyframes bp4-animate-enter233-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -541,13 +527,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklaerung .ssl-xZ7hOt.bp4-animate-enter200 {
-  animation: bp4-animate-enter200-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .ssl-xZ7hOt.bp4-animate-enter234 {
+  animation: bp4-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter200-frames {
+@keyframes bp4-animate-enter234-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -785,6 +771,20 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.datenschutzerklaerung .borbus-xZ7hOt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
 /* screen - datenschutzerklarung-1200 */
 
 .datenschutzerklarung-1200 {
@@ -823,13 +823,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.datenschutzerklarung-1200 .geltungsbereichdiese-VV5Kdx.bp3-animate-enter284 {
-  animation: bp3-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .geltungsbereichdiese-VV5Kdx.bp3-animate-enter272 {
+  animation: bp3-animate-enter272-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter284-frames {
+@keyframes bp3-animate-enter272-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -851,13 +851,13 @@ to{opacity: 1;
   width: 397px;
 }
 
-.datenschutzerklarung-1200 .datenschutzerklrung-VV5Kdx.bp3-animate-enter285 {
-  animation: bp3-animate-enter285-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .datenschutzerklrung-VV5Kdx.bp3-animate-enter273 {
+  animation: bp3-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter285-frames {
+@keyframes bp3-animate-enter273-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1045,20 +1045,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.datenschutzerklarung-1200 .borbus-tNGQ0F {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.90% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .datenschutzerklarung-1200 .gruppe-322-tNGQ0F {
   background-color: transparent;
   bottom: 0px;
@@ -1079,13 +1065,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklarung-1200 .gruppe-163-uNcxJj.bp3-animate-enter286 {
-  animation: bp3-animate-enter286-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .gruppe-163-uNcxJj.bp3-animate-enter274 {
+  animation: bp3-animate-enter274-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter286-frames {
+@keyframes bp3-animate-enter274-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1561,17 +1547,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklarung-1200 .ssl-uNcxJj.bp3-animate-enter287 {
-  animation: bp3-animate-enter287-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .ssl-uNcxJj.bp3-animate-enter275 {
+  animation: bp3-animate-enter275-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter287-frames {
+@keyframes bp3-animate-enter275-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.datenschutzerklarung-1200 .borbus-tNGQ0F {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - datenschutzerklarung-375 */
 
@@ -1611,13 +1611,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.datenschutzerklarung-375 .datenschutzerklrung-lAEBa0.bp1-animate-enter273 {
-  animation: bp1-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-375 .datenschutzerklrung-lAEBa0.bp1-animate-enter262 {
+  animation: bp1-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter273-frames {
+@keyframes bp1-animate-enter262-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1635,20 +1635,6 @@ to{opacity: 1;
   top: calc(46.71% - 2049px);
   white-space: nowrap;
   width: 324px;
-}
-
-.datenschutzerklarung-375 .borbus-l2rwo9 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.26% - 118px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
 }
 
 .datenschutzerklarung-375 .rechteck-118-l2rwo9 {
@@ -2318,17 +2304,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklarung-375 .ssl-LZw4Na.bp1-animate-enter274 {
-  animation: bp1-animate-enter274-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-375 .ssl-LZw4Na.bp1-animate-enter263 {
+  animation: bp1-animate-enter263-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter274-frames {
+@keyframes bp1-animate-enter263-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.datenschutzerklarung-375 .borbus-l2rwo9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 /* screen - datenschutzerklarung-767 */
 
@@ -2367,13 +2367,13 @@ to{opacity: 1;
   width: calc(100.00% - 122px);
 }
 
-.datenschutzerklarung-767 .datenschutzerklrung-7Zhm22.bp2-animate-enter284 {
-  animation: bp2-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .datenschutzerklrung-7Zhm22.bp2-animate-enter273 {
+  animation: bp2-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter284-frames {
+@keyframes bp2-animate-enter273-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2391,13 +2391,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklarung-767 .gruppe-166-7Zhm22.bp2-animate-enter285 {
-  animation: bp2-animate-enter285-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .gruppe-166-7Zhm22.bp2-animate-enter274 {
+  animation: bp2-animate-enter274-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter285-frames {
+@keyframes bp2-animate-enter274-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2598,20 +2598,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.datenschutzerklarung-767 .borbus-Be1WUI {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.81% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .datenschutzerklarung-767 .gruppe-163-Be1WUI {
   background-color: transparent;
   bottom: 0px;
@@ -2623,13 +2609,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklarung-767 .gruppe-163-Be1WUI.bp2-animate-enter286 {
-  animation: bp2-animate-enter286-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .gruppe-163-Be1WUI.bp2-animate-enter275 {
+  animation: bp2-animate-enter275-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter286-frames {
+@keyframes bp2-animate-enter275-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3115,17 +3101,31 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklarung-767 .ssl-Be1WUI.bp2-animate-enter287 {
-  animation: bp2-animate-enter287-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .ssl-Be1WUI.bp2-animate-enter276 {
+  animation: bp2-animate-enter276-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter287-frames {
+@keyframes bp2-animate-enter276-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.datenschutzerklarung-767 .borbus-Be1WUI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
 }
 @media screen and (max-width: 766px) {
   .screen.datenschutzerklaerung { 

@@ -1,4 +1,4 @@
-export function addToCart() {
+function _addItemToCart() {
   let cart = []
   if (!localStorage.getItem("cart")) {
     localStorage.setItem("cart", JSON.stringify(cart))
@@ -15,16 +15,24 @@ export function addToCart() {
   cart = []
   cart.push(window.__DATA__)
   localStorage.setItem("cart", JSON.stringify(cart))
+
+  _updateCartPointer()
 }
 
-// function emptyCart() {
-//   // let cart = JSON.parse(localStorage.getItem("cart")) || []
-//   const cart = []
-//   localStorage.clear()
-//   localStorage.setItem("cart", JSON.stringify(cart))
-// }
+function _updateCartPointer() {
+  const cartPointerTopRight = document.querySelectorAll("div[class*=anzahl-warenkorb]")
+  cartPointerTopRight.forEach(pointer => {
+    const cart = JSON.parse(localStorage.getItem("cart")) || []
+    pointer.innerHTML = `${cart.length}`
+  })
+}
 
-function getTotalPrice() {
+export function _onCartButtonClickEvent() {
+  const cartButtonsCenter = document.querySelectorAll("div[class*='warenkorb-button-mitte']")
+  cartButtonsCenter.forEach(button => button.addEventListener("mouseup", () => _addItemToCart()))
+}
+
+function _getTotalPrice() {
   const cart = JSON.parse(localStorage.getItem("cart")) || []
 
   const total = cart
@@ -34,47 +42,48 @@ function getTotalPrice() {
   return total.toFixed(2)
 }
 
-// Renders a cart list. Maybe for later. Not in the requirements right now.
-// function renderCart() {
-//   const itemPlaceholder = document.querySelectorAll(".cart-list")
-//   const cart = JSON.parse(localStorage.getItem("cart")) || []
-//   console.log(cart)
+export function _renderCartList() {
+  _updateCartPointer()
+  const cart = JSON.parse(localStorage.getItem("cart")) || []
+  if (!cart[0]) {
+    _removeItemFromCart()
+    return
+  }
 
-//   const rows = cart.map(item => {
-//     return /*html*/`
-//       <div class="item">
-//         <div class="content" style="display: flex; flex-direction: row; justify-content: space-around;">
-//           <img class="item-image" src="${item.images.front}" alt="${item.name}" style="width: 20vw;"/>
-//           <div class="item-info" style="">
-//             <div class="name">${item.name}</div>
-//             <div class="info">Versand 5-7 Werktage</div>
-//             <div class="delete-item">Löschen</div>
-//           </div>
-//           <div class="price">${item.price} €</div>
-//         </div>
-//       </div>
-//     `
-//   })
+  const nameElements = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
+  const imageElements = document.querySelectorAll("img[class*='vorderseiteklein']")
+  const deleteButtons = document.querySelectorAll("div[class*='lschen']")
+  const priceElements = document.querySelectorAll("div[class*='preis1']")
+  const totalPriceElements = document.querySelectorAll("div[class*='gesamtpreis1']")
+  const shippingElements = document.querySelectorAll("div[class*='versand-5-7']")
+  console.log(nameElements);
+  console.log(imageElements);
+  console.log(deleteButtons);
+  console.log(priceElements);
+  console.log(totalPriceElements);
+  console.log(shippingElements);
 
-//   const html = `${rows.join()}`
-//   itemPlaceholder.forEach(placeholder => placeholder.innerHTML = html)
-// }
-// renderCart()
+  nameElements.forEach(element => element.innerHTML = cart[0].name)
+  imageElements.forEach(element => {
+    element.setAttribute("style", "object-fit: contain;")
+    element.src = cart[0].images.front
+  })
+  deleteButtons.forEach(element => {
+    element.setAttribute("style", "cursor: pointer;")
+    element.addEventListener("mouseup", () => _removeItemFromCart())
+  })
+  priceElements.forEach(element => element.innerHTML = `${cart[0].price} €`)
+  totalPriceElements.forEach(element => element.innerHTML = `${_getTotalPrice()} €`)
+}
 
-// function renderTotalPrice() {
-//   const cart = JSON.parse(localStorage.getItem("cart")) || []
-//   console.log(cart);
-//   const totalPriceElements = document.querySelectorAll("div[class*='gesamtpreis']")
-//   totalPriceElements.forEach(element => element.innerHTML = `Gesamtpreis ${getTotalPrice()} €`)
+function _removeItemFromCart() {
+  localStorage.clear()
 
-//   const kleidchenElements = document.querySelectorAll("div[class*='kleidchen-1']")
-//   console.log(kleidchenElements);
-//   kleidchenElements.forEach(element => element.innerHTML = `${cart[0].name}`)
+  document.querySelectorAll("div[class*='kleidchenbezeichnung']").forEach(element => element.remove())
+  document.querySelectorAll("img[class*='vorderseiteklein']").forEach(element => element.remove())
+  document.querySelectorAll("div[class*='lschen']").forEach(element => element.remove())
+  document.querySelectorAll("div[class*='preis1']").forEach(element => element.remove())
+  document.querySelectorAll("div[class*='versand-5-7']").forEach(element => element.remove())
 
-//   const imageElements = document.querySelectorAll("img[class*='enten-kleid-front']")
-//   console.log(imageElements);
-//   imageElements.forEach(element => element.setAttribute("src", cart[0].images.front))
-
-//   const priceElements = document.querySelectorAll("")
-// }
-// renderTotalPrice()
+  _updateCartPointer()
+}
