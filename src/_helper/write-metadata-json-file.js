@@ -1,6 +1,9 @@
 const fs = require("fs")
 const fse = require("fs-extra")
-
+/**
+ * Deprecated
+ * @param {} collectionOneMetadata
+ */
 module.exports.writeMetadataJsonFile = function (collectionOneMetadata) {
   const source = "/home/pnts/Downloads/compressed-nfts"
   const destination = "/home/pnts/Downloads/nft-metadata"

@@ -1,0 +1,69 @@
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+
+@font-face {
+  font-family: "HiraginoMaru Gothic ProN-W4";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/hiragino-maru-gothic-pron-w4.otf") format("opentype");
+}
+@font-face {
+  font-family: "HiraginoMincho ProN-W6";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/hiragino-mincho-pro-w6.otf") format("opentype");
+}
+@font-face {
+  font-family: "HiraginoMincho ProN-W3";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/hiragino-mincho-pron-w3.otf") format("opentype");
+}
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}

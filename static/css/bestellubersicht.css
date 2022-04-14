@@ -1,0 +1,8774 @@
+/* screen - bestellubersicht */
+
+.bestellubersicht {
+  background-color: var(--white);
+  height: 1490px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.bestellubersicht .rechteck-173-wr6AgC {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 469px;
+  left: 139px;
+  position: absolute;
+  top: 312px;
+  width: 1173px;
+}
+
+.bestellubersicht .rechteck-175-wr6AgC {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 469px;
+  left: 1349px;
+  position: absolute;
+  top: 312px;
+  width: 432px;
+}
+
+.bestellubersicht .rechteck-174-wr6AgC {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 295px;
+  left: 139px;
+  position: absolute;
+  top: 786px;
+  width: 1173px;
+}
+
+.bestellubersicht .rechteck-161-wr6AgC {
+  background-color: var(--white);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 1920px;
+}
+
+.bestellubersicht .rechteck-118-wr6AgC {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.bestellubersicht .stoffqualitt-wr6AgC {
+  background-color: transparent;
+  height: auto;
+  left: 615px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .handarbeit-wr6AgC {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .rechteck-157-wr6AgC {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: 897px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.bestellubersicht .iconfinder_scissor_s-wr6AgC {
+  background-color: transparent;
+  height: 14px;
+  left: 896px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.bestellubersicht .pfad-273-yKSDvq {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.bestellubersicht .pfad-274-yKSDvq {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.bestellubersicht .pfad-275-yKSDvq {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.bestellubersicht .pfad-276-yKSDvq {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.bestellubersicht .iconfinder_4265038_b-wr6AgC {
+  background-color: transparent;
+  height: 17px;
+  left: 596px;
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.bestellubersicht .ellipse-41-G9siln {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht .pfad-286-G9siln {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .sichere-bezahlung-wr6AgC {
+  background-color: transparent;
+  height: auto;
+  left: 1212px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .gruppe-199-wr6AgC {
+  background-color: transparent;
+  height: 17px;
+  left: 1193px;
+  position: absolute;
+  top: 8px;
+  width: 12px;
+}
+
+.bestellubersicht .rechteck-155-8ZxsW6 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht .pfad-284-8ZxsW6 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht .pfad-285-8ZxsW6 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht .borbus-wr6AgC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 841px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .kleidchenbezeichnung-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 198px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .kleidchenbezeichnung-wr6AgC.bp4-animate-enter26 {
+  animation: bp4-animate-enter26-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter26-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kleidchenbezeichnung-P57a13 {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 205px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 825px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .kleidchenbezeichnung-P57a13.bp4-animate-enter27 {
+  animation: bp4-animate-enter27-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter27-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-598-wr6AgC {
+  background-color: transparent;
+  height: 16px;
+  left: 139px;
+  position: absolute;
+  top: 259px;
+  width: 683px;
+}
+
+.bestellubersicht .datenschutz-cookies-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  color: var(--navy-blue);
+  cursor: pointer;
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(22.96% - 38px);
+  text-align: left;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+  width: 167px;
+}
+
+.bestellubersicht .datenschutz-cookies-Rkm2Jt.bp4-animate-enter28 {
+  animation: bp4-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter28-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .bei-bestellung-stimm-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -3px;
+  white-space: nowrap;
+  width: 321px;
+}
+
+.bestellubersicht .bei-bestellung-stimm-Rkm2Jt.bp4-animate-enter29 {
+  animation: bp4-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter29-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .ag-bs-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  color: var(--navy-blue);
+  cursor: pointer;
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.84% - 22px);
+  text-align: left;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.bestellubersicht .ag-bs-Rkm2Jt.bp4-animate-enter30 {
+  animation: bp4-animate-enter30-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter30-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .und-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(43.85% - 14px);
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.bestellubersicht .und-Rkm2Jt.bp4-animate-enter31 {
+  animation: bp4-animate-enter31-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter31-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .von-borbus-zu-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht .von-borbus-zu-Rkm2Jt.bp4-animate-enter32 {
+  animation: bp4-animate-enter32-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter32-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-712-wr6AgC {
+  background-color: transparent;
+  height: 190px;
+  left: 205px;
+  position: absolute;
+  top: 376px;
+  width: 172px;
+}
+
+.bestellubersicht .gruppe-600-xJxMxP {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.bestellubersicht .lieferadresse-xzoONV {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.bestellubersicht .lieferadresse-xzoONV.bp4-animate-enter33 {
+  animation: bp4-animate-enter33-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter33-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .ndern1-xzoONV {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 5px;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.bestellubersicht .ndern1-xzoONV.bp4-animate-enter34 {
+  animation: bp4-animate-enter34-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter34-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundennameinput1-xJxMxP {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.62% - 9px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundennameinput1-xJxMxP.bp4-animate-enter35 {
+  animation: bp4-animate-enter35-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter35-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenstrasseinput1-xJxMxP {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(41.02% - 9px);
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundenstrasseinput1-xJxMxP.bp4-animate-enter36 {
+  animation: bp4-animate-enter36-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter36-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenplzinput1-xJxMxP {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(20.66% - 5px);
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundenplzinput1-xJxMxP.bp4-animate-enter37 {
+  animation: bp4-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter37-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenemailinput1-xJxMxP {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 0.30%;
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundenemailinput1-xJxMxP.bp4-animate-enter38 {
+  animation: bp4-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter38-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .x-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 472px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 886px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .x-wr6AgC.bp4-animate-enter39 {
+  animation: bp4-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter39-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-599-wr6AgC {
+  background-color: transparent;
+  height: 287px;
+  left: 205px;
+  position: absolute;
+  top: 886px;
+  width: 457px;
+}
+
+.bestellubersicht .vorderseitebild-0bQy4q {
+  background-color: transparent;
+  height: calc(100.00% - 141px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 186px;
+}
+
+.bestellubersicht .gruppe-597-0bQy4q {
+  background-color: transparent;
+  height: 287px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 144px);
+  width: 209px;
+}
+
+.bestellubersicht .handgemacht-von-borb-AR8qcA {
+  background-color: transparent;
+  display: block;
+  height: 289px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 211px;
+}
+
+.bestellubersicht .span0-XN3EOK {
+}
+
+.bestellubersicht .span1-XN3EOK {
+}
+
+.bestellubersicht .span2-XN3EOK {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bestellubersicht .span3-XN3EOK {
+}
+
+.bestellubersicht .handgemacht-von-borb-AR8qcA.bp4-animate-enter40 {
+  animation: bp4-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter40-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .preis1-AR8qcA {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(24.24% - 6px);
+  width: 106px;
+}
+
+.bestellubersicht .span0-OkrXxC {
+}
+
+.bestellubersicht .span1-OkrXxC {
+}
+
+.bestellubersicht .preis1-AR8qcA.bp4-animate-enter41 {
+  animation: bp4-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter41-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kleidchenbezeichnung-AR8qcA {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 136px;
+}
+
+.bestellubersicht .kleidchenbezeichnung-AR8qcA.bp4-animate-enter42 {
+  animation: bp4-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter42-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-607-wr6AgC {
+  background-color: transparent;
+  height: 292px;
+  left: 1386px;
+  position: absolute;
+  top: 376px;
+  width: 138px;
+}
+
+.bestellubersicht .bestellbersicht-xfF9Ix {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .bestellbersicht-xfF9Ix.bp4-animate-enter43 {
+  animation: bp4-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter43-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .versandkostennftgesamtkostenin-hbar-xfF9Ix {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 1px;
+  color: var(--monza);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: 17px;
+  font-weight: 400;
+  height: 239px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 17px);
+}
+
+.bestellubersicht .span0-m062WX {
+}
+
+.bestellubersicht .span1-m062WX {
+}
+
+.bestellubersicht .versandkostennftgesamtkostenin-hbar-xfF9Ix.bp4-animate-enter44 {
+  animation: bp4-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter44-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-608-wr6AgC {
+  background-color: transparent;
+  height: 235px;
+  left: 1643px;
+  position: absolute;
+  top: 432px;
+  width: 134px;
+}
+
+.bestellubersicht .gesamtpreis1-IDuWLI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(30.32% - 6px);
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: 29px;
+  text-align: right;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.bestellubersicht .gesamtpreis1-IDuWLI.bp4-animate-enter45 {
+  animation: bp4-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter45-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .hbar-gesamtkosten-rechner-IDuWLI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 0.23%;
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.bestellubersicht .hbar-gesamtkosten-rechner-IDuWLI.bp4-animate-enter46 {
+  animation: bp4-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter46-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .preis1-IDuWLI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(101.16% - 19px);
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  text-align: right;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.bestellubersicht .preis1-IDuWLI.bp4-animate-enter47 {
+  animation: bp4-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter47-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .x0000-eur-IDuWLI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  text-align: right;
+  top: calc(19.68% - 4px);
+  white-space: nowrap;
+  width: 88px;
+}
+
+.bestellubersicht .x0000-eur-IDuWLI.bp4-animate-enter48 {
+  animation: bp4-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter48-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .x0000-eur-Y0OIKm {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  text-align: right;
+  top: calc(39.58% - 8px);
+  white-space: nowrap;
+  width: 88px;
+}
+
+.bestellubersicht .x0000-eur-Y0OIKm.bp4-animate-enter49 {
+  animation: bp4-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter49-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kleidchenbezeichnung-QzWV3E {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 1386px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 429px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .kleidchenbezeichnung-QzWV3E.bp4-animate-enter50 {
+  animation: bp4-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter50-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-711-wr6AgC {
+  background-color: transparent;
+  height: 356px;
+  left: 619px;
+  position: absolute;
+  top: 376px;
+  width: 529px;
+}
+
+.bestellubersicht .kundenemailinput2-7Xay6o {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundenemailinput2-7Xay6o.bp4-animate-enter51 {
+  animation: bp4-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter51-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenplzinput2-7Xay6o {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(10.36% - 2px);
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundenplzinput2-7Xay6o.bp4-animate-enter52 {
+  animation: bp4-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenstrasseinput2-7Xay6o {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(20.57% - 5px);
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundenstrasseinput2-7Xay6o.bp4-animate-enter53 {
+  animation: bp4-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter53-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundennameinput2-7Xay6o {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(30.78% - 7px);
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht .kundennameinput2-7Xay6o.bp4-animate-enter54 {
+  animation: bp4-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter54-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-606-7Xay6o {
+  background-color: transparent;
+  height: 193px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-605-ZznDxr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 209px;
+}
+
+.bestellubersicht .gruppe-604-Z3DKTC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .rechnungsadresse-S5MsMx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.bestellubersicht .rechnungsadresse-S5MsMx.bp4-animate-enter55 {
+  animation: bp4-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter55-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .ndern3-S5MsMx {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: calc(150.00% - 21px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.bestellubersicht .ndern3-S5MsMx.bp4-animate-enter56 {
+  animation: bp4-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter56-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-603-ZznDxr {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-601-RVRXN2 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.bestellubersicht .zahlungsart-xGZpEx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.bestellubersicht .zahlungsart-xGZpEx.bp4-animate-enter57 {
+  animation: bp4-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .ndern2-xGZpEx {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: calc(150.00% - 21px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.bestellubersicht .ndern2-xGZpEx.bp4-animate-enter58 {
+  animation: bp4-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-602-RVRXN2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 44px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht .hedera-account-id-bawx3X {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(43.14% - 8px);
+  white-space: nowrap;
+  width: 168px;
+}
+
+.bestellubersicht .hedera-account-id-bawx3X.bp4-animate-enter59 {
+  animation: bp4-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-572-bawx3X {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 44px;
+}
+
+.bestellubersicht .gruppe-556-vx94VY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .ellipse-46-oW6DlG {
+  background-color: var(--black);
+  border-radius: 22px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .linie-49-oW6DlG {
+  background-color: transparent;
+  height: 20px;
+  left: calc(29.83% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.29% - 10px);
+  width: 2px;
+}
+
+.bestellubersicht .linie-51-oW6DlG {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.29% - 9px);
+  top: calc(41.40% - 1px);
+  width: 18px;
+}
+
+.bestellubersicht .linie-52-oW6DlG {
+  background-color: transparent;
+  bottom: calc(43.35% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.29% - 9px);
+  width: 18px;
+}
+
+.bestellubersicht .linie-50-oW6DlG {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.79% - 1px);
+  top: calc(48.29% - 10px);
+  width: 2px;
+}
+
+.bestellubersicht .rechteck-136-bawx3X {
+  background-color: var(--gallery);
+  bottom: 0px;
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 44px;
+  left: 247px;
+  opacity: 0;
+  position: absolute;
+  width: calc(100.00% - 247px);
+}
+
+.bestellubersicht .rechteck-136-bawx3X.bp4-animate-enter60 {
+  animation: bp4-animate-enter60-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .account-id-einzigartig-bawx3X {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: 26px;
+  text-align: left;
+  top: calc(43.14% - 8px);
+  white-space: nowrap;
+  width: 232px;
+}
+
+.bestellubersicht .account-id-einzigartig-bawx3X.bp4-animate-enter61 {
+  animation: bp4-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .bestellen1-wr6AgC {
+  background-color: transparent;
+  height: 52px;
+  left: 1386px;
+  position: absolute;
+  top: 714px;
+  width: 358px;
+}
+
+.bestellubersicht .gruppe-204-OxoiYM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .rechteck-114-pjVLRT {
+  background-color: var(--sandy-brown);
+  border-radius: 6px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .bestellen-pjVLRT {
+  background-color: transparent;
+  bottom: 9px;
+  height: 28px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 59px);
+}
+
+.bestellubersicht .linie-54-wr6AgC {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 1374px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 546px;
+  width: 381px;
+}
+
+.bestellubersicht .linie-54-wr6AgC.bp4-animate-enter62 {
+  animation: bp4-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .zurck-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bestellubersicht .zurck-wr6AgC.bp4-animate-enter63 {
+  animation: bp4-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter63-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-163-wr6AgC {
+  background-color: transparent;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 1159px;
+  width: 1920px;
+}
+
+.bestellubersicht .gruppe-163-wr6AgC.bp4-animate-enter64 {
+  animation: bp4-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .rechteck-90-PicDpg {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-364-PicDpg {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.bestellubersicht .exklusive-serviceleistungen-AZJrPG {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.bestellubersicht .gruppe-137-AZJrPG {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht .versand-rckversand-frei-i1kpx7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.bestellubersicht .truck-i1kpx7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.bestellubersicht .gruppe-367-PicDpg {
+  background-color: transparent;
+  height: 196px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.bestellubersicht .knnen-wir-helfen-hkBBps {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.bestellubersicht .gruppe-365-hkBBps {
+  background-color: transparent;
+  bottom: calc(45.44% - 7px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.bestellubersicht .gruppe-140-ATjWt8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.bestellubersicht .kontakt-N5xDiG {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .contact-ATjWt8 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.bestellubersicht .gruppe-366-hkBBps {
+  background-color: transparent;
+  bottom: calc(23.49% - 5px);
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.bestellubersicht .gruppe-141-y1kqNl {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.bestellubersicht .zahlungsoptionen-8asGin {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .money-y1kqNl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.bestellubersicht .gruppe-622-hkBBps {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 6px;
+  position: absolute;
+  width: 61px;
+}
+
+.bestellubersicht .gruppe-141-OGL8QD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .nf-tlink-XPxTPH {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.bestellubersicht .x498951_child_clothes-XPxTPH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.bestellubersicht .gruppe-372-PicDpg {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.bestellubersicht .besuche-uns-tqjyc0 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .gruppe-320-tqjyc0 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.bestellubersicht .gruppe-162-grld3Z {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.bestellubersicht .instagram-xNQZHU {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .icon-instagram-grld3Z {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht .ssl-wr6AgC {
+  background-color: transparent;
+  display: block;
+  height: 90px;
+  left: 226px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1340px;
+  width: 90px;
+}
+
+.bestellubersicht .ssl-wr6AgC.bp4-animate-enter65 {
+  animation: bp4-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-554-wr6AgC {
+  background-color: transparent;
+  height: 251px;
+  left: 1071px;
+  position: absolute;
+  top: 1196px;
+  width: 229px;
+}
+
+.bestellubersicht .gruppe-371-NeOw8g {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.bestellubersicht .das-unternehmen-EEWncl {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.bestellubersicht .gruppe-370-EEWncl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.bestellubersicht .gruppe-154-3E7pbr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-159-7eBMbQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .ellipse-25-VrOnB1 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht .i-VrOnB1 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.bestellubersicht .gruppe-160-EEWncl {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.bestellubersicht .gruppe-155-DDTg4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.bestellubersicht .gruppe-138-KaG1pv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .ber-borbus-pU4l2F {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .b-DDTg4R {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bestellubersicht .gruppe-368-EEWncl {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.bestellubersicht .gruppe-156-BpfiSe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.bestellubersicht .geschfts-und-nutzungs-bediengungen-9sWVhR {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .solid-BpfiSe {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.bestellubersicht .gruppe-369-EEWncl {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.bestellubersicht .gruppe-157-9sIsgn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.bestellubersicht .datenschutz-cookies-g8Bv1G {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .cookie-9sIsgn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.bestellubersicht .impressum-NeOw8g {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+/* screen - bestellubersicht-1200 */
+
+.bestellubersicht-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1326px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .rechteck-118-f9OiUf {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .stoffqualitt-f9OiUf {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-1200 .handarbeit-f9OiUf {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-1200 .sichere-bezahlung-f9OiUf {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht-1200 .gruppe-199-f9OiUf {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.bestellubersicht-1200 .rechteck-155-rxxAtn {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .pfad-284-rxxAtn {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-1200 .pfad-285-rxxAtn {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht-1200 .rechteck-157-f9OiUf {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.bestellubersicht-1200 .iconfinder_4265038_b-f9OiUf {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.bestellubersicht-1200 .ellipse-41-8NuWgt {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht-1200 .pfad-286-8NuWgt {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .iconfinder_scissor_s-f9OiUf {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.bestellubersicht-1200 .pfad-273-ioA47X {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.bestellubersicht-1200 .pfad-274-ioA47X {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.bestellubersicht-1200 .pfad-275-ioA47X {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.bestellubersicht-1200 .pfad-276-ioA47X {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.bestellubersicht-1200 .borbus-f9OiUf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.bestellubersicht-1200 .zurck-f9OiUf {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 72px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.bestellubersicht-1200 .zurck-f9OiUf.bp3-animate-enter28 {
+  animation: bp3-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter28-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-609-f9OiUf {
+  background-color: transparent;
+  height: 774px;
+  left: calc(50.00% - 534px);
+  position: absolute;
+  top: calc(35.90% - 278px);
+  width: 1068px;
+}
+
+.bestellubersicht-1200 .rechteck-174-D55Buu {
+  background-color: transparent;
+  border-radius: 4px;
+  bottom: 1px;
+  height: 257px;
+  left: 0px;
+  position: absolute;
+  width: 763px;
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-D55Buu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-D55Buu.bp3-animate-enter29 {
+  animation: bp3-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter29-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-UR1euT {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  bottom: calc(26.47% - 5px);
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 19px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 419px;
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-UR1euT.bp3-animate-enter30 {
+  animation: bp3-animate-enter30-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter30-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-598-D55Buu {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  top: 58px;
+  width: 554px;
+}
+
+.bestellubersicht-1200 .datenschutz-cookies-V2nygS {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: calc(23.81% - 32px);
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.bestellubersicht-1200 .datenschutz-cookies-V2nygS.bp3-animate-enter31 {
+  animation: bp3-animate-enter31-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter31-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .bei-bestellung-stimm-V2nygS {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.bestellubersicht-1200 .bei-bestellung-stimm-V2nygS.bp3-animate-enter32 {
+  animation: bp3-animate-enter32-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter32-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .ag-bs-V2nygS {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  left: calc(49.23% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.bestellubersicht-1200 .ag-bs-V2nygS.bp3-animate-enter33 {
+  animation: bp3-animate-enter33-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter33-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .und-V2nygS {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(44.61% - 11px);
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-1200 .und-V2nygS.bp3-animate-enter34 {
+  animation: bp3-animate-enter34-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter34-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .von-borbus-zu-V2nygS {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.bestellubersicht-1200 .von-borbus-zu-V2nygS.bp3-animate-enter35 {
+  animation: bp3-animate-enter35-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter35-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .x-D55Buu {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  bottom: 32px;
+  display: block;
+  height: 55px;
+  left: 20.31%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 2px;
+}
+
+.bestellubersicht-1200 .x-D55Buu.bp3-animate-enter36 {
+  animation: bp3-animate-enter36-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter36-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-610-D55Buu {
+  background-color: transparent;
+  bottom: 0px;
+  height: 179px;
+  left: 43px;
+  position: absolute;
+  width: 296px;
+}
+
+.bestellubersicht-1200 .gruppe-599-s25x5H {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 90px);
+  width: 296px;
+}
+
+.bestellubersicht-1200 .vorderseitebild-j4slmP {
+  background-color: transparent;
+  height: calc(100.00% - 84px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 121px;
+}
+
+.bestellubersicht-1200 .gruppe-597-j4slmP {
+  background-color: transparent;
+  height: 179px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 90px);
+  width: 135px;
+}
+
+.bestellubersicht-1200 .handgemacht-von-borb-mK4hbr {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: 11px;
+  font-weight: 400;
+  height: 181px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -0.28%;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.bestellubersicht-1200 .span0-IxmgCu {
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-style: normal;
+}
+
+.bestellubersicht-1200 .span1-IxmgCu {
+}
+
+.bestellubersicht-1200 .span2-IxmgCu {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-style: normal;
+}
+
+.bestellubersicht-1200 .span3-IxmgCu {
+}
+
+.bestellubersicht-1200 .handgemacht-von-borb-mK4hbr.bp3-animate-enter37 {
+  animation: bp3-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter37-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .preis1-mK4hbr {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(28.71% - 7px);
+  width: 102px;
+}
+
+.bestellubersicht-1200 .span0-RRB0Fa {
+}
+
+.bestellubersicht-1200 .span1-RRB0Fa {
+}
+
+.bestellubersicht-1200 .preis1-mK4hbr.bp3-animate-enter38 {
+  animation: bp3-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter38-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-mK4hbr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-mK4hbr.bp3-animate-enter39 {
+  animation: bp3-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter39-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-612-D55Buu {
+  background-color: transparent;
+  height: 389px;
+  left: 0px;
+  position: absolute;
+  top: 114px;
+  width: 763px;
+}
+
+.bestellubersicht-1200 .rechteck-173-vuLaO9 {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 763px;
+}
+
+.bestellubersicht-1200 .gruppe-600-vuLaO9 {
+  background-color: transparent;
+  height: 12px;
+  left: 43px;
+  position: absolute;
+  top: calc(16.58% - 2px);
+  width: 112px;
+}
+
+.bestellubersicht-1200 .lieferadresse-m3Evh1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-1200 .lieferadresse-m3Evh1.bp3-animate-enter40 {
+  animation: bp3-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter40-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .ndern1-m3Evh1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-1200 .ndern1-m3Evh1.bp3-animate-enter41 {
+  animation: bp3-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter41-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kundennameinput1-vuLaO9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(26.91% - 6px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundennameinput1-vuLaO9.bp3-animate-enter42 {
+  animation: bp3-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter42-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kundenstrasseinput1-vuLaO9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(35.11% - 8px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundenstrasseinput1-vuLaO9.bp3-animate-enter43 {
+  animation: bp3-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter43-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kundenplzinput1-vuLaO9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(43.31% - 10px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundenplzinput1-vuLaO9.bp3-animate-enter44 {
+  animation: bp3-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter44-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kundenemailinput1-vuLaO9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(48.50% - 11px);
+  display: block;
+  height: 23px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundenemailinput1-vuLaO9.bp3-animate-enter45 {
+  animation: bp3-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter45-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-714-vuLaO9 {
+  background-color: transparent;
+  bottom: calc(33.51% - 98px);
+  height: 294px;
+  position: absolute;
+  right: calc(25.56% - 88px);
+  width: 344px;
+}
+
+.bestellubersicht-1200 .gruppe-606-mbrxBk {
+  background-color: transparent;
+  height: 154px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 344px;
+}
+
+.bestellubersicht-1200 .gruppe-605-BcbhnK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 13px;
+  left: 1px;
+  position: absolute;
+  width: 140px;
+}
+
+.bestellubersicht-1200 .gruppe-604-PgsNU0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .rechnungsadresse-HoyC4b {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.bestellubersicht-1200 .rechnungsadresse-HoyC4b.bp3-animate-enter46 {
+  animation: bp3-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter46-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .ndern3-HoyC4b {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  top: calc(25.00% - 2px);
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-1200 .ndern3-HoyC4b.bp3-animate-enter47 {
+  animation: bp3-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter47-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-603-BcbhnK {
+  background-color: transparent;
+  height: 78px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .gruppe-601-2Qxk3E {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 103px;
+}
+
+.bestellubersicht-1200 .zahlungsart-NNpIoK {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-1200 .zahlungsart-NNpIoK.bp3-animate-enter48 {
+  animation: bp3-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter48-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .ndern2-NNpIoK {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  top: calc(25.00% - 2px);
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-1200 .ndern2-NNpIoK.bp3-animate-enter49 {
+  animation: bp3-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter49-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-602-2Qxk3E {
+  background-color: transparent;
+  bottom: 0px;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .hedera-account-id-QSkIO5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(43.59% - 6px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht-1200 .hedera-account-id-QSkIO5.bp3-animate-enter50 {
+  animation: bp3-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter50-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-572-QSkIO5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 33px;
+}
+
+.bestellubersicht-1200 .gruppe-556-FRLNdM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .ellipse-46-dRJVgM {
+  background-color: var(--black);
+  border-radius: 16.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .linie-49-dRJVgM {
+  background-color: transparent;
+  height: 15px;
+  left: calc(29.81% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.11% - 7px);
+  width: 2px;
+}
+
+.bestellubersicht-1200 .linie-51-dRJVgM {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.05% - 6px);
+  top: calc(41.67% - 1px);
+  width: 13px;
+}
+
+.bestellubersicht-1200 .linie-52-dRJVgM {
+  background-color: transparent;
+  bottom: calc(42.70% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.05% - 6px);
+  width: 13px;
+}
+
+.bestellubersicht-1200 .linie-50-dRJVgM {
+  background-color: transparent;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.43% - 1px);
+  top: calc(49.11% - 7px);
+  width: 2px;
+}
+
+.bestellubersicht-1200 .rechteck-136-QSkIO5 {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 33px;
+  left: 161px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 161px);
+}
+
+.bestellubersicht-1200 .rechteck-136-QSkIO5.bp3-animate-enter51 {
+  animation: bp3-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter51-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .account-id-einzigartig-QSkIO5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: 16px;
+  text-align: left;
+  top: calc(46.34% - 6px);
+  white-space: nowrap;
+  width: 151px;
+}
+
+.bestellubersicht-1200 .account-id-einzigartig-QSkIO5.bp3-animate-enter52 {
+  animation: bp3-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-713-mbrxBk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 111px;
+  left: 0px;
+  position: absolute;
+  width: 170px;
+}
+
+.bestellubersicht-1200 .kundennameinput2-zeVqVV {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(105.68% - 24px);
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundennameinput2-zeVqVV.bp3-animate-enter53 {
+  animation: bp3-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter53-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kundenstrasseinput2-zeVqVV {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 86px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(28.41% - 7px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundenstrasseinput2-zeVqVV.bp3-animate-enter54 {
+  animation: bp3-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter54-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kundenplzinput2-zeVqVV {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(37.50% - 9px);
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 86px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundenplzinput2-zeVqVV.bp3-animate-enter55 {
+  animation: bp3-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter55-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kundenemailinput2-zeVqVV {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(3.41% - 1px);
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 86px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-1200 .kundenemailinput2-zeVqVV.bp3-animate-enter56 {
+  animation: bp3-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter56-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-613-D55Buu {
+  background-color: transparent;
+  height: 389px;
+  position: absolute;
+  right: 0px;
+  top: 114px;
+  width: 281px;
+}
+
+.bestellubersicht-1200 .rechteck-175-Xox9ht {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: calc(50.00% - 140px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 281px;
+}
+
+.bestellubersicht-1200 .gruppe-607-Xox9ht {
+  background-color: transparent;
+  height: 249px;
+  left: calc(12.92% - 12px);
+  position: absolute;
+  top: calc(19.64% - 49px);
+  width: 96px;
+}
+
+.bestellubersicht-1200 .bestellbersicht-6mBzqm {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .bestellbersicht-6mBzqm.bp3-animate-enter57 {
+  animation: bp3-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .versandkostennftgesamtkostenin-hbar-6mBzqm {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 196px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-1200 .span0-BdgxTK {
+}
+
+.bestellubersicht-1200 .span1-BdgxTK {
+}
+
+.bestellubersicht-1200 .versandkostennftgesamtkostenin-hbar-6mBzqm.bp3-animate-enter58 {
+  animation: bp3-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-608-Xox9ht {
+  background-color: transparent;
+  height: 198px;
+  position: absolute;
+  right: calc(1.41% - 1px);
+  top: calc(42.72% - 85px);
+  width: 96px;
+}
+
+.bestellubersicht-1200 .gesamtpreis1-qt5dbl {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(23.32% - 3px);
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: 22px;
+  text-align: right;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.bestellubersicht-1200 .gesamtpreis1-qt5dbl.bp3-animate-enter59 {
+  animation: bp3-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .preis1-qt5dbl {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(100.27% - 14px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 22px;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-1200 .preis1-qt5dbl.bp3-animate-enter60 {
+  animation: bp3-animate-enter60-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .x0000-eur-qt5dbl {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 22px;
+  text-align: right;
+  top: calc(24.16% - 3px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-1200 .x0000-eur-qt5dbl.bp3-animate-enter61 {
+  animation: bp3-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .x0000-eur-qpdyrx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 22px;
+  text-align: right;
+  top: calc(45.87% - 6px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-1200 .x0000-eur-qpdyrx.bp3-animate-enter62 {
+  animation: bp3-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .hbar-gesamtkosten-rechner-qt5dbl {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 1.64%;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.bestellubersicht-1200 .hbar-gesamtkosten-rechner-qt5dbl.bp3-animate-enter63 {
+  animation: bp3-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter63-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-Xox9ht {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.73% - 3px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-1200 .kleidchenbezeichnung-Xox9ht.bp3-animate-enter64 {
+  animation: bp3-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .bestellen1-Xox9ht {
+  background-color: transparent;
+  bottom: calc(6.23% - 3px);
+  height: 52px;
+  left: calc(50.00% - 116px);
+  position: absolute;
+  width: 233px;
+}
+
+.bestellubersicht-1200 .gruppe-204-TZuGFb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .rechteck-114-ddJDK5 {
+  background-color: var(--sandy-brown);
+  border-radius: 6px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .bestellen-ddJDK5 {
+  background-color: transparent;
+  bottom: 9px;
+  height: 28px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 38px);
+}
+
+.bestellubersicht-1200 .linie-54-D55Buu {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 17px;
+  top: 41.25%;
+  width: 248px;
+}
+
+.bestellubersicht-1200 .linie-54-D55Buu.bp3-animate-enter65 {
+  animation: bp3-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .gruppe-322-f9OiUf {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .gruppe-163-WUKjxZ {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .gruppe-163-WUKjxZ.bp3-animate-enter66 {
+  animation: bp3-animate-enter66-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter66-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200 .rechteck-90-GN3ton {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .exklusive-serviceleistungen-GN3ton {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.bestellubersicht-1200 .gruppe-137-GN3ton {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.bestellubersicht-1200 .versand-frei-Ft8nCB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bestellubersicht-1200 .truck-Ft8nCB {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.bestellubersicht-1200 .gruppe-341-GN3ton {
+  background-color: transparent;
+  height: 199px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.bestellubersicht-1200 .knnen-wir-helfen-SrbBT1 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.bestellubersicht-1200 .gruppe-339-SrbBT1 {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.bestellubersicht-1200 .gruppe-140-Jzc4hN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.bestellubersicht-1200 .kontakt-3xEcEM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .contact-Jzc4hN {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.bestellubersicht-1200 .gruppe-340-SrbBT1 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.bestellubersicht-1200 .gruppe-141-UVOGW2 {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.bestellubersicht-1200 .zahlungsoptionen-Ig6Srn {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .money-UVOGW2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht-1200 .gruppe-692-SrbBT1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: calc(19.68% - 6px);
+  position: absolute;
+  top: 181px;
+  width: 30px;
+}
+
+.bestellubersicht-1200 .gruppe-141-bUluXF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .nft-iYHIua {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .x498951_child_clothes-SrbBT1 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.bestellubersicht-1200 .gruppe-345-GN3ton {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.bestellubersicht-1200 .das-unternehmen-BBeypO {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.bestellubersicht-1200 .gruppe-344-BBeypO {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.bestellubersicht-1200 .gruppe-158-IYJ4sF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.bestellubersicht-1200 .impressum-GJpqNc {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .gruppe-154-IYJ4sF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.bestellubersicht-1200 .gruppe-159-lXf6uE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .ellipse-25-58W1nr {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht-1200 .i-58W1nr {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.bestellubersicht-1200 .gruppe-160-BBeypO {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.bestellubersicht-1200 .gruppe-155-D65ICE {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.bestellubersicht-1200 .gruppe-138-uY7i02 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200 .ber-borbus-fTVKmv {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .b-D65ICE {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bestellubersicht-1200 .gruppe-342-BBeypO {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.bestellubersicht-1200 .gruppe-156-eI9Fdw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.bestellubersicht-1200 .geschfts-und-nutzungsbediengungen-II9NVS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .solid-eI9Fdw {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.bestellubersicht-1200 .gruppe-343-BBeypO {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.bestellubersicht-1200 .gruppe-157-gBJ5O8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.bestellubersicht-1200 .datenschutz-cookies-aF8dLV {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .cookie-gBJ5O8 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.bestellubersicht-1200 .gruppe-346-GN3ton {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.bestellubersicht-1200 .besuche-uns-vvFMdx {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.bestellubersicht-1200 .gruppe-321-vvFMdx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.bestellubersicht-1200 .gruppe-162-Oi7jzX {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.bestellubersicht-1200 .instagram-Dryy5f {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200 .icon-instagram-Oi7jzX {
+  background-color: transparent;
+  height: 18px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-1200 .ssl-WUKjxZ {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.bestellubersicht-1200 .ssl-WUKjxZ.bp3-animate-enter67 {
+  animation: bp3-animate-enter67-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter67-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - bestellubersicht-375 */
+
+.bestellubersicht-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1676px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bestellubersicht-375 .rechteck-118-jPtlDi {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-546-jPtlDi {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.bestellubersicht-375 .sichere-bezahlung-fug2S4 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.bestellubersicht-375 .gruppe-199-fug2S4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.bestellubersicht-375 .rechteck-155-AN4mKN {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .pfad-284-AN4mKN {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-375 .pfad-285-AN4mKN {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht-375 .gruppe-548-jPtlDi {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.bestellubersicht-375 .stoffqualitt-BvJg9Z {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.bestellubersicht-375 .iconfinder_4265038_b-BvJg9Z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.bestellubersicht-375 .ellipse-41-vODAiF {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht-375 .pfad-286-vODAiF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-547-jPtlDi {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.bestellubersicht-375 .handarbeit-v4rZqr {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.bestellubersicht-375 .iconfinder_scissor_s-v4rZqr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.bestellubersicht-375 .pfad-273-TQl62w {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.bestellubersicht-375 .pfad-274-TQl62w {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.bestellubersicht-375 .pfad-275-TQl62w {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.bestellubersicht-375 .pfad-276-TQl62w {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.bestellubersicht-375 .borbus-jPtlDi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.bestellubersicht-375 .gruppe-619-jPtlDi {
+  background-color: transparent;
+  height: 56px;
+  left: calc(40.61% - 130px);
+  position: absolute;
+  top: calc(13.64% - 8px);
+  width: 321px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-SqKEDJ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-SqKEDJ.bp1-animate-enter25 {
+  animation: bp1-animate-enter25-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter25-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-598-SqKEDJ {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 41px;
+  width: 321px;
+}
+
+.bestellubersicht-375 .datenschutz-cookies-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: calc(22.31% - 18px);
+  text-align: left;
+  text-decoration: underline;
+  top: -3px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.bestellubersicht-375 .datenschutz-cookies-dclEw7.bp1-animate-enter26 {
+  animation: bp1-animate-enter26-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter26-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .bei-bestellung-stimm-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 9px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -3px;
+  white-space: nowrap;
+  width: 151px;
+}
+
+.bestellubersicht-375 .bei-bestellung-stimm-dclEw7.bp1-animate-enter27 {
+  animation: bp1-animate-enter27-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter27-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .ag-bs-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 9px;
+  left: calc(49.83% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: -3px;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.bestellubersicht-375 .ag-bs-dclEw7.bp1-animate-enter28 {
+  animation: bp1-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter28-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .und-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(42.67% - 9px);
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.bestellubersicht-375 .und-dclEw7.bp1-animate-enter29 {
+  animation: bp1-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter29-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .von-borbus-zu-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.bestellubersicht-375 .von-borbus-zu-dclEw7.bp1-animate-enter30 {
+  animation: bp1-animate-enter30-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter30-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-617-jPtlDi {
+  background-color: transparent;
+  bottom: calc(49.43% - 119px);
+  height: 240px;
+  left: calc(50.00% - 156px);
+  position: absolute;
+  width: 312px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-5pomrQ {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0.22%;
+  white-space: nowrap;
+  width: 314px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-5pomrQ.bp1-animate-enter31 {
+  animation: bp1-animate-enter31-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter31-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-610-5pomrQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 202px;
+  left: 14px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.bestellubersicht-375 .gruppe-599-upVqYO {
+  background-color: transparent;
+  height: 202px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 101px);
+  width: 284px;
+}
+
+.bestellubersicht-375 .vorderseitebild-01UU80 {
+  background-color: transparent;
+  height: calc(100.00% - 107px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 121px;
+}
+
+.bestellubersicht-375 .gruppe-597-01UU80 {
+  background-color: transparent;
+  height: 202px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 101px);
+  width: 123px;
+}
+
+.bestellubersicht-375 .handgemacht-von-borb-VpNnRr {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  height: 204px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 102px);
+  white-space: nowrap;
+  width: 125px;
+}
+
+.bestellubersicht-375 .span0-ywaSEg {
+}
+
+.bestellubersicht-375 .span1-ywaSEg {
+}
+
+.bestellubersicht-375 .span2-ywaSEg {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-style: normal;
+}
+
+.bestellubersicht-375 .span3-ywaSEg {
+}
+
+.bestellubersicht-375 .handgemacht-von-borb-VpNnRr.bp1-animate-enter32 {
+  animation: bp1-animate-enter32-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter32-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .preis1-VpNnRr {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(25.28% - 6px);
+  width: 100px;
+}
+
+.bestellubersicht-375 .span0-hmQ4yx {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-style: normal;
+}
+
+.bestellubersicht-375 .span1-hmQ4yx {
+}
+
+.bestellubersicht-375 .preis1-VpNnRr.bp1-animate-enter33 {
+  animation: bp1-animate-enter33-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter33-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-VpNnRr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-VpNnRr.bp1-animate-enter34 {
+  animation: bp1-animate-enter34-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter34-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-618-jPtlDi {
+  background-color: transparent;
+  bottom: calc(29.29% - 109px);
+  height: 372px;
+  left: calc(50.00% - 152px);
+  position: absolute;
+  width: 303px;
+}
+
+.bestellubersicht-375 .rechteck-175-WfbG8X {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 186px);
+  width: 303px;
+}
+
+.bestellubersicht-375 .gruppe-607-WfbG8X {
+  background-color: transparent;
+  height: 223px;
+  left: calc(21.67% - 21px);
+  position: absolute;
+  top: calc(8.39% - 19px);
+  width: 96px;
+}
+
+.bestellubersicht-375 .bestellbersicht-mmBLyB {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .bestellbersicht-mmBLyB.bp1-animate-enter35 {
+  animation: bp1-animate-enter35-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter35-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .versandkostennftgesamtkostenin-hbar-mmBLyB {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 182px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-375 .span0-P9gVFS {
+}
+
+.bestellubersicht-375 .span1-P9gVFS {
+}
+
+.bestellubersicht-375 .versandkostennftgesamtkostenin-hbar-mmBLyB.bp1-animate-enter36 {
+  animation: bp1-animate-enter36-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter36-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-608-WfbG8X {
+  background-color: transparent;
+  height: 183px;
+  position: absolute;
+  right: calc(2.88% - 3px);
+  top: calc(28.87% - 53px);
+  width: 94px;
+}
+
+.bestellubersicht-375 .gesamtpreis1-UnOVlu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(16.48% - 2px);
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: 20px;
+  text-align: right;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.bestellubersicht-375 .gesamtpreis1-UnOVlu.bp1-animate-enter37 {
+  animation: bp1-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter37-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .preis1-UnOVlu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(100.30% - 14px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 20px;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-375 .preis1-UnOVlu.bp1-animate-enter38 {
+  animation: bp1-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter38-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .x0000-eur0000-eur-UnOVlu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 20px;
+  text-align: right;
+  top: calc(34.17% - 18px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-375 .x0000-eur0000-eur-UnOVlu.bp1-animate-enter39 {
+  animation: bp1-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter39-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .hbar-gesamtkosten-rechner-UnOVlu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 1.78%;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.bestellubersicht-375 .hbar-gesamtkosten-rechner-UnOVlu.bp1-animate-enter40 {
+  animation: bp1-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter40-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-WfbG8X {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: calc(19.94% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(15.22% - 2px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-WfbG8X.bp1-animate-enter41 {
+  animation: bp1-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter41-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .bestellen1-WfbG8X {
+  background-color: transparent;
+  bottom: calc(13.75% - 7px);
+  height: 52px;
+  position: absolute;
+  right: calc(36.07% - 84px);
+  width: 233px;
+}
+
+.bestellubersicht-375 .gruppe-204-xmEKoT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .rechteck-114-PHEyTO {
+  background-color: var(--sandy-brown);
+  border-radius: 6px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .bestellen-PHEyTO {
+  background-color: transparent;
+  bottom: 9px;
+  height: 28px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 38px);
+}
+
+.bestellubersicht-375 .linie-54-WfbG8X {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 43.82%;
+  width: 100%;
+}
+
+.bestellubersicht-375 .linie-54-WfbG8X.bp1-animate-enter42 {
+  animation: bp1-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter42-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-327-jPtlDi {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-375 .rechteck-90-vWY6DS {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-356-vWY6DS {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.bestellubersicht-375 .exklusive-serviceleistungen-VbxO6W {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .gruppe-137-VbxO6W {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.bestellubersicht-375 .versand-frei-CkLsbT {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.bestellubersicht-375 .truck-CkLsbT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.bestellubersicht-375 .gruppe-359-vWY6DS {
+  background-color: transparent;
+  height: 155px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.bestellubersicht-375 .knnen-wir-helfen-dWdVsy {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-375 .gruppe-357-dWdVsy {
+  background-color: transparent;
+  bottom: calc(46.52% - 5px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.bestellubersicht-375 .gruppe-140-aSxxmt {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.bestellubersicht-375 .kontakt-fDhVN7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .contact-aSxxmt {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-375 .gruppe-358-dWdVsy {
+  background-color: transparent;
+  bottom: calc(24.72% - 4px);
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-375 .gruppe-141-4zoivt {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.bestellubersicht-375 .zahlungsoptionen-HhtESf {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .money-4zoivt {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.bestellubersicht-375 .gruppe-694-dWdVsy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 4px;
+  position: absolute;
+  width: 40px;
+}
+
+.bestellubersicht-375 .gruppe-141-I5qrMI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.99% - 5px);
+  width: 21px;
+}
+
+.bestellubersicht-375 .nft-7W1NoU {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .x498951_child_clothes-I5qrMI {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.bestellubersicht-375 .gruppe-363-vWY6DS {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.bestellubersicht-375 .das-unternehmen-kNIRxN {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.bestellubersicht-375 .gruppe-362-kNIRxN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.bestellubersicht-375 .gruppe-158-ZAp7zl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.bestellubersicht-375 .impressum-ojElYl {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .gruppe-154-ZAp7zl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.bestellubersicht-375 .gruppe-159-zEqavM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .ellipse-25-EtBP9w {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .i-EtBP9w {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.bestellubersicht-375 .gruppe-160-kNIRxN {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.bestellubersicht-375 .gruppe-155-Oxqelx {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.bestellubersicht-375 .gruppe-138-1EGAiV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .ber-borbus-ZvzCNB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .b-Oxqelx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.bestellubersicht-375 .gruppe-361-kNIRxN {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-156-xNc7I0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.bestellubersicht-375 .geschftsbedien-gungen-DPY3ax {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .solid-xNc7I0 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.bestellubersicht-375 .gruppe-360-kNIRxN {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.bestellubersicht-375 .gruppe-157-NOLHxY {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.bestellubersicht-375 .datenschutz-dxoMXO {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .cookie-NOLHxY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.bestellubersicht-375 .gruppe-325-vWY6DS {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.bestellubersicht-375 .gruppe-162-5PxmkB {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.bestellubersicht-375 .folge-uns-auf-instagram-WOQ9gQ {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .icon-instagram-5PxmkB {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-375 .ssl-vWY6DS {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.bestellubersicht-375 .ssl-vWY6DS.bp1-animate-enter43 {
+  animation: bp1-animate-enter43-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter43-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-720-jPtlDi {
+  background-color: transparent;
+  height: 389px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: calc(24.01% - 93px);
+  width: 363px;
+}
+
+.bestellubersicht-375 .gruppe-616-nYH5xr {
+  background-color: transparent;
+  height: 389px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 363px;
+}
+
+.bestellubersicht-375 .rechteck-173-fSZqIQ {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 363px;
+}
+
+.bestellubersicht-375 .gruppe-600-fSZqIQ {
+  background-color: transparent;
+  height: 10px;
+  left: calc(5.90% - 6px);
+  position: absolute;
+  top: calc(12.27% - 1px);
+  width: 94px;
+}
+
+.bestellubersicht-375 .lieferadresse-hz3aRH {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.bestellubersicht-375 .lieferadresse-hz3aRH.bp1-animate-enter44 {
+  animation: bp1-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter44-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .ndern1-hz3aRH {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-375 .ndern1-hz3aRH.bp1-animate-enter45 {
+  animation: bp1-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter45-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-717-nYH5xr {
+  background-color: transparent;
+  height: 85px;
+  left: calc(6.08% - 6px);
+  position: absolute;
+  top: calc(26.81% - 23px);
+  width: 100px;
+}
+
+.bestellubersicht-375 .kundennameinput1-upxxSq {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(108.22% - 13px);
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.bestellubersicht-375 .kundennameinput1-upxxSq.bp1-animate-enter46 {
+  animation: bp1-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter46-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenstrasseinput1-upxxSq {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(27.14% - 4px);
+  white-space: nowrap;
+  width: 102px;
+}
+
+.bestellubersicht-375 .kundenstrasseinput1-upxxSq.bp1-animate-enter47 {
+  animation: bp1-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter47-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenplzinput1-upxxSq {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(39.73% - 5px);
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.bestellubersicht-375 .kundenplzinput1-upxxSq.bp1-animate-enter48 {
+  animation: bp1-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter48-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenemailinput1-upxxSq {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(5.48% - 1px);
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-375 .kundenemailinput1-upxxSq.bp1-animate-enter49 {
+  animation: bp1-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter49-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-719-nYH5xr {
+  background-color: transparent;
+  bottom: calc(49.47% - 146px);
+  height: 295px;
+  position: absolute;
+  right: 15px;
+  width: 183px;
+}
+
+.bestellubersicht-375 .gruppe-606-LLUwIF {
+  background-color: transparent;
+  height: 186px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 183px;
+}
+
+.bestellubersicht-375 .gruppe-605-OYyNvM {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 122px;
+}
+
+.bestellubersicht-375 .gruppe-604-mepSbm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .rechnungsadresse-gno60v {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.bestellubersicht-375 .rechnungsadresse-gno60v.bp1-animate-enter50 {
+  animation: bp1-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter50-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .ndern3-gno60v {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: calc(150.00% - 14px);
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-375 .ndern3-gno60v.bp1-animate-enter51 {
+  animation: bp1-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter51-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-603-OYyNvM {
+  background-color: transparent;
+  height: 109px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-601-lAKnDs {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+
+.bestellubersicht-375 .zahlungsart-GxO98W {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.bestellubersicht-375 .zahlungsart-GxO98W.bp1-animate-enter52 {
+  animation: bp1-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .ndern2-GxO98W {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: calc(150.00% - 14px);
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-375 .ndern2-GxO98W.bp1-animate-enter53 {
+  animation: bp1-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter53-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-602-lAKnDs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 72px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-375 .hedera-account-id-eyru4C {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: calc(47.37% - 47px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.bestellubersicht-375 .hedera-account-id-eyru4C.bp1-animate-enter54 {
+  animation: bp1-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter54-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-572-eyru4C {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 33px;
+}
+
+.bestellubersicht-375 .gruppe-556-wPCeJw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .ellipse-46-oaZoZY {
+  background-color: var(--black);
+  border-radius: 16.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .linie-49-oaZoZY {
+  background-color: transparent;
+  height: 15px;
+  left: calc(29.81% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.11% - 7px);
+  width: 2px;
+}
+
+.bestellubersicht-375 .linie-51-oaZoZY {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.05% - 6px);
+  top: calc(41.67% - 1px);
+  width: 13px;
+}
+
+.bestellubersicht-375 .linie-52-oaZoZY {
+  background-color: transparent;
+  bottom: calc(42.70% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.05% - 6px);
+  width: 13px;
+}
+
+.bestellubersicht-375 .linie-50-oaZoZY {
+  background-color: transparent;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.43% - 1px);
+  top: calc(49.11% - 7px);
+  width: 2px;
+}
+
+.bestellubersicht-375 .rechteck-136-eyru4C {
+  background-color: var(--gallery);
+  bottom: 0px;
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 33px;
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-375 .rechteck-136-eyru4C.bp1-animate-enter55 {
+  animation: bp1-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter55-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .account-id-einzigartig-eyru4C {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(18.70% - 2px);
+  display: block;
+  height: 11px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.bestellubersicht-375 .account-id-einzigartig-eyru4C.bp1-animate-enter56 {
+  animation: bp1-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter56-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-718-LLUwIF {
+  background-color: transparent;
+  bottom: 0px;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  width: 100px;
+}
+
+.bestellubersicht-375 .kundenemailinput2-JKKa7O {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(5.71% - 1px);
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-375 .kundenemailinput2-JKKa7O.bp1-animate-enter57 {
+  animation: bp1-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenplzinput2-JKKa7O {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(37.14% - 4px);
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.bestellubersicht-375 .kundenplzinput2-JKKa7O.bp1-animate-enter58 {
+  animation: bp1-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenstrasseinput2-JKKa7O {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(28.36% - 4px);
+  white-space: nowrap;
+  width: 102px;
+}
+
+.bestellubersicht-375 .kundenstrasseinput2-JKKa7O.bp1-animate-enter59 {
+  animation: bp1-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundennameinput2-JKKa7O {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(108.57% - 13px);
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.bestellubersicht-375 .kundennameinput2-JKKa7O.bp1-animate-enter60 {
+  animation: bp1-animate-enter60-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - bestellubersicht-767 */
+
+.bestellubersicht-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1528px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bestellubersicht-767 .rechteck-118-XoxrRX {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .stoffqualitt-XoxrRX {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-767 .handarbeit-XoxrRX {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-767 .sichere-bezahlung-XoxrRX {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht-767 .gruppe-199-XoxrRX {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.bestellubersicht-767 .rechteck-155-VYa0g8 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .pfad-284-VYa0g8 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-767 .pfad-285-VYa0g8 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht-767 .rechteck-157-XoxrRX {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.bestellubersicht-767 .iconfinder_4265038_b-XoxrRX {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.bestellubersicht-767 .ellipse-41-DRrJ0x {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht-767 .pfad-286-DRrJ0x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .iconfinder_scissor_s-XoxrRX {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.bestellubersicht-767 .pfad-273-OQm34W {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.bestellubersicht-767 .pfad-274-OQm34W {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.bestellubersicht-767 .pfad-275-OQm34W {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.bestellubersicht-767 .pfad-276-OQm34W {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.bestellubersicht-767 .borbus-XoxrRX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.bestellubersicht-767 .zurck-XoxrRX {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 15px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 72px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.bestellubersicht-767 .zurck-XoxrRX.bp2-animate-enter27 {
+  animation: bp2-animate-enter27-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter27-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-611-XoxrRX {
+  background-color: transparent;
+  height: 59px;
+  left: 112px;
+  position: absolute;
+  top: calc(13.61% - 8px);
+  width: 583px;
+}
+
+.bestellubersicht-767 .bestellbersicht-rTuy2q {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 29px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.bestellubersicht-767 .bestellbersicht-rTuy2q.bp2-animate-enter28 {
+  animation: bp2-animate-enter28-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter28-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-598-rTuy2q {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .datenschutz-cookies-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: calc(29.62% - 40px);
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.bestellubersicht-767 .datenschutz-cookies-EDKs4F.bp2-animate-enter29 {
+  animation: bp2-animate-enter29-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter29-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .bei-bestellung-stimm-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.bestellubersicht-767 .bei-bestellung-stimm-EDKs4F.bp2-animate-enter30 {
+  animation: bp2-animate-enter30-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter30-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .ag-bs-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  left: calc(46.44% - 17px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.bestellubersicht-767 .ag-bs-EDKs4F.bp2-animate-enter31 {
+  animation: bp2-animate-enter31-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter31-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .und-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.66% - 13px);
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.bestellubersicht-767 .und-EDKs4F.bp2-animate-enter32 {
+  animation: bp2-animate-enter32-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter32-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .von-borbus-zu-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.bestellubersicht-767 .von-borbus-zu-EDKs4F.bp2-animate-enter33 {
+  animation: bp2-animate-enter33-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter33-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-XoxrRX {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: calc(12.39% - 45px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 754px;
+  white-space: nowrap;
+  width: 367px;
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-XoxrRX.bp2-animate-enter34 {
+  animation: bp2-animate-enter34-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter34-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-610-XoxrRX {
+  background-color: transparent;
+  height: 203px;
+  left: calc(10.51% - 31px);
+  position: absolute;
+  top: 791px;
+  width: 296px;
+}
+
+.bestellubersicht-767 .gruppe-599-hq6mix {
+  background-color: transparent;
+  height: 203px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 102px);
+  width: 296px;
+}
+
+.bestellubersicht-767 .vorderseitebild-7IRz4X {
+  background-color: transparent;
+  height: calc(100.00% - 108px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 121px;
+}
+
+.bestellubersicht-767 .gruppe-597-7IRz4X {
+  background-color: transparent;
+  height: 203px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 102px);
+  width: 135px;
+}
+
+.bestellubersicht-767 .handgemacht-von-borb-DPItxU {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: 11px;
+  font-weight: 400;
+  height: 205px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -0.25%;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.bestellubersicht-767 .span0-PxeFCK {
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-style: normal;
+}
+
+.bestellubersicht-767 .span1-PxeFCK {
+}
+
+.bestellubersicht-767 .span2-PxeFCK {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-style: normal;
+}
+
+.bestellubersicht-767 .span3-PxeFCK {
+}
+
+.bestellubersicht-767 .handgemacht-von-borb-DPItxU.bp2-animate-enter35 {
+  animation: bp2-animate-enter35-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter35-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .preis1-DPItxU {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(24.86% - 6px);
+  width: 100px;
+}
+
+.bestellubersicht-767 .span0-lr7DMB {
+}
+
+.bestellubersicht-767 .span1-lr7DMB {
+}
+
+.bestellubersicht-767 .preis1-DPItxU.bp2-animate-enter36 {
+  animation: bp2-animate-enter36-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter36-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-DPItxU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-DPItxU.bp2-animate-enter37 {
+  animation: bp2-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter37-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-614-XoxrRX {
+  background-color: transparent;
+  bottom: calc(37.28% - 139px);
+  height: 372px;
+  position: absolute;
+  right: calc(6.15% - 19px);
+  width: 304px;
+}
+
+.bestellubersicht-767 .rechteck-175-x6wiHF {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 186px);
+  width: 303px;
+}
+
+.bestellubersicht-767 .gruppe-607-x6wiHF {
+  background-color: transparent;
+  height: 235px;
+  left: calc(16.84% - 16px);
+  position: absolute;
+  top: calc(8.39% - 20px);
+  width: 96px;
+}
+
+.bestellubersicht-767 .bestellbersicht-RJoSJA {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .bestellbersicht-RJoSJA.bp2-animate-enter38 {
+  animation: bp2-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter38-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .versandkostennftgesamtkostenin-hbar-RJoSJA {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 196px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-767 .span0-iw6Ag6 {
+}
+
+.bestellubersicht-767 .span1-iw6Ag6 {
+}
+
+.bestellubersicht-767 .versandkostennftgesamtkostenin-hbar-RJoSJA.bp2-animate-enter39 {
+  animation: bp2-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter39-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-608-x6wiHF {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(3.53% - 4px);
+  top: calc(29.30% - 57px);
+  width: 103px;
+}
+
+.bestellubersicht-767 .gesamtpreis1-msfncZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(22.47% - 3px);
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: 29px;
+  text-align: right;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.bestellubersicht-767 .gesamtpreis1-msfncZ.bp2-animate-enter40 {
+  animation: bp2-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter40-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .preis1-msfncZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(100.27% - 14px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 29px;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-767 .preis1-msfncZ.bp2-animate-enter41 {
+  animation: bp2-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter41-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .x0000-eur0000-eur-msfncZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 29px;
+  text-align: right;
+  top: calc(31.07% - 16px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-767 .x0000-eur0000-eur-msfncZ.bp2-animate-enter42 {
+  animation: bp2-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter42-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .hbar-gesamtkosten-rechner-msfncZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 1.66%;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.bestellubersicht-767 .hbar-gesamtkosten-rechner-msfncZ.bp2-animate-enter43 {
+  animation: bp2-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter43-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-x6wiHF {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-x6wiHF.bp2-animate-enter44 {
+  animation: bp2-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter44-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .bestellen1-x6wiHF {
+  background-color: transparent;
+  bottom: calc(13.75% - 7px);
+  height: 52px;
+  left: calc(49.71% - 116px);
+  position: absolute;
+  width: 233px;
+}
+
+.bestellubersicht-767 .gruppe-204-iLQdiT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .rechteck-114-v8KKit {
+  background-color: var(--sandy-brown);
+  border-radius: 6px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .bestellen-v8KKit {
+  background-color: transparent;
+  bottom: 9px;
+  height: 28px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 38px);
+}
+
+.bestellubersicht-767 .linie-54-x6wiHF {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 43.01%;
+  width: 100%;
+}
+
+.bestellubersicht-767 .linie-54-x6wiHF.bp2-animate-enter45 {
+  animation: bp2-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter45-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-163-XoxrRX {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-163-XoxrRX.bp2-animate-enter46 {
+  animation: bp2-animate-enter46-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter46-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .rechteck-90-pFRMhK {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-347-pFRMhK {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.bestellubersicht-767 .exklusive-serviceleistungen-qfyQvd {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .gruppe-137-qfyQvd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.bestellubersicht-767 .versand-frei-2Au7z0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bestellubersicht-767 .truck-2Au7z0 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.bestellubersicht-767 .gruppe-350-pFRMhK {
+  background-color: transparent;
+  height: 199px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.bestellubersicht-767 .knnen-wir-helfen-wARrTU {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.bestellubersicht-767 .gruppe-348-wARrTU {
+  background-color: transparent;
+  bottom: calc(46.47% - 7px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.bestellubersicht-767 .gruppe-140-fqQakZ {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.bestellubersicht-767 .kontakt-ys1CYU {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .contact-fqQakZ {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.bestellubersicht-767 .gruppe-349-wARrTU {
+  background-color: transparent;
+  bottom: calc(24.56% - 5px);
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.bestellubersicht-767 .gruppe-141-36Wo1y {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.bestellubersicht-767 .zahlungsoptionen-xS1kVq {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .money-36Wo1y {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.bestellubersicht-767 .gruppe-693-wARrTU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: calc(3.93% - 2px);
+  position: absolute;
+  width: 59px;
+}
+
+.bestellubersicht-767 .gruppe-141-CV9cLn {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  cursor: pointer;
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 30px;
+}
+
+.bestellubersicht-767 .nft-Z5KaKf {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .x498951_child_clothes-CV9cLn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-767 .gruppe-354-pFRMhK {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.bestellubersicht-767 .das-unternehmen-LX5v3a {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.bestellubersicht-767 .gruppe-353-LX5v3a {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.bestellubersicht-767 .gruppe-158-xsShSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.bestellubersicht-767 .impressum-FUFt35 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .gruppe-154-xsShSE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.bestellubersicht-767 .gruppe-159-PYRQ90 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .ellipse-25-OLPeuS {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht-767 .i-OLPeuS {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.bestellubersicht-767 .gruppe-160-LX5v3a {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.bestellubersicht-767 .gruppe-155-Wwk1T2 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.bestellubersicht-767 .gruppe-138-8NjFrG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .ber-borbus-ZQXFCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .b-Wwk1T2 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bestellubersicht-767 .gruppe-351-LX5v3a {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-156-8WxPQG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.bestellubersicht-767 .geschfts-und-nutzungsbediengungen-4sxmHr {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .solid-8WxPQG {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.bestellubersicht-767 .gruppe-352-LX5v3a {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-767 .gruppe-157-DxzwbR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.bestellubersicht-767 .datenschutz-cookies-jmUO75 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .cookie-DxzwbR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.bestellubersicht-767 .gruppe-355-pFRMhK {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.bestellubersicht-767 .besuche-uns-DxqmxR {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .gruppe-323-DxqmxR {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-767 .gruppe-162-jY5Lba {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.bestellubersicht-767 .instagram-xRgtyr {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .icon-instagram-jY5Lba {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.bestellubersicht-767 .ssl-XoxrRX {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.bestellubersicht-767 .ssl-XoxrRX.bp2-animate-enter47 {
+  animation: bp2-animate-enter47-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter47-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-721-XoxrRX {
+  background-color: transparent;
+  height: 389px;
+  left: calc(50.00% - 354px);
+  position: absolute;
+  top: calc(25.11% - 98px);
+  width: 709px;
+}
+
+.bestellubersicht-767 .gruppe-615-a36zzT {
+  background-color: transparent;
+  height: 389px;
+  left: calc(50.00% - 354px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 709px;
+}
+
+.bestellubersicht-767 .rechteck-173-fdn1Ou {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: calc(50.00% - 354px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 709px;
+}
+
+.bestellubersicht-767 .gruppe-600-fdn1Ou {
+  background-color: transparent;
+  height: 12px;
+  left: calc(13.90% - 16px);
+  position: absolute;
+  top: calc(16.58% - 2px);
+  width: 112px;
+}
+
+.bestellubersicht-767 .lieferadresse-DwSxjK {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-767 .lieferadresse-DwSxjK.bp2-animate-enter48 {
+  animation: bp2-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter48-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .ndern1-DwSxjK {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-767 .ndern1-DwSxjK.bp2-animate-enter49 {
+  animation: bp2-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter49-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundennameinput1-a36zzT {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: calc(15.46% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(26.37% - 6px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundennameinput1-a36zzT.bp2-animate-enter50 {
+  animation: bp2-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter50-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenstrasseinput1-a36zzT {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: calc(15.46% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(32.92% - 8px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundenstrasseinput1-a36zzT.bp2-animate-enter51 {
+  animation: bp2-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter51-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenplzinput1-a36zzT {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: calc(15.46% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(39.48% - 9px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundenplzinput1-a36zzT.bp2-animate-enter52 {
+  animation: bp2-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenemailinput1-a36zzT {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: calc(15.46% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(46.04% - 11px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundenemailinput1-a36zzT.bp2-animate-enter53 {
+  animation: bp2-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter53-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-716-a36zzT {
+  background-color: transparent;
+  bottom: 50px;
+  height: 275px;
+  left: 312px;
+  position: absolute;
+  width: 344px;
+}
+
+.bestellubersicht-767 .gruppe-606-oSIoc2 {
+  background-color: transparent;
+  height: 154px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 344px;
+}
+
+.bestellubersicht-767 .gruppe-605-MjQMTb {
+  background-color: transparent;
+  bottom: 0px;
+  height: 13px;
+  left: 1px;
+  position: absolute;
+  width: 140px;
+}
+
+.bestellubersicht-767 .gruppe-604-x0I6xx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .rechnungsadresse-jtxKMu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.bestellubersicht-767 .rechnungsadresse-jtxKMu.bp2-animate-enter54 {
+  animation: bp2-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter54-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .ndern3-jtxKMu {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  top: calc(25.00% - 2px);
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-767 .ndern3-jtxKMu.bp2-animate-enter55 {
+  animation: bp2-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter55-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-603-MjQMTb {
+  background-color: transparent;
+  height: 78px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-601-SZ99Om {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 103px;
+}
+
+.bestellubersicht-767 .zahlungsart-xHKvx5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-767 .zahlungsart-xHKvx5.bp2-animate-enter56 {
+  animation: bp2-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter56-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .ndern2-xHKvx5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  top: calc(25.00% - 2px);
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-767 .ndern2-xHKvx5.bp2-animate-enter57 {
+  animation: bp2-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-602-SZ99Om {
+  background-color: transparent;
+  bottom: 0px;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .hedera-account-id-OaJYzW {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(43.59% - 6px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht-767 .hedera-account-id-OaJYzW.bp2-animate-enter58 {
+  animation: bp2-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-572-OaJYzW {
+  background-color: transparent;
+  bottom: 0px;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 33px;
+}
+
+.bestellubersicht-767 .gruppe-556-A1hDxB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .ellipse-46-2T1Z5n {
+  background-color: var(--black);
+  border-radius: 16.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .linie-49-2T1Z5n {
+  background-color: transparent;
+  height: 15px;
+  left: calc(29.81% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.11% - 7px);
+  width: 2px;
+}
+
+.bestellubersicht-767 .linie-51-2T1Z5n {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.05% - 6px);
+  top: calc(41.67% - 1px);
+  width: 13px;
+}
+
+.bestellubersicht-767 .linie-52-2T1Z5n {
+  background-color: transparent;
+  bottom: calc(42.70% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.05% - 6px);
+  width: 13px;
+}
+
+.bestellubersicht-767 .linie-50-2T1Z5n {
+  background-color: transparent;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.43% - 1px);
+  top: calc(49.11% - 7px);
+  width: 2px;
+}
+
+.bestellubersicht-767 .rechteck-136-OaJYzW {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 33px;
+  left: 161px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 161px);
+}
+
+.bestellubersicht-767 .rechteck-136-OaJYzW.bp2-animate-enter59 {
+  animation: bp2-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .account-id-einzigartig-OaJYzW {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: 16px;
+  text-align: left;
+  top: calc(46.34% - 6px);
+  white-space: nowrap;
+  width: 151px;
+}
+
+.bestellubersicht-767 .account-id-einzigartig-OaJYzW.bp2-animate-enter60 {
+  animation: bp2-animate-enter60-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-715-oSIoc2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  width: 170px;
+}
+
+.bestellubersicht-767 .kundennameinput2-wke8Z2 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(107.14% - 25px);
+  display: block;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundennameinput2-wke8Z2.bp2-animate-enter61 {
+  animation: bp2-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenstrasseinput2-wke8Z2 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 86px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(27.14% - 6px);
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundenstrasseinput2-wke8Z2.bp2-animate-enter62 {
+  animation: bp2-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenplzinput2-wke8Z2 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(38.57% - 9px);
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 86px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundenplzinput2-wke8Z2.bp2-animate-enter63 {
+  animation: bp2-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter63-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenemailinput2-wke8Z2 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(4.29% - 1px);
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 86px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bestellubersicht-767 .kundenemailinput2-wke8Z2.bp2-animate-enter64 {
+  animation: bp2-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+@media screen and (max-width: 766px) {
+  .screen.bestellubersicht { 
+    display: none;
+   }
+  .screen.bestellubersicht-1200 { 
+    display: none;
+   }
+  .screen.bestellubersicht-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.bestellubersicht { 
+    display: none;
+   }
+  .screen.bestellubersicht-1200 { 
+    display: none;
+   }
+  .screen.bestellubersicht-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.bestellubersicht { 
+    display: none;
+   }
+  .screen.bestellubersicht-767 { 
+    display: none;
+   }
+  .screen.bestellubersicht-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.bestellubersicht-1200 { 
+    display: none;
+   }
+  .screen.bestellubersicht-767 { 
+    display: none;
+   }
+  .screen.bestellubersicht-375 { 
+    display: none;
+   }
+}

@@ -1,9 +1,10 @@
-const collectionOne = require("./collection-one.json")
+const collectionOne = require("../../src/_data/collection-one.json")
 
 module.exports = () => {
   return collectionOne.map((item, index) => {
     return {
       id: index + 1,
+      ipfs_car: item.ipfs_car,
       name: `Kleidchen #${index + 1}`,
       price: item.price,
       description: item.description,
@@ -16,8 +17,7 @@ module.exports = () => {
       links: {
         overview: `https://borbus-shop.com/produktansicht${index + 1}`,
         detail: `https://borbus-shop.com/produktansichtdetail${index + 1}`,
-      },
-      available: true,
+      }
     }
   })
 }
