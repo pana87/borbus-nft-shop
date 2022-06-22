@@ -1,4 +1,4 @@
-import { _noAddressFound, _noCartItemFound } from "./exceptions.js"
+// import { _noAddressFound, _noCartItemFound } from "./exceptions.js"
 
 // export async function getPriceInHbar(priceInEur) {
 //   const response = await fetch("http://localhost:8888/.netlify/functions/hbar-exchange-rate", {
@@ -15,22 +15,54 @@ import { _noAddressFound, _noCartItemFound } from "./exceptions.js"
 //   return priceInHbar
 // }
 
-export function getCartListFromLocalStorage() {
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+// export function getCartListFromLocalStorage() {
+//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
 
-  if (cart.length === 0) {
-    _noCartItemFound()
-    return
-  }
-  return cart
-}
+//   if (cart.length === 0) {
+//     _noCartItemFound()
+//     return
+//   }
+//   return cart
+// }
 
-export function getAddressesFromLocalStorage() {
-  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
+// export function getAddressesFromLocalStorage() {
+//   const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
 
-  if (addresses.length === 0) {
-    _noAddressFound()
-    return
-  }
-  return addresses
-}
+//   if (addresses.length === 0) {
+//     _noAddressFound()
+//     return
+//   }
+//   return addresses
+// }
+
+
+// if (!window.sessionStorage.getItem("nfts")) {
+//   await _getAvailableNftsFromCollectionOne()
+
+  // const nfts = JSON.parse(window.sessionStorage.getItem("nfts"))
+  // console.log(nfts);
+
+
+  // // render not available nfts    
+  // const notAvailableNfts = nfts.filter(it => it.treasuryId !== it.owner)
+  // console.log(notAvailableNfts);
+  // notAvailableNfts.forEach(nft => {
+  //   const notAvailableElements = document.querySelectorAll(`div[class*='kleidchen-${nft.serial}']`)
+  //   const notAvailableElementParents = []
+  //   notAvailableElements.forEach(element => {
+  //     notAvailableElementParents.push(element.parentElement)
+  //   })
+
+  //   notAvailableElementParents.forEach(parent => {
+  //     // need good grouping in adobe xd like dress 3 or 4
+  //     parent.innerHTML = /*html*/`
+  //       <div style="display: flex; flex-direction: column; align-items: center; line-height: 2; opacity: 0.6;">
+  //         <img src="${window.__DATA__[nft.serial - 1].images.front}" style="width: 100%; " />
+  //         <div class="sold" style="padding-top: 20px; color: red;">Verkauft</div>
+  //         <div class="owner" style="padding-top: 10px;">Besitzer: ${nft.owner}</div>
+  //       </div>
+  //     `
+  //   })
+  // })
+
+// }

@@ -10,7 +10,7 @@ export function _noUserSessionFound() {
 
 export function _noUserFound() {
   alert("Es sind keine Kontaktinformationen vorhanden")
-  window.location.assign("/kontakt-informationen")
+  window.location.assign("/bestellformular")
 }
 
 export function _noAccountIdFound() {
@@ -22,8 +22,3 @@ export function _noAddressFound() {
   alert("Wir konnten keine Lieferadresse finden. Bitte registrieren Sie sich.")
   window.location.assign("/bestellformular")
 }
-
-// export function _noValidHbarPrice() {
-//   alert("Der Hbar Preis wurde aktualisiert")
-
-// }

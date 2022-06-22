@@ -1,5 +1,10 @@
-import { renderCollectionOne } from "../js/fetch.js"
+console.log("shop-view")
 
-console.log("shop-view");
+import { _renderNotAvailableNfts } from "./render.js"
+import { _getAvailableNftsFromCollectionOne } from "./fetch.js"
 
-renderCollectionOne()
+if (!window.sessionStorage.getItem("nfts")) {
+  await _getAvailableNftsFromCollectionOne()
+} else {
+  _renderNotAvailableNfts()
+}

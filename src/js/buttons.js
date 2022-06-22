@@ -8,7 +8,6 @@ import {
   _openEmailInputField
 } from "./render.js"
 import { _noAddressFound, _noCartItemFound, _noUserFound, _noUserSessionFound } from "./exceptions.js"
-import { getCartListFromLocalStorage } from "./storage.js"
 import { getPriceInHbar } from "./fetch.js"
 
 function _onLoginButtonClick() {
@@ -111,10 +110,11 @@ function _onLoginLinkButtonClick() {
   loginLinks.forEach(link => {
     link.setAttribute("style", "cursor: pointer;")
     link.addEventListener("click", () => {
-      if (!window.localStorage.getItem("user")) {
+      if (!window.localStorage.getItem("userSession")) {
         alert("Es wurden keine lokalen Daten gefunden. Bitte registrieren Sie sich erneut.")
         return
       }
+      if (!window)
       window.location.assign("/loginbereich")
       return
     })
@@ -247,7 +247,14 @@ function _onOrderButtonClick() {
       const previousHbarPrice = parseFloat(renderedHbarPrice.trim().split(" ")[0])
       // console.log(previousHbarPrice);
 
-      const itemPrice = parseFloat(getCartListFromLocalStorage()[0].price.replace(",", "."))
+      const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+
+      if (cart.length === 0) {
+        _noCartItemFound()
+        return
+      }
+
+      const itemPrice = parseFloat(cart[0].price.replace(",", "."))
       // console.log(item);
       // const itemPrice = parseFloat(item.price.replace(",", "."))
       // console.log(itemPrice);
@@ -283,11 +290,9 @@ function _onOrderButtonClick() {
 
       xhr.onload = () => {
         if (xhr.status === 200) {
-          // erfolg seite
-          console.log("erfolg");
+          window.location.assign("/danke")
         } else {
-          // fehlgeschlagen seite
-          console.log("fehlgeschlagen");
+          window.location.assign("/fehlgeschlagen")
         }
       }
 
@@ -325,8 +330,14 @@ function _onPayButtonClick() {
         return
       }
 
+      if (!window.localStorage.getItem("addresses")) {
+        _noAddressFound()
+        return
+      }
+
       window.location.assign("/bestellubersicht")
 
+      // console.log("hi");
     })
   })
 }
@@ -354,6 +365,7 @@ function _onCartButtonClick() {
     cart = []
     cart.push(window.__DATA__)
     localStorage.setItem("cart", JSON.stringify(cart))
+    alert(`${window.__DATA__.name} wurde erfolgreich in den Warenkorb gelegt`)
 
     _updateCartPointer()
   }))
