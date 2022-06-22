@@ -1,0 +1,4324 @@
+/* screen - groessentabelle */
+
+.groessentabelle {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1424px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.groessentabelle .rechteck-118-jDXr4x {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .stoffqualitt-jDXr4x {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.groessentabelle .handarbeit-jDXr4x {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.groessentabelle .sichere-bezahlung-jDXr4x {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.groessentabelle .gruppe-199-jDXr4x {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.groessentabelle .rechteck-155-4gAmLu {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.groessentabelle .pfad-284-4gAmLu {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.groessentabelle .pfad-285-4gAmLu {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.02% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.groessentabelle .rechteck-157-jDXr4x {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.groessentabelle .iconfinder_scissor_s-jDXr4x {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.groessentabelle .pfad-273-6muTxL {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.groessentabelle .pfad-274-6muTxL {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.groessentabelle .pfad-275-6muTxL {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.groessentabelle .pfad-276-6muTxL {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.groessentabelle .iconfinder_4265038_b-jDXr4x {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.groessentabelle .ellipse-41-f42zGb {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.groessentabelle .pfad-286-f42zGb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.groessentabelle .zurck-jDXr4x {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(8.82% - 5px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 81px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.groessentabelle .zurck-jDXr4x.bp4-animate-enter247 {
+  animation: bp4-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter247-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle .borbus-jDXr4x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.groessentabelle .gruppe-505-jDXr4x {
+  background-color: transparent;
+  height: 56.25%;
+  left: 164px;
+  position: absolute;
+  top: 15.17%;
+  width: calc(100.00% - 327px);
+}
+
+.groessentabelle .rechteck-163-q4lmST {
+  background-color: var(--white);
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .grentabelle-q4lmST {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(49.93% - 67px);
+  text-align: left;
+  top: 64px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.groessentabelle .x6-monate-q4lmST {
+  background-color: transparent;
+  height: 18px;
+  left: calc(20.87% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: calc(42.27% - 8px);
+  white-space: nowrap;
+  width: 79px;
+}
+
+.groessentabelle .x63-68-q4lmST {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(39.30% - 22px);
+  text-align: left;
+  top: calc(42.27% - 8px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.groessentabelle .x87-92-q4lmST {
+  background-color: transparent;
+  bottom: calc(32.57% - 6px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(39.30% - 22px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.groessentabelle .x68-q4lmST {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(20.48% - 4px);
+  text-align: left;
+  top: calc(42.27% - 8px);
+  white-space: nowrap;
+  width: 21px;
+}
+
+.groessentabelle .x92-q4lmST {
+  background-color: transparent;
+  bottom: calc(32.57% - 6px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(20.48% - 4px);
+  text-align: left;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.groessentabelle .x2-jahre-q4lmST {
+  background-color: transparent;
+  bottom: calc(32.82% - 6px);
+  height: 18px;
+  left: calc(20.59% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.groessentabelle .alter-q4lmST {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 20px;
+  left: calc(21.56% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(27.78% - 6px);
+  white-space: nowrap;
+  width: 44px;
+}
+
+.groessentabelle .krpergre-in-cm-q4lmST {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(38.50% - 62px);
+  text-align: left;
+  top: calc(27.88% - 6px);
+  white-space: nowrap;
+  width: 162px;
+}
+
+.groessentabelle .gre-q4lmST {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(19.82% - 11px);
+  text-align: left;
+  top: calc(27.78% - 6px);
+  white-space: nowrap;
+  width: 54px;
+}
+
+.groessentabelle .linie-45-q4lmST {
+  background-color: transparent;
+  height: 1px;
+  left: 182px;
+  object-fit: cover;
+  position: absolute;
+  top: 20.27%;
+  width: calc(100.00% - 366px);
+}
+
+.groessentabelle .linie-46-q4lmST {
+  background-color: transparent;
+  height: 1px;
+  left: 182px;
+  object-fit: cover;
+  position: absolute;
+  top: 34.01%;
+  width: calc(100.00% - 366px);
+}
+
+.groessentabelle .rechteck-164-q4lmST {
+  background-color: var(--gallery);
+  bottom: calc(45.33% - 38px);
+  height: 84px;
+  left: 179px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 362px);
+}
+
+.groessentabelle .rechteck-166-q4lmST {
+  background-color: var(--gallery);
+  bottom: calc(17.85% - 15px);
+  height: 84px;
+  left: 179px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 362px);
+}
+
+.groessentabelle .x75-80-q4lmST {
+  background-color: transparent;
+  bottom: calc(45.21% - 8px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(39.30% - 22px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.groessentabelle .x93-98-q4lmST {
+  background-color: transparent;
+  bottom: calc(20.05% - 4px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(39.30% - 22px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.groessentabelle .x80-q4lmST {
+  background-color: transparent;
+  bottom: calc(45.21% - 8px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(20.48% - 4px);
+  text-align: left;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.groessentabelle .x98-q4lmST {
+  background-color: transparent;
+  bottom: calc(20.05% - 4px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(20.48% - 4px);
+  text-align: left;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.groessentabelle .x12-monate-q4lmST {
+  background-color: transparent;
+  bottom: calc(46.23% - 8px);
+  height: 18px;
+  left: calc(21.00% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.groessentabelle .x3-jahre-q4lmST {
+  background-color: transparent;
+  bottom: calc(21.07% - 4px);
+  height: 18px;
+  left: calc(20.59% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.groessentabelle .gruppe-163-jDXr4x {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle .gruppe-163-jDXr4x.bp4-animate-enter248 {
+  animation: bp4-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter248-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle .rechteck-90-i6jFJ2 {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .gruppe-364-i6jFJ2 {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.groessentabelle .exklusive-serviceleistungen-Rd7ZJc {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.groessentabelle .gruppe-137-Rd7ZJc {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle .versand-rckversand-frei-Uq38bK {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.groessentabelle .truck-Uq38bK {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.groessentabelle .gruppe-367-i6jFJ2 {
+  background-color: transparent;
+  height: 196px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.groessentabelle .knnen-wir-helfen-UeUe4x {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.groessentabelle .gruppe-365-UeUe4x {
+  background-color: transparent;
+  bottom: calc(45.44% - 7px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.groessentabelle .gruppe-140-mXBBnv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.groessentabelle .kontakt-5RX9tN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle .contact-mXBBnv {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.groessentabelle .gruppe-366-UeUe4x {
+  background-color: transparent;
+  bottom: calc(23.49% - 5px);
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.groessentabelle .gruppe-141-b4Pj4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.groessentabelle .zahlungsoptionen-SW7zVF {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle .money-b4Pj4d {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.groessentabelle .gruppe-622-UeUe4x {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 6px;
+  position: absolute;
+  width: 61px;
+}
+
+.groessentabelle .gruppe-141-bUoNJ2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .nf-tlink-iFojDN {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.groessentabelle .x498951_child_clothes-iFojDN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.groessentabelle .gruppe-372-i6jFJ2 {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.groessentabelle .besuche-uns-xx5T3N {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle .gruppe-320-xx5T3N {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.groessentabelle .gruppe-162-EH18RX {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.groessentabelle .instagram-iP1CrA {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle .instagram-sketched-EH18RX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.groessentabelle .ssl-jDXr4x {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.groessentabelle .ssl-jDXr4x.bp4-animate-enter249 {
+  animation: bp4-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter249-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle .gruppe-554-jDXr4x {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.groessentabelle .gruppe-371-dnmNi8 {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.groessentabelle .das-unternehmen-8x1iul {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.groessentabelle .gruppe-370-8x1iul {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.groessentabelle .gruppe-154-W30ZI7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .gruppe-159-WuxEgd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .ellipse-25-TxfV9J {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.groessentabelle .i-TxfV9J {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.groessentabelle .gruppe-160-8x1iul {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.groessentabelle .gruppe-155-U0mBo9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.groessentabelle .gruppe-138-5GKKL1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .ber-borbus-xsUDDT {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle .b-U0mBo9 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.groessentabelle .gruppe-368-8x1iul {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.groessentabelle .gruppe-156-aRDPwW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.groessentabelle .geschfts-und-nutzungs-bediengungen-XkdEKl {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle .solid-aRDPwW {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.groessentabelle .gruppe-369-8x1iul {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.groessentabelle .gruppe-157-aj4kDR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.groessentabelle .datenschutz-cookies-PsptC7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle .cookie-aj4kDR {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.groessentabelle .impressum-dnmNi8 {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+/* screen - groessentabelle-1200 */
+
+.groessentabelle-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1409px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.groessentabelle-1200 .rechteck-118-jmXmri {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .stoffqualitt-jmXmri {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.groessentabelle-1200 .handarbeit-jmXmri {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.groessentabelle-1200 .sichere-bezahlung-jmXmri {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.groessentabelle-1200 .gruppe-199-jmXmri {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.groessentabelle-1200 .rechteck-155-G7x9k8 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .pfad-284-G7x9k8 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.groessentabelle-1200 .pfad-285-G7x9k8 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.groessentabelle-1200 .rechteck-157-jmXmri {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.groessentabelle-1200 .iconfinder_4265038_b-jmXmri {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.groessentabelle-1200 .ellipse-41-vTSzsA {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.groessentabelle-1200 .pfad-286-vTSzsA {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .iconfinder_scissor_s-jmXmri {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.groessentabelle-1200 .pfad-273-V7g5O9 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.groessentabelle-1200 .pfad-274-V7g5O9 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.groessentabelle-1200 .pfad-275-V7g5O9 {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.groessentabelle-1200 .pfad-276-V7g5O9 {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.groessentabelle-1200 .zurck-jmXmri {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(4.12% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 72px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.groessentabelle-1200 .zurck-jmXmri.bp3-animate-enter292 {
+  animation: bp3-animate-enter292-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter292-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle-1200 .borbus-jmXmri {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.groessentabelle-1200 .gruppe-266-jmXmri {
+  background-color: transparent;
+  height: 587px;
+  position: absolute;
+  right: calc(49.46% - 548px);
+  top: calc(38.81% - 228px);
+  width: 1107px;
+}
+
+.groessentabelle-1200 .rechteck-163-pnfxjj {
+  background-color: var(--white);
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .grentabelle-pnfxjj {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.95% - 51px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.groessentabelle-1200 .x6-monate-pnfxjj {
+  background-color: transparent;
+  height: 15px;
+  left: calc(21.09% - 13px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.45% - 7px);
+  white-space: nowrap;
+  width: 64px;
+}
+
+.groessentabelle-1200 .x63-68-pnfxjj {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(38.93% - 18px);
+  text-align: left;
+  top: calc(45.45% - 7px);
+  white-space: nowrap;
+  width: 46px;
+}
+
+.groessentabelle-1200 .x87-92-pnfxjj {
+  background-color: transparent;
+  bottom: calc(30.77% - 5px);
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(38.93% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.groessentabelle-1200 .x68-pnfxjj {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(20.37% - 3px);
+  text-align: left;
+  top: calc(45.45% - 7px);
+  white-space: nowrap;
+  width: 17px;
+}
+
+.groessentabelle-1200 .x92-pnfxjj {
+  background-color: transparent;
+  bottom: calc(30.77% - 5px);
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(20.37% - 3px);
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.groessentabelle-1200 .x2-jahre-pnfxjj {
+  background-color: transparent;
+  bottom: calc(30.94% - 5px);
+  height: 15px;
+  left: calc(20.77% - 10px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.groessentabelle-1200 .alter-pnfxjj {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 14px;
+  left: calc(21.54% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(31.59% - 4px);
+  white-space: nowrap;
+  width: 30px;
+}
+
+.groessentabelle-1200 .krpergre-in-cm-pnfxjj {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(38.78% - 42px);
+  text-align: left;
+  top: calc(31.73% - 5px);
+  white-space: nowrap;
+  width: 109px;
+}
+
+.groessentabelle-1200 .gre-pnfxjj {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(19.91% - 7px);
+  text-align: left;
+  top: calc(31.59% - 4px);
+  white-space: nowrap;
+  width: 37px;
+}
+
+.groessentabelle-1200 .linie-45-pnfxjj {
+  background-color: transparent;
+  height: 1px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 24.43%;
+  width: calc(100.00% - 255px);
+}
+
+.groessentabelle-1200 .linie-46-pnfxjj {
+  background-color: transparent;
+  height: 1px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 37.45%;
+  width: calc(100.00% - 255px);
+}
+
+.groessentabelle-1200 .rechteck-164-pnfxjj {
+  background-color: var(--gallery);
+  bottom: calc(42.72% - 25px);
+  height: 58px;
+  left: 124px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 252px);
+}
+
+.groessentabelle-1200 .rechteck-166-pnfxjj {
+  background-color: var(--gallery);
+  bottom: calc(16.82% - 10px);
+  height: 58px;
+  left: 124px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 252px);
+}
+
+.groessentabelle-1200 .x75-80-pnfxjj {
+  background-color: transparent;
+  bottom: calc(42.66% - 6px);
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(38.93% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.groessentabelle-1200 .x93-98-pnfxjj {
+  background-color: transparent;
+  bottom: calc(18.88% - 3px);
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(38.93% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.groessentabelle-1200 .x80-pnfxjj {
+  background-color: transparent;
+  bottom: calc(42.66% - 6px);
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(20.37% - 3px);
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.groessentabelle-1200 .x98-pnfxjj {
+  background-color: transparent;
+  bottom: calc(18.88% - 3px);
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(20.37% - 3px);
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.groessentabelle-1200 .x12-monate-pnfxjj {
+  background-color: transparent;
+  bottom: calc(43.71% - 7px);
+  height: 15px;
+  left: calc(21.26% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.groessentabelle-1200 .x3-jahre-pnfxjj {
+  background-color: transparent;
+  bottom: calc(19.76% - 3px);
+  height: 15px;
+  left: calc(20.77% - 10px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.groessentabelle-1200 .gruppe-322-jmXmri {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle-1200 .gruppe-163-UaqECM {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .gruppe-163-UaqECM.bp3-animate-enter293 {
+  animation: bp3-animate-enter293-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter293-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle-1200 .rechteck-90-kux2ln {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .exklusive-serviceleistungen-kux2ln {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.groessentabelle-1200 .gruppe-137-kux2ln {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.groessentabelle-1200 .versand-frei-zppdKM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.groessentabelle-1200 .truck-zppdKM {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.groessentabelle-1200 .gruppe-341-kux2ln {
+  background-color: transparent;
+  height: 199px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.groessentabelle-1200 .knnen-wir-helfen-OGj913 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.groessentabelle-1200 .gruppe-339-OGj913 {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.groessentabelle-1200 .gruppe-140-oCeEGb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.groessentabelle-1200 .kontakt-vXhk1i {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .contact-oCeEGb {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.groessentabelle-1200 .gruppe-340-OGj913 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.groessentabelle-1200 .gruppe-141-NAIdET {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.groessentabelle-1200 .zahlungsoptionen-Mxu9uM {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .money-NAIdET {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.groessentabelle-1200 .gruppe-692-OGj913 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: calc(19.68% - 6px);
+  position: absolute;
+  top: 181px;
+  width: 30px;
+}
+
+.groessentabelle-1200 .gruppe-141-72XCly {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .nft-SybfI8 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .x498951_child_clothes-OGj913 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 22px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.groessentabelle-1200 .gruppe-345-kux2ln {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.groessentabelle-1200 .das-unternehmen-xMeRx8 {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.groessentabelle-1200 .gruppe-344-xMeRx8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.groessentabelle-1200 .gruppe-158-bORlkW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.groessentabelle-1200 .impressum-KOSaMK {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .gruppe-154-bORlkW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.groessentabelle-1200 .gruppe-159-jRo8JC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .ellipse-25-YCRwnK {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.groessentabelle-1200 .i-YCRwnK {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.groessentabelle-1200 .gruppe-160-xMeRx8 {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.groessentabelle-1200 .gruppe-155-rXhJkN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.groessentabelle-1200 .gruppe-138-OHGzow {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .ber-borbus-KM4YFt {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .b-rXhJkN {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.groessentabelle-1200 .gruppe-342-xMeRx8 {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.groessentabelle-1200 .gruppe-156-GpM1Wk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.groessentabelle-1200 .geschfts-und-nutzungsbediengungen-0Yt7TX {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .solid-GpM1Wk {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.groessentabelle-1200 .gruppe-343-xMeRx8 {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.groessentabelle-1200 .gruppe-157-hJlKZL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.groessentabelle-1200 .datenschutz-cookies-GmJ1Vb {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .cookie-hJlKZL {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.groessentabelle-1200 .gruppe-346-kux2ln {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.groessentabelle-1200 .besuche-uns-9b4hVA {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.groessentabelle-1200 .gruppe-321-9b4hVA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.groessentabelle-1200 .gruppe-162-mSYspQ {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.groessentabelle-1200 .instagram-fjBtA8 {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-1200 .instagram-sketched-mSYspQ {
+  background-color: transparent;
+  height: 18px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.groessentabelle-1200 .ssl-UaqECM {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.groessentabelle-1200 .ssl-UaqECM.bp3-animate-enter294 {
+  animation: bp3-animate-enter294-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter294-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - groessentabelle-375 */
+
+.groessentabelle-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1079px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.groessentabelle-375 .gruppe-293-YGBXNV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: calc(7.43% - 4px);
+  position: absolute;
+  top: 63px;
+  width: 52px;
+}
+
+.groessentabelle-375 .zurck-GkQICZ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.groessentabelle-375 .zurck-GkQICZ.bp1-animate-enter276 {
+  animation: bp1-animate-enter276-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter276-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle-375 .borbus-YGBXNV {
+  background-color: transparent;
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(49.13% - 71px);
+  text-align: left;
+  top: 104px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.groessentabelle-375 .rechteck-118-YGBXNV {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .gruppe-546-YGBXNV {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.groessentabelle-375 .sichere-bezahlung-cK860R {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.groessentabelle-375 .gruppe-199-cK860R {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.groessentabelle-375 .rechteck-155-p5DRdX {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.groessentabelle-375 .pfad-284-p5DRdX {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.groessentabelle-375 .pfad-285-p5DRdX {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.groessentabelle-375 .gruppe-548-YGBXNV {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.groessentabelle-375 .stoffqualitt-kiIGE7 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.groessentabelle-375 .iconfinder_4265038_b-kiIGE7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.groessentabelle-375 .ellipse-41-TgR2tg {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.groessentabelle-375 .pfad-286-TgR2tg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .gruppe-547-YGBXNV {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.groessentabelle-375 .handarbeit-GKFIKX {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.groessentabelle-375 .iconfinder_scissor_s-GKFIKX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.groessentabelle-375 .pfad-273-OlLIxz {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.groessentabelle-375 .pfad-274-OlLIxz {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.groessentabelle-375 .pfad-275-OlLIxz {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.groessentabelle-375 .pfad-276-OlLIxz {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.groessentabelle-375 .gruppe-266-YGBXNV {
+  background-color: transparent;
+  height: 38.92%;
+  left: 24px;
+  position: absolute;
+  top: 20.20%;
+  width: calc(100.00% - 47px);
+}
+
+.groessentabelle-375 .gruppe-506-KniLKB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .rechteck-163-PcSz89 {
+  background-color: var(--white);
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .grentabelle-PcSz89 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(49.19% - 40px);
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.groessentabelle-375 .x6-monate-PcSz89 {
+  background-color: transparent;
+  height: 12px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(44.61% - 5px);
+  white-space: nowrap;
+  width: 50px;
+}
+
+.groessentabelle-375 .x63-68-PcSz89 {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(45.39% - 16px);
+  text-align: left;
+  top: calc(44.61% - 5px);
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-375 .x87-92-PcSz89 {
+  background-color: transparent;
+  bottom: calc(31.62% - 4px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(45.39% - 16px);
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-375 .x68-PcSz89 {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(17.83% - 2px);
+  text-align: left;
+  top: calc(45.10% - 5px);
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-375 .x92-PcSz89 {
+  background-color: transparent;
+  bottom: calc(31.13% - 4px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(17.83% - 2px);
+  text-align: left;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-375 .x2-jahre-PcSz89 {
+  background-color: transparent;
+  bottom: calc(31.62% - 4px);
+  height: 12px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.groessentabelle-375 .alter-PcSz89 {
+  -webkit-text-stroke: 0.30000001192092896px var(--black);
+  background-color: transparent;
+  height: 12px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(31.13% - 4px);
+  white-space: nowrap;
+  width: 25px;
+}
+
+.groessentabelle-375 .krpergre-cm-PcSz89 {
+  -webkit-text-stroke: 0.30000001192092896px var(--black);
+  background-color: transparent;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(45.68% - 39px);
+  text-align: left;
+  top: calc(31.33% - 4px);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.groessentabelle-375 .gre-PcSz89 {
+  -webkit-text-stroke: 0.30000001192092896px var(--black);
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(16.84% - 5px);
+  text-align: left;
+  top: calc(31.13% - 4px);
+  white-space: nowrap;
+  width: 31px;
+}
+
+.groessentabelle-375 .linie-45-PcSz89 {
+  background-color: transparent;
+  height: 1px;
+  left: calc(49.63% - 86px);
+  object-fit: cover;
+  position: absolute;
+  top: 24.37%;
+  width: 173px;
+}
+
+.groessentabelle-375 .linie-46-PcSz89 {
+  background-color: transparent;
+  height: 1px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 37.37%;
+  width: calc(100.00% - 62px);
+}
+
+.groessentabelle-375 .rechteck-164-PcSz89 {
+  background-color: var(--gallery);
+  bottom: calc(42.86% - 15px);
+  height: 35px;
+  left: 28px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 56px);
+}
+
+.groessentabelle-375 .rechteck-169-PcSz89 {
+  background-color: var(--gallery);
+  bottom: calc(17.92% - 6px);
+  height: 35px;
+  left: 28px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 56px);
+}
+
+.groessentabelle-375 .x75-80-PcSz89 {
+  background-color: transparent;
+  bottom: calc(43.38% - 5px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(45.39% - 16px);
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-375 .x93-98-PcSz89 {
+  background-color: transparent;
+  bottom: calc(19.36% - 2px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(45.39% - 16px);
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-375 .x80-PcSz89 {
+  background-color: transparent;
+  bottom: calc(43.14% - 5px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(17.83% - 2px);
+  text-align: left;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-375 .x98-PcSz89 {
+  background-color: transparent;
+  bottom: calc(19.12% - 2px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(17.83% - 2px);
+  text-align: left;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-375 .x12-monate-PcSz89 {
+  background-color: transparent;
+  bottom: calc(44.36% - 5px);
+  height: 12px;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.groessentabelle-375 .x3-jahre-PcSz89 {
+  background-color: transparent;
+  bottom: calc(20.10% - 2px);
+  height: 12px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.groessentabelle-375 .gruppe-327-YGBXNV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle-375 .rechteck-90-rgpmMD {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .gruppe-356-rgpmMD {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.groessentabelle-375 .exklusive-serviceleistungen-4efxux {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .gruppe-137-4efxux {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.groessentabelle-375 .versand-frei-85T29y {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.groessentabelle-375 .truck-85T29y {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.groessentabelle-375 .gruppe-359-rgpmMD {
+  background-color: transparent;
+  height: 155px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.groessentabelle-375 .knnen-wir-helfen-gsRnde {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.groessentabelle-375 .gruppe-357-gsRnde {
+  background-color: transparent;
+  bottom: calc(46.52% - 5px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.groessentabelle-375 .gruppe-140-l5SRBY {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.groessentabelle-375 .kontakt-EEwigJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .contact-l5SRBY {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.groessentabelle-375 .gruppe-358-gsRnde {
+  background-color: transparent;
+  bottom: calc(24.72% - 4px);
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.groessentabelle-375 .gruppe-141-GbMq64 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.groessentabelle-375 .zahlungsoptionen-88MvdW {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .money-GbMq64 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.groessentabelle-375 .gruppe-694-gsRnde {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 4px;
+  position: absolute;
+  width: 40px;
+}
+
+.groessentabelle-375 .gruppe-141-ET5JBC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.99% - 5px);
+  width: 21px;
+}
+
+.groessentabelle-375 .nft-0RvOYs {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .x498951_child_clothes-ET5JBC {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.groessentabelle-375 .gruppe-363-rgpmMD {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.groessentabelle-375 .das-unternehmen-O4dbmx {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.groessentabelle-375 .gruppe-362-O4dbmx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.groessentabelle-375 .gruppe-158-GRlW4u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.groessentabelle-375 .impressum-eWIg4A {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .gruppe-154-GRlW4u {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.groessentabelle-375 .gruppe-159-lz6GxN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .ellipse-25-4pwB7v {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .i-4pwB7v {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.groessentabelle-375 .gruppe-160-O4dbmx {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.groessentabelle-375 .gruppe-155-BBkniT {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.groessentabelle-375 .gruppe-138-xF826l {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .ber-borbus-oSVFca {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .b-BBkniT {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.groessentabelle-375 .gruppe-361-O4dbmx {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle-375 .gruppe-156-lVDz53 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.groessentabelle-375 .geschftsbedien-gungen-pO8nBE {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .solid-lVDz53 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.groessentabelle-375 .gruppe-360-O4dbmx {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.groessentabelle-375 .gruppe-157-qRFuv7 {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.groessentabelle-375 .datenschutz-QTXl00 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .cookie-qRFuv7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.groessentabelle-375 .gruppe-325-rgpmMD {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.groessentabelle-375 .gruppe-162-gVxCJD {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.groessentabelle-375 .folge-uns-auf-instagram-V0WoOb {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-375 .instagram-sketched-gVxCJD {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.groessentabelle-375 .ssl-rgpmMD {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.groessentabelle-375 .ssl-rgpmMD.bp1-animate-enter277 {
+  animation: bp1-animate-enter277-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter277-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - groessentabelle-767 */
+
+.groessentabelle-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1076px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.groessentabelle-767 .rechteck-118-ZfWh5e {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-767 .stoffqualitt-ZfWh5e {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.groessentabelle-767 .handarbeit-ZfWh5e {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.groessentabelle-767 .sichere-bezahlung-ZfWh5e {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.groessentabelle-767 .gruppe-199-ZfWh5e {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.groessentabelle-767 .rechteck-155-5FRn5e {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.groessentabelle-767 .pfad-284-5FRn5e {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.groessentabelle-767 .pfad-285-5FRn5e {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.groessentabelle-767 .rechteck-157-ZfWh5e {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.groessentabelle-767 .iconfinder_4265038_b-ZfWh5e {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.groessentabelle-767 .ellipse-41-dTpoc7 {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.groessentabelle-767 .pfad-286-dTpoc7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.groessentabelle-767 .iconfinder_scissor_s-ZfWh5e {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.groessentabelle-767 .pfad-273-Dg1tuo {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.groessentabelle-767 .pfad-274-Dg1tuo {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.groessentabelle-767 .pfad-275-Dg1tuo {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.groessentabelle-767 .pfad-276-Dg1tuo {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.groessentabelle-767 .zurck-ZfWh5e {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 81px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.groessentabelle-767 .zurck-ZfWh5e.bp2-animate-enter290 {
+  animation: bp2-animate-enter290-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter290-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle-767 .borbus-ZfWh5e {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.groessentabelle-767 .gruppe-266-ZfWh5e {
+  background-color: transparent;
+  height: 33.09%;
+  left: 48px;
+  position: absolute;
+  top: 21.75%;
+  width: calc(100.00% - 96px);
+}
+
+.groessentabelle-767 .rechteck-163-Fbe8HQ {
+  background-color: var(--white);
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-767 .grentabelle-Fbe8HQ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(49.58% - 41px);
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.groessentabelle-767 .x6-monate-Fbe8HQ {
+  background-color: transparent;
+  height: 12px;
+  left: calc(19.00% - 10px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(44.77% - 5px);
+  white-space: nowrap;
+  width: 50px;
+}
+
+.groessentabelle-767 .x63-68-Fbe8HQ {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(42.61% - 15px);
+  text-align: left;
+  top: calc(44.77% - 5px);
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-767 .x87-92-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(31.40% - 4px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(42.61% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-767 .x68-Fbe8HQ {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(20.85% - 3px);
+  text-align: left;
+  top: calc(45.06% - 5px);
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-767 .x92-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(31.10% - 4px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(20.85% - 3px);
+  text-align: left;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-767 .x2-jahre-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(31.40% - 4px);
+  height: 12px;
+  left: calc(18.61% - 7px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.groessentabelle-767 .alter-Fbe8HQ {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 12px;
+  left: calc(20.59% - 5px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(31.10% - 4px);
+  white-space: nowrap;
+  width: 25px;
+}
+
+.groessentabelle-767 .krpergre-in-cm-Fbe8HQ {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(41.90% - 38px);
+  text-align: left;
+  top: calc(31.34% - 4px);
+  white-space: nowrap;
+  width: 91px;
+}
+
+.groessentabelle-767 .gre-Fbe8HQ {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(20.16% - 6px);
+  text-align: left;
+  top: calc(31.10% - 4px);
+  white-space: nowrap;
+  width: 31px;
+}
+
+.groessentabelle-767 .linie-45-Fbe8HQ {
+  background-color: transparent;
+  height: 1px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 24.39%;
+  width: calc(100.00% - 155px);
+}
+
+.groessentabelle-767 .linie-46-Fbe8HQ {
+  background-color: transparent;
+  height: 1px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 37.40%;
+  width: calc(100.00% - 155px);
+}
+
+.groessentabelle-767 .rechteck-164-Fbe8HQ {
+  background-color: var(--gallery);
+  bottom: calc(42.68% - 15px);
+  height: 35px;
+  left: 75px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 153px);
+}
+
+.groessentabelle-767 .rechteck-166-Fbe8HQ {
+  background-color: var(--gallery);
+  bottom: calc(16.82% - 6px);
+  height: 35px;
+  left: 75px;
+  opacity: 0.35;
+  position: absolute;
+  width: calc(100.00% - 153px);
+}
+
+.groessentabelle-767 .x75-80-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(43.31% - 5px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(42.61% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-767 .x93-98-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(19.19% - 2px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(42.61% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.groessentabelle-767 .x80-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(43.02% - 5px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(20.85% - 3px);
+  text-align: left;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-767 .x98-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(18.90% - 2px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(20.85% - 3px);
+  text-align: left;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.groessentabelle-767 .x12-monate-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(44.19% - 5px);
+  height: 12px;
+  left: calc(19.19% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.groessentabelle-767 .x3-jahre-Fbe8HQ {
+  background-color: transparent;
+  bottom: calc(20.06% - 2px);
+  height: 12px;
+  left: calc(18.61% - 7px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.groessentabelle-767 .gruppe-163-ZfWh5e {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle-767 .gruppe-163-ZfWh5e.bp2-animate-enter291 {
+  animation: bp2-animate-enter291-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter291-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.groessentabelle-767 .rechteck-90-eDlEuL {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle-767 .gruppe-347-eDlEuL {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.groessentabelle-767 .exklusive-serviceleistungen-jpx03G {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .gruppe-137-jpx03G {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.groessentabelle-767 .versand-frei-Mjzc6z {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.groessentabelle-767 .truck-Mjzc6z {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.groessentabelle-767 .gruppe-350-eDlEuL {
+  background-color: transparent;
+  height: 199px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.groessentabelle-767 .knnen-wir-helfen-KSKJaQ {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.groessentabelle-767 .gruppe-348-KSKJaQ {
+  background-color: transparent;
+  bottom: calc(46.47% - 7px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.groessentabelle-767 .gruppe-140-dSjQOi {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.groessentabelle-767 .kontakt-eNkuAS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .contact-dSjQOi {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.groessentabelle-767 .gruppe-349-KSKJaQ {
+  background-color: transparent;
+  bottom: calc(24.56% - 5px);
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.groessentabelle-767 .gruppe-141-3DmTxF {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.groessentabelle-767 .zahlungsoptionen-uqwOax {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .money-3DmTxF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.groessentabelle-767 .gruppe-693-KSKJaQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: calc(3.93% - 2px);
+  position: absolute;
+  width: 59px;
+}
+
+.groessentabelle-767 .gruppe-141-cACuon {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  cursor: pointer;
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 30px;
+}
+
+.groessentabelle-767 .nft-SWNxll {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .x498951_child_clothes-cACuon {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.groessentabelle-767 .gruppe-354-eDlEuL {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.groessentabelle-767 .das-unternehmen-d3PosK {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.groessentabelle-767 .gruppe-353-d3PosK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.groessentabelle-767 .gruppe-158-6kEjNM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.groessentabelle-767 .impressum-NIVoFZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .gruppe-154-6kEjNM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.groessentabelle-767 .gruppe-159-jJMEWS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-767 .ellipse-25-WwgGGT {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.groessentabelle-767 .i-WwgGGT {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.groessentabelle-767 .gruppe-160-d3PosK {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.groessentabelle-767 .gruppe-155-MFHVSb {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.groessentabelle-767 .gruppe-138-64RcdU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-767 .ber-borbus-oiS6zd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .b-MFHVSb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.groessentabelle-767 .gruppe-351-d3PosK {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle-767 .gruppe-156-RPRYip {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.groessentabelle-767 .geschfts-und-nutzungsbediengungen-xPlHWO {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .solid-RPRYip {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.groessentabelle-767 .gruppe-352-d3PosK {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.groessentabelle-767 .gruppe-157-Zkc28n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.groessentabelle-767 .datenschutz-cookies-eUhiqc {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .cookie-Zkc28n {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.groessentabelle-767 .gruppe-355-eDlEuL {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.groessentabelle-767 .besuche-uns-yxXxxx {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .gruppe-323-yxXxxx {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.groessentabelle-767 .gruppe-162-xUFx4F {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.groessentabelle-767 .instagram-6Y0GQT {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.groessentabelle-767 .instagram-sketched-xUFx4F {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.groessentabelle-767 .ssl-ZfWh5e {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.groessentabelle-767 .ssl-ZfWh5e.bp2-animate-enter292 {
+  animation: bp2-animate-enter292-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter292-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+@media screen and (max-width: 766px) {
+  .screen.groessentabelle { 
+    display: none;
+   }
+  .screen.groessentabelle-1200 { 
+    display: none;
+   }
+  .screen.groessentabelle-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.groessentabelle { 
+    display: none;
+   }
+  .screen.groessentabelle-1200 { 
+    display: none;
+   }
+  .screen.groessentabelle-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.groessentabelle { 
+    display: none;
+   }
+  .screen.groessentabelle-767 { 
+    display: none;
+   }
+  .screen.groessentabelle-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.groessentabelle-1200 { 
+    display: none;
+   }
+  .screen.groessentabelle-767 { 
+    display: none;
+   }
+  .screen.groessentabelle-375 { 
+    display: none;
+   }
+}

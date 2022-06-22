@@ -1,0 +1,4446 @@
+/* screen - loginbereich */
+
+.loginbereich {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1490px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.loginbereich .rechteck-136-1F6fkh {
+  background-color: var(--gallery);
+  border-radius: 4px;
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 641px;
+  left: 228px;
+  opacity: 0;
+  position: absolute;
+  top: calc(35.69% - 229px);
+  width: calc(100.00% - 1228px);
+}
+
+.loginbereich .rechteck-136-1F6fkh.bp4-animate-enter66 {
+  animation: bp4-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter66-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .rechteck-172-1F6fkh {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 86px;
+  left: 228px;
+  opacity: 0;
+  position: absolute;
+  top: calc(21.57% - 18px);
+  width: calc(100.00% - 1228px);
+}
+
+.loginbereich .rechteck-172-1F6fkh.bp4-animate-enter67 {
+  animation: bp4-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter67-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .rechteck-161-1F6fkh {
+  background-color: var(--white);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 100%;
+}
+
+.loginbereich .rechteck-118-1F6fkh {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .stoffqualitt-1F6fkh {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.loginbereich .handarbeit-1F6fkh {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.loginbereich .rechteck-157-1F6fkh {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.loginbereich .iconfinder_scissor_s-1F6fkh {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.loginbereich .pfad-273-yzWnRf {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.loginbereich .pfad-274-yzWnRf {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.loginbereich .pfad-275-yzWnRf {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.loginbereich .pfad-276-yzWnRf {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.loginbereich .iconfinder_4265038_b-1F6fkh {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.loginbereich .ellipse-41-AtuI8o {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.loginbereich .pfad-286-AtuI8o {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .sichere-bezahlung-1F6fkh {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.loginbereich .gruppe-199-1F6fkh {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.loginbereich .rechteck-155-85G7aJ {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.loginbereich .pfad-284-85G7aJ {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.loginbereich .pfad-285-85G7aJ {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.loginbereich .borbus-1F6fkh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.loginbereich .text-1F6fkh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: calc(20.93% - 31px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(28.74% - 5px);
+  white-space: nowrap;
+  width: 148px;
+}
+
+.loginbereich .text-1F6fkh.bp4-animate-enter68 {
+  animation: bp4-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter68-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .private-key-1F6fkh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: calc(20.25% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.34% - 7px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.loginbereich .private-key-1F6fkh.bp4-animate-enter69 {
+  animation: bp4-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter69-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .sicherheitsschlssel-1F6fkh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: calc(20.97% - 32px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(43.82% - 8px);
+  white-space: nowrap;
+  width: 152px;
+}
+
+.loginbereich .sicherheitsschlssel-1F6fkh.bp4-animate-enter70 {
+  animation: bp4-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter70-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .hedera-account-id-input-1F6fkh {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 51px;
+  left: calc(24.67% - 103px);
+  opacity: 0.6;
+  position: absolute;
+  top: calc(30.85% - 16px);
+  width: 417px;
+}
+
+.loginbereich .private-key-input-1F6fkh {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 51px;
+  left: calc(24.67% - 103px);
+  opacity: 0.6;
+  position: absolute;
+  top: calc(38.57% - 20px);
+  width: 417px;
+}
+
+.loginbereich .sicherheitsschlssel-input-1F6fkh {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 52px;
+  left: calc(24.67% - 103px);
+  opacity: 0.6;
+  position: absolute;
+  top: calc(46.31% - 24px);
+  width: 417px;
+}
+
+.loginbereich .login1-1F6fkh {
+  background-color: transparent;
+  bottom: calc(44.37% - 27px);
+  height: 61px;
+  left: calc(24.67% - 103px);
+  position: absolute;
+  width: 417px;
+}
+
+.loginbereich .gruppe-204-MPsLq8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .rechteck-114-oDbnol {
+  background-color: var(--sandy-brown);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .login-oDbnol {
+  background-color: transparent;
+  bottom: calc(39.46% - 11px);
+  height: 28px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 60px);
+}
+
+.loginbereich .willkommen-zurck-1F6fkh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: calc(21.88% - 49px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.83% - 5px);
+  white-space: nowrap;
+  width: 225px;
+}
+
+.loginbereich .willkommen-zurck-1F6fkh.bp4-animate-enter71 {
+  animation: bp4-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter71-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .loggen-sie-sich-ein-1F6fkh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  left: calc(23.63% - 83px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(24.07% - 4px);
+  white-space: nowrap;
+  width: 351px;
+}
+
+.loginbereich .loggen-sie-sich-ein-1F6fkh.bp4-animate-enter72 {
+  animation: bp4-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter72-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .zurck-1F6fkh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 92px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.loginbereich .zurck-1F6fkh.bp4-animate-enter73 {
+  animation: bp4-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter73-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .vorderseitebild-1F6fkh {
+  background-color: transparent;
+  height: calc(100.00% - 1075px);
+  left: 1087px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 530px;
+}
+
+.loginbereich .kleidchenbezeichnung-1F6fkh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0;
+  position: absolute;
+  right: calc(26.66% - 63px);
+  text-align: left;
+  top: calc(26.63% - 10px);
+  white-space: nowrap;
+  width: 236px;
+}
+
+.loginbereich .kleidchenbezeichnung-1F6fkh.bp4-animate-enter74 {
+  animation: bp4-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter74-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .gruppe-163-1F6fkh {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich .gruppe-163-1F6fkh.bp4-animate-enter75 {
+  animation: bp4-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter75-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .rechteck-90-4i19TS {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .gruppe-364-4i19TS {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.loginbereich .exklusive-serviceleistungen-zQ5tD4 {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.loginbereich .gruppe-137-zQ5tD4 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich .versand-rckversand-frei-8I0led {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.loginbereich .truck-8I0led {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.loginbereich .gruppe-367-4i19TS {
+  background-color: transparent;
+  height: 196px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.loginbereich .knnen-wir-helfen-oIJwTF {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.loginbereich .gruppe-365-oIJwTF {
+  background-color: transparent;
+  bottom: calc(45.44% - 7px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.loginbereich .gruppe-140-x85bYD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.loginbereich .kontakt-0qCT2m {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich .contact-x85bYD {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.loginbereich .gruppe-366-oIJwTF {
+  background-color: transparent;
+  bottom: calc(23.49% - 5px);
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.loginbereich .gruppe-141-O4ZmSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.loginbereich .zahlungsoptionen-QdX2cP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich .money-O4ZmSE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.loginbereich .gruppe-622-oIJwTF {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 6px;
+  position: absolute;
+  width: 61px;
+}
+
+.loginbereich .gruppe-141-DLxOoC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .nf-tlink-7JSW5l {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.loginbereich .x498951_child_clothes-7JSW5l {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.loginbereich .gruppe-372-4i19TS {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.loginbereich .besuche-uns-Do3BIH {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich .gruppe-320-Do3BIH {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.loginbereich .gruppe-162-CPsc5i {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.loginbereich .instagram-ZmZGtd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich .icon-instagram-CPsc5i {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.loginbereich .ssl-1F6fkh {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.loginbereich .ssl-1F6fkh.bp4-animate-enter76 {
+  animation: bp4-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter76-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich .gruppe-554-1F6fkh {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.loginbereich .gruppe-371-OXwteU {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.loginbereich .das-unternehmen-gIXsqN {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.loginbereich .gruppe-370-gIXsqN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.loginbereich .gruppe-154-zXEfTd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .gruppe-159-8siPtt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .ellipse-25-SLqny6 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.loginbereich .i-SLqny6 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.loginbereich .gruppe-160-gIXsqN {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.loginbereich .gruppe-155-RnGkSV {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.loginbereich .gruppe-138-dx0KM5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .ber-borbus-QuGYwT {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich .b-RnGkSV {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.loginbereich .gruppe-368-gIXsqN {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.loginbereich .gruppe-156-bdsCAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.loginbereich .geschfts-und-nutzungs-bediengungen-5axGJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich .solid-bdsCAJ {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.loginbereich .gruppe-369-gIXsqN {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.loginbereich .gruppe-157-G6mAyD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.loginbereich .datenschutz-cookies-PGsN1Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich .cookie-G6mAyD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.loginbereich .impressum-OXwteU {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+/* screen - loginbereich-1200 */
+
+.loginbereich-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1326px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.loginbereich-1200 .rechteck-118-t00W7V {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .stoffqualitt-t00W7V {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.loginbereich-1200 .handarbeit-t00W7V {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.loginbereich-1200 .sichere-bezahlung-t00W7V {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.loginbereich-1200 .gruppe-199-t00W7V {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.loginbereich-1200 .rechteck-155-8vXF6g {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.loginbereich-1200 .pfad-284-8vXF6g {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.loginbereich-1200 .pfad-285-8vXF6g {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.loginbereich-1200 .rechteck-157-t00W7V {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.loginbereich-1200 .iconfinder_4265038_b-t00W7V {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.loginbereich-1200 .ellipse-41-KLWSZv {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.loginbereich-1200 .pfad-286-KLWSZv {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.loginbereich-1200 .iconfinder_scissor_s-t00W7V {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.loginbereich-1200 .pfad-273-ZCcrqZ {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.loginbereich-1200 .pfad-274-ZCcrqZ {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.loginbereich-1200 .pfad-275-ZCcrqZ {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.loginbereich-1200 .pfad-276-ZCcrqZ {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.loginbereich-1200 .borbus-t00W7V {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.loginbereich-1200 .rechteck-136-t00W7V {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 547px;
+  left: calc(14.37% - 78px);
+  opacity: 0;
+  position: absolute;
+  top: calc(35.59% - 195px);
+  width: 543px;
+}
+
+.loginbereich-1200 .rechteck-136-t00W7V.bp3-animate-enter68 {
+  animation: bp3-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter68-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .rechteck-172-t00W7V {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 65px;
+  left: calc(14.37% - 78px);
+  opacity: 0;
+  position: absolute;
+  top: calc(22.00% - 14px);
+  width: 543px;
+}
+
+.loginbereich-1200 .rechteck-172-t00W7V.bp3-animate-enter69 {
+  animation: bp3-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter69-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .gruppe-596-t00W7V {
+  background-color: transparent;
+  height: 405px;
+  position: absolute;
+  right: calc(12.05% - 50px);
+  top: calc(38.78% - 157px);
+  width: 416px;
+}
+
+.loginbereich-1200 .vorderseitebild-ibUtdF {
+  background-color: transparent;
+  height: calc(100.00% - 80px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 416px;
+}
+
+.loginbereich-1200 .kleidchenbezeichnung-ibUtdF {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.57% - 90px);
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.loginbereich-1200 .kleidchenbezeichnung-ibUtdF.bp3-animate-enter70 {
+  animation: bp3-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter70-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .gruppe-591-t00W7V {
+  background-color: transparent;
+  height: 470px;
+  left: calc(23.17% - 76px);
+  position: absolute;
+  top: calc(33.64% - 158px);
+  width: 327px;
+}
+
+.loginbereich-1200 .gruppe-590-2bvVxx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 372px;
+  left: calc(50.00% - 164px);
+  position: absolute;
+  width: 327px;
+}
+
+.loginbereich-1200 .text-kPdxRx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.loginbereich-1200 .text-kPdxRx.bp3-animate-enter71 {
+  animation: bp3-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter71-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .private-key-kPdxRx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(24.51% - 4px);
+  white-space: nowrap;
+  width: 67px;
+}
+
+.loginbereich-1200 .private-key-kPdxRx.bp3-animate-enter72 {
+  animation: bp3-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter72-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .sicherheitsschlssel-kPdxRx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(48.60% - 7px);
+  white-space: nowrap;
+  width: 115px;
+}
+
+.loginbereich-1200 .sicherheitsschlssel-kPdxRx.bp3-animate-enter73 {
+  animation: bp3-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter73-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .hedera-account-id-input-kPdxRx {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 0px;
+  opacity: 0.6;
+  position: absolute;
+  top: 17px;
+  width: 100%;
+}
+
+.loginbereich-1200 .private-key-input-kPdxRx {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 0px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(31.33% - 13px);
+  width: 100%;
+}
+
+.loginbereich-1200 .sicherheitsschlssel-input-kPdxRx {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(42.30% - 17px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 41px;
+  left: 0px;
+  opacity: 0.6;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-1200 .login1-kPdxRx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 47px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-1200 .gruppe-204-GKI8qA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.loginbereich-1200 .rechteck-114-BCJgCr {
+  background-color: var(--sandy-brown);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .login-BCJgCr {
+  background-color: transparent;
+  bottom: -1px;
+  height: 33px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 47px);
+}
+
+.loginbereich-1200 .gruppe-589-2bvVxx {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.loginbereich-1200 .loggen-sie-sich-ein-680v6x {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .loggen-sie-sich-ein-680v6x.bp3-animate-enter74 {
+  animation: bp3-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter74-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .willkommen-zurck-680v6x {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 225px;
+}
+
+.loginbereich-1200 .willkommen-zurck-680v6x.bp3-animate-enter75 {
+  animation: bp3-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter75-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .zurck-t00W7V {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 72px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.loginbereich-1200 .zurck-t00W7V.bp3-animate-enter76 {
+  animation: bp3-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter76-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .gruppe-322-t00W7V {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-1200 .gruppe-163-nnOQeT {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .gruppe-163-nnOQeT.bp3-animate-enter77 {
+  animation: bp3-animate-enter77-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter77-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .rechteck-90-6Rglyp {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .exklusive-serviceleistungen-6Rglyp {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.loginbereich-1200 .gruppe-137-6Rglyp {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.loginbereich-1200 .versand-frei-NqH3wO {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.loginbereich-1200 .truck-NqH3wO {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.loginbereich-1200 .gruppe-341-6Rglyp {
+  background-color: transparent;
+  height: 199px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.loginbereich-1200 .knnen-wir-helfen-0A39d6 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.loginbereich-1200 .gruppe-339-0A39d6 {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.loginbereich-1200 .gruppe-140-wd38cj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.loginbereich-1200 .kontakt-wVxbDp {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .contact-wd38cj {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.loginbereich-1200 .gruppe-340-0A39d6 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.loginbereich-1200 .gruppe-141-9gMxsa {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.loginbereich-1200 .zahlungsoptionen-wOfxOn {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .money-9gMxsa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.loginbereich-1200 .gruppe-692-0A39d6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: calc(19.68% - 6px);
+  position: absolute;
+  top: 181px;
+  width: 30px;
+}
+
+.loginbereich-1200 .gruppe-141-xV3rx6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .nft-fUpXya {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .x498951_child_clothes-0A39d6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.loginbereich-1200 .gruppe-345-6Rglyp {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.loginbereich-1200 .das-unternehmen-8S1sIx {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.loginbereich-1200 .gruppe-344-8S1sIx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.loginbereich-1200 .gruppe-158-zU1hy9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.loginbereich-1200 .impressum-klkrMd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .gruppe-154-zU1hy9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.loginbereich-1200 .gruppe-159-YzxgBU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .ellipse-25-dE7CPK {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.loginbereich-1200 .i-dE7CPK {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.loginbereich-1200 .gruppe-160-8S1sIx {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.loginbereich-1200 .gruppe-155-1zpfxt {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.loginbereich-1200 .gruppe-138-RzSWoS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .ber-borbus-NFC38o {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .b-1zpfxt {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.loginbereich-1200 .gruppe-342-8S1sIx {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.loginbereich-1200 .gruppe-156-HkExgg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.loginbereich-1200 .geschfts-und-nutzungsbediengungen-gBlX9f {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .solid-HkExgg {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.loginbereich-1200 .gruppe-343-8S1sIx {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.loginbereich-1200 .gruppe-157-v9a6TE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.loginbereich-1200 .datenschutz-cookies-NdGbvr {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .cookie-v9a6TE {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.loginbereich-1200 .gruppe-346-6Rglyp {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.loginbereich-1200 .besuche-uns-vFEJc0 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.loginbereich-1200 .gruppe-321-vFEJc0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.loginbereich-1200 .gruppe-162-kL5utr {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.loginbereich-1200 .instagram-4R826k {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-1200 .icon-instagram-kL5utr {
+  background-color: transparent;
+  height: 18px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.loginbereich-1200 .ssl-nnOQeT {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.loginbereich-1200 .ssl-nnOQeT.bp3-animate-enter78 {
+  animation: bp3-animate-enter78-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter78-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - loginbereich-375 */
+
+.loginbereich-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1326px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.loginbereich-375 .rechteck-118-q0dkhU {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .gruppe-546-q0dkhU {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.loginbereich-375 .sichere-bezahlung-nzxxZf {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.loginbereich-375 .gruppe-199-nzxxZf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.loginbereich-375 .rechteck-155-e2INi1 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.loginbereich-375 .pfad-284-e2INi1 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.loginbereich-375 .pfad-285-e2INi1 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.loginbereich-375 .gruppe-548-q0dkhU {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.loginbereich-375 .stoffqualitt-rqIIvf {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.loginbereich-375 .iconfinder_4265038_b-rqIIvf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.loginbereich-375 .ellipse-41-oCGxZZ {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.loginbereich-375 .pfad-286-oCGxZZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .gruppe-547-q0dkhU {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.loginbereich-375 .handarbeit-MlDBxr {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.loginbereich-375 .iconfinder_scissor_s-MlDBxr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.loginbereich-375 .pfad-273-ZGX8ki {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.loginbereich-375 .pfad-274-ZGX8ki {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.loginbereich-375 .pfad-275-ZGX8ki {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.loginbereich-375 .pfad-276-ZGX8ki {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.loginbereich-375 .borbus-q0dkhU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.loginbereich-375 .vorderseitebild-q0dkhU {
+  background-color: transparent;
+  height: 561px;
+  left: calc(50.00% - 358px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.30% - 237px);
+  width: 717px;
+}
+
+.loginbereich-375 .rechteck-136-q0dkhU {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 506px;
+  left: calc(50.00% - 170px);
+  opacity: 0;
+  position: absolute;
+  top: calc(36.21% - 183px);
+  width: 339px;
+}
+
+.loginbereich-375 .rechteck-136-q0dkhU.bp1-animate-enter61 {
+  animation: bp1-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-375 .rechteck-172-q0dkhU {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 79px;
+  left: calc(50.00% - 170px);
+  opacity: 0;
+  position: absolute;
+  top: calc(23.82% - 19px);
+  width: 339px;
+}
+
+.loginbereich-375 .rechteck-172-q0dkhU.bp1-animate-enter62 {
+  animation: bp1-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-375 .gruppe-595-q0dkhU {
+  background-color: transparent;
+  height: 453px;
+  left: calc(50.00% - 153px);
+  position: absolute;
+  top: calc(35.62% - 161px);
+  width: 305px;
+}
+
+.loginbereich-375 .text-SnEpIi {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(24.18% - 3px);
+  white-space: nowrap;
+  width: 102px;
+}
+
+.loginbereich-375 .text-SnEpIi.bp1-animate-enter63 {
+  animation: bp1-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter63-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-375 .private-key-SnEpIi {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(42.74% - 6px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.loginbereich-375 .private-key-SnEpIi.bp1-animate-enter64 {
+  animation: bp1-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-375 .sicherheitsschlssel-SnEpIi {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(38.93% - 5px);
+  display: block;
+  height: 13px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.loginbereich-375 .sicherheitsschlssel-SnEpIi.bp1-animate-enter65 {
+  animation: bp1-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-375 .hedera-account-id-input-SnEpIi {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 37px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(29.41% - 11px);
+  width: 100%;
+}
+
+.loginbereich-375 .private-key-input-SnEpIi {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 37px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(48.93% - 18px);
+  width: 100%;
+}
+
+.loginbereich-375 .sicherheitsschlssel-input-SnEpIi {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(31.39% - 12px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 38px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-375 .login1-SnEpIi {
+  background-color: transparent;
+  bottom: 0px;
+  height: 44px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-375 .gruppe-204-hjZq1x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .rechteck-114-TRMtH7 {
+  background-color: var(--sandy-brown);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .login-TRMtH7 {
+  background-color: transparent;
+  bottom: calc(47.81% - 10px);
+  height: 21px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 28px);
+}
+
+.loginbereich-375 .loggen-sie-sich-ein-SnEpIi {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  white-space: nowrap;
+  width: 223px;
+}
+
+.loginbereich-375 .loggen-sie-sich-ein-SnEpIi.bp1-animate-enter66 {
+  animation: bp1-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter66-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-375 .willkommen-zurck-SnEpIi {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.loginbereich-375 .willkommen-zurck-SnEpIi.bp1-animate-enter67 {
+  animation: bp1-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter67-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-375 .gruppe-327-q0dkhU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-375 .rechteck-90-xLDOwY {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .gruppe-356-xLDOwY {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.loginbereich-375 .exklusive-serviceleistungen-QDFdBG {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .gruppe-137-QDFdBG {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.loginbereich-375 .versand-frei-vjmpFz {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.loginbereich-375 .truck-vjmpFz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.loginbereich-375 .gruppe-359-xLDOwY {
+  background-color: transparent;
+  height: 155px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.loginbereich-375 .knnen-wir-helfen-MaMaIx {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.loginbereich-375 .gruppe-357-MaMaIx {
+  background-color: transparent;
+  bottom: calc(46.52% - 5px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.loginbereich-375 .gruppe-140-YxGvxP {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.loginbereich-375 .kontakt-2eBwYx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .contact-YxGvxP {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.loginbereich-375 .gruppe-358-MaMaIx {
+  background-color: transparent;
+  bottom: calc(24.72% - 4px);
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.loginbereich-375 .gruppe-141-NVLtDG {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.loginbereich-375 .zahlungsoptionen-47Lybz {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .money-NVLtDG {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.loginbereich-375 .gruppe-694-MaMaIx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 4px;
+  position: absolute;
+  width: 40px;
+}
+
+.loginbereich-375 .gruppe-141-i8ekPl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.99% - 5px);
+  width: 21px;
+}
+
+.loginbereich-375 .nft-ZUjdA5 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .x498951_child_clothes-i8ekPl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.loginbereich-375 .gruppe-363-xLDOwY {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.loginbereich-375 .das-unternehmen-u7VILe {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.loginbereich-375 .gruppe-362-u7VILe {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.loginbereich-375 .gruppe-158-chUnGL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.loginbereich-375 .impressum-P9w5tq {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .gruppe-154-chUnGL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.loginbereich-375 .gruppe-159-QQH9SD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .ellipse-25-JFdRNX {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .i-JFdRNX {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.loginbereich-375 .gruppe-160-u7VILe {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.loginbereich-375 .gruppe-155-xC9r3v {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.loginbereich-375 .gruppe-138-QqXS4K {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .ber-borbus-mjQeyx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .b-xC9r3v {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.loginbereich-375 .gruppe-361-u7VILe {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-375 .gruppe-156-7xLDNY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.loginbereich-375 .geschftsbedien-gungen-pFMQEt {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .solid-7xLDNY {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.loginbereich-375 .gruppe-360-u7VILe {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.loginbereich-375 .gruppe-157-xUFZVr {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.loginbereich-375 .datenschutz-DCeBnx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .cookie-xUFZVr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.loginbereich-375 .gruppe-325-xLDOwY {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.loginbereich-375 .gruppe-162-TgxQex {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.loginbereich-375 .folge-uns-auf-instagram-jiskRa {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-375 .icon-instagram-TgxQex {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.loginbereich-375 .ssl-xLDOwY {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.loginbereich-375 .ssl-xLDOwY.bp1-animate-enter68 {
+  animation: bp1-animate-enter68-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter68-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - loginbereich-767 */
+
+.loginbereich-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1326px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.loginbereich-767 .rechteck-118-acALrr {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-767 .stoffqualitt-acALrr {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.loginbereich-767 .handarbeit-acALrr {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.loginbereich-767 .sichere-bezahlung-acALrr {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.loginbereich-767 .gruppe-199-acALrr {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.loginbereich-767 .rechteck-155-TrvSYU {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.loginbereich-767 .pfad-284-TrvSYU {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.loginbereich-767 .pfad-285-TrvSYU {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.loginbereich-767 .rechteck-157-acALrr {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.loginbereich-767 .iconfinder_4265038_b-acALrr {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.loginbereich-767 .ellipse-41-4CnYnA {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.loginbereich-767 .pfad-286-4CnYnA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.loginbereich-767 .iconfinder_scissor_s-acALrr {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.loginbereich-767 .pfad-273-x5AFct {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.loginbereich-767 .pfad-274-x5AFct {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.loginbereich-767 .pfad-275-x5AFct {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.loginbereich-767 .pfad-276-x5AFct {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.loginbereich-767 .borbus-acALrr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.loginbereich-767 .zurck-acALrr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 15px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 72px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.loginbereich-767 .zurck-acALrr.bp2-animate-enter65 {
+  animation: bp2-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .vorderseitebild-acALrr {
+  background-color: transparent;
+  height: 573px;
+  left: calc(50.00% - 366px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(41.45% - 238px);
+  width: 732px;
+}
+
+.loginbereich-767 .rechteck-136-acALrr {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 537px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 271px);
+  top: calc(32.35% - 174px);
+  width: 543px;
+}
+
+.loginbereich-767 .rechteck-136-acALrr.bp2-animate-enter66 {
+  animation: bp2-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter66-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .rechteck-172-acALrr {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 85px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 271px);
+  top: calc(20.58% - 18px);
+  width: 543px;
+}
+
+.loginbereich-767 .rechteck-172-acALrr.bp2-animate-enter67 {
+  animation: bp2-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter67-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .gruppe-593-acALrr {
+  background-color: transparent;
+  height: 475px;
+  left: calc(50.00% - 164px);
+  position: absolute;
+  top: calc(31.96% - 152px);
+  width: 327px;
+}
+
+.loginbereich-767 .text-Fu4kxs {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.26% - 3px);
+  white-space: nowrap;
+  width: 112px;
+}
+
+.loginbereich-767 .text-Fu4kxs.bp2-animate-enter68 {
+  animation: bp2-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter68-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .private-key-Fu4kxs {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(40.33% - 6px);
+  white-space: nowrap;
+  width: 67px;
+}
+
+.loginbereich-767 .private-key-Fu4kxs.bp2-animate-enter69 {
+  animation: bp2-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter69-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .sicherheitsschlssel-Fu4kxs {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(41.00% - 6px);
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.loginbereich-767 .sicherheitsschlssel-Fu4kxs.bp2-animate-enter70 {
+  animation: bp2-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter70-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .hedera-account-id-input-Fu4kxs {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(26.44% - 11px);
+  width: 100%;
+}
+
+.loginbereich-767 .private-key-input-Fu4kxs {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(46.44% - 19px);
+  width: 100%;
+}
+
+.loginbereich-767 .sicherheitsschlssel-input-Fu4kxs {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(33.41% - 14px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 41px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-767 .login1-Fu4kxs {
+  background-color: transparent;
+  bottom: 1px;
+  height: 47px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-767 .gruppe-204-zMuA6V {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.loginbereich-767 .rechteck-114-q6ecyx {
+  background-color: var(--sandy-brown);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-767 .login-q6ecyx {
+  background-color: transparent;
+  bottom: 5px;
+  height: 27px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 47px);
+}
+
+.loginbereich-767 .loggen-sie-sich-ein-Fu4kxs {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 276px;
+}
+
+.loginbereich-767 .loggen-sie-sich-ein-Fu4kxs.bp2-animate-enter71 {
+  animation: bp2-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter71-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .willkommen-zurck-Fu4kxs {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 225px;
+}
+
+.loginbereich-767 .willkommen-zurck-Fu4kxs.bp2-animate-enter72 {
+  animation: bp2-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter72-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .gruppe-163-acALrr {
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-767 .gruppe-163-acALrr.bp2-animate-enter73 {
+  animation: bp2-animate-enter73-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter73-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-767 .rechteck-90-rfS7zz {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-767 .gruppe-347-rfS7zz {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.loginbereich-767 .exklusive-serviceleistungen-swxAAz {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .gruppe-137-swxAAz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.loginbereich-767 .versand-frei-Wngf8F {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.loginbereich-767 .truck-Wngf8F {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.loginbereich-767 .gruppe-350-rfS7zz {
+  background-color: transparent;
+  height: 199px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.loginbereich-767 .knnen-wir-helfen-v00HnV {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.loginbereich-767 .gruppe-348-v00HnV {
+  background-color: transparent;
+  bottom: calc(46.47% - 7px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.loginbereich-767 .gruppe-140-PLOCjz {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.loginbereich-767 .kontakt-IPlfec {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .contact-PLOCjz {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.loginbereich-767 .gruppe-349-v00HnV {
+  background-color: transparent;
+  bottom: calc(24.56% - 5px);
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.loginbereich-767 .gruppe-141-Qx6Jtt {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.loginbereich-767 .zahlungsoptionen-enI8GP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .money-Qx6Jtt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.loginbereich-767 .gruppe-693-v00HnV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: calc(3.93% - 2px);
+  position: absolute;
+  width: 59px;
+}
+
+.loginbereich-767 .gruppe-141-FQs5nw {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  cursor: pointer;
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 30px;
+}
+
+.loginbereich-767 .nft-JCOeFf {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .x498951_child_clothes-FQs5nw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.loginbereich-767 .gruppe-354-rfS7zz {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.loginbereich-767 .das-unternehmen-CFOuXU {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.loginbereich-767 .gruppe-353-CFOuXU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.loginbereich-767 .gruppe-158-VdQQik {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.loginbereich-767 .impressum-7yz3KY {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .gruppe-154-VdQQik {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.loginbereich-767 .gruppe-159-AK1gwi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-767 .ellipse-25-r3933d {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.loginbereich-767 .i-r3933d {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.loginbereich-767 .gruppe-160-CFOuXU {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.loginbereich-767 .gruppe-155-Wwm7HK {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.loginbereich-767 .gruppe-138-C5a7DS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-767 .ber-borbus-4x2H2P {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .b-Wwm7HK {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.loginbereich-767 .gruppe-351-CFOuXU {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.loginbereich-767 .gruppe-156-7sw55U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.loginbereich-767 .geschfts-und-nutzungsbediengungen-n56pJJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .solid-7sw55U {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.loginbereich-767 .gruppe-352-CFOuXU {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.loginbereich-767 .gruppe-157-h0wwex {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.loginbereich-767 .datenschutz-cookies-LqH85Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .cookie-h0wwex {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.loginbereich-767 .gruppe-355-rfS7zz {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.loginbereich-767 .besuche-uns-7wndTf {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .gruppe-323-7wndTf {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.loginbereich-767 .gruppe-162-dIOBj1 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.loginbereich-767 .instagram-iLGK7d {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.loginbereich-767 .icon-instagram-dIOBj1 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.loginbereich-767 .ssl-acALrr {
+  background-color: transparent;
+  bottom: 30px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.loginbereich-767 .ssl-acALrr.bp2-animate-enter74 {
+  animation: bp2-animate-enter74-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter74-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+@media screen and (max-width: 766px) {
+  .screen.loginbereich { 
+    display: none;
+   }
+  .screen.loginbereich-1200 { 
+    display: none;
+   }
+  .screen.loginbereich-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.loginbereich { 
+    display: none;
+   }
+  .screen.loginbereich-1200 { 
+    display: none;
+   }
+  .screen.loginbereich-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.loginbereich { 
+    display: none;
+   }
+  .screen.loginbereich-767 { 
+    display: none;
+   }
+  .screen.loginbereich-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.loginbereich-1200 { 
+    display: none;
+   }
+  .screen.loginbereich-767 { 
+    display: none;
+   }
+  .screen.loginbereich-375 { 
+    display: none;
+   }
+}

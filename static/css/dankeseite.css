@@ -1,0 +1,3733 @@
+/* screen - dankeseite */
+
+.dankeseite {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1399px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.dankeseite .pexels-liza-summer-6348046-b52JSE {
+  background-color: transparent;
+  bottom: 29px;
+  display: block;
+  height: 91.49%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite .pexels-liza-summer-6348046-b52JSE.bp4-animate-enter224 {
+  animation: bp4-animate-enter224-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter224-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .rechteck-161-b52JSE {
+  background-color: var(--white);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 100%;
+}
+
+.dankeseite .gruppe-525-b52JSE {
+  background-color: transparent;
+  height: 246px;
+  left: calc(31.31% - 260px);
+  position: absolute;
+  top: calc(40.33% - 99px);
+  width: 831px;
+}
+
+.dankeseite .sie-haben-erfolgreic-TRkYih {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(25.79% - 6px);
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .sie-haben-erfolgreic-TRkYih.bp4-animate-enter225 {
+  animation: bp4-animate-enter225-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter225-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .danke-fr-das-vertrauen-TRkYih {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 376px;
+}
+
+.dankeseite .danke-fr-das-vertrauen-TRkYih.bp4-animate-enter226 {
+  animation: bp4-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter226-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .in-5-7-werktagen-wer-TRkYih {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 33px;
+  display: block;
+  height: 56px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 564px;
+}
+
+.dankeseite .in-5-7-werktagen-wer-TRkYih.bp4-animate-enter227 {
+  animation: bp4-animate-enter227-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter227-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .infoborbus-shopcom-TRkYih {
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.dankeseite .infoborbus-shopcom-TRkYih.bp4-animate-enter228 {
+  animation: bp4-animate-enter228-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter228-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .rechteck-118-b52JSE {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .stoffqualitt-b52JSE {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.dankeseite .handarbeit-b52JSE {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.dankeseite .rechteck-157-b52JSE {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.dankeseite .iconfinder_scissor_s-b52JSE {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.dankeseite .pfad-273-MeHtxq {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.dankeseite .pfad-274-MeHtxq {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.dankeseite .pfad-275-MeHtxq {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.dankeseite .pfad-276-MeHtxq {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.dankeseite .iconfinder_4265038_b-b52JSE {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.dankeseite .ellipse-41-ujZmDY {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.dankeseite .pfad-286-ujZmDY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .sichere-bezahlung-b52JSE {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.dankeseite .gruppe-199-b52JSE {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.dankeseite .rechteck-155-VUMkvW {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.dankeseite .pfad-284-VUMkvW {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.dankeseite .pfad-285-VUMkvW {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.dankeseite .borbus-b52JSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.dankeseite .gruppe-163-b52JSE {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite .gruppe-163-b52JSE.bp4-animate-enter229 {
+  animation: bp4-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter229-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .rechteck-90-nIpML4 {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .gruppe-364-nIpML4 {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.dankeseite .exklusive-serviceleistungen-u9XjFy {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.dankeseite .gruppe-137-u9XjFy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite .versand-rckversand-frei-idgNxX {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.dankeseite .truck-idgNxX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.dankeseite .gruppe-367-nIpML4 {
+  background-color: transparent;
+  height: 196px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.dankeseite .knnen-wir-helfen-PU2pSs {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.dankeseite .gruppe-365-PU2pSs {
+  background-color: transparent;
+  bottom: calc(45.44% - 7px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.dankeseite .gruppe-140-TqX827 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.dankeseite .kontakt-MmumQ9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .contact-TqX827 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.dankeseite .gruppe-366-PU2pSs {
+  background-color: transparent;
+  bottom: calc(23.49% - 5px);
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.dankeseite .gruppe-141-IEoxhf {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.dankeseite .zahlungsoptionen-JiavQv {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .money-IEoxhf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.dankeseite .gruppe-622-PU2pSs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 6px;
+  position: absolute;
+  width: 61px;
+}
+
+.dankeseite .gruppe-141-VCo1qx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .nf-tlink-out5AK {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.dankeseite .x498951_child_clothes-out5AK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.dankeseite .gruppe-372-nIpML4 {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.dankeseite .besuche-uns-oxxaj2 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .gruppe-320-oxxaj2 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.dankeseite .gruppe-162-wFRTtZ {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.dankeseite .instagram-dxs7H8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .icon-instagram-wFRTtZ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.dankeseite .ssl-b52JSE {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.dankeseite .ssl-b52JSE.bp4-animate-enter230 {
+  animation: bp4-animate-enter230-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter230-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .gruppe-554-b52JSE {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.dankeseite .gruppe-371-gFvnnT {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.dankeseite .das-unternehmen-8E5njd {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.dankeseite .gruppe-370-8E5njd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.dankeseite .gruppe-154-b9SoAK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .gruppe-159-VVNwGx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .ellipse-25-nwzGjT {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.dankeseite .i-nwzGjT {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.dankeseite .gruppe-160-8E5njd {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.dankeseite .gruppe-155-cEiZPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.dankeseite .gruppe-138-ecIWnG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .ber-borbus-dMJ7xQ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .b-cEiZPx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.dankeseite .gruppe-368-8E5njd {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.dankeseite .gruppe-156-UNbMjU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.dankeseite .geschfts-und-nutzungs-bediengungen-gT1Lhn {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .solid-UNbMjU {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.dankeseite .gruppe-369-8E5njd {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.dankeseite .gruppe-157-rGxzYa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.dankeseite .datenschutz-cookies-uX1mkt {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .cookie-rGxzYa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.dankeseite .impressum-gFvnnT {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+/* screen - dankeseite-1200 */
+
+.dankeseite-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1219px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.dankeseite-1200 .pexels-liza-summer-6348046-n9lTAI {
+  background-color: transparent;
+  display: block;
+  height: 1009px;
+  left: -157px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 90px;
+  width: calc(100.00% + 314px);
+}
+
+.dankeseite-1200 .pexels-liza-summer-6348046-n9lTAI.bp3-animate-enter226 {
+  animation: bp3-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter226-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-1200 .rechteck-161-n9lTAI {
+  background-color: var(--white);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 100%;
+}
+
+.dankeseite-1200 .gruppe-526-n9lTAI {
+  background-color: transparent;
+  height: 246px;
+  left: calc(37.15% - 309px);
+  position: absolute;
+  top: calc(47.79% - 118px);
+  width: 831px;
+}
+
+.dankeseite-1200 .sie-haben-erfolgreic-7bub1P {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(25.79% - 6px);
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .sie-haben-erfolgreic-7bub1P.bp3-animate-enter227 {
+  animation: bp3-animate-enter227-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter227-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-1200 .danke-fr-das-vertrauen-7bub1P {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 32px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 376px;
+}
+
+.dankeseite-1200 .danke-fr-das-vertrauen-7bub1P.bp3-animate-enter228 {
+  animation: bp3-animate-enter228-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter228-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-1200 .in-5-7-werktagen-wer-7bub1P {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 33px;
+  display: block;
+  height: 56px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 564px;
+}
+
+.dankeseite-1200 .in-5-7-werktagen-wer-7bub1P.bp3-animate-enter229 {
+  animation: bp3-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter229-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-1200 .infoborbus-shopcom-7bub1P {
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 22px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.dankeseite-1200 .infoborbus-shopcom-7bub1P.bp3-animate-enter230 {
+  animation: bp3-animate-enter230-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter230-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-1200 .rechteck-118-n9lTAI {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-1200 .stoffqualitt-n9lTAI {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.dankeseite-1200 .handarbeit-n9lTAI {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.dankeseite-1200 .sichere-bezahlung-n9lTAI {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.dankeseite-1200 .gruppe-199-n9lTAI {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.dankeseite-1200 .rechteck-155-RNzC4J {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.dankeseite-1200 .pfad-284-RNzC4J {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.dankeseite-1200 .pfad-285-RNzC4J {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.dankeseite-1200 .rechteck-157-n9lTAI {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.dankeseite-1200 .iconfinder_4265038_b-n9lTAI {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.dankeseite-1200 .ellipse-41-2Degaz {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.dankeseite-1200 .pfad-286-2Degaz {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.dankeseite-1200 .iconfinder_scissor_s-n9lTAI {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.dankeseite-1200 .pfad-273-qirkPy {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.dankeseite-1200 .pfad-274-qirkPy {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.dankeseite-1200 .pfad-275-qirkPy {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.dankeseite-1200 .pfad-276-qirkPy {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.dankeseite-1200 .borbus-n9lTAI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.dankeseite-1200 .gruppe-322-n9lTAI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite-1200 .gruppe-163-ZLiKsR {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-1200 .gruppe-163-ZLiKsR.bp3-animate-enter231 {
+  animation: bp3-animate-enter231-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter231-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-1200 .rechteck-90-wRxd4B {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-1200 .exklusive-serviceleistungen-wRxd4B {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.dankeseite-1200 .gruppe-137-wRxd4B {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.dankeseite-1200 .versand-frei-xlln4U {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.dankeseite-1200 .truck-xlln4U {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.dankeseite-1200 .gruppe-341-wRxd4B {
+  background-color: transparent;
+  height: 199px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.dankeseite-1200 .knnen-wir-helfen-FHAP4H {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.dankeseite-1200 .gruppe-339-FHAP4H {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.dankeseite-1200 .gruppe-140-N6qNSG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.dankeseite-1200 .kontakt-uatdjb {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .contact-N6qNSG {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.dankeseite-1200 .gruppe-340-FHAP4H {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.dankeseite-1200 .gruppe-141-xckgLE {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.dankeseite-1200 .zahlungsoptionen-qXrZWb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .money-xckgLE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.dankeseite-1200 .gruppe-692-FHAP4H {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: calc(19.68% - 6px);
+  position: absolute;
+  top: 181px;
+  width: 30px;
+}
+
+.dankeseite-1200 .gruppe-141-iTDZKm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-1200 .nft-TN5gQl {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .x498951_child_clothes-FHAP4H {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.dankeseite-1200 .gruppe-345-wRxd4B {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.dankeseite-1200 .das-unternehmen-Cue0Te {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.dankeseite-1200 .gruppe-344-Cue0Te {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.dankeseite-1200 .gruppe-158-I6HT2S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.dankeseite-1200 .impressum-vDwOFi {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .gruppe-154-I6HT2S {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.dankeseite-1200 .gruppe-159-4bqKgj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-1200 .ellipse-25-WV1Sxg {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.dankeseite-1200 .i-WV1Sxg {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.dankeseite-1200 .gruppe-160-Cue0Te {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.dankeseite-1200 .gruppe-155-463eFK {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.dankeseite-1200 .gruppe-138-wxFRAz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-1200 .ber-borbus-75UHO4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .b-463eFK {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.dankeseite-1200 .gruppe-342-Cue0Te {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.dankeseite-1200 .gruppe-156-MrGwBI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.dankeseite-1200 .geschfts-und-nutzungsbediengungen-BSK7i3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .solid-MrGwBI {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.dankeseite-1200 .gruppe-343-Cue0Te {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.dankeseite-1200 .gruppe-157-pBOIzN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.dankeseite-1200 .datenschutz-cookies-xDFWUd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .cookie-pBOIzN {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.dankeseite-1200 .gruppe-346-wRxd4B {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.dankeseite-1200 .besuche-uns-jOYktx {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.dankeseite-1200 .gruppe-321-jOYktx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.dankeseite-1200 .gruppe-162-xkf9Ph {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.dankeseite-1200 .instagram-1H4vy0 {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-1200 .icon-instagram-xkf9Ph {
+  background-color: transparent;
+  height: 18px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.dankeseite-1200 .ssl-ZLiKsR {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.dankeseite-1200 .ssl-ZLiKsR.bp3-animate-enter232 {
+  animation: bp3-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter232-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - dankeseite-375 */
+
+.dankeseite-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1219px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.dankeseite-375 .pexels-liza-summer-6348046-0IWxh8 {
+  background-color: transparent;
+  display: block;
+  height: 1021px;
+  left: -696px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 90px;
+  width: calc(100.00% + 1155px);
+}
+
+.dankeseite-375 .pexels-liza-summer-6348046-0IWxh8.bp1-animate-enter212 {
+  animation: bp1-animate-enter212-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter212-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-375 .rechteck-161-0IWxh8 {
+  background-color: var(--white);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 100%;
+}
+
+.dankeseite-375 .gruppe-528-0IWxh8 {
+  background-color: transparent;
+  height: 376px;
+  left: calc(29.06% - 83px);
+  position: absolute;
+  top: calc(43.75% - 164px);
+  width: 287px;
+}
+
+.dankeseite-375 .sie-haben-erfolgreic-k76mth {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 74px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.39% - 16px);
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.dankeseite-375 .sie-haben-erfolgreic-k76mth.bp1-animate-enter213 {
+  animation: bp1-animate-enter213-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter213-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-375 .danke-fr-das-vertrauen-k76mth {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .danke-fr-das-vertrauen-k76mth.bp1-animate-enter214 {
+  animation: bp1-animate-enter214-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter214-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-375 .in-5-7-werktagen-wer-k76mth {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 48px;
+  display: block;
+  height: 114px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 2px);
+}
+
+.dankeseite-375 .in-5-7-werktagen-wer-k76mth.bp1-animate-enter215 {
+  animation: bp1-animate-enter215-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter215-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-375 .infoborbus-shopcom-k76mth {
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.dankeseite-375 .infoborbus-shopcom-k76mth.bp1-animate-enter216 {
+  animation: bp1-animate-enter216-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter216-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-375 .rechteck-118-0IWxh8 {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-375 .gruppe-546-0IWxh8 {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.dankeseite-375 .sichere-bezahlung-QIEqmk {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.dankeseite-375 .gruppe-199-QIEqmk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.dankeseite-375 .rechteck-155-7mP4Lh {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.dankeseite-375 .pfad-284-7mP4Lh {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.dankeseite-375 .pfad-285-7mP4Lh {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.dankeseite-375 .gruppe-548-0IWxh8 {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.dankeseite-375 .stoffqualitt-5rlxTx {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.dankeseite-375 .iconfinder_4265038_b-5rlxTx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.dankeseite-375 .ellipse-41-CjxYNK {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.dankeseite-375 .pfad-286-CjxYNK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-375 .gruppe-547-0IWxh8 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.dankeseite-375 .handarbeit-FLsrTf {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.dankeseite-375 .iconfinder_scissor_s-FLsrTf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.dankeseite-375 .pfad-273-ZdyjYX {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.dankeseite-375 .pfad-274-ZdyjYX {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.dankeseite-375 .pfad-275-ZdyjYX {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.dankeseite-375 .pfad-276-ZdyjYX {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.dankeseite-375 .borbus-0IWxh8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.dankeseite-375 .gruppe-327-0IWxh8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite-375 .rechteck-90-29kZfX {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-375 .gruppe-356-29kZfX {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.dankeseite-375 .exklusive-serviceleistungen-YqIf8i {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .gruppe-137-YqIf8i {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.dankeseite-375 .versand-frei-SZem0M {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.dankeseite-375 .truck-SZem0M {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.dankeseite-375 .gruppe-359-29kZfX {
+  background-color: transparent;
+  height: 155px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.dankeseite-375 .knnen-wir-helfen-ELLOcL {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.dankeseite-375 .gruppe-357-ELLOcL {
+  background-color: transparent;
+  bottom: calc(46.52% - 5px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.dankeseite-375 .gruppe-140-B3I3T7 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.dankeseite-375 .kontakt-CuLHp3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .contact-B3I3T7 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.dankeseite-375 .gruppe-358-ELLOcL {
+  background-color: transparent;
+  bottom: calc(24.72% - 4px);
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.dankeseite-375 .gruppe-141-cxxJAL {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.dankeseite-375 .zahlungsoptionen-fS1Zi4 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .money-cxxJAL {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.dankeseite-375 .gruppe-694-ELLOcL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 4px;
+  position: absolute;
+  width: 40px;
+}
+
+.dankeseite-375 .gruppe-141-xVJGwx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.99% - 5px);
+  width: 21px;
+}
+
+.dankeseite-375 .nft-vT9etL {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .x498951_child_clothes-xVJGwx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.dankeseite-375 .gruppe-363-29kZfX {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.dankeseite-375 .das-unternehmen-om2nsS {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.dankeseite-375 .gruppe-362-om2nsS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.dankeseite-375 .gruppe-158-GxdtXH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.dankeseite-375 .impressum-LxUxA6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .gruppe-154-GxdtXH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.dankeseite-375 .gruppe-159-W3F115 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-375 .ellipse-25-O6ZUij {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-375 .i-O6ZUij {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.dankeseite-375 .gruppe-160-om2nsS {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.dankeseite-375 .gruppe-155-NdEOxO {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.dankeseite-375 .gruppe-138-CnlIIf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-375 .ber-borbus-Zfq51u {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .b-NdEOxO {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.dankeseite-375 .gruppe-361-om2nsS {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite-375 .gruppe-156-WW8CeN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.dankeseite-375 .geschftsbedien-gungen-2XEzXE {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .solid-WW8CeN {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.dankeseite-375 .gruppe-360-om2nsS {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.dankeseite-375 .gruppe-157-PtZ1Nf {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.dankeseite-375 .datenschutz-xVTRfj {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .cookie-PtZ1Nf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.dankeseite-375 .gruppe-325-29kZfX {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.dankeseite-375 .gruppe-162-HPxP4R {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.dankeseite-375 .folge-uns-auf-instagram-xa4OSK {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-375 .icon-instagram-HPxP4R {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.dankeseite-375 .ssl-29kZfX {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.dankeseite-375 .ssl-29kZfX.bp1-animate-enter217 {
+  animation: bp1-animate-enter217-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter217-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - dankeseite-767 */
+
+.dankeseite-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1219px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.dankeseite-767 .pexels-liza-summer-6348046-N7rVH9 {
+  background-color: transparent;
+  display: block;
+  height: 1003px;
+  left: -506px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 90px;
+  width: calc(100.00% + 737px);
+}
+
+.dankeseite-767 .pexels-liza-summer-6348046-N7rVH9.bp2-animate-enter222 {
+  animation: bp2-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter222-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-767 .rechteck-161-N7rVH9 {
+  background-color: var(--white);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 100%;
+}
+
+.dankeseite-767 .gruppe-527-N7rVH9 {
+  background-color: transparent;
+  height: 257px;
+  position: absolute;
+  right: calc(47.33% - 266px);
+  top: calc(43.24% - 111px);
+  width: 562px;
+}
+
+.dankeseite-767 .sie-haben-erfolgreic-3KizDH {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(27.43% - 14px);
+  white-space: nowrap;
+  width: 461px;
+}
+
+.dankeseite-767 .sie-haben-erfolgreic-3KizDH.bp2-animate-enter223 {
+  animation: bp2-animate-enter223-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter223-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-767 .danke-fr-das-vertrauen-3KizDH {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 32px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 376px;
+}
+
+.dankeseite-767 .danke-fr-das-vertrauen-3KizDH.bp2-animate-enter224 {
+  animation: bp2-animate-enter224-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter224-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-767 .in-5-7-werktagen-wer-3KizDH {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 40px;
+  display: block;
+  height: 56px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .in-5-7-werktagen-wer-3KizDH.bp2-animate-enter225 {
+  animation: bp2-animate-enter225-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter225-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-767 .infoborbus-shopcom-3KizDH {
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 22px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.dankeseite-767 .infoborbus-shopcom-3KizDH.bp2-animate-enter226 {
+  animation: bp2-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter226-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-767 .rechteck-118-N7rVH9 {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-767 .stoffqualitt-N7rVH9 {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.dankeseite-767 .handarbeit-N7rVH9 {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.dankeseite-767 .sichere-bezahlung-N7rVH9 {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.dankeseite-767 .gruppe-199-N7rVH9 {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.dankeseite-767 .rechteck-155-YMfix7 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.dankeseite-767 .pfad-284-YMfix7 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.dankeseite-767 .pfad-285-YMfix7 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.dankeseite-767 .rechteck-157-N7rVH9 {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.dankeseite-767 .iconfinder_4265038_b-N7rVH9 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.dankeseite-767 .ellipse-41-ukB5Zo {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.dankeseite-767 .pfad-286-ukB5Zo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.dankeseite-767 .iconfinder_scissor_s-N7rVH9 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.dankeseite-767 .pfad-273-I08QgW {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.dankeseite-767 .pfad-274-I08QgW {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.dankeseite-767 .pfad-275-I08QgW {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.dankeseite-767 .pfad-276-I08QgW {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.dankeseite-767 .borbus-N7rVH9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.dankeseite-767 .gruppe-163-N7rVH9 {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite-767 .gruppe-163-N7rVH9.bp2-animate-enter227 {
+  animation: bp2-animate-enter227-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter227-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite-767 .rechteck-90-1xb4Rp {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite-767 .gruppe-347-1xb4Rp {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.dankeseite-767 .exklusive-serviceleistungen-BcojXo {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .gruppe-137-BcojXo {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.dankeseite-767 .versand-frei-qexBaM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.dankeseite-767 .truck-qexBaM {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.dankeseite-767 .gruppe-350-1xb4Rp {
+  background-color: transparent;
+  height: 199px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.dankeseite-767 .knnen-wir-helfen-uqQOKe {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.dankeseite-767 .gruppe-348-uqQOKe {
+  background-color: transparent;
+  bottom: calc(46.47% - 7px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.dankeseite-767 .gruppe-140-AG0AGX {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.dankeseite-767 .kontakt-VmHQoD {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .contact-AG0AGX {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.dankeseite-767 .gruppe-349-uqQOKe {
+  background-color: transparent;
+  bottom: calc(24.56% - 5px);
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.dankeseite-767 .gruppe-141-24YVas {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.dankeseite-767 .zahlungsoptionen-Rrs7hO {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .money-24YVas {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.dankeseite-767 .gruppe-693-uqQOKe {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: calc(3.93% - 2px);
+  position: absolute;
+  width: 59px;
+}
+
+.dankeseite-767 .gruppe-141-Npuri1 {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  cursor: pointer;
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 30px;
+}
+
+.dankeseite-767 .nft-nXIuoK {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .x498951_child_clothes-Npuri1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.dankeseite-767 .gruppe-354-1xb4Rp {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.dankeseite-767 .das-unternehmen-iXWagG {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.dankeseite-767 .gruppe-353-iXWagG {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.dankeseite-767 .gruppe-158-xPLsIf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.dankeseite-767 .impressum-QFNP8F {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .gruppe-154-xPLsIf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.dankeseite-767 .gruppe-159-NTw0oA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-767 .ellipse-25-x0oYC1 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.dankeseite-767 .i-x0oYC1 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.dankeseite-767 .gruppe-160-iXWagG {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.dankeseite-767 .gruppe-155-wAjleP {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.dankeseite-767 .gruppe-138-6FT0CI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-767 .ber-borbus-P7QAlB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .b-wAjleP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.dankeseite-767 .gruppe-351-iXWagG {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite-767 .gruppe-156-rTMgxQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.dankeseite-767 .geschfts-und-nutzungsbediengungen-2ksIFk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .solid-rTMgxQ {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.dankeseite-767 .gruppe-352-iXWagG {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.dankeseite-767 .gruppe-157-Tx7xtG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.dankeseite-767 .datenschutz-cookies-A2jHkI {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .cookie-Tx7xtG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.dankeseite-767 .gruppe-355-1xb4Rp {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.dankeseite-767 .besuche-uns-WYOPUV {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .gruppe-323-WYOPUV {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.dankeseite-767 .gruppe-162-ezCWPZ {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.dankeseite-767 .instagram-y8IdUJ {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite-767 .icon-instagram-ezCWPZ {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.dankeseite-767 .ssl-N7rVH9 {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.dankeseite-767 .ssl-N7rVH9.bp2-animate-enter228 {
+  animation: bp2-animate-enter228-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter228-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+@media screen and (max-width: 766px) {
+  .screen.dankeseite { 
+    display: none;
+   }
+  .screen.dankeseite-1200 { 
+    display: none;
+   }
+  .screen.dankeseite-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.dankeseite { 
+    display: none;
+   }
+  .screen.dankeseite-1200 { 
+    display: none;
+   }
+  .screen.dankeseite-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.dankeseite { 
+    display: none;
+   }
+  .screen.dankeseite-767 { 
+    display: none;
+   }
+  .screen.dankeseite-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.dankeseite-1200 { 
+    display: none;
+   }
+  .screen.dankeseite-767 { 
+    display: none;
+   }
+  .screen.dankeseite-375 { 
+    display: none;
+   }
+}
