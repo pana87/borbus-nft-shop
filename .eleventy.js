@@ -34,6 +34,17 @@ module.exports = function(eleventyConfig) {
     return result
   })
 
+  eleventyConfig.addTransform("add-cart-view-script", (content, outputPath) => {
+    // console.log(outputPath);
+    if (outputPath && outputPath.endsWith("/warenkorb/index.html")) {
+      return content.replace(/<\/body>/, `
+    <script type="module" src="../js/cart-view.js"></script>
+  </body>
+      `)
+    }
+    return content
+  })
+
   eleventyConfig.addShortcode("expose", data => {
     return `
       <script id="__EXPOSE__">

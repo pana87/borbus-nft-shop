@@ -1,10 +1,6 @@
-export async function getPriceInHbar(priceInEur) {
-  // const response = await fetch("http://localhost:8888/.netlify/functions/hbar-exchange-rate", {
-  //   mode: "same-origin"
-  // })
-  // const body = await response.text()
-  // const data = JSON.parse(body)
+import { _renderNotAvailableNfts } from "./render.js"
 
+export async function getPriceInHbar(priceInEur) {
   const data = await _getHbarExchangeRate()
 
   const USD_EUR = parseFloat(data.USD_EUR)
@@ -23,45 +19,30 @@ async function _getHbarExchangeRate() {
   return JSON.parse(body)
 }
 
-export async function renderCollectionOne() {
-  let data
-  let count = 0
-  while (count !== 3) {
-    try {
-      data = await _getAvailableNftsFromCollectionOne()
-      count = 3
-    } catch (error) {
-      console.error("Could not fetch", error)
-      count++
+export async function _getAvailableNftsFromCollectionOne() {
+  return new Promise((resolve, reject) => {
+    const xhr = new XMLHttpRequest()
+    xhr.open("GET", "http://localhost:8888/.netlify/functions/check-collection-one-availability")
+
+    xhr.setRequestHeader("Content-Type", "application/json")
+    xhr.overrideMimeType("text/html")
+
+    xhr.onload = () => {
+      if (xhr.status === 200) {
+        console.log("fetch erfolg");
+
+        const data = JSON.parse(xhr.response)
+        window.sessionStorage.setItem("nfts", JSON.stringify(data))
+
+        _renderNotAvailableNfts()
+        resolve()
+      } else {
+        console.log("fetch fehlgeschlagen.. retry");
+
+        _getAvailableNftsFromCollectionOne()
+      }
     }
-  }
 
-  const notAvailableNfts = data.filter(it => it.treasuryId !== it.owner)
-
-  notAvailableNfts.forEach(nft => {
-    const notAvailableElements = document.querySelectorAll(`div[class*='kleidchen-${nft.serial}']`)
-    const notAvailableElementParents = []
-    notAvailableElements.forEach(element => {
-      notAvailableElementParents.push(element.parentElement)
-    })
-
-    notAvailableElementParents.forEach(parent => {
-      parent.innerHTML = /*html*/`
-        <div style="display: flex; flex-direction: column; align-items: center; line-height: 2; opacity: 0.6;">
-          <img src="${window.__DATA__[nft.serial - 1].images.front}" style="width: 100%; " />
-          <div class="sold" style="padding-top: 20px; color: red;">Verkauft</div>
-          <div class="owner" style="padding-top: 10px;">Besitzer: ${nft.owner}</div>
-        </div>
-      `
-    })
+    xhr.send()
   })
-}
-
-async function _getAvailableNftsFromCollectionOne() {
-  // use xhr instead, then no need for try catch
-  const response = await fetch("http://localhost:8888/.netlify/functions/check-collection-one-availability", {
-    mode: "same-origin"
-  })
-  const body = await response.text()
-  return JSON.parse(body)
 }

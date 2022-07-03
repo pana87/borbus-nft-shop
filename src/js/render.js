@@ -20,7 +20,7 @@ export function _removeItemFromCart() {
   // localStorage.clear()
 
   document.querySelectorAll("div[class*='kleidchenbezeichnung']").forEach(element => element.remove())
-  document.querySelectorAll("img[class*='vorderseiteklein']").forEach(element => element.remove())
+  document.querySelectorAll("img[class*='vorderseitebild']").forEach(element => element.remove())
   document.querySelectorAll("div[class*='lschen']").forEach(element => element.remove())
   document.querySelectorAll("div[class*='preis1']").forEach(element => element.remove())
   document.querySelectorAll("div[class*='versand-5-7']").forEach(element => element.remove())
@@ -28,13 +28,13 @@ export function _removeItemFromCart() {
   _updateCartPointer()
 }
 
-function _cartList() {
-  if (!window.localStorage.getItem("cart")) {
-    _removeItemFromCart()
-    return
-  }
-}
-_cartList()
+// function _cartList() {
+//   if (!window.localStorage.getItem("cart")) {
+//     _removeItemFromCart()
+//     return
+//   }
+// }
+// _cartList()
 
 function _productName() {
   const nameElements = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
@@ -68,8 +68,9 @@ function _productPrice() {
 
   if (!window.localStorage.getItem("cart")) {
     priceElements.forEach(element => element.remove())
+  } else {
+    priceElements.forEach(element => element.innerHTML = `${cart[0].price} EUR`)
   }
-  priceElements.forEach(element => element.innerHTML = `${cart[0].price} EUR`)
 }
 _productPrice()
 
@@ -1091,3 +1092,28 @@ function _updateAllAddressFields() {
   })
 }
 _updateAllAddressFields()
+
+export function _renderNotAvailableNfts() {
+  const nfts = JSON.parse(window.sessionStorage.getItem("nfts"))
+  console.log(nfts);
+
+  const notAvailableNfts = nfts.filter(it => it.treasuryId !== it.owner)
+  console.log(notAvailableNfts);
+  notAvailableNfts.forEach(nft => {
+    const notAvailableElements = document.querySelectorAll(`div[class*='kleidchen-${nft.serial}']`)
+    const notAvailableElementParents = []
+    notAvailableElements.forEach(element => {
+      notAvailableElementParents.push(element.parentElement)
+    })
+
+    notAvailableElementParents.forEach(parent => {
+      parent.innerHTML = /*html*/`
+        <div style="display: flex; flex-direction: column; align-items: center; line-height: 2; opacity: 0.6;">
+          <img src="${window.__DATA__[nft.serial - 1].images.front}" style="width: 100%; " />
+          <div class="sold" style="padding-top: 20px; color: red;">Verkauft</div>
+          <div class="owner" style="padding-top: 10px;">Besitzer: ${nft.owner}</div>
+        </div>
+      `
+    })
+  })
+}
