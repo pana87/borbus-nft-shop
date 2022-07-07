@@ -18,9 +18,6 @@ function _onLoginButtonClick() {
   loginButtons.forEach(button => {
     button.setAttribute("style", "cursor: pointer;")
     button.addEventListener("click", async () => {
-
-      // get input data
-
       const accountIdFields = document.querySelectorAll("input[name='accountId']")
       if (accountIdFields.length === 0) return
       let accountId
@@ -86,10 +83,6 @@ function _onLoginButtonClick() {
         data: encryptedPackage
       }))
 
-
-      // console.log(document.referrer);
-      // console.log(document.referrer.endsWith("/warenkorb/"));
-
       if (document.referrer.endsWith("/warenkorb/")) {
         window.location.assign("/bestellubersicht")
         return
@@ -98,7 +91,6 @@ function _onLoginButtonClick() {
 
     })
   })
-  // console.log(loginButtons);
 }
 _onLoginButtonClick()
 
@@ -146,107 +138,24 @@ function _onOrderButtonClick() {
         return
       }
 
-      // console.log("lets go");
-
       const securityKey = prompt("Bitte geben Sie Ihren Sicherheitsschlüssel ein")
       if (securityKey === null || securityKey.length === 0) return
-      // console.log("securityKey", securityKey);
-
-      ///////////////////////////////////////////////////////////////////////////////////////////////
 
       const securityKeyAsBytes = new TextEncoder().encode(securityKey)
-      // console.log("secretKeyAsBytes", secretKeyAsBytes);
-
       const session = new Uint8Array(JSON.parse(window.sessionStorage.getItem("userSession")).data)
-      // console.log(session);
       const accountId = JSON.parse(window.sessionStorage.getItem("userSession")).accountId
-      // console.log(accountId);
-
-      // const privateKey = new Uint8Array(JSON.parse(window.sessionStorage.getItem("userSession")).privateKey)
-      // console.log("accountId", accountId);
-
-      // const SALT = privateKey.slice(0, 32)
-      // console.log("SALT", SALT);
-
-      // const IV = privateKey.slice(32, 44)
-      // console.log("IV", IV);
-
-      // const encryptedData = privateKey.slice(32 + 12)
-      // console.log("encryptedData", encryptedData);
-
-
-
-      // const passwordKey = await window.crypto.subtle.importKey(
-      //   "raw",
-      //   secretKeyAsBytes,
-      //   "PBKDF2",
-      //   false,
-      //   ["deriveKey"]
-      // )
-      // console.log("passwordkey", passwordKey);
-
-      // // console.log("privateKey", privateKey);
-
-      // // const salt = new Uint8Array(privateKey.slice(0, 32))
-
-      // // const salt = window.crypto.getRandomValues(new Uint8Array(32))
-      // // const salt =
-      // // console.log("salt", salt);
-      // const aesKey = await window.crypto.subtle.deriveKey({
-      //   name: "PBKDF2",
-      //   hash: { name: "SHA-256" },
-      //   salt: SALT,
-      //   iterations: 250000,
-      // }, passwordKey, { name: "AES-GCM", length: 256 }, false, ["decrypt"])
-      // console.log("aesKey", aesKey);
-
-      // // const iv = window.crypto.getRandomValues(new Uint8Array(12))
-
-
-
-
-      // // const iv = window.crypto.getRandomValues(new Uint8Array(12))
-      // const decryptedContent = await window.crypto.subtle.decrypt({
-      //   name: "AES-GCM",
-      //   iv: IV,
-      // }, aesKey, encryptedData)
-      // console.log("decryptedContent", decryptedContent);
-
-      // const data = new Uint8Array(decryptedContent)
-      // console.log("data", data);
-
-      // const decodedData = new TextDecoder().decode(data)
-      // console.log("decoded data", decodedData);
-
-      // /////////////////////////////////////////////////////////////////////////////////////////
-
       const cartItem = JSON.parse(window.localStorage.getItem("cart"))[0]
-      // console.log(cart);
-
       const addresses = JSON.parse(window.localStorage.getItem("addresses"))
-      // console.log(addresses);
-
       const shippingAddress = addresses.filter(it => it.shippingAddress === true)[0]
       const billingAddress = addresses.filter(it => it.billingAddress === true)[0]
-      // const hbarAmount =
       const hbarTotalElements = document.querySelectorAll("div[class*='hbar-gesamtkosten-rechner']")
-
-      // if (hbarTotalElements.length === 0) return
-
-      // let hbarAmount
-      // hbarTotalElements.forEach(element => {
-
-      // })
 
       let renderedHbarPrice
       hbarTotalElements.forEach(element => {
         renderedHbarPrice = element.innerHTML
       })
-      // console.log(lastHbarPrice.trim().split(" "))
-      // console.log()
-      const previousHbarPrice = parseFloat(renderedHbarPrice.trim().split(" ")[0])
-      // console.log(previousHbarPrice);
 
+      const previousHbarPrice = parseFloat(renderedHbarPrice.trim().split(" ")[0])
       const cart = JSON.parse(window.localStorage.getItem("cart")) || []
 
       if (cart.length === 0) {
@@ -255,11 +164,7 @@ function _onOrderButtonClick() {
       }
 
       const itemPrice = parseFloat(cart[0].price.replace(",", "."))
-      // console.log(item);
-      // const itemPrice = parseFloat(item.price.replace(",", "."))
-      // console.log(itemPrice);
       const currentHbarPrice = await getPriceInHbar(itemPrice)
-      // console.log(parseFloat(currentHbarPrice.toFixed(8)))
       const priceInTinybars = currentHbarPrice.toFixed(8).replace(".", "")
 
       if (previousHbarPrice !== parseFloat(currentHbarPrice.toFixed(8))) {
@@ -267,21 +172,6 @@ function _onOrderButtonClick() {
         hbarTotalElements.forEach(element => element.innerHTML = `${currentHbarPrice.toFixed(8)} ℏ`)
         return
       }
-
-
-      const body = {
-        accountId,
-        session,
-        securityKeyAsBytes,
-        cartItem,
-        shippingAddress,
-        billingAddress,
-        currentHbarPrice,
-      }
-      console.log(body);
-      console.log(JSON.stringify(body));
-
-      // return
 
       const xhr = new XMLHttpRequest()
       xhr.open("POST", "/.netlify/functions/treasury-to-user-transaction")
@@ -336,8 +226,6 @@ function _onPayButtonClick() {
       }
 
       window.location.assign("/bestellubersicht")
-
-      // console.log("hi");
     })
   })
 }
@@ -356,11 +244,23 @@ function _onCartButtonClick() {
 
     cart = JSON.parse(localStorage.getItem("cart")) || []
 
+    if (!window.sessionStorage.getItem("nfts")) {
+      alert("Es wird noch die Verfügbarkeit geprüft. Bitte versuchen Sie es in ein paar Sekunden erneut")
+      return
+    }
+    const nfts = JSON.parse(window.sessionStorage.getItem("nfts"))
+    const notAvailableNfts = nfts.filter(it => it.treasuryId !== it.owner)
+    if (notAvailableNfts.some(item => item.serial === window.__DATA__.id)) {
+      alert("Dieses Kleidchen ist bereits verkauft")
+      return
+    }
+
     const cartContainsDressId = cart.some(item => item.id === window.__DATA__.id)
     if (cartContainsDressId) {
       alert(`${window.__DATA__.name} ist bereits im Warenkorb`)
       return
     }
+
 
     cart = []
     cart.push(window.__DATA__)
