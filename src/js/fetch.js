@@ -22,8 +22,10 @@ async function _getHbarExchangeRate() {
 export async function _getAvailableNftsFromCollectionOne() {
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest()
+    // url needs to be changed dynamically
+    // const url = process.env.URL | "url"
     xhr.open("GET", "http://localhost:8888/.netlify/functions/check-collection-one-availability")
-
+    // xhr.setRequestHeader("Access-Control-Allow-Origin", url)
     xhr.setRequestHeader("Content-Type", "application/json")
     xhr.overrideMimeType("text/html")
 

@@ -7,8 +7,8 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({"./src/js": "./js"})
 
+  const url = process.env.URL || "http://localhost:8888"
   eleventyConfig.addTransform("replace-url", (content) => {
-    const url = process.env.URL || "http://localhost:8888"
     const result = content.replace(/https:\/\/borbus-shop.com/g, url)
     return result
   })
@@ -118,13 +118,20 @@ permalink: "produktansichtdetail{{ pagination.pageNumber + 1 }}/index.html"
         fs.writeFileSync("./static/css/globals.css", result, "utf-8")
       }
     }
+
+    if (fs.existsSync("./src/js/fetch.js")) {
+      const fileBuffer = fs.readFileSync("./src/js/fetch.js")
+
+      const result = fileBuffer.toString().replace(/http:\/\/localhost:8888/g, url)
+      fs.writeFileSync("./src/js/fetch.js", result, "utf-8")
+    }
   })
 
   return {
     dir: {
       input: "./static",
       output: "./public",
-      data: "../src/_data"
+      data: "../src/_data",
     }
   }
 }
