@@ -23,6 +23,21 @@ module.exports = function(eleventyConfig) {
     return result
   })
 
+  eleventyConfig.addTransform("add-google-analytics-tag", (content) => {
+    const result = content.replace(/<\/head>/, `<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script class="ga-tag" async src="https://www.googletagmanager.com/gtag/js?id=G-4LJYNJPT0Z"></script>
+  <script class="ga-tag" >
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4LJYNJPT0Z');
+  </script>
+</head>
+    `)
+    return result
+  })
+
   eleventyConfig.addTransform("add-global-script", (content) => {
 
     const scriptTag =
