@@ -36,13 +36,13 @@
   width: calc(100.00% + 2px);
 }
 
-.impressum .inhaltlich-verantwor-A4RtYs.bp4-animate-enter326 {
-  animation: bp4-animate-enter326-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum .inhaltlich-verantwor-A4RtYs.bp4-animate-enter168 {
+  animation: bp4-animate-enter168-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter326-frames {
+@keyframes bp4-animate-enter168-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -64,13 +64,13 @@ to{opacity: 1;
   width: 202px;
 }
 
-.impressum .impressum-A4RtYs.bp4-animate-enter327 {
-  animation: bp4-animate-enter327-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum .impressum-A4RtYs.bp4-animate-enter169 {
+  animation: bp4-animate-enter169-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter327-frames {
+@keyframes bp4-animate-enter169-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -258,6 +258,520 @@ to{opacity: 1;
   width: 100%;
 }
 
+.impressum .gruppe-163-EXDK4C {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.impressum .gruppe-163-EXDK4C.bp4-animate-enter170 {
+  animation: bp4-animate-enter170-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter170-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.impressum .rechteck-90-RD3U2z {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum .gruppe-364-RD3U2z {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.impressum .exklusive-serviceleistungen-Jw64Rn {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.impressum .gruppe-137-Jw64Rn {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.impressum .versand-rckversand-frei-20OEOP {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.impressum .truck-20OEOP {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.impressum .gruppe-367-RD3U2z {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.impressum .knnen-wir-helfen-A2q6AK {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.impressum .gruppe-365-A2q6AK {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.impressum .gruppe-140-9MaeGL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.impressum .kontakt-gesXDT {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.impressum .contact-9MaeGL {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.impressum .gruppe-366-A2q6AK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.impressum .gruppe-141-i9fTUx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.impressum .zahlungsoptionen-90KPt4 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.impressum .money-i9fTUx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.impressum .gruppe-372-RD3U2z {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.impressum .besuche-uns-BxadFx {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.impressum .gruppe-320-BxadFx {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.impressum .gruppe-162-oQI0qW {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.impressum .instagram-PAZbnc {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.impressum .icon-instagram-oQI0qW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.impressum .ssl-EXDK4C {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.impressum .ssl-EXDK4C.bp4-animate-enter171 {
+  animation: bp4-animate-enter171-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter171-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.impressum .gruppe-554-EXDK4C {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.impressum .gruppe-371-Mh4SJv {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.impressum .das-unternehmen-FpEWiS {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.impressum .gruppe-370-FpEWiS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.impressum .gruppe-154-gmByFW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum .gruppe-159-7yzE8D {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum .ellipse-25-HsHPe2 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.impressum .i-HsHPe2 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.impressum .gruppe-160-FpEWiS {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.impressum .gruppe-155-IEkLFV {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.impressum .gruppe-138-L92bAV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum .ber-borbus-HqjDm0 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.impressum .b-IEkLFV {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.impressum .gruppe-368-FpEWiS {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.impressum .gruppe-156-3bzppJ {
+  background-color: transparent;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.impressum .geschfts-und-nutzungs-bediengungen-dwEYSB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.impressum .solid-3bzppJ {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.impressum .gruppe-369-FpEWiS {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.impressum .gruppe-157-t39ewe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.impressum .datenschutz-cookies-MrCUBT {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.impressum .cookie-t39ewe {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.impressum .impressum-Mh4SJv {
+  background-color: transparent;
+  bottom: 8px;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
 .impressum .borbus-EXDK4C {
   background-color: transparent;
   cursor: pointer;
@@ -272,218 +786,16 @@ to{opacity: 1;
   width: 240px;
 }
 
-.impressum .gruppe-691-EXDK4C {
+.impressum .gruppe-622-EXDK4C {
   background-color: transparent;
-  bottom: 0px;
-  height: 331px;
-  left: 0px;
-  position: absolute;
-  width: 100%;
-}
-
-.impressum .gruppe-163-TS6tI7 {
-  background-color: transparent;
-  bottom: 0px;
-  display: block;
-  height: 331px;
-  left: 0px;
-  opacity: 0;
-  position: absolute;
-  width: 100%;
-}
-
-.impressum .gruppe-163-TS6tI7.bp4-animate-enter328 {
-  animation: bp4-animate-enter328-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter328-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.impressum .rechteck-90-QYsDqS {
-  background-color: var(--stratos);
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.impressum .gruppe-364-QYsDqS {
-  background-color: transparent;
-  height: 114px;
-  left: calc(13.51% - 32px);
-  position: absolute;
-  top: calc(17.06% - 19px);
-  width: 240px;
-}
-
-.impressum .exklusive-serviceleistungen-U1KlSp {
-  background-color: transparent;
-  height: 63px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% - 26px);
-}
-
-.impressum .gruppe-137-U1KlSp {
-  background-color: transparent;
-  bottom: 0px;
-  height: 15px;
-  left: 0px;
-  position: absolute;
-  width: 100%;
-}
-
-.impressum .versand-rckversand-frei-1aG6KU {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% - 32px);
-}
-
-.impressum .truck-1aG6KU {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 26px;
-}
-
-.impressum .gruppe-367-QYsDqS {
-  background-color: transparent;
-  height: 196px;
-  left: calc(40.73% - 134px);
-  position: absolute;
-  top: 37px;
-  width: 329px;
-}
-
-.impressum .knnen-wir-helfen-aRKwAt {
-  background-color: transparent;
-  height: 63px;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% + 1px);
-}
-
-.impressum .gruppe-365-aRKwAt {
-  background-color: transparent;
-  bottom: calc(45.44% - 7px);
-  height: 15px;
-  left: 0px;
-  position: absolute;
-  width: 92px;
-}
-
-.impressum .gruppe-140-8u1RdO {
-  background-color: transparent;
-  cursor: pointer;
-  height: 100%;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 57px;
-}
-
-.impressum .kontakt-69NSUu {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.impressum .contact-8u1RdO {
-  background-color: transparent;
-  height: calc(100.00% - 3px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 2px;
-  width: 25px;
-}
-
-.impressum .gruppe-366-aRKwAt {
-  background-color: transparent;
-  bottom: calc(23.49% - 5px);
-  height: 20px;
-  left: 5px;
-  position: absolute;
-  width: 160px;
-}
-
-.impressum .gruppe-141-feTbcx {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% - 4px);
-  position: absolute;
-  right: 0px;
-  top: 2px;
-  width: 130px;
-}
-
-.impressum .zahlungsoptionen-ZwHh2W {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.impressum .money-feTbcx {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 20px;
-}
-
-.impressum .gruppe-622-aRKwAt {
-  background-color: transparent;
-  bottom: 0px;
+  bottom: 98px;
   height: 22px;
-  left: 6px;
+  left: calc(35.18% - 21px);
   position: absolute;
   width: 61px;
 }
 
-.impressum .gruppe-141-6sYoqM {
+.impressum .gruppe-141-A6376j {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -492,7 +804,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum .nf-tlink-zKrL5x {
+.impressum .nf-tlink-A6nhNL {
   background-color: transparent;
   bottom: calc(131.68% - 22px);
   cursor: pointer;
@@ -506,7 +818,7 @@ to{opacity: 1;
   width: 34px;
 }
 
-.impressum .x498951_child_clothes-zKrL5x {
+.impressum .x498951_child_clothes-A6nhNL {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -516,326 +828,57 @@ to{opacity: 1;
   width: 18px;
 }
 
-.impressum .gruppe-372-QYsDqS {
+.impressum .warenkorb-oben-rechts-EXDK4C {
   background-color: transparent;
-  height: 117px;
+  height: 41px;
   position: absolute;
-  right: calc(12.59% - 27px);
-  top: 37px;
-  width: 212px;
+  right: 80px;
+  top: 57px;
+  width: 44px;
 }
 
-.impressum .besuche-uns-it9Gh6 {
+.impressum .iconfinder_basket_ecommerce_shop_4177565-nxOmFc {
   background-color: transparent;
-  height: 44px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
+  height: 24px;
+  object-fit: cover;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% + 2px);
+  right: 16px;
+  top: 17px;
+  width: 28px;
 }
 
-.impressum .gruppe-320-it9Gh6 {
+.impressum .gruppe-579-nxOmFc {
   background-color: transparent;
-  bottom: 0px;
-  cursor: pointer;
-  height: 18px;
-  left: 0px;
-  position: absolute;
-  width: 102px;
-}
-
-.impressum .gruppe-162-kk9pjx {
-  background-color: transparent;
-  height: calc(100.00% - 2px);
+  height: 23px;
   position: absolute;
   right: 0px;
   top: 0px;
-  width: 73px;
+  width: 23px;
 }
 
-.impressum .instagram-Iz7PIR {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.impressum .icon-instagram-kk9pjx {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 18px;
-}
-
-.impressum .ssl-TS6tI7 {
-  background-color: transparent;
-  bottom: 60px;
-  display: block;
-  height: 90px;
-  left: calc(12.35% - 11px);
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  width: 90px;
-}
-
-.impressum .ssl-TS6tI7.bp4-animate-enter329 {
-  animation: bp4-animate-enter329-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter329-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.impressum .gruppe-554-TS6tI7 {
-  background-color: transparent;
-  height: calc(100.00% - 80px);
-  position: absolute;
-  right: calc(36.66% - 84px);
-  top: 37px;
-  width: 229px;
-}
-
-.impressum .gruppe-371-Dp5tMJ {
-  background-color: transparent;
-  height: 251px;
-  left: calc(50.00% - 114px);
-  position: absolute;
-  top: 0px;
-  width: 229px;
-}
-
-.impressum .das-unternehmen-uX1CSK {
-  background-color: transparent;
-  height: 63px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% - 15px);
-}
-
-.impressum .gruppe-370-uX1CSK {
-  background-color: transparent;
-  bottom: 0px;
-  height: 27px;
-  left: 8px;
-  position: absolute;
-  width: 30px;
-}
-
-.impressum .gruppe-154-9fxen2 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.impressum .gruppe-159-yNVE7Q {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.impressum .ellipse-25-RSQak0 {
-  background-color: var(--white);
-  border-radius: 10px;
-  height: 20px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 20px;
-}
-
-.impressum .i-RSQak0 {
-  background-color: transparent;
-  height: 25px;
-  left: 9px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -2px;
-  white-space: nowrap;
-  width: calc(100.00% - 7px);
-}
-
-.impressum .gruppe-160-uX1CSK {
-  background-color: transparent;
-  height: 20px;
-  left: 8px;
-  position: absolute;
-  top: calc(41.56% - 8px);
-  width: 118px;
-}
-
-.impressum .gruppe-155-XaLJuu {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% - 4px);
+.impressum .ellipse-47-xbfCM1 {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
   position: absolute;
   right: 0px;
-  top: 2px;
-  width: 94px;
-}
-
-.impressum .gruppe-138-22f3bL {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
   top: 0px;
-  width: 100%;
+  width: 23px;
 }
 
-.impressum .ber-borbus-XB3lZf {
+.impressum .anzahl-warenkorb-xbfCM1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.impressum .b-XaLJuu {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: 16px;
-}
-
-.impressum .gruppe-368-uX1CSK {
-  background-color: transparent;
-  bottom: calc(37.73% - 12px);
-  height: 31px;
-  left: 6px;
-  position: absolute;
-  width: calc(100.00% - 6px);
-}
-
-.impressum .gruppe-156-ciF0Hs {
-  background-color: transparent;
-  cursor: pointer;
-  height: 100%;
-  left: 29px;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 29px);
-}
-
-.impressum .geschfts-und-nutzungs-bediengungen-GJTSp7 {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  height: 17px;
   letter-spacing: 0.00px;
   line-height: 15px;
   position: absolute;
+  right: 5px;
   text-align: left;
-  top: 1px;
+  top: 4px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.impressum .solid-ciF0Hs {
-  background-color: transparent;
-  bottom: 4px;
-  height: 20px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  width: 21px;
-}
-
-.impressum .gruppe-369-uX1CSK {
-  background-color: transparent;
-  bottom: calc(18.98% - 4px);
-  height: 19px;
-  left: 7px;
-  position: absolute;
-  width: calc(100.00% - 30px);
-}
-
-.impressum .gruppe-157-7YJ248 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 15px;
-  left: 28px;
-  position: absolute;
-  top: 1px;
-  width: calc(100.00% - 28px);
-}
-
-.impressum .datenschutz-cookies-acZfXs {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.impressum .cookie-7YJ248 {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 19px;
-}
-
-.impressum .impressum-Dp5tMJ {
-  background-color: transparent;
-  bottom: 8px;
-  height: 17px;
-  left: calc(23.53% - 18px);
-  letter-spacing: 0.00px;
-  line-height: 14px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 76px;
+  width: 11px;
 }
 /* screen - impressum-1200 */
 
@@ -875,13 +918,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.impressum-1200 .inhaltlich-verantwor-gEqOEx.bp3-animate-enter369 {
-  animation: bp3-animate-enter369-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-1200 .inhaltlich-verantwor-gEqOEx.bp3-animate-enter209 {
+  animation: bp3-animate-enter209-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter369-frames {
+@keyframes bp3-animate-enter209-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -903,13 +946,13 @@ to{opacity: 1;
   width: 202px;
 }
 
-.impressum-1200 .impressum-gEqOEx.bp3-animate-enter370 {
-  animation: bp3-animate-enter370-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-1200 .impressum-gEqOEx.bp3-animate-enter210 {
+  animation: bp3-animate-enter210-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter370-frames {
+@keyframes bp3-animate-enter210-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1131,13 +1174,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum-1200 .gruppe-163-gzoEhv.bp3-animate-enter371 {
-  animation: bp3-animate-enter371-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-1200 .gruppe-163-gzoEhv.bp3-animate-enter211 {
+  animation: bp3-animate-enter211-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter371-frames {
+@keyframes bp3-animate-enter211-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1304,17 +1347,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.impressum-1200 .gruppe-692-4fOtcA {
+.impressum-1200 .gruppe-623-4fOtcA {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.impressum-1200 .gruppe-141-NzPRUA {
+.impressum-1200 .gruppe-141-fk8NdG {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1323,27 +1365,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum-1200 .nft-XVvNKM {
+.impressum-1200 .nft-hUyEwK {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.impressum-1200 .x498951_child_clothes-4fOtcA {
+.impressum-1200 .gruppe-622-hUyEwK {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.impressum-1200 .gruppe-141-k8XqYs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum-1200 .x498951_child_clothes-N5Z0ca {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .impressum-1200 .gruppe-345-u76nib {
@@ -1387,6 +1448,7 @@ to{opacity: 1;
 
 .impressum-1200 .impressum-790unv {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -1505,7 +1567,6 @@ to{opacity: 1;
 
 .impressum-1200 .gruppe-156-Q0Wx0O {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -1655,17 +1716,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.impressum-1200 .ssl-gzoEhv.bp3-animate-enter372 {
-  animation: bp3-animate-enter372-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-1200 .ssl-gzoEhv.bp3-animate-enter212 {
+  animation: bp3-animate-enter212-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter372-frames {
+@keyframes bp3-animate-enter212-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.impressum-1200 .warenkorb-oben-rechts-oaVtER {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.impressum-1200 .iconfinder_basket_ecommerce_shop_4177565-pHuPwN {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.impressum-1200 .gruppe-579-pHuPwN {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.impressum-1200 .ellipse-47-2voISq {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.impressum-1200 .anzahl-warenkorb-2voISq {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - impressum-375 */
 
@@ -1696,13 +1810,13 @@ to{opacity: 1;
   width: 33.60%;
 }
 
-.impressum-375 .impressum-DHh6RZ.bp1-animate-enter348 {
-  animation: bp1-animate-enter348-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-375 .impressum-DHh6RZ.bp1-animate-enter191 {
+  animation: bp1-animate-enter191-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter348-frames {
+@keyframes bp1-animate-enter191-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1715,7 +1829,7 @@ to{opacity: 1;
   letter-spacing: 0.00px;
   line-height: 28px;
   position: absolute;
-  right: calc(38.14% - 124px);
+  right: calc(47.96% - 156px);
   text-align: left;
   top: calc(44.87% - 1605px);
   white-space: nowrap;
@@ -2030,7 +2144,7 @@ to{opacity: 1;
 
 .impressum-375 .gruppe-357-Ufxjkx {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2072,7 +2186,7 @@ to{opacity: 1;
 
 .impressum-375 .gruppe-358-Ufxjkx {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2082,7 +2196,6 @@ to{opacity: 1;
 .impressum-375 .gruppe-141-XxpEzp {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2091,6 +2204,7 @@ to{opacity: 1;
 
 .impressum-375 .zahlungsoptionen-lzml1p {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2112,46 +2226,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.impressum-375 .gruppe-694-Ufxjkx {
+.impressum-375 .gruppe-623-Ufxjkx {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.impressum-375 .gruppe-141-8Ke7i1 {
+.impressum-375 .gruppe-141-Msf8Bx {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.impressum-375 .nft-FgZyq3 {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum-375 .nft-BbbWtU {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.impressum-375 .x498951_child_clothes-8Ke7i1 {
+.impressum-375 .gruppe-622-BbbWtU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.impressum-375 .gruppe-141-kQmrGQ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.impressum-375 .x498951_child_clothes-B7BmKl {
   background-color: transparent;
   height: 100%;
   left: 1px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .impressum-375 .gruppe-363-P8gtDo {
@@ -2315,7 +2447,6 @@ to{opacity: 1;
 
 .impressum-375 .gruppe-156-Q74ZxT {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -2445,17 +2576,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.impressum-375 .ssl-P8gtDo.bp1-animate-enter349 {
-  animation: bp1-animate-enter349-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-375 .ssl-P8gtDo.bp1-animate-enter192 {
+  animation: bp1-animate-enter192-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter349-frames {
+@keyframes bp1-animate-enter192-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.impressum-375 .warenkorb-oben-rechts-DHh6RZ {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.impressum-375 .iconfinder_basket_ecommerce_shop_4177565-G8Wa8x {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.impressum-375 .gruppe-579-G8Wa8x {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.impressum-375 .ellipse-47-Ljes2w {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.impressum-375 .anzahl-warenkorb-Ljes2w {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
 }
 /* screen - impressum-767 */
 
@@ -2494,13 +2678,13 @@ to{opacity: 1;
   width: calc(100.00% - 120px);
 }
 
-.impressum-767 .impressum-ssOKIg.bp2-animate-enter366 {
-  animation: bp2-animate-enter366-frames 0.20s ease 0.10s 1 normal forwards;
+.impressum-767 .impressum-ssOKIg.bp2-animate-enter207 {
+  animation: bp2-animate-enter207-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter366-frames {
+@keyframes bp2-animate-enter207-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2518,13 +2702,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum-767 .gruppe-166-ssOKIg.bp2-animate-enter367 {
-  animation: bp2-animate-enter367-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-767 .gruppe-166-ssOKIg.bp2-animate-enter208 {
+  animation: bp2-animate-enter208-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter367-frames {
+@keyframes bp2-animate-enter208-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2750,13 +2934,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.impressum-767 .gruppe-163-JqU86S.bp2-animate-enter368 {
-  animation: bp2-animate-enter368-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-767 .gruppe-163-JqU86S.bp2-animate-enter209 {
+  animation: bp2-animate-enter209-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter368-frames {
+@keyframes bp2-animate-enter209-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2828,7 +3012,7 @@ to{opacity: 1;
 
 .impressum-767 .gruppe-350-yQ52em {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -2850,7 +3034,7 @@ to{opacity: 1;
 
 .impressum-767 .gruppe-348-6r53lJ {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -2892,7 +3076,7 @@ to{opacity: 1;
 
 .impressum-767 .gruppe-349-6r53lJ {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -2932,46 +3116,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.impressum-767 .gruppe-693-6r53lJ {
+.impressum-767 .gruppe-623-6r53lJ {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.impressum-767 .gruppe-141-Sp3vSK {
+.impressum-767 .gruppe-141-jfMYsY {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.impressum-767 .nft-lh7tsG {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum-767 .nft-yR7peY {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.impressum-767 .x498951_child_clothes-Sp3vSK {
+.impressum-767 .gruppe-622-yR7peY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.impressum-767 .gruppe-141-LXziuD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.impressum-767 .x498951_child_clothes-BbgYpD {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .impressum-767 .gruppe-354-yQ52em {
@@ -3133,7 +3335,6 @@ to{opacity: 1;
 
 .impressum-767 .gruppe-156-GwQnxt {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -3284,17 +3485,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.impressum-767 .ssl-JqU86S.bp2-animate-enter369 {
-  animation: bp2-animate-enter369-frames 0.20s linear 0.10s 1 normal forwards;
+.impressum-767 .ssl-JqU86S.bp2-animate-enter210 {
+  animation: bp2-animate-enter210-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter369-frames {
+@keyframes bp2-animate-enter210-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.impressum-767 .warenkorb-oben-rechts-JqU86S {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.impressum-767 .iconfinder_basket_ecommerce_shop_4177565-95J3m6 {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.impressum-767 .gruppe-579-95J3m6 {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.impressum-767 .ellipse-47-SYX63r {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.impressum-767 .anzahl-warenkorb-SYX63r {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 @media screen and (max-width: 766px) {
   .screen.impressum { 

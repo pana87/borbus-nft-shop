@@ -23,13 +23,13 @@
   width: 1000px;
 }
 
-.kontakt .gruppe-166-0Qg6Od.bp4-animate-enter345 {
-  animation: bp4-animate-enter345-frames 0.20s ease 0.10s 1 normal forwards;
+.kontakt .gruppe-166-0Qg6Od.bp4-animate-enter187 {
+  animation: bp4-animate-enter187-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter345-frames {
+@keyframes bp4-animate-enter187-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -269,20 +269,6 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt .borbus-0Qg6Od {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .kontakt .gruppe-163-0Qg6Od {
   background-color: transparent;
   bottom: 0px;
@@ -294,13 +280,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt .gruppe-163-0Qg6Od.bp4-animate-enter346 {
-  animation: bp4-animate-enter346-frames 0.20s ease 0.10s 1 normal forwards;
+.kontakt .gruppe-163-0Qg6Od.bp4-animate-enter188 {
+  animation: bp4-animate-enter188-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter346-frames {
+@keyframes bp4-animate-enter188-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -372,7 +358,7 @@ to{opacity: 1;
 
 .kontakt .gruppe-367-aMmTqm {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -393,7 +379,7 @@ to{opacity: 1;
 
 .kontakt .gruppe-365-Ty8EyA {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -411,7 +397,6 @@ to{opacity: 1;
 
 .kontakt .kontakt-vZweEG {
   background-color: transparent;
-  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -435,7 +420,7 @@ to{opacity: 1;
 
 .kontakt .gruppe-366-Ty8EyA {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -473,48 +458,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.kontakt .gruppe-622-Ty8EyA {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.kontakt .gruppe-141-ZRPjH5 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.kontakt .nf-tlink-cDtQMS {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.kontakt .x498951_child_clothes-cDtQMS {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
 }
 
 .kontakt .gruppe-372-aMmTqm {
@@ -571,7 +514,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.kontakt .instagram-sketched-NGR5Tt {
+.kontakt .icon-instagram-NGR5Tt {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -593,13 +536,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt .ssl-0Qg6Od.bp4-animate-enter347 {
-  animation: bp4-animate-enter347-frames 0.20s ease 0.10s 1 normal forwards;
+.kontakt .ssl-0Qg6Od.bp4-animate-enter189 {
+  animation: bp4-animate-enter189-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter347-frames {
+@keyframes bp4-animate-enter189-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -751,7 +694,6 @@ to{opacity: 1;
 
 .kontakt .gruppe-156-X3QWc6 {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -839,6 +781,115 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.kontakt .borbus-0Qg6Od {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.kontakt .gruppe-622-0Qg6Od {
+  background-color: transparent;
+  bottom: 98px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.kontakt .gruppe-141-UUxNxx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt .nf-tlink-DxyNUn {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.kontakt .x498951_child_clothes-DxyNUn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.kontakt .warenkorb-oben-rechts-0Qg6Od {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.kontakt .iconfinder_basket_ecommerce_shop_4177565-9Mwp50 {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.kontakt .gruppe-579-9Mwp50 {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.kontakt .ellipse-47-r0EInV {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.kontakt .anzahl-warenkorb-r0EInV {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
 /* screen - kontakt-1200 */
 
 .kontakt-1200 {
@@ -864,13 +915,13 @@ to{opacity: 1;
   width: 564px;
 }
 
-.kontakt-1200 .gruppe-166-hKEqi9.bp3-animate-enter388 {
-  animation: bp3-animate-enter388-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-1200 .gruppe-166-hKEqi9.bp3-animate-enter228 {
+  animation: bp3-animate-enter228-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter388-frames {
+@keyframes bp3-animate-enter228-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1147,13 +1198,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt-1200 .gruppe-163-SO5xYl.bp3-animate-enter389 {
-  animation: bp3-animate-enter389-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-1200 .gruppe-163-SO5xYl.bp3-animate-enter229 {
+  animation: bp3-animate-enter229-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter389-frames {
+@keyframes bp3-animate-enter229-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1255,6 +1306,7 @@ to{opacity: 1;
 
 .kontakt-1200 .kontakt-sxJkOY {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -1318,17 +1370,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.kontakt-1200 .gruppe-692-3oKOlb {
+.kontakt-1200 .gruppe-623-3oKOlb {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.kontakt-1200 .gruppe-141-yr4X6a {
+.kontakt-1200 .gruppe-141-5VnwbS {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1337,27 +1388,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt-1200 .nft-RoxhF8 {
+.kontakt-1200 .nft-ItFbzH {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.kontakt-1200 .x498951_child_clothes-3oKOlb {
+.kontakt-1200 .gruppe-622-ItFbzH {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.kontakt-1200 .gruppe-141-OGyA9k {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1200 .x498951_child_clothes-Y0uolx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .kontakt-1200 .gruppe-345-Mn1w53 {
@@ -1521,7 +1591,6 @@ to{opacity: 1;
 
 .kontakt-1200 .gruppe-156-MS1CEx {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -1649,7 +1718,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.kontakt-1200 .instagram-sketched-CBhyVQ {
+.kontakt-1200 .icon-instagram-CBhyVQ {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -1671,17 +1740,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt-1200 .ssl-SO5xYl.bp3-animate-enter390 {
-  animation: bp3-animate-enter390-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-1200 .ssl-SO5xYl.bp3-animate-enter230 {
+  animation: bp3-animate-enter230-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter390-frames {
+@keyframes bp3-animate-enter230-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.kontakt-1200 .warenkorb-oben-rechts-hKEqi9 {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.kontakt-1200 .iconfinder_basket_ecommerce_shop_4177565-uYId4U {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.kontakt-1200 .gruppe-579-uYId4U {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.kontakt-1200 .ellipse-47-XxnHE1 {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.kontakt-1200 .anzahl-warenkorb-XxnHE1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - kontakt-375 */
 
@@ -1701,20 +1823,20 @@ to{opacity: 1;
   background-color: transparent;
   display: block;
   height: 254px;
+  left: calc(50.00% - 160px);
   opacity: 0;
   position: absolute;
-  right: calc(44.09% - 141px);
-  top: calc(34.73% - 88px);
+  top: calc(28.07% - 71px);
   width: 319px;
 }
 
-.kontakt-375 .gruppe-166-Wa9Tec.bp1-animate-enter360 {
-  animation: bp1-animate-enter360-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-375 .gruppe-166-Wa9Tec.bp1-animate-enter203 {
+  animation: bp1-animate-enter203-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter360-frames {
+@keyframes bp1-animate-enter203-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2079,7 +2201,7 @@ to{opacity: 1;
 
 .kontakt-375 .gruppe-357-x6IEeb {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2120,7 +2242,7 @@ to{opacity: 1;
 
 .kontakt-375 .gruppe-358-x6IEeb {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2130,7 +2252,6 @@ to{opacity: 1;
 .kontakt-375 .gruppe-141-MFRWB6 {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2139,6 +2260,7 @@ to{opacity: 1;
 
 .kontakt-375 .zahlungsoptionen-rPaynE {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2160,46 +2282,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.kontakt-375 .gruppe-694-x6IEeb {
+.kontakt-375 .gruppe-623-x6IEeb {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.kontakt-375 .gruppe-141-IsCD10 {
+.kontakt-375 .gruppe-141-uraJtq {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.kontakt-375 .nft-EfqArw {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-375 .nft-Iz8ZcZ {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.kontakt-375 .x498951_child_clothes-IsCD10 {
+.kontakt-375 .gruppe-622-Iz8ZcZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.kontakt-375 .gruppe-141-88ss6Q {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.kontakt-375 .x498951_child_clothes-TS99WD {
   background-color: transparent;
   height: 100%;
   left: 1px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .kontakt-375 .gruppe-363-9vBU0Y {
@@ -2365,7 +2505,6 @@ to{opacity: 1;
 
 .kontakt-375 .gruppe-156-Xuuh2b {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -2473,7 +2612,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.kontakt-375 .instagram-sketched-KRAb84 {
+.kontakt-375 .icon-instagram-KRAb84 {
   background-color: transparent;
   height: 100%;
   object-fit: cover;
@@ -2495,17 +2634,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt-375 .ssl-9vBU0Y.bp1-animate-enter361 {
-  animation: bp1-animate-enter361-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-375 .ssl-9vBU0Y.bp1-animate-enter204 {
+  animation: bp1-animate-enter204-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter361-frames {
+@keyframes bp1-animate-enter204-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.kontakt-375 .warenkorb-oben-rechts-Wa9Tec {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.kontakt-375 .iconfinder_basket_ecommerce_shop_4177565-M00sUo {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.kontakt-375 .gruppe-579-M00sUo {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.kontakt-375 .ellipse-47-SPnzkg {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.kontakt-375 .anzahl-warenkorb-SPnzkg {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
 }
 /* screen - kontakt-767 */
 
@@ -2532,13 +2724,13 @@ to{opacity: 1;
   width: 452px;
 }
 
-.kontakt-767 .gruppe-166-u3Nik0.bp2-animate-enter385 {
-  animation: bp2-animate-enter385-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-767 .gruppe-166-u3Nik0.bp2-animate-enter226 {
+  animation: bp2-animate-enter226-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter385-frames {
+@keyframes bp2-animate-enter226-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2577,7 +2769,7 @@ to{opacity: 1;
   bottom: 4px;
   color: var(--black);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-xl);
+  font-size: 22px;
   font-style: normal;
   font-weight: 400;
   height: 26px;
@@ -2595,7 +2787,7 @@ to{opacity: 1;
   height: 1px;
   object-fit: cover;
   position: absolute;
-  right: calc(31.54% - 24px);
+  right: calc(33.87% - 26px);
   top: 30.28%;
   width: 76px;
 }
@@ -2806,13 +2998,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.kontakt-767 .gruppe-163-u3Nik0.bp2-animate-enter386 {
-  animation: bp2-animate-enter386-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-767 .gruppe-163-u3Nik0.bp2-animate-enter227 {
+  animation: bp2-animate-enter227-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter386-frames {
+@keyframes bp2-animate-enter227-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2884,7 +3076,7 @@ to{opacity: 1;
 
 .kontakt-767 .gruppe-350-RKabeb {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -2906,7 +3098,7 @@ to{opacity: 1;
 
 .kontakt-767 .gruppe-348-3G0mE7 {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -2947,7 +3139,7 @@ to{opacity: 1;
 
 .kontakt-767 .gruppe-349-3G0mE7 {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -2987,46 +3179,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.kontakt-767 .gruppe-693-3G0mE7 {
+.kontakt-767 .gruppe-623-3G0mE7 {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.kontakt-767 .gruppe-141-5CVDVZ {
+.kontakt-767 .gruppe-141-ngMOpc {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.kontakt-767 .nft-AJXVFn {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .nft-DhCkxM {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.kontakt-767 .x498951_child_clothes-5CVDVZ {
+.kontakt-767 .gruppe-622-DhCkxM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.kontakt-767 .gruppe-141-32yHbQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .x498951_child_clothes-duxLOx {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .kontakt-767 .gruppe-354-RKabeb {
@@ -3190,7 +3400,6 @@ to{opacity: 1;
 
 .kontakt-767 .gruppe-156-jNDx6j {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -3319,7 +3528,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.kontakt-767 .instagram-sketched-KLJIgF {
+.kontakt-767 .icon-instagram-KLJIgF {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -3341,17 +3550,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.kontakt-767 .ssl-u3Nik0.bp2-animate-enter387 {
-  animation: bp2-animate-enter387-frames 0.20s linear 0.10s 1 normal forwards;
+.kontakt-767 .ssl-u3Nik0.bp2-animate-enter228 {
+  animation: bp2-animate-enter228-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter387-frames {
+@keyframes bp2-animate-enter228-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.kontakt-767 .warenkorb-oben-rechts-u3Nik0 {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.kontakt-767 .iconfinder_basket_ecommerce_shop_4177565-fZd2Sz {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.kontakt-767 .gruppe-579-fZd2Sz {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.kontakt-767 .ellipse-47-KwDsYx {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.kontakt-767 .anzahl-warenkorb-KwDsYx {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 @media screen and (max-width: 766px) {
   .screen.kontakt { 

@@ -25,13 +25,13 @@
   width: calc(100.00% - 1228px);
 }
 
-.loginbereich .rechteck-136-1F6fkh.bp4-animate-enter66 {
-  animation: bp4-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .rechteck-136-1F6fkh.bp4-animate-enter37 {
+  animation: bp4-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter66-frames {
+@keyframes bp4-animate-enter37-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -50,13 +50,13 @@ to{opacity: 1;
   width: calc(100.00% - 1228px);
 }
 
-.loginbereich .rechteck-172-1F6fkh.bp4-animate-enter67 {
-  animation: bp4-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .rechteck-172-1F6fkh.bp4-animate-enter38 {
+  animation: bp4-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter67-frames {
+@keyframes bp4-animate-enter38-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -283,13 +283,13 @@ to{opacity: 1;
   width: 148px;
 }
 
-.loginbereich .text-1F6fkh.bp4-animate-enter68 {
-  animation: bp4-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .text-1F6fkh.bp4-animate-enter39 {
+  animation: bp4-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter68-frames {
+@keyframes bp4-animate-enter39-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -312,25 +312,25 @@ to{opacity: 1;
   width: 89px;
 }
 
-.loginbereich .private-key-1F6fkh.bp4-animate-enter69 {
-  animation: bp4-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .private-key-1F6fkh.bp4-animate-enter40 {
+  animation: bp4-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter69-frames {
+@keyframes bp4-animate-enter40-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich .sicherheitsschlssel-1F6fkh {
+.loginbereich .e-mail-1F6fkh {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
   height: 18px;
-  left: calc(20.97% - 32px);
+  left: calc(19.83% - 10px);
   letter-spacing: 0.00px;
   line-height: 16px;
   opacity: 0;
@@ -338,23 +338,23 @@ to{opacity: 1;
   text-align: left;
   top: calc(43.82% - 8px);
   white-space: nowrap;
-  width: 152px;
+  width: 50px;
 }
 
-.loginbereich .sicherheitsschlssel-1F6fkh.bp4-animate-enter70 {
-  animation: bp4-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .e-mail-1F6fkh.bp4-animate-enter41 {
+  animation: bp4-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter70-frames {
+@keyframes bp4-animate-enter41-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich .hedera-account-id-input-1F6fkh {
+.loginbereich .hedera-account-id-eingabe-1F6fkh {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -366,7 +366,7 @@ to{opacity: 1;
   width: 417px;
 }
 
-.loginbereich .private-key-input-1F6fkh {
+.loginbereich .privatekeyeingabe-1F6fkh {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -378,7 +378,7 @@ to{opacity: 1;
   width: 417px;
 }
 
-.loginbereich .sicherheitsschlssel-input-1F6fkh {
+.loginbereich .e-maileingabe-1F6fkh {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -449,13 +449,13 @@ to{opacity: 1;
   width: 225px;
 }
 
-.loginbereich .willkommen-zurck-1F6fkh.bp4-animate-enter71 {
-  animation: bp4-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .willkommen-zurck-1F6fkh.bp4-animate-enter42 {
+  animation: bp4-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter71-frames {
+@keyframes bp4-animate-enter42-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -478,13 +478,13 @@ to{opacity: 1;
   width: 351px;
 }
 
-.loginbereich .loggen-sie-sich-ein-1F6fkh.bp4-animate-enter72 {
-  animation: bp4-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .loggen-sie-sich-ein-1F6fkh.bp4-animate-enter43 {
+  animation: bp4-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter72-frames {
+@keyframes bp4-animate-enter43-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -494,7 +494,6 @@ to{opacity: 1;
 .loginbereich .zurck-1F6fkh {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  cursor: pointer;
   display: block;
   height: 17px;
   left: 79px;
@@ -509,27 +508,17 @@ to{opacity: 1;
   width: 50px;
 }
 
-.loginbereich .zurck-1F6fkh.bp4-animate-enter73 {
-  animation: bp4-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .zurck-1F6fkh.bp4-animate-enter44 {
+  animation: bp4-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter73-frames {
+@keyframes bp4-animate-enter44-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
-}
-
-.loginbereich .vorderseitebild-1F6fkh {
-  background-color: transparent;
-  height: calc(100.00% - 1075px);
-  left: 1087px;
-  object-fit: cover;
-  position: absolute;
-  top: 489px;
-  width: 530px;
 }
 
 .loginbereich .kleidchenbezeichnung-1F6fkh {
@@ -548,13 +537,13 @@ to{opacity: 1;
   width: 236px;
 }
 
-.loginbereich .kleidchenbezeichnung-1F6fkh.bp4-animate-enter74 {
-  animation: bp4-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .kleidchenbezeichnung-1F6fkh.bp4-animate-enter45 {
+  animation: bp4-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter74-frames {
+@keyframes bp4-animate-enter45-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -572,13 +561,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich .gruppe-163-1F6fkh.bp4-animate-enter75 {
-  animation: bp4-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .gruppe-163-1F6fkh.bp4-animate-enter46 {
+  animation: bp4-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter75-frames {
+@keyframes bp4-animate-enter46-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -650,7 +639,7 @@ to{opacity: 1;
 
 .loginbereich .gruppe-367-4i19TS {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -671,7 +660,7 @@ to{opacity: 1;
 
 .loginbereich .gruppe-365-oIJwTF {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -714,7 +703,7 @@ to{opacity: 1;
 
 .loginbereich .gruppe-366-oIJwTF {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -752,48 +741,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.loginbereich .gruppe-622-oIJwTF {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.loginbereich .gruppe-141-DLxOoC {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.loginbereich .nf-tlink-7JSW5l {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.loginbereich .x498951_child_clothes-7JSW5l {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
 }
 
 .loginbereich .gruppe-372-4i19TS {
@@ -872,13 +819,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.loginbereich .ssl-1F6fkh.bp4-animate-enter76 {
-  animation: bp4-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich .ssl-1F6fkh.bp4-animate-enter47 {
+  animation: bp4-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter76-frames {
+@keyframes bp4-animate-enter47-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1030,7 +977,6 @@ to{opacity: 1;
 
 .loginbereich .gruppe-156-bdsCAJ {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -1117,6 +1063,57 @@ to{opacity: 1;
   text-align: left;
   white-space: nowrap;
   width: 76px;
+}
+
+.loginbereich .gruppe-622-1F6fkh {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.loginbereich .gruppe-141-aHbfjL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich .nf-tlink-y1pVZS {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.loginbereich .x498951_child_clothes-y1pVZS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.loginbereich .vorderseiteklein-1F6fkh {
+  background-color: var(--white);
+  height: calc(100.00% - 1075px);
+  left: 1087px;
+  position: absolute;
+  top: 489px;
+  width: 530px;
 }
 /* screen - loginbereich-1200 */
 
@@ -1327,70 +1324,19 @@ to{opacity: 1;
   width: 240px;
 }
 
-.loginbereich-1200 .rechteck-136-t00W7V {
-  background-color: var(--gallery);
-  box-shadow: 0px 2px 4px #00000029;
-  display: block;
-  height: 547px;
-  left: calc(14.37% - 78px);
-  opacity: 0;
-  position: absolute;
-  top: calc(35.59% - 195px);
-  width: 543px;
-}
-
-.loginbereich-1200 .rechteck-136-t00W7V.bp3-animate-enter68 {
-  animation: bp3-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter68-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.loginbereich-1200 .rechteck-172-t00W7V {
-  background-color: var(--gallery);
-  box-shadow: 0px 2px 4px #00000029;
-  display: block;
-  height: 65px;
-  left: calc(14.37% - 78px);
-  opacity: 0;
-  position: absolute;
-  top: calc(22.00% - 14px);
-  width: 543px;
-}
-
-.loginbereich-1200 .rechteck-172-t00W7V.bp3-animate-enter69 {
-  animation: bp3-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter69-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
 .loginbereich-1200 .gruppe-596-t00W7V {
   background-color: transparent;
   height: 405px;
   position: absolute;
-  right: calc(12.05% - 50px);
-  top: calc(38.78% - 157px);
+  right: calc(11.99% - 50px);
+  top: calc(38.76% - 157px);
   width: 416px;
 }
 
-.loginbereich-1200 .vorderseitebild-ibUtdF {
-  background-color: transparent;
+.loginbereich-1200 .vorderseiteklein-ibUtdF {
+  background-color: var(--white);
   height: calc(100.00% - 80px);
-  left: 1px;
-  object-fit: cover;
+  left: 0px;
   position: absolute;
   top: 80px;
   width: 416px;
@@ -1405,36 +1351,95 @@ to{opacity: 1;
   line-height: 27px;
   opacity: 0;
   position: absolute;
-  right: calc(49.57% - 90px);
+  right: calc(49.76% - 91px);
   text-align: left;
   top: 0px;
   white-space: nowrap;
   width: 182px;
 }
 
-.loginbereich-1200 .kleidchenbezeichnung-ibUtdF.bp3-animate-enter70 {
-  animation: bp3-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-1200 .kleidchenbezeichnung-ibUtdF.bp3-animate-enter38 {
+  animation: bp3-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter70-frames {
+@keyframes bp3-animate-enter38-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-1200 .gruppe-591-t00W7V {
+.loginbereich-1200 .gruppe-648-t00W7V {
+  background-color: transparent;
+  height: 547px;
+  left: calc(14.37% - 78px);
+  position: absolute;
+  top: calc(35.59% - 195px);
+  width: 543px;
+}
+
+.loginbereich-1200 .rechteck-136-zWzPVp {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 547px;
+  left: calc(50.00% - 271px);
+  opacity: 0;
+  position: absolute;
+  top: calc(50.00% - 273px);
+  width: 543px;
+}
+
+.loginbereich-1200 .rechteck-136-zWzPVp.bp3-animate-enter39 {
+  animation: bp3-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter39-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .rechteck-172-zWzPVp {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 65px;
+  left: calc(50.00% - 271px);
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 543px;
+}
+
+.loginbereich-1200 .rechteck-172-zWzPVp.bp3-animate-enter40 {
+  animation: bp3-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter40-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.loginbereich-1200 .gruppe-591-zWzPVp {
   background-color: transparent;
   height: 470px;
-  left: calc(23.17% - 76px);
+  left: calc(50.00% - 163px);
   position: absolute;
-  top: calc(33.64% - 158px);
+  top: calc(13.89% - 65px);
   width: 327px;
 }
 
-.loginbereich-1200 .gruppe-590-2bvVxx {
+.loginbereich-1200 .gruppe-590-tY0pGx {
   background-color: transparent;
   bottom: 0px;
   height: 372px;
@@ -1443,7 +1448,7 @@ to{opacity: 1;
   width: 327px;
 }
 
-.loginbereich-1200 .text-kPdxRx {
+.loginbereich-1200 .text-GOCGxo {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1459,20 +1464,20 @@ to{opacity: 1;
   width: 112px;
 }
 
-.loginbereich-1200 .text-kPdxRx.bp3-animate-enter71 {
-  animation: bp3-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-1200 .text-GOCGxo.bp3-animate-enter41 {
+  animation: bp3-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter71-frames {
+@keyframes bp3-animate-enter41-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-1200 .private-key-kPdxRx {
+.loginbereich-1200 .private-key-GOCGxo {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1488,20 +1493,20 @@ to{opacity: 1;
   width: 67px;
 }
 
-.loginbereich-1200 .private-key-kPdxRx.bp3-animate-enter72 {
-  animation: bp3-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-1200 .private-key-GOCGxo.bp3-animate-enter42 {
+  animation: bp3-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter72-frames {
+@keyframes bp3-animate-enter42-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-1200 .sicherheitsschlssel-kPdxRx {
+.loginbereich-1200 .e-mail-GOCGxo {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1514,23 +1519,23 @@ to{opacity: 1;
   text-align: left;
   top: calc(48.60% - 7px);
   white-space: nowrap;
-  width: 115px;
+  width: 38px;
 }
 
-.loginbereich-1200 .sicherheitsschlssel-kPdxRx.bp3-animate-enter73 {
-  animation: bp3-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-1200 .e-mail-GOCGxo.bp3-animate-enter43 {
+  animation: bp3-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter73-frames {
+@keyframes bp3-animate-enter43-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-1200 .hedera-account-id-input-kPdxRx {
+.loginbereich-1200 .hedera-account-i-deingabe-GOCGxo {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1542,7 +1547,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .private-key-input-kPdxRx {
+.loginbereich-1200 .privatekeyeingabe-GOCGxo {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1554,7 +1559,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .sicherheitsschlssel-input-kPdxRx {
+.loginbereich-1200 .e-maileingabe-GOCGxo {
   background-color: var(--cream-can);
   border-radius: 15px;
   bottom: calc(42.30% - 17px);
@@ -1566,7 +1571,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .login1-kPdxRx {
+.loginbereich-1200 .login1-GOCGxo {
   background-color: transparent;
   bottom: 1px;
   height: 47px;
@@ -1575,7 +1580,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .gruppe-204-GKI8qA {
+.loginbereich-1200 .gruppe-204-Y5hYcT {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1584,7 +1589,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .rechteck-114-BCJgCr {
+.loginbereich-1200 .rechteck-114-Yn7NZw {
   background-color: var(--sandy-brown);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1596,7 +1601,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .login-BCJgCr {
+.loginbereich-1200 .login-Yn7NZw {
   background-color: transparent;
   bottom: -1px;
   height: 33px;
@@ -1608,7 +1613,7 @@ to{opacity: 1;
   width: calc(100.00% - 47px);
 }
 
-.loginbereich-1200 .gruppe-589-2bvVxx {
+.loginbereich-1200 .gruppe-589-tY0pGx {
   background-color: transparent;
   height: 44px;
   left: 0px;
@@ -1617,7 +1622,7 @@ to{opacity: 1;
   width: 274px;
 }
 
-.loginbereich-1200 .loggen-sie-sich-ein-680v6x {
+.loginbereich-1200 .loggen-sie-sich-ein-ELWwVX {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   bottom: 0px;
@@ -1633,20 +1638,20 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.loginbereich-1200 .loggen-sie-sich-ein-680v6x.bp3-animate-enter74 {
-  animation: bp3-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-1200 .loggen-sie-sich-ein-ELWwVX.bp3-animate-enter44 {
+  animation: bp3-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter74-frames {
+@keyframes bp3-animate-enter44-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-1200 .willkommen-zurck-680v6x {
+.loginbereich-1200 .willkommen-zurck-ELWwVX {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1662,13 +1667,13 @@ to{opacity: 1;
   width: 225px;
 }
 
-.loginbereich-1200 .willkommen-zurck-680v6x.bp3-animate-enter75 {
-  animation: bp3-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-1200 .willkommen-zurck-ELWwVX.bp3-animate-enter45 {
+  animation: bp3-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter75-frames {
+@keyframes bp3-animate-enter45-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1678,7 +1683,6 @@ to{opacity: 1;
 .loginbereich-1200 .zurck-t00W7V {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  cursor: pointer;
   display: block;
   height: 17px;
   left: 79px;
@@ -1693,13 +1697,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.loginbereich-1200 .zurck-t00W7V.bp3-animate-enter76 {
-  animation: bp3-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-1200 .zurck-t00W7V.bp3-animate-enter46 {
+  animation: bp3-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter76-frames {
+@keyframes bp3-animate-enter46-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1726,13 +1730,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .gruppe-163-nnOQeT.bp3-animate-enter77 {
-  animation: bp3-animate-enter77-frames 0.20s linear 0.10s 1 normal forwards;
+.loginbereich-1200 .gruppe-163-nnOQeT.bp3-animate-enter47 {
+  animation: bp3-animate-enter47-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter77-frames {
+@keyframes bp3-animate-enter47-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1899,17 +1903,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.loginbereich-1200 .gruppe-692-0A39d6 {
+.loginbereich-1200 .gruppe-623-0A39d6 {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.loginbereich-1200 .gruppe-141-xV3rx6 {
+.loginbereich-1200 .gruppe-141-O19w7X {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1918,27 +1921,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-1200 .nft-fUpXya {
+.loginbereich-1200 .nft-zPLdgD {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.loginbereich-1200 .x498951_child_clothes-0A39d6 {
+.loginbereich-1200 .gruppe-622-zPLdgD {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.loginbereich-1200 .gruppe-141-cdI9SY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-1200 .x498951_child_clothes-zKi2J7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 1px;
+  width: 100%;
 }
 
 .loginbereich-1200 .gruppe-345-6Rglyp {
@@ -2102,7 +2124,6 @@ to{opacity: 1;
 
 .loginbereich-1200 .gruppe-156-HkExgg {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -2252,13 +2273,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.loginbereich-1200 .ssl-nnOQeT.bp3-animate-enter78 {
-  animation: bp3-animate-enter78-frames 0.20s linear 0.10s 1 normal forwards;
+.loginbereich-1200 .ssl-nnOQeT.bp3-animate-enter48 {
+  animation: bp3-animate-enter48-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter78-frames {
+@keyframes bp3-animate-enter48-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2489,16 +2510,6 @@ to{opacity: 1;
   width: 240px;
 }
 
-.loginbereich-375 .vorderseitebild-q0dkhU {
-  background-color: transparent;
-  height: 561px;
-  left: calc(50.00% - 358px);
-  object-fit: cover;
-  position: absolute;
-  top: calc(42.30% - 237px);
-  width: 717px;
-}
-
 .loginbereich-375 .rechteck-136-q0dkhU {
   background-color: var(--gallery);
   box-shadow: 0px 2px 4px #00000029;
@@ -2511,13 +2522,13 @@ to{opacity: 1;
   width: 339px;
 }
 
-.loginbereich-375 .rechteck-136-q0dkhU.bp1-animate-enter61 {
-  animation: bp1-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-375 .rechteck-136-q0dkhU.bp1-animate-enter33 {
+  animation: bp1-animate-enter33-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter61-frames {
+@keyframes bp1-animate-enter33-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2536,13 +2547,13 @@ to{opacity: 1;
   width: 339px;
 }
 
-.loginbereich-375 .rechteck-172-q0dkhU.bp1-animate-enter62 {
-  animation: bp1-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-375 .rechteck-172-q0dkhU.bp1-animate-enter34 {
+  animation: bp1-animate-enter34-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter62-frames {
+@keyframes bp1-animate-enter34-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2574,13 +2585,13 @@ to{opacity: 1;
   width: 102px;
 }
 
-.loginbereich-375 .text-SnEpIi.bp1-animate-enter63 {
-  animation: bp1-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-375 .text-SnEpIi.bp1-animate-enter35 {
+  animation: bp1-animate-enter35-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter63-frames {
+@keyframes bp1-animate-enter35-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2603,20 +2614,20 @@ to{opacity: 1;
   width: 56px;
 }
 
-.loginbereich-375 .private-key-SnEpIi.bp1-animate-enter64 {
-  animation: bp1-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-375 .private-key-SnEpIi.bp1-animate-enter36 {
+  animation: bp1-animate-enter36-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter64-frames {
+@keyframes bp1-animate-enter36-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-375 .sicherheitsschlssel-SnEpIi {
+.loginbereich-375 .e-mail-SnEpIi {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   bottom: calc(38.93% - 5px);
@@ -2629,23 +2640,23 @@ to{opacity: 1;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: 105px;
+  width: 35px;
 }
 
-.loginbereich-375 .sicherheitsschlssel-SnEpIi.bp1-animate-enter65 {
-  animation: bp1-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-375 .e-mail-SnEpIi.bp1-animate-enter37 {
+  animation: bp1-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter65-frames {
+@keyframes bp1-animate-enter37-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-375 .hedera-account-id-input-SnEpIi {
+.loginbereich-375 .hedera-account-i-deingabe-SnEpIi {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -2657,7 +2668,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-375 .private-key-input-SnEpIi {
+.loginbereich-375 .privatekeyeingabe-SnEpIi {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -2669,7 +2680,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-375 .sicherheitsschlssel-input-SnEpIi {
+.loginbereich-375 .e-maileingabe-SnEpIi {
   background-color: var(--cream-can);
   border-radius: 15px;
   bottom: calc(31.39% - 12px);
@@ -2740,13 +2751,13 @@ to{opacity: 1;
   width: 223px;
 }
 
-.loginbereich-375 .loggen-sie-sich-ein-SnEpIi.bp1-animate-enter66 {
-  animation: bp1-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-375 .loggen-sie-sich-ein-SnEpIi.bp1-animate-enter38 {
+  animation: bp1-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter66-frames {
+@keyframes bp1-animate-enter38-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2769,13 +2780,13 @@ to{opacity: 1;
   width: 205px;
 }
 
-.loginbereich-375 .willkommen-zurck-SnEpIi.bp1-animate-enter67 {
-  animation: bp1-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-375 .willkommen-zurck-SnEpIi.bp1-animate-enter39 {
+  animation: bp1-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter67-frames {
+@keyframes bp1-animate-enter39-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2879,7 +2890,7 @@ to{opacity: 1;
 
 .loginbereich-375 .gruppe-357-MaMaIx {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2921,7 +2932,7 @@ to{opacity: 1;
 
 .loginbereich-375 .gruppe-358-MaMaIx {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2931,7 +2942,6 @@ to{opacity: 1;
 .loginbereich-375 .gruppe-141-NVLtDG {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2940,6 +2950,7 @@ to{opacity: 1;
 
 .loginbereich-375 .zahlungsoptionen-47Lybz {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2961,46 +2972,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.loginbereich-375 .gruppe-694-MaMaIx {
+.loginbereich-375 .gruppe-623-MaMaIx {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.loginbereich-375 .gruppe-141-i8ekPl {
+.loginbereich-375 .gruppe-141-I7LT5l {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.loginbereich-375 .nft-ZUjdA5 {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-375 .nft-yVqEQi {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.loginbereich-375 .x498951_child_clothes-i8ekPl {
+.loginbereich-375 .gruppe-622-yVqEQi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.loginbereich-375 .gruppe-141-aPVxL5 {
   background-color: transparent;
   height: 100%;
   left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.loginbereich-375 .x498951_child_clothes-QKgx9U {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .loginbereich-375 .gruppe-363-xLDOwY {
@@ -3166,7 +3195,6 @@ to{opacity: 1;
 
 .loginbereich-375 .gruppe-156-7xLDNY {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -3296,13 +3324,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.loginbereich-375 .ssl-xLDOwY.bp1-animate-enter68 {
-  animation: bp1-animate-enter68-frames 0.20s linear 0.10s 1 normal forwards;
+.loginbereich-375 .ssl-xLDOwY.bp1-animate-enter40 {
+  animation: bp1-animate-enter40-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter68-frames {
+@keyframes bp1-animate-enter40-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3520,7 +3548,6 @@ to{opacity: 1;
 .loginbereich-767 .zurck-acALrr {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  cursor: pointer;
   display: block;
   height: 15px;
   left: 64px;
@@ -3535,27 +3562,26 @@ to{opacity: 1;
   width: 43px;
 }
 
-.loginbereich-767 .zurck-acALrr.bp2-animate-enter65 {
-  animation: bp2-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .zurck-acALrr.bp2-animate-enter36 {
+  animation: bp2-animate-enter36-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter65-frames {
+@keyframes bp2-animate-enter36-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-767 .vorderseitebild-acALrr {
-  background-color: transparent;
+.loginbereich-767 .vorderseiteklein-acALrr {
+  background-color: var(--white);
   height: 573px;
   left: calc(50.00% - 366px);
-  object-fit: cover;
   position: absolute;
-  top: calc(41.45% - 238px);
-  width: 732px;
+  top: calc(41.43% - 237px);
+  width: 733px;
 }
 
 .loginbereich-767 .rechteck-136-acALrr {
@@ -3570,13 +3596,13 @@ to{opacity: 1;
   width: 543px;
 }
 
-.loginbereich-767 .rechteck-136-acALrr.bp2-animate-enter66 {
-  animation: bp2-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .rechteck-136-acALrr.bp2-animate-enter37 {
+  animation: bp2-animate-enter37-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter66-frames {
+@keyframes bp2-animate-enter37-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3595,13 +3621,13 @@ to{opacity: 1;
   width: 543px;
 }
 
-.loginbereich-767 .rechteck-172-acALrr.bp2-animate-enter67 {
-  animation: bp2-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .rechteck-172-acALrr.bp2-animate-enter38 {
+  animation: bp2-animate-enter38-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter67-frames {
+@keyframes bp2-animate-enter38-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3633,13 +3659,13 @@ to{opacity: 1;
   width: 112px;
 }
 
-.loginbereich-767 .text-Fu4kxs.bp2-animate-enter68 {
-  animation: bp2-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .text-Fu4kxs.bp2-animate-enter39 {
+  animation: bp2-animate-enter39-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter68-frames {
+@keyframes bp2-animate-enter39-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3662,20 +3688,20 @@ to{opacity: 1;
   width: 67px;
 }
 
-.loginbereich-767 .private-key-Fu4kxs.bp2-animate-enter69 {
-  animation: bp2-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .private-key-Fu4kxs.bp2-animate-enter40 {
+  animation: bp2-animate-enter40-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter69-frames {
+@keyframes bp2-animate-enter40-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-767 .sicherheitsschlssel-Fu4kxs {
+.loginbereich-767 .e-mail-Fu4kxs {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   bottom: calc(41.00% - 6px);
@@ -3688,23 +3714,23 @@ to{opacity: 1;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: 115px;
+  width: 38px;
 }
 
-.loginbereich-767 .sicherheitsschlssel-Fu4kxs.bp2-animate-enter70 {
-  animation: bp2-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .e-mail-Fu4kxs.bp2-animate-enter41 {
+  animation: bp2-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter70-frames {
+@keyframes bp2-animate-enter41-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.loginbereich-767 .hedera-account-id-input-Fu4kxs {
+.loginbereich-767 .hedera-account-i-deingabe-Fu4kxs {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -3716,7 +3742,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-767 .private-key-input-Fu4kxs {
+.loginbereich-767 .privatekeyeingabe-Fu4kxs {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -3728,7 +3754,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-767 .sicherheitsschlssel-input-Fu4kxs {
+.loginbereich-767 .e-maileingabe-Fu4kxs {
   background-color: var(--cream-can);
   border-radius: 15px;
   bottom: calc(33.41% - 14px);
@@ -3799,13 +3825,13 @@ to{opacity: 1;
   width: 276px;
 }
 
-.loginbereich-767 .loggen-sie-sich-ein-Fu4kxs.bp2-animate-enter71 {
-  animation: bp2-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .loggen-sie-sich-ein-Fu4kxs.bp2-animate-enter42 {
+  animation: bp2-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter71-frames {
+@keyframes bp2-animate-enter42-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3828,13 +3854,13 @@ to{opacity: 1;
   width: 225px;
 }
 
-.loginbereich-767 .willkommen-zurck-Fu4kxs.bp2-animate-enter72 {
-  animation: bp2-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
+.loginbereich-767 .willkommen-zurck-Fu4kxs.bp2-animate-enter43 {
+  animation: bp2-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter72-frames {
+@keyframes bp2-animate-enter43-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3843,7 +3869,7 @@ to{opacity: 1;
 
 .loginbereich-767 .gruppe-163-acALrr {
   background-color: transparent;
-  bottom: -1px;
+  bottom: 0px;
   display: block;
   height: 331px;
   left: 0px;
@@ -3852,13 +3878,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.loginbereich-767 .gruppe-163-acALrr.bp2-animate-enter73 {
-  animation: bp2-animate-enter73-frames 0.20s linear 0.10s 1 normal forwards;
+.loginbereich-767 .gruppe-163-acALrr.bp2-animate-enter44 {
+  animation: bp2-animate-enter44-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter73-frames {
+@keyframes bp2-animate-enter44-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3930,7 +3956,7 @@ to{opacity: 1;
 
 .loginbereich-767 .gruppe-350-rfS7zz {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -3952,7 +3978,7 @@ to{opacity: 1;
 
 .loginbereich-767 .gruppe-348-v00HnV {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -3994,7 +4020,7 @@ to{opacity: 1;
 
 .loginbereich-767 .gruppe-349-v00HnV {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -4034,46 +4060,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.loginbereich-767 .gruppe-693-v00HnV {
+.loginbereich-767 .gruppe-623-v00HnV {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.loginbereich-767 .gruppe-141-FQs5nw {
+.loginbereich-767 .gruppe-141-EPtZ4z {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.loginbereich-767 .nft-JCOeFf {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-767 .nft-DHRE2W {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.loginbereich-767 .x498951_child_clothes-FQs5nw {
+.loginbereich-767 .gruppe-622-DHRE2W {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.loginbereich-767 .gruppe-141-QAFuAF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.loginbereich-767 .x498951_child_clothes-QbKfLL {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .loginbereich-767 .gruppe-354-rfS7zz {
@@ -4237,7 +4281,6 @@ to{opacity: 1;
 
 .loginbereich-767 .gruppe-156-7sw55U {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -4378,7 +4421,7 @@ to{opacity: 1;
 
 .loginbereich-767 .ssl-acALrr {
   background-color: transparent;
-  bottom: 30px;
+  bottom: 31px;
   display: block;
   height: 90px;
   left: calc(9.91% - 9px);
@@ -4388,13 +4431,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.loginbereich-767 .ssl-acALrr.bp2-animate-enter74 {
-  animation: bp2-animate-enter74-frames 0.20s linear 0.10s 1 normal forwards;
+.loginbereich-767 .ssl-acALrr.bp2-animate-enter45 {
+  animation: bp2-animate-enter45-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter74-frames {
+@keyframes bp2-animate-enter45-frames {
   from{opacity: 0;
 }
 to{opacity: 1;

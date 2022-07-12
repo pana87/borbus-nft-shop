@@ -17,10 +17,10 @@
   --font-size-l: 20px;
   --font-size-m: 18px;
   --font-size-s: 16px;
-  --font-size-xl: 22px;
   --font-size-xs: 15px;
   --font-size-xxs: 14px;
-  --font-size-xxxs: 10px;
+  --font-size-xxxs: 12px;
+  --font-size-xxxxs: 10px;
  
   --font-family-hiragino_mincho_pron: "Hiragino Mincho ProN", Helvetica;
   --font-family-hiraginomaru_gothic_pron-w4: "HiraginoMaru Gothic ProN-W4", Helvetica;
@@ -39,23 +39,7 @@
 .hiraginomarugothicpron-w4-normal-swirl-10px {
   color: var(--swirl);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-xxxs);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w3-normal-black-16px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginomarugothicpron-w4-normal-black-13px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: 13px;
+  font-size: var(--font-size-xxxxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -68,18 +52,18 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w3-normal-black-20px {
+.hiraginomarugothicpron-w4-normal-black-13px {
   color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-l);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: 13px;
   font-style: normal;
   font-weight: 400;
 }
 
-.hiraginominchopron-w3-normal-black-19px {
+.hiraginominchopron-w3-normal-black-16px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 19px;
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
 }
@@ -87,47 +71,7 @@
 .hiraginominchopron-w3-normal-black-12px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginomarugothicpron-w4-normal-swirl-16px {
-  color: var(--swirl);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w6-normal-black-55px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: 55px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginomarugothicpron-w4-normal-swirl-24px {
-  color: var(--swirl);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginomarugothicpron-w4-normal-swirl-22px {
-  color: var(--swirl);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w6-normal-white-20px {
-  color: var(--white);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xxxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -140,10 +84,50 @@
   font-weight: 400;
 }
 
+.hiraginomarugothicpron-w4-normal-swirl-16px {
+  color: var(--swirl);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginomarugothicpron-w4-normal-swirl-24px {
+  color: var(--swirl);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w6-normal-black-55px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginomarugothicpron-w4-normal-swirl-22px {
+  color: var(--swirl);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w6-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .hiraginomarugothicpron-w4-normal-black-12px {
   color: var(--black);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: 12px;
+  font-size: var(--font-size-xxxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -151,7 +135,7 @@
 .hiraginomarugothicpron-w4-normal-black-10px {
   color: var(--black);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-xxxs);
+  font-size: var(--font-size-xxxxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -167,7 +151,7 @@
 .hiraginominchopron-w3-normal-black-10px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-xxxs);
+  font-size: var(--font-size-xxxxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -180,26 +164,26 @@
   font-weight: 400;
 }
 
+.hiraginominchopron-w3-normal-gallery-15px {
+  color: var(--gallery);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w3-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .hiraginominchopron-w6-normal-black-22px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w3-normal-black-17px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 17px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w3-normal-black-11px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 11px;
+  font-size: 22px;
   font-style: normal;
   font-weight: 400;
 }
@@ -208,6 +192,14 @@
   color: var(--black);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
   font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w3-normal-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 17px;
   font-style: normal;
   font-weight: 400;
 }
@@ -228,6 +220,14 @@
   font-weight: 400;
 }
 
+.hiraginominchopron-w3-normal-black-11px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .hiraginomarugothicpron-w4-normal-black-8px {
   color: var(--black);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
@@ -240,14 +240,6 @@
   color: var(--white);
   font-family: var(--font-family-hiraginomincho_pron-w6);
   font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w6-normal-black-18px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -268,10 +260,26 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w3-normal-black-22px {
-  color: var(--black);
+.hiraginominchopron-w3-normal-monza-16px {
+  color: var(--monza);
   font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w3-normal-gallery-9px {
+  color: var(--gallery);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w6-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -292,14 +300,6 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w6-normal-black-12px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 .hiraginominchopron-w3-normal-stratos-13-5px {
   color: var(--stratos);
   font-family: var(--font-family-hiraginomincho_pron-w3);
@@ -308,26 +308,10 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w6-normal-monza-12px {
-  color: var(--monza);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w3-normal-gallery-15px {
-  color: var(--gallery);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mshtakan-regular-normal-black-45px {
+.hiraginominchopron-w3-normal-black-25px {
   color: var(--black);
-  font-family: var(--font-family-mshtakan-regular);
-  font-size: 45px;
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 25px;
   font-style: normal;
   font-weight: 400;
 }
@@ -340,10 +324,66 @@
   font-weight: 400;
 }
 
+.hiraginominchopron-w6-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w6-normal-black-27px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w3-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mshtakan-regular-normal-black-45px {
+  color: var(--black);
+  font-family: var(--font-family-mshtakan-regular);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginomarugothicpron-w4-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w3-normal-monza-15px {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .hiraginominchopron-w6-normal-black-35px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w6);
   font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w6-normal-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 17px;
   font-style: normal;
   font-weight: 400;
 }
@@ -364,26 +404,26 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w3-normal-monza-16px {
-  color: var(--monza);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w6-normal-black-17px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: 17px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 .hiraginominchopron-w3-normal-navy-blue-12px {
   color: var(--navy-blue);
   font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 12px;
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w6-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w3-normal-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 19px;
   font-style: normal;
   font-weight: 400;
 }
@@ -396,18 +436,10 @@
   font-weight: 400;
 }
 
-.hiraginomarugothicpron-w4-normal-black-25px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: 25px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w6-normal-black-27px {
-  color: var(--black);
+.hiraginominchopron-w6-normal-monza-12px {
+  color: var(--monza);
   font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: 27px;
+  font-size: var(--font-size-xxxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -420,10 +452,10 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w6-normal-monza-17px {
+.hiraginominchopron-w6-normal-monza-18px {
   color: var(--monza);
   font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: 17px;
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -436,10 +468,26 @@
   font-weight: 400;
 }
 
+.hiraginominchopron-w3-normal-monza-12px {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hiraginominchopron-w6-normal-monza-17px {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .hiraginominchopron-w6-normal-monza-22px {
   color: var(--monza);
   font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: var(--font-size-xl);
+  font-size: 22px;
   font-style: normal;
   font-weight: 400;
 }
@@ -452,22 +500,6 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w6-normal-black-10px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: var(--font-size-xxxs);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w6-normal-monza-18px {
-  color: var(--monza);
-  font-family: var(--font-family-hiraginomincho_pron-w6);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .hiraginomarugothicpron-w4-normal-stratos-23px {
   color: var(--stratos);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
@@ -476,12 +508,10 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w3-normal-black-25px {
+.hiraginominchopron-normal-black-17px {
   color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 25px;
-  font-style: normal;
-  font-weight: 400;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: 17px;
 }
 
 .hiraginominchopron-w3-normal-black-7px {
@@ -500,12 +530,6 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-normal-black-17px {
-  color: var(--black);
-  font-family: var(--font-family-hiragino_mincho_pron);
-  font-size: 17px;
-}
-
 .hiraginominchopron-w6-normal-black-24px {
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w6);
@@ -514,18 +538,18 @@
   font-weight: 400;
 }
 
-.hiraginominchopron-w3-normal-monza-15px {
-  color: var(--monza);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .hiraginominchopron-normal-monza-12px {
   color: var(--monza);
   font-family: var(--font-family-hiragino_mincho_pron);
-  font-size: 12px;
+  font-size: var(--font-size-xxxs);
+}
+
+.hiraginominchopron-w3-normal-black-13-5px {
+  color: var(--black);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 13.5px;
+  font-style: normal;
+  font-weight: 400;
 }
 
 .hiraginominchopron-w3-normal-monza-30px {
@@ -540,14 +564,6 @@
   color: var(--black);
   font-family: var(--font-family-hiraginomincho_pron-w3);
   font-size: 30px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.hiraginominchopron-w3-normal-black-13-5px {
-  color: var(--black);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 13.5px;
   font-style: normal;
   font-weight: 400;
 }
@@ -614,4 +630,7 @@
 
 .border-1px-black-haze {
   border: 1px solid var(--black-haze);
+}
+
+:root {
 }

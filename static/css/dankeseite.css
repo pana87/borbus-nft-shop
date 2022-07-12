@@ -24,13 +24,13 @@
   width: 100%;
 }
 
-.dankeseite .pexels-liza-summer-6348046-b52JSE.bp4-animate-enter224 {
-  animation: bp4-animate-enter224-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite .pexels-liza-summer-6348046-b52JSE.bp4-animate-enter127 {
+  animation: bp4-animate-enter127-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter224-frames {
+@keyframes bp4-animate-enter127-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -71,13 +71,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.dankeseite .sie-haben-erfolgreic-TRkYih.bp4-animate-enter225 {
-  animation: bp4-animate-enter225-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite .sie-haben-erfolgreic-TRkYih.bp4-animate-enter128 {
+  animation: bp4-animate-enter128-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter225-frames {
+@keyframes bp4-animate-enter128-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -100,13 +100,13 @@ to{opacity: 1;
   width: 376px;
 }
 
-.dankeseite .danke-fr-das-vertrauen-TRkYih.bp4-animate-enter226 {
-  animation: bp4-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite .danke-fr-das-vertrauen-TRkYih.bp4-animate-enter129 {
+  animation: bp4-animate-enter129-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter226-frames {
+@keyframes bp4-animate-enter129-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -129,13 +129,13 @@ to{opacity: 1;
   width: 564px;
 }
 
-.dankeseite .in-5-7-werktagen-wer-TRkYih.bp4-animate-enter227 {
-  animation: bp4-animate-enter227-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite .in-5-7-werktagen-wer-TRkYih.bp4-animate-enter130 {
+  animation: bp4-animate-enter130-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter227-frames {
+@keyframes bp4-animate-enter130-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -157,13 +157,13 @@ to{opacity: 1;
   width: 208px;
 }
 
-.dankeseite .infoborbus-shopcom-TRkYih.bp4-animate-enter228 {
-  animation: bp4-animate-enter228-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite .infoborbus-shopcom-TRkYih.bp4-animate-enter131 {
+  animation: bp4-animate-enter131-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter228-frames {
+@keyframes bp4-animate-enter131-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -363,330 +363,6 @@ to{opacity: 1;
   top: 90px;
   white-space: nowrap;
   width: 240px;
-}
-
-.dankeseite .gruppe-163-b52JSE {
-  background-color: transparent;
-  bottom: 0px;
-  display: block;
-  height: 331px;
-  left: 0px;
-  opacity: 0;
-  position: absolute;
-  width: 100%;
-}
-
-.dankeseite .gruppe-163-b52JSE.bp4-animate-enter229 {
-  animation: bp4-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter229-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.dankeseite .rechteck-90-nIpML4 {
-  background-color: var(--stratos);
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.dankeseite .gruppe-364-nIpML4 {
-  background-color: transparent;
-  height: 114px;
-  left: calc(13.51% - 32px);
-  position: absolute;
-  top: calc(17.06% - 19px);
-  width: 240px;
-}
-
-.dankeseite .exklusive-serviceleistungen-u9XjFy {
-  background-color: transparent;
-  height: 63px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% - 26px);
-}
-
-.dankeseite .gruppe-137-u9XjFy {
-  background-color: transparent;
-  bottom: 0px;
-  height: 15px;
-  left: 0px;
-  position: absolute;
-  width: 100%;
-}
-
-.dankeseite .versand-rckversand-frei-idgNxX {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% - 32px);
-}
-
-.dankeseite .truck-idgNxX {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 26px;
-}
-
-.dankeseite .gruppe-367-nIpML4 {
-  background-color: transparent;
-  height: 196px;
-  left: calc(40.73% - 134px);
-  position: absolute;
-  top: 37px;
-  width: 329px;
-}
-
-.dankeseite .knnen-wir-helfen-PU2pSs {
-  background-color: transparent;
-  height: 63px;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% + 1px);
-}
-
-.dankeseite .gruppe-365-PU2pSs {
-  background-color: transparent;
-  bottom: calc(45.44% - 7px);
-  height: 15px;
-  left: 0px;
-  position: absolute;
-  width: 92px;
-}
-
-.dankeseite .gruppe-140-TqX827 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 100%;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 57px;
-}
-
-.dankeseite .kontakt-MmumQ9 {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.dankeseite .contact-TqX827 {
-  background-color: transparent;
-  height: calc(100.00% - 3px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 2px;
-  width: 25px;
-}
-
-.dankeseite .gruppe-366-PU2pSs {
-  background-color: transparent;
-  bottom: calc(23.49% - 5px);
-  height: 20px;
-  left: 5px;
-  position: absolute;
-  width: 160px;
-}
-
-.dankeseite .gruppe-141-IEoxhf {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% - 4px);
-  position: absolute;
-  right: 0px;
-  top: 2px;
-  width: 130px;
-}
-
-.dankeseite .zahlungsoptionen-JiavQv {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.dankeseite .money-IEoxhf {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 20px;
-}
-
-.dankeseite .gruppe-622-PU2pSs {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.dankeseite .gruppe-141-VCo1qx {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.dankeseite .nf-tlink-out5AK {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.dankeseite .x498951_child_clothes-out5AK {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
-}
-
-.dankeseite .gruppe-372-nIpML4 {
-  background-color: transparent;
-  height: 117px;
-  position: absolute;
-  right: calc(12.59% - 27px);
-  top: 37px;
-  width: 212px;
-}
-
-.dankeseite .besuche-uns-oxxaj2 {
-  background-color: transparent;
-  height: 44px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% + 2px);
-}
-
-.dankeseite .gruppe-320-oxxaj2 {
-  background-color: transparent;
-  bottom: 0px;
-  cursor: pointer;
-  height: 18px;
-  left: 0px;
-  position: absolute;
-  width: 102px;
-}
-
-.dankeseite .gruppe-162-wFRTtZ {
-  background-color: transparent;
-  height: calc(100.00% - 2px);
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 73px;
-}
-
-.dankeseite .instagram-dxs7H8 {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.dankeseite .icon-instagram-wFRTtZ {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 18px;
-}
-
-.dankeseite .ssl-b52JSE {
-  background-color: transparent;
-  bottom: 60px;
-  display: block;
-  height: 90px;
-  left: calc(12.35% - 11px);
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  width: 90px;
-}
-
-.dankeseite .ssl-b52JSE.bp4-animate-enter230 {
-  animation: bp4-animate-enter230-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter230-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
 }
 
 .dankeseite .gruppe-554-b52JSE {
@@ -922,6 +598,605 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.dankeseite .gruppe-622-b52JSE {
+  background-color: transparent;
+  bottom: 105px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.dankeseite .gruppe-141-xfceUN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .nf-tlink-el400Y {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.dankeseite .x498951_child_clothes-el400Y {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.dankeseite .gruppe-163-b52JSE {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite .gruppe-163-b52JSE.bp4-animate-enter132 {
+  animation: bp4-animate-enter132-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter132-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .rechteck-90-nIpML4 {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .gruppe-364-nIpML4 {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.dankeseite .exklusive-serviceleistungen-u9XjFy {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.dankeseite .gruppe-137-u9XjFy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.dankeseite .versand-rckversand-frei-idgNxX {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.dankeseite .truck-idgNxX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.dankeseite .gruppe-367-nIpML4 {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.dankeseite .knnen-wir-helfen-PU2pSs {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.dankeseite .gruppe-365-PU2pSs {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.dankeseite .gruppe-140-TqX827 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.dankeseite .kontakt-MmumQ9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .contact-TqX827 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.dankeseite .gruppe-366-PU2pSs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.dankeseite .gruppe-141-IEoxhf {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.dankeseite .zahlungsoptionen-JiavQv {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .money-IEoxhf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.dankeseite .gruppe-372-nIpML4 {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.dankeseite .besuche-uns-oxxaj2 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .gruppe-320-oxxaj2 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.dankeseite .gruppe-162-wFRTtZ {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.dankeseite .instagram-dxs7H8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .icon-instagram-wFRTtZ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.dankeseite .ssl-b52JSE {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.dankeseite .ssl-b52JSE.bp4-animate-enter133 {
+  animation: bp4-animate-enter133-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter133-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.dankeseite .gruppe-554-A6XCWS {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.dankeseite .gruppe-371-x4CRmA {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.dankeseite .das-unternehmen-xxEahf {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.dankeseite .gruppe-370-xxEahf {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.dankeseite .gruppe-154-dgW42n {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .gruppe-159-04IavQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .ellipse-25-TLf4aZ {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.dankeseite .i-TLf4aZ {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.dankeseite .gruppe-160-xxEahf {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.dankeseite .gruppe-155-rVWbCs {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.dankeseite .gruppe-138-xhfn6x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .ber-borbus-LaCgFo {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .b-rVWbCs {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.dankeseite .gruppe-368-xxEahf {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.dankeseite .gruppe-156-M2ak4R {
+  background-color: transparent;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.dankeseite .geschfts-und-nutzungs-bediengungen-lDWtwT {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .solid-M2ak4R {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.dankeseite .gruppe-369-xxEahf {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.dankeseite .gruppe-157-xWEhVY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.dankeseite .datenschutz-cookies-Kp57KA {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.dankeseite .cookie-xWEhVY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.dankeseite .impressum-x4CRmA {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.dankeseite .gruppe-622-A6XCWS {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.dankeseite .gruppe-141-o2xcQm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite .nf-tlink-oQ9JBt {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.dankeseite .x498951_child_clothes-oQ9JBt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
 /* screen - dankeseite-1200 */
 
 .dankeseite-1200 {
@@ -948,13 +1223,13 @@ to{opacity: 1;
   width: calc(100.00% + 314px);
 }
 
-.dankeseite-1200 .pexels-liza-summer-6348046-n9lTAI.bp3-animate-enter226 {
-  animation: bp3-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-1200 .pexels-liza-summer-6348046-n9lTAI.bp3-animate-enter169 {
+  animation: bp3-animate-enter169-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter226-frames {
+@keyframes bp3-animate-enter169-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -995,13 +1270,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.dankeseite-1200 .sie-haben-erfolgreic-7bub1P.bp3-animate-enter227 {
-  animation: bp3-animate-enter227-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-1200 .sie-haben-erfolgreic-7bub1P.bp3-animate-enter170 {
+  animation: bp3-animate-enter170-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter227-frames {
+@keyframes bp3-animate-enter170-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1024,13 +1299,13 @@ to{opacity: 1;
   width: 376px;
 }
 
-.dankeseite-1200 .danke-fr-das-vertrauen-7bub1P.bp3-animate-enter228 {
-  animation: bp3-animate-enter228-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-1200 .danke-fr-das-vertrauen-7bub1P.bp3-animate-enter171 {
+  animation: bp3-animate-enter171-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter228-frames {
+@keyframes bp3-animate-enter171-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1053,13 +1328,13 @@ to{opacity: 1;
   width: 564px;
 }
 
-.dankeseite-1200 .in-5-7-werktagen-wer-7bub1P.bp3-animate-enter229 {
-  animation: bp3-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-1200 .in-5-7-werktagen-wer-7bub1P.bp3-animate-enter172 {
+  animation: bp3-animate-enter172-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter229-frames {
+@keyframes bp3-animate-enter172-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1081,13 +1356,13 @@ to{opacity: 1;
   width: 208px;
 }
 
-.dankeseite-1200 .infoborbus-shopcom-7bub1P.bp3-animate-enter230 {
-  animation: bp3-animate-enter230-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-1200 .infoborbus-shopcom-7bub1P.bp3-animate-enter173 {
+  animation: bp3-animate-enter173-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter230-frames {
+@keyframes bp3-animate-enter173-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1309,13 +1584,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.dankeseite-1200 .gruppe-163-ZLiKsR.bp3-animate-enter231 {
-  animation: bp3-animate-enter231-frames 0.20s linear 0.10s 1 normal forwards;
+.dankeseite-1200 .gruppe-163-ZLiKsR.bp3-animate-enter174 {
+  animation: bp3-animate-enter174-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter231-frames {
+@keyframes bp3-animate-enter174-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1482,17 +1757,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.dankeseite-1200 .gruppe-692-FHAP4H {
+.dankeseite-1200 .gruppe-623-FHAP4H {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.dankeseite-1200 .gruppe-141-iTDZKm {
+.dankeseite-1200 .gruppe-141-x634NX {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1501,27 +1775,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.dankeseite-1200 .nft-TN5gQl {
+.dankeseite-1200 .nft-IAbUHy {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.dankeseite-1200 .x498951_child_clothes-FHAP4H {
+.dankeseite-1200 .gruppe-622-IAbUHy {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.dankeseite-1200 .gruppe-141-FkYqmc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-1200 .x498951_child_clothes-7ZelwB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .dankeseite-1200 .gruppe-345-wRxd4B {
@@ -1685,7 +1978,6 @@ to{opacity: 1;
 
 .dankeseite-1200 .gruppe-156-MrGwBI {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -1835,13 +2127,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.dankeseite-1200 .ssl-ZLiKsR.bp3-animate-enter232 {
-  animation: bp3-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
+.dankeseite-1200 .ssl-ZLiKsR.bp3-animate-enter175 {
+  animation: bp3-animate-enter175-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter232-frames {
+@keyframes bp3-animate-enter175-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1873,13 +2165,13 @@ to{opacity: 1;
   width: calc(100.00% + 1155px);
 }
 
-.dankeseite-375 .pexels-liza-summer-6348046-0IWxh8.bp1-animate-enter212 {
-  animation: bp1-animate-enter212-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-375 .pexels-liza-summer-6348046-0IWxh8.bp1-animate-enter155 {
+  animation: bp1-animate-enter155-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter212-frames {
+@keyframes bp1-animate-enter155-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1920,13 +2212,13 @@ to{opacity: 1;
   width: calc(100.00% - 1px);
 }
 
-.dankeseite-375 .sie-haben-erfolgreic-k76mth.bp1-animate-enter213 {
-  animation: bp1-animate-enter213-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-375 .sie-haben-erfolgreic-k76mth.bp1-animate-enter156 {
+  animation: bp1-animate-enter156-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter213-frames {
+@keyframes bp1-animate-enter156-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1954,13 +2246,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.dankeseite-375 .danke-fr-das-vertrauen-k76mth.bp1-animate-enter214 {
-  animation: bp1-animate-enter214-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-375 .danke-fr-das-vertrauen-k76mth.bp1-animate-enter157 {
+  animation: bp1-animate-enter157-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter214-frames {
+@keyframes bp1-animate-enter157-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1983,13 +2275,13 @@ to{opacity: 1;
   width: calc(100.00% - 2px);
 }
 
-.dankeseite-375 .in-5-7-werktagen-wer-k76mth.bp1-animate-enter215 {
-  animation: bp1-animate-enter215-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-375 .in-5-7-werktagen-wer-k76mth.bp1-animate-enter158 {
+  animation: bp1-animate-enter158-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter215-frames {
+@keyframes bp1-animate-enter158-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2011,13 +2303,13 @@ to{opacity: 1;
   width: 208px;
 }
 
-.dankeseite-375 .infoborbus-shopcom-k76mth.bp1-animate-enter216 {
-  animation: bp1-animate-enter216-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-375 .infoborbus-shopcom-k76mth.bp1-animate-enter159 {
+  animation: bp1-animate-enter159-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter216-frames {
+@keyframes bp1-animate-enter159-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2332,7 +2624,7 @@ to{opacity: 1;
 
 .dankeseite-375 .gruppe-357-ELLOcL {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2374,7 +2666,7 @@ to{opacity: 1;
 
 .dankeseite-375 .gruppe-358-ELLOcL {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2384,7 +2676,6 @@ to{opacity: 1;
 .dankeseite-375 .gruppe-141-cxxJAL {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2393,6 +2684,7 @@ to{opacity: 1;
 
 .dankeseite-375 .zahlungsoptionen-fS1Zi4 {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2414,46 +2706,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.dankeseite-375 .gruppe-694-ELLOcL {
+.dankeseite-375 .gruppe-623-ELLOcL {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.dankeseite-375 .gruppe-141-xVJGwx {
+.dankeseite-375 .gruppe-141-QfeZZl {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.dankeseite-375 .nft-vT9etL {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-375 .nft-F5wfLK {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.dankeseite-375 .x498951_child_clothes-xVJGwx {
+.dankeseite-375 .gruppe-622-F5wfLK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.dankeseite-375 .gruppe-141-y3X0Mc {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.dankeseite-375 .x498951_child_clothes-oid1ZD {
   background-color: transparent;
   height: 100%;
   left: 1px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .dankeseite-375 .gruppe-363-29kZfX {
@@ -2619,7 +2929,6 @@ to{opacity: 1;
 
 .dankeseite-375 .gruppe-156-WW8CeN {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -2749,13 +3058,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.dankeseite-375 .ssl-29kZfX.bp1-animate-enter217 {
-  animation: bp1-animate-enter217-frames 0.20s linear 0.10s 1 normal forwards;
+.dankeseite-375 .ssl-29kZfX.bp1-animate-enter160 {
+  animation: bp1-animate-enter160-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter217-frames {
+@keyframes bp1-animate-enter160-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2787,13 +3096,13 @@ to{opacity: 1;
   width: calc(100.00% + 737px);
 }
 
-.dankeseite-767 .pexels-liza-summer-6348046-N7rVH9.bp2-animate-enter222 {
-  animation: bp2-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-767 .pexels-liza-summer-6348046-N7rVH9.bp2-animate-enter168 {
+  animation: bp2-animate-enter168-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter222-frames {
+@keyframes bp2-animate-enter168-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2834,13 +3143,13 @@ to{opacity: 1;
   width: 461px;
 }
 
-.dankeseite-767 .sie-haben-erfolgreic-3KizDH.bp2-animate-enter223 {
-  animation: bp2-animate-enter223-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-767 .sie-haben-erfolgreic-3KizDH.bp2-animate-enter169 {
+  animation: bp2-animate-enter169-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter223-frames {
+@keyframes bp2-animate-enter169-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2863,13 +3172,13 @@ to{opacity: 1;
   width: 376px;
 }
 
-.dankeseite-767 .danke-fr-das-vertrauen-3KizDH.bp2-animate-enter224 {
-  animation: bp2-animate-enter224-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-767 .danke-fr-das-vertrauen-3KizDH.bp2-animate-enter170 {
+  animation: bp2-animate-enter170-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter224-frames {
+@keyframes bp2-animate-enter170-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2892,13 +3201,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.dankeseite-767 .in-5-7-werktagen-wer-3KizDH.bp2-animate-enter225 {
-  animation: bp2-animate-enter225-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-767 .in-5-7-werktagen-wer-3KizDH.bp2-animate-enter171 {
+  animation: bp2-animate-enter171-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter225-frames {
+@keyframes bp2-animate-enter171-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2920,13 +3229,13 @@ to{opacity: 1;
   width: 208px;
 }
 
-.dankeseite-767 .infoborbus-shopcom-3KizDH.bp2-animate-enter226 {
-  animation: bp2-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+.dankeseite-767 .infoborbus-shopcom-3KizDH.bp2-animate-enter172 {
+  animation: bp2-animate-enter172-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter226-frames {
+@keyframes bp2-animate-enter172-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3139,13 +3448,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.dankeseite-767 .gruppe-163-N7rVH9.bp2-animate-enter227 {
-  animation: bp2-animate-enter227-frames 0.20s linear 0.10s 1 normal forwards;
+.dankeseite-767 .gruppe-163-N7rVH9.bp2-animate-enter173 {
+  animation: bp2-animate-enter173-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter227-frames {
+@keyframes bp2-animate-enter173-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3217,7 +3526,7 @@ to{opacity: 1;
 
 .dankeseite-767 .gruppe-350-1xb4Rp {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -3239,7 +3548,7 @@ to{opacity: 1;
 
 .dankeseite-767 .gruppe-348-uqQOKe {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -3281,7 +3590,7 @@ to{opacity: 1;
 
 .dankeseite-767 .gruppe-349-uqQOKe {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -3321,46 +3630,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.dankeseite-767 .gruppe-693-uqQOKe {
+.dankeseite-767 .gruppe-623-uqQOKe {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.dankeseite-767 .gruppe-141-Npuri1 {
+.dankeseite-767 .gruppe-141-Q08IBT {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.dankeseite-767 .nft-nXIuoK {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-767 .nft-oZpfbp {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.dankeseite-767 .x498951_child_clothes-Npuri1 {
+.dankeseite-767 .gruppe-622-oZpfbp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.dankeseite-767 .gruppe-141-EoCzzH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.dankeseite-767 .x498951_child_clothes-JJX0gV {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .dankeseite-767 .gruppe-354-1xb4Rp {
@@ -3524,7 +3851,6 @@ to{opacity: 1;
 
 .dankeseite-767 .gruppe-156-rTMgxQ {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -3675,13 +4001,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.dankeseite-767 .ssl-N7rVH9.bp2-animate-enter228 {
-  animation: bp2-animate-enter228-frames 0.20s linear 0.10s 1 normal forwards;
+.dankeseite-767 .ssl-N7rVH9.bp2-animate-enter174 {
+  animation: bp2-animate-enter174-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter228-frames {
+@keyframes bp2-animate-enter174-frames {
   from{opacity: 0;
 }
 to{opacity: 1;

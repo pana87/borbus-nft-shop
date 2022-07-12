@@ -36,13 +36,13 @@
   width: 1376px;
 }
 
-.datenschutzerklaerung .geltungsbereichdiese-63D6tT.bp4-animate-enter330 {
-  animation: bp4-animate-enter330-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .geltungsbereichdiese-63D6tT.bp4-animate-enter172 {
+  animation: bp4-animate-enter172-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter330-frames {
+@keyframes bp4-animate-enter172-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -64,13 +64,13 @@ to{opacity: 1;
   width: 397px;
 }
 
-.datenschutzerklaerung .datenschutzerklrung-63D6tT.bp4-animate-enter331 {
-  animation: bp4-animate-enter331-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .datenschutzerklrung-63D6tT.bp4-animate-enter173 {
+  animation: bp4-animate-enter173-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter331-frames {
+@keyframes bp4-animate-enter173-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -258,20 +258,6 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklaerung .borbus-xZ7hOt {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
 .datenschutzerklaerung .gruppe-163-xZ7hOt {
   background-color: transparent;
   bottom: 0px;
@@ -283,13 +269,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklaerung .gruppe-163-xZ7hOt.bp4-animate-enter332 {
-  animation: bp4-animate-enter332-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .gruppe-163-xZ7hOt.bp4-animate-enter174 {
+  animation: bp4-animate-enter174-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter332-frames {
+@keyframes bp4-animate-enter174-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -361,7 +347,7 @@ to{opacity: 1;
 
 .datenschutzerklaerung .gruppe-367-w2NosL {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -382,7 +368,7 @@ to{opacity: 1;
 
 .datenschutzerklaerung .gruppe-365-K1sISd {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -425,7 +411,7 @@ to{opacity: 1;
 
 .datenschutzerklaerung .gruppe-366-K1sISd {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -463,48 +449,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.datenschutzerklaerung .gruppe-622-K1sISd {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.datenschutzerklaerung .gruppe-141-USixN5 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.datenschutzerklaerung .nf-tlink-a172zN {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.datenschutzerklaerung .x498951_child_clothes-a172zN {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
 }
 
 .datenschutzerklaerung .gruppe-372-w2NosL {
@@ -583,13 +527,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklaerung .ssl-xZ7hOt.bp4-animate-enter333 {
-  animation: bp4-animate-enter333-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklaerung .ssl-xZ7hOt.bp4-animate-enter175 {
+  animation: bp4-animate-enter175-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter333-frames {
+@keyframes bp4-animate-enter175-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -741,7 +685,6 @@ to{opacity: 1;
 
 .datenschutzerklaerung .gruppe-156-onoiB7 {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -827,6 +770,115 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.datenschutzerklaerung .borbus-xZ7hOt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.datenschutzerklaerung .gruppe-622-xZ7hOt {
+  background-color: transparent;
+  bottom: 95px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.datenschutzerklaerung .gruppe-141-KINvPx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .nf-tlink-lxxloz {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.datenschutzerklaerung .x498951_child_clothes-lxxloz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.datenschutzerklaerung .warenkorb-oben-rechts-xZ7hOt {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.datenschutzerklaerung .iconfinder_basket_ecommerce_shop_4177565-xONXG5 {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.datenschutzerklaerung .gruppe-579-xONXG5 {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung .ellipse-47-D8u4Yd {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung .anzahl-warenkorb-D8u4Yd {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
 /* screen - datenschutzerklarung-1200 */
 
 .datenschutzerklarung-1200 {
@@ -865,13 +917,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.datenschutzerklarung-1200 .geltungsbereichdiese-VV5Kdx.bp3-animate-enter373 {
-  animation: bp3-animate-enter373-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .geltungsbereichdiese-VV5Kdx.bp3-animate-enter213 {
+  animation: bp3-animate-enter213-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter373-frames {
+@keyframes bp3-animate-enter213-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -893,13 +945,13 @@ to{opacity: 1;
   width: 397px;
 }
 
-.datenschutzerklarung-1200 .datenschutzerklrung-VV5Kdx.bp3-animate-enter374 {
-  animation: bp3-animate-enter374-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .datenschutzerklrung-VV5Kdx.bp3-animate-enter214 {
+  animation: bp3-animate-enter214-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter374-frames {
+@keyframes bp3-animate-enter214-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1121,13 +1173,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklarung-1200 .gruppe-163-uNcxJj.bp3-animate-enter375 {
-  animation: bp3-animate-enter375-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .gruppe-163-uNcxJj.bp3-animate-enter215 {
+  animation: bp3-animate-enter215-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter375-frames {
+@keyframes bp3-animate-enter215-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1294,17 +1346,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.datenschutzerklarung-1200 .gruppe-692-QcTEEB {
+.datenschutzerklarung-1200 .gruppe-623-QcTEEB {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.datenschutzerklarung-1200 .gruppe-141-xt7yA5 {
+.datenschutzerklarung-1200 .gruppe-141-jgO1ni {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1313,27 +1364,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklarung-1200 .nft-Yx5MVu {
+.datenschutzerklarung-1200 .nft-NxwjLY {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.datenschutzerklarung-1200 .x498951_child_clothes-QcTEEB {
+.datenschutzerklarung-1200 .gruppe-622-NxwjLY {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.datenschutzerklarung-1200 .gruppe-141-BTs1AY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklarung-1200 .x498951_child_clothes-Yb0mBX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 1px;
+  width: 100%;
 }
 
 .datenschutzerklarung-1200 .gruppe-345-jTCggp {
@@ -1497,7 +1567,6 @@ to{opacity: 1;
 
 .datenschutzerklarung-1200 .gruppe-156-adaKrj {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -1549,6 +1618,7 @@ to{opacity: 1;
 
 .datenschutzerklarung-1200 .datenschutz-cookies-cNZKTU {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -1645,17 +1715,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklarung-1200 .ssl-uNcxJj.bp3-animate-enter376 {
-  animation: bp3-animate-enter376-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-1200 .ssl-uNcxJj.bp3-animate-enter216 {
+  animation: bp3-animate-enter216-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter376-frames {
+@keyframes bp3-animate-enter216-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.datenschutzerklarung-1200 .warenkorb-oben-rechts-tNGQ0F {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.datenschutzerklarung-1200 .iconfinder_basket_ecommerce_shop_4177565-26N7jf {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.datenschutzerklarung-1200 .gruppe-579-26N7jf {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklarung-1200 .ellipse-47-yStUGG {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklarung-1200 .anzahl-warenkorb-yStUGG {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - datenschutzerklarung-375 */
 
@@ -1695,13 +1818,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.datenschutzerklarung-375 .datenschutzerklrung-lAEBa0.bp1-animate-enter350 {
-  animation: bp1-animate-enter350-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-375 .datenschutzerklrung-lAEBa0.bp1-animate-enter193 {
+  animation: bp1-animate-enter193-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter350-frames {
+@keyframes bp1-animate-enter193-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2029,7 +2152,7 @@ to{opacity: 1;
 
 .datenschutzerklarung-375 .gruppe-357-xDI2xx {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2071,7 +2194,7 @@ to{opacity: 1;
 
 .datenschutzerklarung-375 .gruppe-358-xDI2xx {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2081,7 +2204,6 @@ to{opacity: 1;
 .datenschutzerklarung-375 .gruppe-141-UHNNbS {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2090,6 +2212,7 @@ to{opacity: 1;
 
 .datenschutzerklarung-375 .zahlungsoptionen-Ya8qQy {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2111,46 +2234,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.datenschutzerklarung-375 .gruppe-694-xDI2xx {
+.datenschutzerklarung-375 .gruppe-623-xDI2xx {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.datenschutzerklarung-375 .gruppe-141-Lqq9Xb {
+.datenschutzerklarung-375 .gruppe-141-VRQMog {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.datenschutzerklarung-375 .nft-PjxfIz {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklarung-375 .nft-Dw22dU {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.datenschutzerklarung-375 .x498951_child_clothes-Lqq9Xb {
+.datenschutzerklarung-375 .gruppe-622-Dw22dU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.datenschutzerklarung-375 .gruppe-141-W1WnKF {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.datenschutzerklarung-375 .x498951_child_clothes-IuCqj7 {
   background-color: transparent;
   height: 100%;
   left: 1px;
   object-fit: cover;
   position: absolute;
-  top: 1px;
-  width: 12px;
+  top: 0px;
+  width: 100%;
 }
 
 .datenschutzerklarung-375 .gruppe-363-LZw4Na {
@@ -2316,7 +2457,6 @@ to{opacity: 1;
 
 .datenschutzerklarung-375 .gruppe-156-2YfxUU {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -2444,17 +2584,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklarung-375 .ssl-LZw4Na.bp1-animate-enter351 {
-  animation: bp1-animate-enter351-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-375 .ssl-LZw4Na.bp1-animate-enter194 {
+  animation: bp1-animate-enter194-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter351-frames {
+@keyframes bp1-animate-enter194-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.datenschutzerklarung-375 .warenkorb-oben-rechts-l2rwo9 {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.datenschutzerklarung-375 .iconfinder_basket_ecommerce_shop_4177565-7YZ3qA {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.datenschutzerklarung-375 .gruppe-579-7YZ3qA {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.datenschutzerklarung-375 .ellipse-47-Mmw0tg {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.datenschutzerklarung-375 .anzahl-warenkorb-Mmw0tg {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
 }
 /* screen - datenschutzerklarung-767 */
 
@@ -2493,13 +2686,13 @@ to{opacity: 1;
   width: calc(100.00% - 122px);
 }
 
-.datenschutzerklarung-767 .datenschutzerklrung-7Zhm22.bp2-animate-enter370 {
-  animation: bp2-animate-enter370-frames 0.20s ease 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .datenschutzerklrung-7Zhm22.bp2-animate-enter211 {
+  animation: bp2-animate-enter211-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter370-frames {
+@keyframes bp2-animate-enter211-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2517,13 +2710,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklarung-767 .gruppe-166-7Zhm22.bp2-animate-enter371 {
-  animation: bp2-animate-enter371-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .gruppe-166-7Zhm22.bp2-animate-enter212 {
+  animation: bp2-animate-enter212-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter371-frames {
+@keyframes bp2-animate-enter212-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2749,13 +2942,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.datenschutzerklarung-767 .gruppe-163-Be1WUI.bp2-animate-enter372 {
-  animation: bp2-animate-enter372-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .gruppe-163-Be1WUI.bp2-animate-enter213 {
+  animation: bp2-animate-enter213-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter372-frames {
+@keyframes bp2-animate-enter213-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2827,7 +3020,7 @@ to{opacity: 1;
 
 .datenschutzerklarung-767 .gruppe-350-dUsJaY {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -2849,7 +3042,7 @@ to{opacity: 1;
 
 .datenschutzerklarung-767 .gruppe-348-5gRt9K {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -2891,7 +3084,7 @@ to{opacity: 1;
 
 .datenschutzerklarung-767 .gruppe-349-5gRt9K {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -2931,46 +3124,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.datenschutzerklarung-767 .gruppe-693-5gRt9K {
+.datenschutzerklarung-767 .gruppe-623-5gRt9K {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.datenschutzerklarung-767 .gruppe-141-mnwkhk {
+.datenschutzerklarung-767 .gruppe-141-2JZ8Cw {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.datenschutzerklarung-767 .nft-R6uMaW {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklarung-767 .nft-VxDcoF {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.datenschutzerklarung-767 .x498951_child_clothes-mnwkhk {
+.datenschutzerklarung-767 .gruppe-622-VxDcoF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.datenschutzerklarung-767 .gruppe-141-n7InnP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklarung-767 .x498951_child_clothes-7xeZaL {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .datenschutzerklarung-767 .gruppe-354-dUsJaY {
@@ -3134,7 +3345,6 @@ to{opacity: 1;
 
 .datenschutzerklarung-767 .gruppe-156-KKPOSJ {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -3283,17 +3493,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.datenschutzerklarung-767 .ssl-Be1WUI.bp2-animate-enter373 {
-  animation: bp2-animate-enter373-frames 0.20s linear 0.10s 1 normal forwards;
+.datenschutzerklarung-767 .ssl-Be1WUI.bp2-animate-enter214 {
+  animation: bp2-animate-enter214-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter373-frames {
+@keyframes bp2-animate-enter214-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.datenschutzerklarung-767 .warenkorb-oben-rechts-Be1WUI {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.datenschutzerklarung-767 .iconfinder_basket_ecommerce_shop_4177565-J2QJ9o {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.datenschutzerklarung-767 .gruppe-579-J2QJ9o {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklarung-767 .ellipse-47-9xrev8 {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklarung-767 .anzahl-warenkorb-9xrev8 {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 @media screen and (max-width: 766px) {
   .screen.datenschutzerklaerung { 

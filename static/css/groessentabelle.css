@@ -210,13 +210,13 @@
   width: 60px;
 }
 
-.groessentabelle .zurck-jDXr4x.bp4-animate-enter247 {
-  animation: bp4-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle .zurck-jDXr4x.bp4-animate-enter134 {
+  animation: bp4-animate-enter134-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter247-frames {
+@keyframes bp4-animate-enter134-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -519,13 +519,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle .gruppe-163-jDXr4x.bp4-animate-enter248 {
-  animation: bp4-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle .gruppe-163-jDXr4x.bp4-animate-enter135 {
+  animation: bp4-animate-enter135-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter248-frames {
+@keyframes bp4-animate-enter135-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -597,7 +597,7 @@ to{opacity: 1;
 
 .groessentabelle .gruppe-367-i6jFJ2 {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -618,7 +618,7 @@ to{opacity: 1;
 
 .groessentabelle .gruppe-365-UeUe4x {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -661,7 +661,7 @@ to{opacity: 1;
 
 .groessentabelle .gruppe-366-UeUe4x {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -699,48 +699,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.groessentabelle .gruppe-622-UeUe4x {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.groessentabelle .gruppe-141-bUoNJ2 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.groessentabelle .nf-tlink-iFojDN {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.groessentabelle .x498951_child_clothes-iFojDN {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 18px;
 }
 
 .groessentabelle .gruppe-372-i6jFJ2 {
@@ -797,7 +755,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle .instagram-sketched-EH18RX {
+.groessentabelle .icon-instagram-EH18RX {
   background-color: transparent;
   height: 100%;
   left: 1px;
@@ -819,13 +777,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle .ssl-jDXr4x.bp4-animate-enter249 {
-  animation: bp4-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle .ssl-jDXr4x.bp4-animate-enter136 {
+  animation: bp4-animate-enter136-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter249-frames {
+@keyframes bp4-animate-enter136-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -977,7 +935,6 @@ to{opacity: 1;
 
 .groessentabelle .gruppe-156-aRDPwW {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -1064,6 +1021,101 @@ to{opacity: 1;
   text-align: left;
   white-space: nowrap;
   width: 76px;
+}
+
+.groessentabelle .gruppe-622-jDXr4x {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.groessentabelle .gruppe-141-qpkxEr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle .nf-tlink-93zw2C {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.groessentabelle .x498951_child_clothes-93zw2C {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.groessentabelle .warenkorb-oben-rechts-jDXr4x {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.groessentabelle .iconfinder_basket_ecommerce_shop_4177565-5nCtFn {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.groessentabelle .gruppe-579-5nCtFn {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.groessentabelle .ellipse-47-sXAAP1 {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.groessentabelle .anzahl-warenkorb-sXAAP1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - groessentabelle-1200 */
 
@@ -1277,13 +1329,13 @@ to{opacity: 1;
   width: 60px;
 }
 
-.groessentabelle-1200 .zurck-jmXmri.bp3-animate-enter292 {
-  animation: bp3-animate-enter292-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle-1200 .zurck-jmXmri.bp3-animate-enter176 {
+  animation: bp3-animate-enter176-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter292-frames {
+@keyframes bp3-animate-enter176-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1595,13 +1647,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-1200 .gruppe-163-UaqECM.bp3-animate-enter293 {
-  animation: bp3-animate-enter293-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-1200 .gruppe-163-UaqECM.bp3-animate-enter177 {
+  animation: bp3-animate-enter177-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter293-frames {
+@keyframes bp3-animate-enter177-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1768,17 +1820,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.groessentabelle-1200 .gruppe-692-OGj913 {
+.groessentabelle-1200 .gruppe-623-OGj913 {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.groessentabelle-1200 .gruppe-141-72XCly {
+.groessentabelle-1200 .gruppe-141-9I4zNb {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1787,27 +1838,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-1200 .nft-SybfI8 {
+.groessentabelle-1200 .nft-IiA1Nl {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.groessentabelle-1200 .x498951_child_clothes-OGj913 {
+.groessentabelle-1200 .gruppe-622-IiA1Nl {
   background-color: transparent;
-  bottom: 1px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.groessentabelle-1200 .gruppe-141-hzUq2q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-1200 .x498951_child_clothes-2vljLv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 1px;
+  width: 100%;
 }
 
 .groessentabelle-1200 .gruppe-345-kux2ln {
@@ -1971,7 +2041,6 @@ to{opacity: 1;
 
 .groessentabelle-1200 .gruppe-156-GpM1Wk {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -2099,7 +2168,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-1200 .instagram-sketched-mSYspQ {
+.groessentabelle-1200 .icon-instagram-mSYspQ {
   background-color: transparent;
   height: 18px;
   left: 1px;
@@ -2121,17 +2190,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle-1200 .ssl-UaqECM.bp3-animate-enter294 {
-  animation: bp3-animate-enter294-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-1200 .ssl-UaqECM.bp3-animate-enter178 {
+  animation: bp3-animate-enter178-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter294-frames {
+@keyframes bp3-animate-enter178-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.groessentabelle-1200 .warenkorb-oben-rechts-jmXmri {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.groessentabelle-1200 .iconfinder_basket_ecommerce_shop_4177565-KUHDeI {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.groessentabelle-1200 .gruppe-579-KUHDeI {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.groessentabelle-1200 .ellipse-47-QZUUkO {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.groessentabelle-1200 .anzahl-warenkorb-QZUUkO {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - groessentabelle-375 */
 
@@ -2174,13 +2296,13 @@ to{opacity: 1;
   width: 54px;
 }
 
-.groessentabelle-375 .zurck-GkQICZ.bp1-animate-enter276 {
-  animation: bp1-animate-enter276-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle-375 .zurck-GkQICZ.bp1-animate-enter161 {
+  animation: bp1-animate-enter161-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter276-frames {
+@keyframes bp1-animate-enter161-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2780,7 +2902,7 @@ to{opacity: 1;
 
 .groessentabelle-375 .gruppe-357-gsRnde {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2822,7 +2944,7 @@ to{opacity: 1;
 
 .groessentabelle-375 .gruppe-358-gsRnde {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2832,7 +2954,6 @@ to{opacity: 1;
 .groessentabelle-375 .gruppe-141-GbMq64 {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2841,6 +2962,7 @@ to{opacity: 1;
 
 .groessentabelle-375 .zahlungsoptionen-88MvdW {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2862,46 +2984,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.groessentabelle-375 .gruppe-694-gsRnde {
+.groessentabelle-375 .gruppe-623-gsRnde {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.groessentabelle-375 .gruppe-141-ET5JBC {
+.groessentabelle-375 .gruppe-141-Eo62iQ {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.groessentabelle-375 .nft-0RvOYs {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-375 .nft-dryxhx {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.groessentabelle-375 .x498951_child_clothes-ET5JBC {
+.groessentabelle-375 .gruppe-622-dryxhx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.groessentabelle-375 .gruppe-141-Flo29t {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.groessentabelle-375 .x498951_child_clothes-3ltfdq {
   background-color: transparent;
   height: 100%;
   left: 1px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .groessentabelle-375 .gruppe-363-rgpmMD {
@@ -3067,7 +3207,6 @@ to{opacity: 1;
 
 .groessentabelle-375 .gruppe-156-lVDz53 {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -3175,7 +3314,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-375 .instagram-sketched-gVxCJD {
+.groessentabelle-375 .icon-instagram-gVxCJD {
   background-color: transparent;
   height: 100%;
   object-fit: cover;
@@ -3197,17 +3336,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle-375 .ssl-rgpmMD.bp1-animate-enter277 {
-  animation: bp1-animate-enter277-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-375 .ssl-rgpmMD.bp1-animate-enter162 {
+  animation: bp1-animate-enter162-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter277-frames {
+@keyframes bp1-animate-enter162-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.groessentabelle-375 .warenkorb-oben-rechts-YGBXNV {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.groessentabelle-375 .iconfinder_basket_ecommerce_shop_4177565-2vm0kk {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.groessentabelle-375 .gruppe-579-2vm0kk {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.groessentabelle-375 .ellipse-47-IUQ5Qp {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.groessentabelle-375 .anzahl-warenkorb-IUQ5Qp {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
 }
 /* screen - groessentabelle-767 */
 
@@ -3421,13 +3613,13 @@ to{opacity: 1;
   width: 60px;
 }
 
-.groessentabelle-767 .zurck-ZfWh5e.bp2-animate-enter290 {
-  animation: bp2-animate-enter290-frames 0.20s ease 0.10s 1 normal forwards;
+.groessentabelle-767 .zurck-ZfWh5e.bp2-animate-enter175 {
+  animation: bp2-animate-enter175-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter290-frames {
+@keyframes bp2-animate-enter175-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3719,7 +3911,16 @@ to{opacity: 1;
   width: 37px;
 }
 
-.groessentabelle-767 .gruppe-163-ZfWh5e {
+.groessentabelle-767 .gruppe-641-ZfWh5e {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.groessentabelle-767 .gruppe-163-IO8Dv7 {
   background-color: transparent;
   bottom: 0px;
   display: block;
@@ -3730,20 +3931,20 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-767 .gruppe-163-ZfWh5e.bp2-animate-enter291 {
-  animation: bp2-animate-enter291-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-767 .gruppe-163-IO8Dv7.bp2-animate-enter176 {
+  animation: bp2-animate-enter176-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter291-frames {
+@keyframes bp2-animate-enter176-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.groessentabelle-767 .rechteck-90-eDlEuL {
+.groessentabelle-767 .rechteck-90-47K3V5 {
   background-color: var(--stratos);
   bottom: 0px;
   height: 331px;
@@ -3752,7 +3953,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-767 .gruppe-347-eDlEuL {
+.groessentabelle-767 .gruppe-347-47K3V5 {
   background-color: transparent;
   height: 114px;
   left: 51px;
@@ -3761,7 +3962,7 @@ to{opacity: 1;
   width: 148px;
 }
 
-.groessentabelle-767 .exklusive-serviceleistungen-jpx03G {
+.groessentabelle-767 .exklusive-serviceleistungen-PxZ6T0 {
   background-color: transparent;
   height: 54px;
   left: 0px;
@@ -3773,7 +3974,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .gruppe-137-jpx03G {
+.groessentabelle-767 .gruppe-137-PxZ6T0 {
   background-color: transparent;
   bottom: 0px;
   height: 15px;
@@ -3782,7 +3983,7 @@ to{opacity: 1;
   width: 118px;
 }
 
-.groessentabelle-767 .versand-frei-Mjzc6z {
+.groessentabelle-767 .versand-frei-XgYOgx {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 1px);
@@ -3796,7 +3997,7 @@ to{opacity: 1;
   width: 86px;
 }
 
-.groessentabelle-767 .truck-Mjzc6z {
+.groessentabelle-767 .truck-XgYOgx {
   background-color: transparent;
   height: 100%;
   left: 1px;
@@ -3806,16 +4007,16 @@ to{opacity: 1;
   width: 26px;
 }
 
-.groessentabelle-767 .gruppe-350-eDlEuL {
+.groessentabelle-767 .gruppe-350-47K3V5 {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
   width: 158px;
 }
 
-.groessentabelle-767 .knnen-wir-helfen-KSKJaQ {
+.groessentabelle-767 .knnen-wir-helfen-zJpO7m {
   background-color: transparent;
   height: 28px;
   left: 0px;
@@ -3828,16 +4029,16 @@ to{opacity: 1;
   width: 160px;
 }
 
-.groessentabelle-767 .gruppe-348-KSKJaQ {
+.groessentabelle-767 .gruppe-348-zJpO7m {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
   width: 86px;
 }
 
-.groessentabelle-767 .gruppe-140-dSjQOi {
+.groessentabelle-767 .gruppe-140-iVc8YS {
   background-color: transparent;
   height: 100%;
   position: absolute;
@@ -3846,7 +4047,7 @@ to{opacity: 1;
   width: 53px;
 }
 
-.groessentabelle-767 .kontakt-eNkuAS {
+.groessentabelle-767 .kontakt-npO6Oo {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -3860,7 +4061,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .contact-dSjQOi {
+.groessentabelle-767 .contact-iVc8YS {
   background-color: transparent;
   height: 12px;
   left: 0px;
@@ -3870,16 +4071,16 @@ to{opacity: 1;
   width: 25px;
 }
 
-.groessentabelle-767 .gruppe-349-KSKJaQ {
+.groessentabelle-767 .gruppe-349-zJpO7m {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
   width: 152px;
 }
 
-.groessentabelle-767 .gruppe-141-3DmTxF {
+.groessentabelle-767 .gruppe-141-1XSSgZ {
   background-color: transparent;
   bottom: 1px;
   cursor: pointer;
@@ -3889,7 +4090,7 @@ to{opacity: 1;
   width: 122px;
 }
 
-.groessentabelle-767 .zahlungsoptionen-uqwOax {
+.groessentabelle-767 .zahlungsoptionen-6L2vqV {
   background-color: transparent;
   height: calc(100.00% + 2px);
   left: 0px;
@@ -3902,7 +4103,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .money-3DmTxF {
+.groessentabelle-767 .money-1XSSgZ {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -3912,49 +4113,67 @@ to{opacity: 1;
   width: 20px;
 }
 
-.groessentabelle-767 .gruppe-693-KSKJaQ {
+.groessentabelle-767 .gruppe-623-zJpO7m {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.groessentabelle-767 .gruppe-141-cACuon {
+.groessentabelle-767 .gruppe-141-UixBgw {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.groessentabelle-767 .nft-SWNxll {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-767 .nft-iHIqn1 {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.groessentabelle-767 .x498951_child_clothes-cACuon {
+.groessentabelle-767 .gruppe-622-iHIqn1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.groessentabelle-767 .gruppe-141-e90ZJn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.groessentabelle-767 .x498951_child_clothes-rxNQk9 {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
-.groessentabelle-767 .gruppe-354-eDlEuL {
+.groessentabelle-767 .gruppe-354-47K3V5 {
   background-color: transparent;
   height: 251px;
   position: absolute;
@@ -3963,7 +4182,7 @@ to{opacity: 1;
   width: 205px;
 }
 
-.groessentabelle-767 .das-unternehmen-d3PosK {
+.groessentabelle-767 .das-unternehmen-xqZOIo {
   background-color: transparent;
   height: 28px;
   left: 7px;
@@ -3976,7 +4195,7 @@ to{opacity: 1;
   width: calc(100.00% - 49px);
 }
 
-.groessentabelle-767 .gruppe-353-d3PosK {
+.groessentabelle-767 .gruppe-353-xqZOIo {
   background-color: transparent;
   bottom: 0px;
   height: 27px;
@@ -3985,7 +4204,7 @@ to{opacity: 1;
   width: 113px;
 }
 
-.groessentabelle-767 .gruppe-158-6kEjNM {
+.groessentabelle-767 .gruppe-158-70gxQ3 {
   background-color: transparent;
   cursor: pointer;
   height: 16px;
@@ -3995,7 +4214,7 @@ to{opacity: 1;
   width: 80px;
 }
 
-.groessentabelle-767 .impressum-NIVoFZ {
+.groessentabelle-767 .impressum-YcAgt4 {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -4009,7 +4228,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .gruppe-154-6kEjNM {
+.groessentabelle-767 .gruppe-154-70gxQ3 {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -4018,7 +4237,7 @@ to{opacity: 1;
   width: 30px;
 }
 
-.groessentabelle-767 .gruppe-159-jJMEWS {
+.groessentabelle-767 .gruppe-159-aud4p4 {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -4027,7 +4246,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-767 .ellipse-25-WwgGGT {
+.groessentabelle-767 .ellipse-25-3iJ6CM {
   background-color: var(--white);
   border-radius: 10px;
   height: 20px;
@@ -4037,7 +4256,7 @@ to{opacity: 1;
   width: 20px;
 }
 
-.groessentabelle-767 .i-WwgGGT {
+.groessentabelle-767 .i-3iJ6CM {
   background-color: transparent;
   height: 25px;
   left: 9px;
@@ -4050,7 +4269,7 @@ to{opacity: 1;
   width: calc(100.00% - 7px);
 }
 
-.groessentabelle-767 .gruppe-160-d3PosK {
+.groessentabelle-767 .gruppe-160-xqZOIo {
   background-color: transparent;
   height: 20px;
   left: 7px;
@@ -4059,7 +4278,7 @@ to{opacity: 1;
   width: 120px;
 }
 
-.groessentabelle-767 .gruppe-155-MFHVSb {
+.groessentabelle-767 .gruppe-155-FIkogi {
   background-color: transparent;
   height: calc(100.00% - 4px);
   position: absolute;
@@ -4068,7 +4287,7 @@ to{opacity: 1;
   width: 94px;
 }
 
-.groessentabelle-767 .gruppe-138-64RcdU {
+.groessentabelle-767 .gruppe-138-Mwz5bh {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -4077,7 +4296,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-767 .ber-borbus-oiS6zd {
+.groessentabelle-767 .ber-borbus-fG9Cgq {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -4091,7 +4310,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .b-MFHVSb {
+.groessentabelle-767 .b-FIkogi {
   background-color: transparent;
   height: calc(100.00% + 2px);
   left: 0px;
@@ -4104,7 +4323,7 @@ to{opacity: 1;
   width: 16px;
 }
 
-.groessentabelle-767 .gruppe-351-d3PosK {
+.groessentabelle-767 .gruppe-351-xqZOIo {
   background-color: transparent;
   bottom: calc(37.16% - 12px);
   height: 33px;
@@ -4113,9 +4332,8 @@ to{opacity: 1;
   width: 100%;
 }
 
-.groessentabelle-767 .gruppe-156-RPRYip {
+.groessentabelle-767 .gruppe-156-F3xTRQ {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -4123,7 +4341,7 @@ to{opacity: 1;
   width: calc(100.00% - 33px);
 }
 
-.groessentabelle-767 .geschfts-und-nutzungsbediengungen-xPlHWO {
+.groessentabelle-767 .geschfts-und-nutzungsbediengungen-N6rRBI {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -4137,7 +4355,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .solid-RPRYip {
+.groessentabelle-767 .solid-F3xTRQ {
   background-color: transparent;
   bottom: calc(47.15% - 10px);
   height: 20px;
@@ -4147,7 +4365,7 @@ to{opacity: 1;
   width: 21px;
 }
 
-.groessentabelle-767 .gruppe-352-d3PosK {
+.groessentabelle-767 .gruppe-352-xqZOIo {
   background-color: transparent;
   bottom: calc(18.98% - 4px);
   height: 19px;
@@ -4156,7 +4374,7 @@ to{opacity: 1;
   width: calc(100.00% - 3px);
 }
 
-.groessentabelle-767 .gruppe-157-Zkc28n {
+.groessentabelle-767 .gruppe-157-ViNJd9 {
   background-color: transparent;
   cursor: pointer;
   height: 15px;
@@ -4166,7 +4384,7 @@ to{opacity: 1;
   width: 171px;
 }
 
-.groessentabelle-767 .datenschutz-cookies-eUhiqc {
+.groessentabelle-767 .datenschutz-cookies-5qiuo6 {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -4180,7 +4398,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .cookie-Zkc28n {
+.groessentabelle-767 .cookie-ViNJd9 {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -4190,7 +4408,7 @@ to{opacity: 1;
   width: 19px;
 }
 
-.groessentabelle-767 .gruppe-355-eDlEuL {
+.groessentabelle-767 .gruppe-355-47K3V5 {
   background-color: transparent;
   height: 122px;
   position: absolute;
@@ -4199,7 +4417,7 @@ to{opacity: 1;
   width: 110px;
 }
 
-.groessentabelle-767 .besuche-uns-yxXxxx {
+.groessentabelle-767 .besuche-uns-N0H0vy {
   background-color: transparent;
   height: 28px;
   left: 0px;
@@ -4212,7 +4430,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .gruppe-323-yxXxxx {
+.groessentabelle-767 .gruppe-323-N0H0vy {
   background-color: transparent;
   bottom: 0px;
   cursor: pointer;
@@ -4222,7 +4440,7 @@ to{opacity: 1;
   width: calc(100.00% - 4px);
 }
 
-.groessentabelle-767 .gruppe-162-xUFx4F {
+.groessentabelle-767 .gruppe-162-5Uu8qI {
   background-color: transparent;
   height: calc(100.00% - 3px);
   position: absolute;
@@ -4231,7 +4449,7 @@ to{opacity: 1;
   width: 82px;
 }
 
-.groessentabelle-767 .instagram-6Y0GQT {
+.groessentabelle-767 .instagram-m3x6h7 {
   background-color: transparent;
   height: 25px;
   left: 0px;
@@ -4244,7 +4462,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.groessentabelle-767 .instagram-sketched-xUFx4F {
+.groessentabelle-767 .icon-instagram-5Uu8qI {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4254,7 +4472,7 @@ to{opacity: 1;
   width: 18px;
 }
 
-.groessentabelle-767 .ssl-ZfWh5e {
+.groessentabelle-767 .ssl-IO8Dv7 {
   background-color: transparent;
   bottom: 31px;
   display: block;
@@ -4266,17 +4484,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.groessentabelle-767 .ssl-ZfWh5e.bp2-animate-enter292 {
-  animation: bp2-animate-enter292-frames 0.20s linear 0.10s 1 normal forwards;
+.groessentabelle-767 .ssl-IO8Dv7.bp2-animate-enter177 {
+  animation: bp2-animate-enter177-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter292-frames {
+@keyframes bp2-animate-enter177-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.groessentabelle-767 .warenkorb-oben-rechts-ZfWh5e {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.groessentabelle-767 .iconfinder_basket_ecommerce_shop_4177565-4mi1PA {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.groessentabelle-767 .gruppe-579-4mi1PA {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.groessentabelle-767 .ellipse-47-teebUJ {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.groessentabelle-767 .anzahl-warenkorb-teebUJ {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 @media screen and (max-width: 766px) {
   .screen.groessentabelle { 

@@ -1,10 +1,10 @@
-/* screen - zahlungsoptionen-375 */
+/* screen - zahlungsoptionen-376 */
 
-.zahlungsoptionen-375 {
+.zahlungsoptionen-376 {
   background-color: var(--white);
   height: 100vh;
   margin: 0px;
-  min-height: 1141px;
+  min-height: 1156px;
   min-width: 375px;
   overflow: hidden;
   overflow-x: hidden;
@@ -12,181 +12,7 @@
   width: 100%;
 }
 
-.zahlungsoptionen-375 .gruppe-544-lIRXnO {
-  background-color: transparent;
-  height: 293px;
-  left: calc(28.31% - 75px);
-  position: absolute;
-  top: calc(36.32% - 106px);
-  width: 266px;
-}
-
-.zahlungsoptionen-375 .gruppe-166-PADnV4 {
-  background-color: transparent;
-  display: block;
-  height: 197px;
-  left: 1px;
-  opacity: 0;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.zahlungsoptionen-375 .gruppe-166-PADnV4.bp1-animate-enter374 {
-  animation: bp1-animate-enter374-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter374-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-375 .bezahlen-sie-sicher-1hvWJi {
-  background-color: transparent;
-  height: 25px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  top: -1px;
-  white-space: nowrap;
-  width: 220px;
-}
-
-.zahlungsoptionen-375 .sie-knnen-unter-folg-1hvWJi {
-  background-color: transparent;
-  bottom: 6px;
-  height: 57px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 35px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 17px);
-}
-
-.zahlungsoptionen-375 .linie-28-1hvWJi {
-  background-color: transparent;
-  height: 1px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(38.21% - 29px);
-  top: 40.87%;
-  width: 76px;
-}
-
-.zahlungsoptionen-375 .gruppe-557-PADnV4 {
-  background-color: transparent;
-  bottom: 0px;
-  height: 49px;
-  left: 0px;
-  position: absolute;
-  width: 105px;
-}
-
-.zahlungsoptionen-375 .hedera-l3dQpI {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(45.45% - 7px);
-  cursor: pointer;
-  display: block;
-  height: 16px;
-  letter-spacing: 0.00px;
-  line-height: 14px;
-  opacity: 0;
-  pointer-events: auto;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  text-decoration: underline;
-  transition: all 0.4s ease;
-  white-space: nowrap;
-  width: 50px;
-}
-
-.zahlungsoptionen-375 .hedera-l3dQpI.bp1-animate-enter375 {
-  animation: bp1-animate-enter375-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter375-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.zahlungsoptionen-375 .hedera-l3dQpI:hover {
-  transform: translate(0, -5px);
-}
-
-.zahlungsoptionen-375 .gruppe-556-l3dQpI {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 49px;
-}
-
-.zahlungsoptionen-375 .ellipse-46-yGhHJA {
-  background-color: var(--black);
-  border-radius: 24.5px;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.zahlungsoptionen-375 .linie-49-yGhHJA {
-  background-color: transparent;
-  height: 22px;
-  left: calc(29.79% - 1px);
-  object-fit: cover;
-  position: absolute;
-  top: calc(50.00% - 11px);
-  width: 2px;
-}
-
-.zahlungsoptionen-375 .linie-51-yGhHJA {
-  background-color: transparent;
-  height: 2px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(49.15% - 10px);
-  top: calc(42.55% - 1px);
-  width: 20px;
-}
-
-.zahlungsoptionen-375 .linie-52-yGhHJA {
-  background-color: transparent;
-  bottom: calc(42.55% - 1px);
-  height: 2px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(49.15% - 10px);
-  width: 20px;
-}
-
-.zahlungsoptionen-375 .linie-50-yGhHJA {
-  background-color: transparent;
-  height: 22px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(29.79% - 1px);
-  top: calc(50.00% - 11px);
-  width: 2px;
-}
-
-.zahlungsoptionen-375 .rechteck-118-lIRXnO {
+.zahlungsoptionen-376 .rechteck-118-JuYUO9 {
   background-color: var(--gallery);
   box-shadow: 0px 2px 4px #00000029;
   height: 34px;
@@ -197,7 +23,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .gruppe-546-lIRXnO {
+.zahlungsoptionen-376 .gruppe-546-JuYUO9 {
   background-color: transparent;
   height: 17px;
   position: absolute;
@@ -206,7 +32,7 @@ to{opacity: 1;
   width: 107px;
 }
 
-.zahlungsoptionen-375 .sichere-bezahlung-MMRAm6 {
+.zahlungsoptionen-376 .sichere-bezahlung-pELBws {
   background-color: transparent;
   bottom: -2px;
   height: 13px;
@@ -220,7 +46,7 @@ to{opacity: 1;
   width: 92px;
 }
 
-.zahlungsoptionen-375 .gruppe-199-MMRAm6 {
+.zahlungsoptionen-376 .gruppe-199-pELBws {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -229,7 +55,7 @@ to{opacity: 1;
   width: 12px;
 }
 
-.zahlungsoptionen-375 .rechteck-155-6r40Qe {
+.zahlungsoptionen-376 .rechteck-155-f4GQYK {
   background-color: var(--stratos);
   border-radius: 2px;
   height: calc(100.00% - 5px);
@@ -239,7 +65,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .pfad-284-6r40Qe {
+.zahlungsoptionen-376 .pfad-284-f4GQYK {
   background-color: transparent;
   height: 14px;
   left: 2px;
@@ -249,7 +75,7 @@ to{opacity: 1;
   width: calc(100.00% - 4px);
 }
 
-.zahlungsoptionen-375 .pfad-285-6r40Qe {
+.zahlungsoptionen-376 .pfad-285-f4GQYK {
   background-color: transparent;
   bottom: calc(29.77% - 2px);
   height: 5px;
@@ -259,7 +85,7 @@ to{opacity: 1;
   width: 7px;
 }
 
-.zahlungsoptionen-375 .gruppe-548-lIRXnO {
+.zahlungsoptionen-376 .gruppe-548-JuYUO9 {
   background-color: transparent;
   height: 17px;
   left: 30px;
@@ -268,7 +94,7 @@ to{opacity: 1;
   width: 78px;
 }
 
-.zahlungsoptionen-375 .stoffqualitt-FARQhG {
+.zahlungsoptionen-376 .stoffqualitt-1fAGh8 {
   background-color: transparent;
   bottom: -1px;
   height: 13px;
@@ -282,7 +108,7 @@ to{opacity: 1;
   width: 62px;
 }
 
-.zahlungsoptionen-375 .iconfinder_4265038_b-FARQhG {
+.zahlungsoptionen-376 .iconfinder_4265038_b-1fAGh8 {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -291,7 +117,7 @@ to{opacity: 1;
   width: 13px;
 }
 
-.zahlungsoptionen-375 .ellipse-41-vkffsC {
+.zahlungsoptionen-376 .ellipse-41-hp9CVN {
   background-color: var(--stratos);
   border-radius: 2.75px;
   height: 6px;
@@ -301,7 +127,7 @@ to{opacity: 1;
   width: 6px;
 }
 
-.zahlungsoptionen-375 .pfad-286-vkffsC {
+.zahlungsoptionen-376 .pfad-286-hp9CVN {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -311,7 +137,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .gruppe-547-lIRXnO {
+.zahlungsoptionen-376 .gruppe-547-JuYUO9 {
   background-color: transparent;
   height: 14px;
   left: calc(46.35% - 35px);
@@ -320,7 +146,7 @@ to{opacity: 1;
   width: 75px;
 }
 
-.zahlungsoptionen-375 .handarbeit-2NVxWg {
+.zahlungsoptionen-376 .handarbeit-gOlK6x {
   background-color: transparent;
   bottom: -2px;
   height: 12px;
@@ -334,7 +160,7 @@ to{opacity: 1;
   width: 56px;
 }
 
-.zahlungsoptionen-375 .iconfinder_scissor_s-2NVxWg {
+.zahlungsoptionen-376 .iconfinder_scissor_s-gOlK6x {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -343,7 +169,7 @@ to{opacity: 1;
   width: 16px;
 }
 
-.zahlungsoptionen-375 .pfad-273-nfRVcx {
+.zahlungsoptionen-376 .pfad-273-MxuMhb {
   background-color: transparent;
   bottom: 2px;
   height: 1px;
@@ -353,7 +179,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.zahlungsoptionen-375 .pfad-274-nfRVcx {
+.zahlungsoptionen-376 .pfad-274-MxuMhb {
   background-color: transparent;
   height: calc(100.00% + 18px);
   left: -9px;
@@ -363,7 +189,7 @@ to{opacity: 1;
   width: calc(100.00% + 18px);
 }
 
-.zahlungsoptionen-375 .pfad-275-nfRVcx {
+.zahlungsoptionen-376 .pfad-275-MxuMhb {
   background-color: transparent;
   height: 23px;
   object-fit: cover;
@@ -373,7 +199,7 @@ to{opacity: 1;
   width: 28px;
 }
 
-.zahlungsoptionen-375 .pfad-276-nfRVcx {
+.zahlungsoptionen-376 .pfad-276-MxuMhb {
   background-color: transparent;
   height: 1px;
   left: 2px;
@@ -383,16 +209,16 @@ to{opacity: 1;
   width: 1px;
 }
 
-.zahlungsoptionen-375 .gruppe-327-lIRXnO {
+.zahlungsoptionen-376 .gruppe-327-JuYUO9 {
   background-color: transparent;
-  bottom: 0px;
+  bottom: -2px;
   height: 331px;
   left: 0px;
   position: absolute;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .rechteck-90-WrfoDi {
+.zahlungsoptionen-376 .rechteck-90-DxdIln {
   background-color: var(--stratos);
   height: 100%;
   left: 0px;
@@ -401,7 +227,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .gruppe-356-WrfoDi {
+.zahlungsoptionen-376 .gruppe-356-DxdIln {
   background-color: transparent;
   height: 88px;
   left: calc(5.99% - 5px);
@@ -410,7 +236,7 @@ to{opacity: 1;
   width: 91px;
 }
 
-.zahlungsoptionen-375 .exklusive-serviceleistungen-AOdF6P {
+.zahlungsoptionen-376 .exklusive-serviceleistungen-DoBgHx {
   -webkit-text-stroke: 0.30000001192092896px var(--swirl);
   background-color: transparent;
   height: 40px;
@@ -423,7 +249,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .gruppe-137-AOdF6P {
+.zahlungsoptionen-376 .gruppe-137-DoBgHx {
   background-color: transparent;
   bottom: 1px;
   height: 11px;
@@ -432,7 +258,7 @@ to{opacity: 1;
   width: calc(100.00% - 9px);
 }
 
-.zahlungsoptionen-375 .versand-frei-ixckEx {
+.zahlungsoptionen-376 .versand-frei-yFpbO2 {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 1px);
@@ -446,7 +272,7 @@ to{opacity: 1;
   width: 62px;
 }
 
-.zahlungsoptionen-375 .truck-ixckEx {
+.zahlungsoptionen-376 .truck-yFpbO2 {
   background-color: transparent;
   height: 100%;
   left: 1px;
@@ -456,16 +282,16 @@ to{opacity: 1;
   width: 19px;
 }
 
-.zahlungsoptionen-375 .gruppe-359-WrfoDi {
+.zahlungsoptionen-376 .gruppe-359-DxdIln {
   background-color: transparent;
-  height: 120px;
+  height: 155px;
   left: calc(48.05% - 53px);
   position: absolute;
   top: 25px;
   width: 111px;
 }
 
-.zahlungsoptionen-375 .knnen-wir-helfen-25tuVa {
+.zahlungsoptionen-376 .knnen-wir-helfen-mprspk {
   -webkit-text-stroke: 0.30000001192092896px var(--swirl);
   background-color: transparent;
   height: 32px;
@@ -478,16 +304,16 @@ to{opacity: 1;
   width: calc(100.00% - 12px);
 }
 
-.zahlungsoptionen-375 .gruppe-357-25tuVa {
+.zahlungsoptionen-376 .gruppe-357-mprspk {
   background-color: transparent;
-  bottom: calc(29.92% - 3px);
+  bottom: calc(46.52% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
   width: 61px;
 }
 
-.zahlungsoptionen-375 .gruppe-140-NbpkCe {
+.zahlungsoptionen-376 .gruppe-140-EvxoME {
   background-color: transparent;
   height: 100%;
   position: absolute;
@@ -496,7 +322,7 @@ to{opacity: 1;
   width: 38px;
 }
 
-.zahlungsoptionen-375 .kontakt-l62KK4 {
+.zahlungsoptionen-376 .kontakt-IVyDKs {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -510,7 +336,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .contact-NbpkCe {
+.zahlungsoptionen-376 .contact-EvxoME {
   background-color: transparent;
   height: calc(100.00% - 2px);
   left: 0px;
@@ -520,16 +346,16 @@ to{opacity: 1;
   width: 18px;
 }
 
-.zahlungsoptionen-375 .gruppe-358-25tuVa {
+.zahlungsoptionen-376 .gruppe-358-mprspk {
   background-color: transparent;
-  bottom: 0px;
+  bottom: calc(24.72% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
   width: calc(100.00% - 3px);
 }
 
-.zahlungsoptionen-375 .gruppe-141-BHVWIe {
+.zahlungsoptionen-376 .gruppe-141-uepyEA {
   background-color: transparent;
   bottom: 0px;
   height: 11px;
@@ -538,7 +364,7 @@ to{opacity: 1;
   width: 87px;
 }
 
-.zahlungsoptionen-375 .zahlungsoptionen-xicV3m {
+.zahlungsoptionen-376 .zahlungsoptionen-mvRfZq {
   background-color: transparent;
   height: calc(100.00% + 2px);
   left: 0px;
@@ -551,7 +377,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .money-BHVWIe {
+.zahlungsoptionen-376 .money-uepyEA {
   background-color: transparent;
   height: calc(100.00% - 1px);
   left: 0px;
@@ -561,7 +387,49 @@ to{opacity: 1;
   width: 15px;
 }
 
-.zahlungsoptionen-375 .gruppe-363-WrfoDi {
+.zahlungsoptionen-376 .gruppe-694-mprspk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 4px;
+  position: absolute;
+  width: 40px;
+}
+
+.zahlungsoptionen-376 .gruppe-141-He8krM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.99% - 5px);
+  width: 21px;
+}
+
+.zahlungsoptionen-376 .nft-yjBkKX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-376 .x498951_child_clothes-He8krM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.zahlungsoptionen-376 .gruppe-363-DxdIln {
   background-color: transparent;
   height: 196px;
   position: absolute;
@@ -570,7 +438,7 @@ to{opacity: 1;
   width: 102px;
 }
 
-.zahlungsoptionen-375 .das-unternehmen-or9nFj {
+.zahlungsoptionen-376 .das-unternehmen-GMZh7e {
   -webkit-text-stroke: 0.30000001192092896px var(--swirl);
   background-color: transparent;
   height: 17px;
@@ -584,7 +452,7 @@ to{opacity: 1;
   width: calc(100.00% - 5px);
 }
 
-.zahlungsoptionen-375 .gruppe-362-or9nFj {
+.zahlungsoptionen-376 .gruppe-362-GMZh7e {
   background-color: transparent;
   bottom: 0px;
   height: 11px;
@@ -593,7 +461,7 @@ to{opacity: 1;
   width: 68px;
 }
 
-.zahlungsoptionen-375 .gruppe-158-vHcqgx {
+.zahlungsoptionen-376 .gruppe-158-0VSwQs {
   background-color: transparent;
   cursor: pointer;
   height: 100%;
@@ -603,7 +471,7 @@ to{opacity: 1;
   width: calc(100.00% - 15px);
 }
 
-.zahlungsoptionen-375 .impressum-FmSMmN {
+.zahlungsoptionen-376 .impressum-JIW1Xj {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -617,7 +485,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .gruppe-154-vHcqgx {
+.zahlungsoptionen-376 .gruppe-154-0VSwQs {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -626,7 +494,7 @@ to{opacity: 1;
   width: 11px;
 }
 
-.zahlungsoptionen-375 .gruppe-159-O84etB {
+.zahlungsoptionen-376 .gruppe-159-k6yxsx {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -635,7 +503,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .ellipse-25-ZB7rvX {
+.zahlungsoptionen-376 .ellipse-25-4xDpcx {
   background-color: var(--white);
   border-radius: 5.47px;
   height: 100%;
@@ -645,7 +513,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .i-ZB7rvX {
+.zahlungsoptionen-376 .i-4xDpcx {
   background-color: transparent;
   height: 10px;
   letter-spacing: 0.00px;
@@ -659,7 +527,7 @@ to{opacity: 1;
   width: 4px;
 }
 
-.zahlungsoptionen-375 .gruppe-160-or9nFj {
+.zahlungsoptionen-376 .gruppe-160-GMZh7e {
   background-color: transparent;
   height: 15px;
   left: 1px;
@@ -668,7 +536,7 @@ to{opacity: 1;
   width: 78px;
 }
 
-.zahlungsoptionen-375 .gruppe-155-xciPIE {
+.zahlungsoptionen-376 .gruppe-155-a0SsPQ {
   background-color: transparent;
   bottom: 2px;
   height: 11px;
@@ -677,7 +545,7 @@ to{opacity: 1;
   width: 63px;
 }
 
-.zahlungsoptionen-375 .gruppe-138-hF2L6C {
+.zahlungsoptionen-376 .gruppe-138-EtDRyx {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -686,7 +554,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .ber-borbus-3DyvQN {
+.zahlungsoptionen-376 .ber-borbus-xIV45D {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -700,7 +568,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .b-xciPIE {
+.zahlungsoptionen-376 .b-a0SsPQ {
   background-color: transparent;
   height: calc(100.00% + 2px);
   left: 0px;
@@ -713,7 +581,7 @@ to{opacity: 1;
   width: 13px;
 }
 
-.zahlungsoptionen-375 .gruppe-361-or9nFj {
+.zahlungsoptionen-376 .gruppe-361-GMZh7e {
   background-color: transparent;
   bottom: 28px;
   height: 26px;
@@ -722,7 +590,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.zahlungsoptionen-375 .gruppe-156-Judmyj {
+.zahlungsoptionen-376 .gruppe-156-n9J7xO {
   background-color: transparent;
   cursor: pointer;
   height: 100%;
@@ -732,7 +600,7 @@ to{opacity: 1;
   width: calc(100.00% - 16px);
 }
 
-.zahlungsoptionen-375 .geschftsbedien-gungen-gUc7vC {
+.zahlungsoptionen-376 .geschftsbedien-gungen-1ZvbLj {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -746,7 +614,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .solid-Judmyj {
+.zahlungsoptionen-376 .solid-n9J7xO {
   background-color: transparent;
   height: 12px;
   left: 0px;
@@ -756,7 +624,7 @@ to{opacity: 1;
   width: 13px;
 }
 
-.zahlungsoptionen-375 .gruppe-360-or9nFj {
+.zahlungsoptionen-376 .gruppe-360-GMZh7e {
   background-color: transparent;
   bottom: calc(41.77% - 5px);
   height: 13px;
@@ -765,7 +633,7 @@ to{opacity: 1;
   width: 81px;
 }
 
-.zahlungsoptionen-375 .gruppe-157-VHFatt {
+.zahlungsoptionen-376 .gruppe-157-YJe4DV {
   background-color: transparent;
   bottom: 1px;
   cursor: pointer;
@@ -775,7 +643,7 @@ to{opacity: 1;
   width: 65px;
 }
 
-.zahlungsoptionen-375 .datenschutz-mnvbVv {
+.zahlungsoptionen-376 .datenschutz-1OyDnE {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -789,7 +657,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .cookie-VHFatt {
+.zahlungsoptionen-376 .cookie-YJe4DV {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -799,7 +667,7 @@ to{opacity: 1;
   width: 13px;
 }
 
-.zahlungsoptionen-375 .gruppe-325-WrfoDi {
+.zahlungsoptionen-376 .gruppe-325-DxdIln {
   background-color: transparent;
   bottom: 18px;
   cursor: pointer;
@@ -809,7 +677,7 @@ to{opacity: 1;
   width: 147px;
 }
 
-.zahlungsoptionen-375 .gruppe-162-UPOekS {
+.zahlungsoptionen-376 .gruppe-162-7rKK4G {
   background-color: transparent;
   bottom: 1px;
   cursor: pointer;
@@ -819,7 +687,7 @@ to{opacity: 1;
   width: 122px;
 }
 
-.zahlungsoptionen-375 .folge-uns-auf-instagram-5vPcKx {
+.zahlungsoptionen-376 .folge-uns-auf-instagram-xfogZv {
   background-color: transparent;
   height: 17px;
   left: 0px;
@@ -832,7 +700,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.zahlungsoptionen-375 .icon-instagram-UPOekS {
+.zahlungsoptionen-376 .icon-instagram-7rKK4G {
   background-color: transparent;
   height: 100%;
   object-fit: cover;
@@ -842,7 +710,7 @@ to{opacity: 1;
   width: 18px;
 }
 
-.zahlungsoptionen-375 .ssl-WrfoDi {
+.zahlungsoptionen-376 .ssl-DxdIln {
   background-color: transparent;
   bottom: 55px;
   display: block;
@@ -854,20 +722,20 @@ to{opacity: 1;
   width: 90px;
 }
 
-.zahlungsoptionen-375 .ssl-WrfoDi.bp1-animate-enter376 {
-  animation: bp1-animate-enter376-frames 0.20s linear 0.10s 1 normal forwards;
+.zahlungsoptionen-376 .ssl-DxdIln.bp1-animate-enter276 {
+  animation: bp1-animate-enter276-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter376-frames {
+@keyframes bp1-animate-enter276-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.zahlungsoptionen-375 .borbus-lIRXnO {
+.zahlungsoptionen-376 .borbus-JuYUO9 {
   background-color: transparent;
   cursor: pointer;
   height: 57px;
@@ -879,4 +747,268 @@ to{opacity: 1;
   top: 90px;
   white-space: nowrap;
   width: 240px;
+}
+
+.zahlungsoptionen-376 .gruppe-710-JuYUO9 {
+  background-color: transparent;
+  height: 353px;
+  left: calc(50.00% - 166px);
+  position: absolute;
+  top: calc(38.36% - 135px);
+  width: 331px;
+}
+
+.zahlungsoptionen-376 .gruppe-677-x2JwvY {
+  background-color: transparent;
+  height: 335px;
+  left: calc(50.00% - 166px);
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.zahlungsoptionen-376 .gruppe-544-SJ6AyJ {
+  background-color: transparent;
+  height: 335px;
+  left: calc(7.88% - 25px);
+  position: absolute;
+  top: calc(50.00% - 168px);
+  width: 318px;
+}
+
+.zahlungsoptionen-376 .gruppe-166-ijPptH {
+  background-color: transparent;
+  display: block;
+  height: 259px;
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-376 .gruppe-166-ijPptH.bp1-animate-enter277 {
+  animation: bp1-animate-enter277-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter277-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-376 .bezahlen-sie-sicher-xRvLrT {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: 43px;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.zahlungsoptionen-376 .diese-anleitung-ist-xRvLrT {
+  background-color: transparent;
+  bottom: 2px;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-376 .linie-28-xRvLrT {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.29% - 36px);
+  top: 31.08%;
+  width: 76px;
+}
+
+.zahlungsoptionen-376 .gruppe-557-ijPptH {
+  background-color: transparent;
+  bottom: 0px;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  width: 269px;
+}
+
+.zahlungsoptionen-376 .downloadpdf-B11TpF {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(42.19% - 7px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 214px;
+}
+
+.zahlungsoptionen-376 .downloadpdf-B11TpF.bp1-animate-enter278 {
+  animation: bp1-animate-enter278-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter278-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-376 .downloadpdf-B11TpF:hover {
+  transform: translate(0, -5px);
+}
+
+.zahlungsoptionen-376 .gruppe-556-B11TpF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 49px;
+}
+
+.zahlungsoptionen-376 .ellipse-46-4tVSLa {
+  background-color: var(--black);
+  border-radius: 24.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-376 .linie-49-4tVSLa {
+  background-color: transparent;
+  height: 22px;
+  left: calc(29.79% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 11px);
+  width: 2px;
+}
+
+.zahlungsoptionen-376 .linie-51-4tVSLa {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  top: calc(42.55% - 1px);
+  width: 20px;
+}
+
+.zahlungsoptionen-376 .linie-52-4tVSLa {
+  background-color: transparent;
+  bottom: calc(42.55% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.15% - 10px);
+  width: 20px;
+}
+
+.zahlungsoptionen-376 .linie-50-4tVSLa {
+  background-color: transparent;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.79% - 1px);
+  top: calc(50.00% - 11px);
+  width: 2px;
+}
+
+.zahlungsoptionen-376 .kleidchenbezeichnung-SJ6AyJ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 143px;
+  white-space: nowrap;
+  width: 333px;
+}
+
+.zahlungsoptionen-376 .kleidchenbezeichnung-SJ6AyJ.bp1-animate-enter279 {
+  animation: bp1-animate-enter279-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter279-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-376 .gruppe-706-x2JwvY {
+  background-color: transparent;
+  height: 11px;
+  left: calc(23.69% - 19px);
+  position: absolute;
+  top: 342px;
+  width: 82px;
+}
+
+.zahlungsoptionen-376 .downloadpdf-ZyLv3S {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-376 .downloadpdf-ZyLv3S.bp1-animate-enter280 {
+  animation: bp1-animate-enter280-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter280-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
 }

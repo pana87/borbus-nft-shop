@@ -9,6 +9,7 @@ import {
 } from "./render.js"
 import { _noAddressFound, _noCartItemFound, _noUserFound, _noUserSessionFound } from "./exceptions.js"
 import { getPriceInHbar } from "./fetch.js"
+import { _getCart } from "./storage.js"
 
 function _onLoginButtonClick() {
   const loginButtons = document.querySelectorAll("div[class*='login1']")
@@ -289,6 +290,28 @@ function _onDeleteCartButtonClick() {
 
 }
 _onDeleteCartButtonClick()
+
+function _onCartButtonTopRightClick() {
+  const cartButtons = document.querySelectorAll("div[class*='warenkorb-oben-rechts']")
+
+  if (cartButtons.length === 0) return
+
+  cartButtons.forEach(button => {
+    button.setAttribute("style", "cursor: pointer;")
+    button.addEventListener("click", async () => {
+
+      const cart = await _getCart()
+
+      if (cart.length === 0) {
+        alert("Es befindet sich kein Kleidchen im Warenkorb")
+        window.location.assign("/shop")
+        return
+      }
+      window.location.assign("/warenkorb")
+    })
+  })
+}
+_onCartButtonTopRightClick()
 
 function _onRegisterButtonClick() {
   const registerButtons = document.querySelectorAll("div[class*='registrieren1']")

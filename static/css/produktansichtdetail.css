@@ -12,6 +12,15 @@
   width: 100%;
 }
 
+.produktansicht-detail-1200 .detailaufnahme-mRPdjk {
+  background-color: var(--white);
+  bottom: 1110px;
+  height: 488px;
+  position: absolute;
+  right: 0px;
+  width: 61.00%;
+}
+
 .produktansicht-detail-1200 .rechteck-136-mRPdjk {
   background-color: var(--gallery);
   bottom: calc(25.54% - 199px);
@@ -24,13 +33,13 @@
   width: 100%;
 }
 
-.produktansicht-detail-1200 .rechteck-136-mRPdjk.bp2-animate-enter245 {
-  animation: bp2-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .rechteck-136-mRPdjk.bp2-animate-enter75 {
+  animation: bp2-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter245-frames {
+@keyframes bp2-animate-enter75-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -49,13 +58,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-detail-1200 .ellipse-32-mRPdjk.bp2-animate-enter246 {
-  animation: bp2-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .ellipse-32-mRPdjk.bp2-animate-enter76 {
+  animation: bp2-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter246-frames {
+@keyframes bp2-animate-enter76-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -74,13 +83,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-detail-1200 .ellipse-33-mRPdjk.bp2-animate-enter247 {
-  animation: bp2-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .ellipse-33-mRPdjk.bp2-animate-enter77 {
+  animation: bp2-animate-enter77-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter247-frames {
+@keyframes bp2-animate-enter77-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -99,13 +108,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-detail-1200 .linie-32-mRPdjk.bp2-animate-enter248 {
-  animation: bp2-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .linie-32-mRPdjk.bp2-animate-enter78 {
+  animation: bp2-animate-enter78-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter248-frames {
+@keyframes bp2-animate-enter78-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -124,13 +133,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-detail-1200 .linie-37-mRPdjk.bp2-animate-enter249 {
-  animation: bp2-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .linie-37-mRPdjk.bp2-animate-enter79 {
+  animation: bp2-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter249-frames {
+@keyframes bp2-animate-enter79-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -149,13 +158,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-detail-1200 .linie-33-mRPdjk.bp2-animate-enter250 {
-  animation: bp2-animate-enter250-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .linie-33-mRPdjk.bp2-animate-enter80 {
+  animation: bp2-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter250-frames {
+@keyframes bp2-animate-enter80-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -174,13 +183,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-detail-1200 .linie-36-mRPdjk.bp2-animate-enter251 {
-  animation: bp2-animate-enter251-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .linie-36-mRPdjk.bp2-animate-enter81 {
+  animation: bp2-animate-enter81-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter251-frames {
+@keyframes bp2-animate-enter81-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -207,13 +216,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-1200 .rechteck-137-Oiopx8.bp2-animate-enter252 {
-  animation: bp2-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .rechteck-137-Oiopx8.bp2-animate-enter82 {
+  animation: bp2-animate-enter82-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter252-frames {
+@keyframes bp2-animate-enter82-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -231,13 +240,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansicht-detail-1200 .gruppe-189-Oiopx8.bp2-animate-enter253 {
-  animation: bp2-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .gruppe-189-Oiopx8.bp2-animate-enter83 {
+  animation: bp2-animate-enter83-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter253-frames {
+@keyframes bp2-animate-enter83-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -297,13 +306,13 @@ to{opacity: 1;
   width: 209px;
 }
 
-.produktansicht-detail-1200 .produktinformationen-Oiopx8.bp2-animate-enter254 {
-  animation: bp2-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .produktinformationen-Oiopx8.bp2-animate-enter84 {
+  animation: bp2-animate-enter84-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter254-frames {
+@keyframes bp2-animate-enter84-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -325,13 +334,13 @@ to{opacity: 1;
   width: calc(100.00% - 110px);
 }
 
-.produktansicht-detail-1200 .infotext-Oiopx8.bp2-animate-enter255 {
-  animation: bp2-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .infotext-Oiopx8.bp2-animate-enter85 {
+  animation: bp2-animate-enter85-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter255-frames {
+@keyframes bp2-animate-enter85-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -353,13 +362,13 @@ to{opacity: 1;
   width: calc(100.00% - 110px);
 }
 
-.produktansicht-detail-1200 .angefangen-bei-der-s-Oiopx8.bp2-animate-enter256 {
-  animation: bp2-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .angefangen-bei-der-s-Oiopx8.bp2-animate-enter86 {
+  animation: bp2-animate-enter86-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter256-frames {
+@keyframes bp2-animate-enter86-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -391,13 +400,13 @@ to{opacity: 1;
   width: 100px;
 }
 
-.produktansicht-detail-1200 .vertrglichkeitwort-tveYyu.bp2-animate-enter257 {
-  animation: bp2-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .vertrglichkeitwort-tveYyu.bp2-animate-enter87 {
+  animation: bp2-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter257-frames {
+@keyframes bp2-animate-enter87-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -420,13 +429,13 @@ to{opacity: 1;
   width: 44px;
 }
 
-.produktansicht-detail-1200 .grewort-tveYyu.bp2-animate-enter258 {
-  animation: bp2-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .grewort-tveYyu.bp2-animate-enter88 {
+  animation: bp2-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter258-frames {
+@keyframes bp2-animate-enter88-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -449,13 +458,13 @@ to{opacity: 1;
   width: 33px;
 }
 
-.produktansicht-detail-1200 .stoffwort-tveYyu.bp2-animate-enter259 {
-  animation: bp2-animate-enter259-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .stoffwort-tveYyu.bp2-animate-enter89 {
+  animation: bp2-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter259-frames {
+@keyframes bp2-animate-enter89-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -478,13 +487,13 @@ to{opacity: 1;
   width: 48px;
 }
 
-.produktansicht-detail-1200 .musterwort-tveYyu.bp2-animate-enter260 {
-  animation: bp2-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .musterwort-tveYyu.bp2-animate-enter90 {
+  animation: bp2-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter260-frames {
+@keyframes bp2-animate-enter90-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -507,13 +516,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansicht-detail-1200 .vertraeglichkeit1-tveYyu.bp2-animate-enter261 {
-  animation: bp2-animate-enter261-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .vertraeglichkeit1-tveYyu.bp2-animate-enter91 {
+  animation: bp2-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter261-frames {
+@keyframes bp2-animate-enter91-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -536,13 +545,13 @@ to{opacity: 1;
   width: 17px;
 }
 
-.produktansicht-detail-1200 .groesse1-tveYyu.bp2-animate-enter262 {
-  animation: bp2-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .groesse1-tveYyu.bp2-animate-enter92 {
+  animation: bp2-animate-enter92-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter262-frames {
+@keyframes bp2-animate-enter92-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -565,13 +574,13 @@ to{opacity: 1;
   width: 70px;
 }
 
-.produktansicht-detail-1200 .stoff1-tveYyu.bp2-animate-enter263 {
-  animation: bp2-animate-enter263-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .stoff1-tveYyu.bp2-animate-enter93 {
+  animation: bp2-animate-enter93-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter263-frames {
+@keyframes bp2-animate-enter93-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -594,13 +603,13 @@ to{opacity: 1;
   width: 51px;
 }
 
-.produktansicht-detail-1200 .muster1-tveYyu.bp2-animate-enter264 {
-  animation: bp2-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .muster1-tveYyu.bp2-animate-enter94 {
+  animation: bp2-animate-enter94-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter264-frames {
+@keyframes bp2-animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -619,13 +628,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-1200 .ellipse-42-tveYyu.bp2-animate-enter265 {
-  animation: bp2-animate-enter265-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .ellipse-42-tveYyu.bp2-animate-enter95 {
+  animation: bp2-animate-enter95-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter265-frames {
+@keyframes bp2-animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -644,13 +653,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-1200 .ellipse-43-tveYyu.bp2-animate-enter266 {
-  animation: bp2-animate-enter266-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .ellipse-43-tveYyu.bp2-animate-enter96 {
+  animation: bp2-animate-enter96-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter266-frames {
+@keyframes bp2-animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -669,13 +678,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-1200 .ellipse-44-tveYyu.bp2-animate-enter267 {
-  animation: bp2-animate-enter267-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .ellipse-44-tveYyu.bp2-animate-enter97 {
+  animation: bp2-animate-enter97-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter267-frames {
+@keyframes bp2-animate-enter97-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -694,20 +703,20 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-1200 .ellipse-45-tveYyu.bp2-animate-enter268 {
-  animation: bp2-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .ellipse-45-tveYyu.bp2-animate-enter98 {
+  animation: bp2-animate-enter98-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter268-frames {
+@keyframes bp2-animate-enter98-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.produktansicht-detail-1200 .linkprodukt-mRPdjk {
+.produktansicht-detail-1200 .icon-play-mRPdjk {
   background-color: transparent;
   cursor: pointer;
   display: block;
@@ -722,46 +731,21 @@ to{opacity: 1;
   width: 36px;
 }
 
-.produktansicht-detail-1200 .linkprodukt-mRPdjk.bp2-animate-enter269 {
-  animation: bp2-animate-enter269-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .icon-play-mRPdjk.bp2-animate-enter99 {
+  animation: bp2-animate-enter99-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter269-frames {
+@keyframes bp2-animate-enter99-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.produktansicht-detail-1200 .linkprodukt-mRPdjk:hover {
+.produktansicht-detail-1200 .icon-play-mRPdjk:hover {
   transform: translate(5px, 0);
-}
-
-.produktansicht-detail-1200 .detailaufnahme-mRPdjk {
-  background-color: transparent;
-  bottom: 1110px;
-  display: block;
-  height: 488px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  right: 0px;
-  width: 61.00%;
-}
-
-.produktansicht-detail-1200 .detailaufnahme-mRPdjk.bp2-animate-enter270 {
-  animation: bp2-animate-enter270-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter270-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
 }
 
 .produktansicht-detail-1200 .x24-artikel-mRPdjk {
@@ -987,7 +971,7 @@ to{opacity: 1;
   width: 386px;
 }
 
-.produktansicht-detail-1200 .kleidchenbezeichnung-TyPxFh {
+.produktansicht-detail-1200 .bezeichnung-TyPxFh {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1003,13 +987,13 @@ to{opacity: 1;
   width: 129px;
 }
 
-.produktansicht-detail-1200 .kleidchenbezeichnung-TyPxFh.bp2-animate-enter271 {
-  animation: bp2-animate-enter271-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .bezeichnung-TyPxFh.bp2-animate-enter100 {
+  animation: bp2-animate-enter100-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter271-frames {
+@keyframes bp2-animate-enter100-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1031,13 +1015,13 @@ to{opacity: 1;
   width: 163px;
 }
 
-.produktansicht-detail-1200 .x6-monate-3-jahre-TyPxFh.bp2-animate-enter272 {
-  animation: bp2-animate-enter272-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .x6-monate-3-jahre-TyPxFh.bp2-animate-enter101 {
+  animation: bp2-animate-enter101-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter272-frames {
+@keyframes bp2-animate-enter101-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1060,13 +1044,13 @@ to{opacity: 1;
   width: 71px;
 }
 
-.produktansicht-detail-1200 .stckpreis-TyPxFh.bp2-animate-enter273 {
-  animation: bp2-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .stckpreis-TyPxFh.bp2-animate-enter102 {
+  animation: bp2-animate-enter102-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter273-frames {
+@keyframes bp2-animate-enter102-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1085,13 +1069,13 @@ to{opacity: 1;
   width: calc(100.00% - 122px);
 }
 
-.produktansicht-detail-1200 .linie-31-TyPxFh.bp2-animate-enter274 {
-  animation: bp2-animate-enter274-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .linie-31-TyPxFh.bp2-animate-enter103 {
+  animation: bp2-animate-enter103-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter274-frames {
+@keyframes bp2-animate-enter103-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1112,13 +1096,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-1200 .warenkorb-button-mitte-TyPxFh.bp2-animate-enter275 {
-  animation: bp2-animate-enter275-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .warenkorb-button-mitte-TyPxFh.bp2-animate-enter104 {
+  animation: bp2-animate-enter104-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter275-frames {
+@keyframes bp2-animate-enter104-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1178,13 +1162,13 @@ to{opacity: 1;
   width: 330px;
 }
 
-.produktansicht-detail-1200 .versand-und-rckgabeinformation-CSGJz5.bp2-animate-enter276 {
-  animation: bp2-animate-enter276-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .versand-und-rckgabeinformation-CSGJz5.bp2-animate-enter105 {
+  animation: bp2-animate-enter105-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter276-frames {
+@keyframes bp2-animate-enter105-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1207,13 +1191,13 @@ to{opacity: 1;
   width: 171px;
 }
 
-.produktansicht-detail-1200 .zahlungsoptionen-CSGJz5.bp2-animate-enter277 {
-  animation: bp2-animate-enter277-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .zahlungsoptionen-CSGJz5.bp2-animate-enter106 {
+  animation: bp2-animate-enter106-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter277-frames {
+@keyframes bp2-animate-enter106-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1235,13 +1219,13 @@ to{opacity: 1;
   width: calc(100.00% - 34px);
 }
 
-.produktansicht-detail-1200 .bei-jeder-bestellung-CSGJz5.bp2-animate-enter278 {
-  animation: bp2-animate-enter278-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .bei-jeder-bestellung-CSGJz5.bp2-animate-enter107 {
+  animation: bp2-animate-enter107-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter278-frames {
+@keyframes bp2-animate-enter107-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1263,13 +1247,13 @@ to{opacity: 1;
   width: calc(100.00% - 171px);
 }
 
-.produktansicht-detail-1200 .borbus-akzeptiert-fo-CSGJz5.bp2-animate-enter279 {
-  animation: bp2-animate-enter279-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .borbus-akzeptiert-fo-CSGJz5.bp2-animate-enter108 {
+  animation: bp2-animate-enter108-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter279-frames {
+@keyframes bp2-animate-enter108-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1288,13 +1272,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-1200 .linie-39-CSGJz5.bp2-animate-enter280 {
-  animation: bp2-animate-enter280-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .linie-39-CSGJz5.bp2-animate-enter109 {
+  animation: bp2-animate-enter109-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter280-frames {
+@keyframes bp2-animate-enter109-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1313,13 +1297,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-1200 .linie-47-CSGJz5.bp2-animate-enter281 {
-  animation: bp2-animate-enter281-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .linie-47-CSGJz5.bp2-animate-enter110 {
+  animation: bp2-animate-enter110-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter281-frames {
+@keyframes bp2-animate-enter110-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1355,13 +1339,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.produktansicht-detail-1200 .hedera-51Gd4W.bp2-animate-enter282 {
-  animation: bp2-animate-enter282-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .hedera-51Gd4W.bp2-animate-enter111 {
+  animation: bp2-animate-enter111-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter282-frames {
+@keyframes bp2-animate-enter111-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1447,13 +1431,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.produktansicht-detail-1200 .home-mRPdjk.bp2-animate-enter283 {
-  animation: bp2-animate-enter283-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .home-mRPdjk.bp2-animate-enter112 {
+  animation: bp2-animate-enter112-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter283-frames {
+@keyframes bp2-animate-enter112-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1476,13 +1460,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.produktansicht-detail-1200 .shop-mRPdjk.bp2-animate-enter284 {
-  animation: bp2-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .shop-mRPdjk.bp2-animate-enter113 {
+  animation: bp2-animate-enter113-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter284-frames {
+@keyframes bp2-animate-enter113-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1501,13 +1485,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.produktansicht-detail-1200 .gruppe-188-mRPdjk.bp2-animate-enter285 {
-  animation: bp2-animate-enter285-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .gruppe-188-mRPdjk.bp2-animate-enter114 {
+  animation: bp2-animate-enter114-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter285-frames {
+@keyframes bp2-animate-enter114-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1541,13 +1525,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansicht-detail-1200 .gruppe-203-mRPdjk.bp2-animate-enter286 {
-  animation: bp2-animate-enter286-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .gruppe-203-mRPdjk.bp2-animate-enter115 {
+  animation: bp2-animate-enter115-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter286-frames {
+@keyframes bp2-animate-enter115-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1598,71 +1582,17 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansicht-detail-1200 .informationen-mRPdjk.bp2-animate-enter287 {
-  animation: bp2-animate-enter287-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .informationen-mRPdjk.bp2-animate-enter116 {
+  animation: bp2-animate-enter116-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter287-frames {
+@keyframes bp2-animate-enter116-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
-}
-
-.produktansicht-detail-1200 .warenkorb-oben-rechts-mRPdjk {
-  background-color: transparent;
-  height: 41px;
-  position: absolute;
-  right: 83px;
-  top: 54px;
-  width: 44px;
-}
-
-.produktansicht-detail-1200 .iconfinder_basket_ecommerce_shop_4177565-UC6IFR {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 16px;
-  top: 17px;
-  width: 28px;
-}
-
-.produktansicht-detail-1200 .gruppe-579-UC6IFR {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-detail-1200 .ellipse-47-eOFgqs {
-  background-color: var(--stratos);
-  border-radius: 11.5px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-detail-1200 .anzahl-warenkorb-eOFgqs {
-  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
-  background-color: transparent;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 15px;
-  position: absolute;
-  right: 5px;
-  text-align: left;
-  top: 4px;
-  white-space: nowrap;
-  width: 11px;
 }
 
 .produktansicht-detail-1200 .borbus-mRPdjk {
@@ -1699,13 +1629,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-1200 .gruppe-163-tpT6Tg.bp2-animate-enter288 {
-  animation: bp2-animate-enter288-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .gruppe-163-tpT6Tg.bp2-animate-enter117 {
+  animation: bp2-animate-enter117-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter288-frames {
+@keyframes bp2-animate-enter117-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1872,17 +1802,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.produktansicht-detail-1200 .gruppe-692-2pgHJG {
+.produktansicht-detail-1200 .gruppe-623-2pgHJG {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.produktansicht-detail-1200 .gruppe-141-x4moRI {
+.produktansicht-detail-1200 .gruppe-141-Pi4yJn {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1891,27 +1820,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-1200 .nft-0a2gxt {
+.produktansicht-detail-1200 .nft-JwNSfH {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.produktansicht-detail-1200 .x498951_child_clothes-2pgHJG {
+.produktansicht-detail-1200 .gruppe-622-JwNSfH {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.produktansicht-detail-1200 .gruppe-141-KdyZAn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-detail-1200 .x498951_child_clothes-KUYf3F {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .produktansicht-detail-1200 .gruppe-345-nquBQU {
@@ -2075,7 +2023,6 @@ to{opacity: 1;
 
 .produktansicht-detail-1200 .gruppe-156-Nxsesg {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -2203,7 +2150,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.produktansicht-detail-1200 .instagram-sketched-qnnZyD {
+.produktansicht-detail-1200 .icon-instagram-qnnZyD {
   background-color: transparent;
   height: 18px;
   left: 1px;
@@ -2225,17 +2172,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansicht-detail-1200 .ssl-tpT6Tg.bp2-animate-enter289 {
-  animation: bp2-animate-enter289-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-detail-1200 .ssl-tpT6Tg.bp2-animate-enter118 {
+  animation: bp2-animate-enter118-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter289-frames {
+@keyframes bp2-animate-enter118-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.produktansicht-detail-1200 .warenkorb-oben-rechts-mRPdjk {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.produktansicht-detail-1200 .iconfinder_basket_ecommerce_shop_4177565-UC6IFR {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht-detail-1200 .gruppe-579-UC6IFR {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-detail-1200 .ellipse-47-eOFgqs {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-detail-1200 .anzahl-warenkorb-eOFgqs {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - produktansicht-detail-767 */
 
@@ -2252,28 +2252,12 @@ to{opacity: 1;
 }
 
 .produktansicht-detail-767 .detailaufnahme-Slq7ie {
-  background-color: transparent;
-  display: block;
+  background-color: var(--white);
   height: 556px;
   left: -63px;
-  object-fit: cover;
-  opacity: 0;
   position: absolute;
   top: 378px;
-  width: calc(100.00% + 66px);
-}
-
-.produktansicht-detail-767 .detailaufnahme-Slq7ie.bp1-animate-enter233 {
-  animation: bp1-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter233-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
+  width: calc(100.00% + 63px);
 }
 
 .produktansicht-detail-767 .ellipse-32-Slq7ie {
@@ -2288,13 +2272,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-detail-767 .ellipse-32-Slq7ie.bp1-animate-enter234 {
-  animation: bp1-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .ellipse-32-Slq7ie.bp1-animate-enter67 {
+  animation: bp1-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter234-frames {
+@keyframes bp1-animate-enter67-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2313,13 +2297,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-detail-767 .ellipse-33-Slq7ie.bp1-animate-enter235 {
-  animation: bp1-animate-enter235-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .ellipse-33-Slq7ie.bp1-animate-enter68 {
+  animation: bp1-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter235-frames {
+@keyframes bp1-animate-enter68-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2338,13 +2322,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-detail-767 .linie-32-Slq7ie.bp1-animate-enter236 {
-  animation: bp1-animate-enter236-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .linie-32-Slq7ie.bp1-animate-enter69 {
+  animation: bp1-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter236-frames {
+@keyframes bp1-animate-enter69-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2363,13 +2347,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-detail-767 .linie-37-Slq7ie.bp1-animate-enter237 {
-  animation: bp1-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .linie-37-Slq7ie.bp1-animate-enter70 {
+  animation: bp1-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter237-frames {
+@keyframes bp1-animate-enter70-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2388,13 +2372,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-detail-767 .linie-33-Slq7ie.bp1-animate-enter238 {
-  animation: bp1-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .linie-33-Slq7ie.bp1-animate-enter71 {
+  animation: bp1-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter238-frames {
+@keyframes bp1-animate-enter71-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2413,20 +2397,20 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-detail-767 .linie-36-Slq7ie.bp1-animate-enter239 {
-  animation: bp1-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .linie-36-Slq7ie.bp1-animate-enter72 {
+  animation: bp1-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter239-frames {
+@keyframes bp1-animate-enter72-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.produktansicht-detail-767 .linkprodukt-Slq7ie {
+.produktansicht-detail-767 .icon-play-Slq7ie {
   background-color: transparent;
   cursor: pointer;
   display: block;
@@ -2441,20 +2425,20 @@ to{opacity: 1;
   width: 36px;
 }
 
-.produktansicht-detail-767 .linkprodukt-Slq7ie.bp1-animate-enter240 {
-  animation: bp1-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .icon-play-Slq7ie.bp1-animate-enter73 {
+  animation: bp1-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter240-frames {
+@keyframes bp1-animate-enter73-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.produktansicht-detail-767 .linkprodukt-Slq7ie:hover {
+.produktansicht-detail-767 .icon-play-Slq7ie:hover {
   transform: translate(5px, 0);
 }
 
@@ -2696,13 +2680,13 @@ to{opacity: 1;
   width: 163px;
 }
 
-.produktansicht-detail-767 .x6-monate-3-jahre-4ThDC7.bp1-animate-enter241 {
-  animation: bp1-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .x6-monate-3-jahre-4ThDC7.bp1-animate-enter74 {
+  animation: bp1-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter241-frames {
+@keyframes bp1-animate-enter74-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2725,13 +2709,13 @@ to{opacity: 1;
   width: 71px;
 }
 
-.produktansicht-detail-767 .stckpreis-4ThDC7.bp1-animate-enter242 {
-  animation: bp1-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .stckpreis-4ThDC7.bp1-animate-enter75 {
+  animation: bp1-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter242-frames {
+@keyframes bp1-animate-enter75-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2752,13 +2736,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-767 .warenkorb-button-mitte-4ThDC7.bp1-animate-enter243 {
-  animation: bp1-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .warenkorb-button-mitte-4ThDC7.bp1-animate-enter76 {
+  animation: bp1-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter243-frames {
+@keyframes bp1-animate-enter76-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2793,7 +2777,7 @@ to{opacity: 1;
   width: 147px;
 }
 
-.produktansicht-detail-767 .kleidchenbezeichnung-4ThDC7 {
+.produktansicht-detail-767 .bezeichnung-4ThDC7 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -2809,13 +2793,13 @@ to{opacity: 1;
   width: 129px;
 }
 
-.produktansicht-detail-767 .kleidchenbezeichnung-4ThDC7.bp1-animate-enter244 {
-  animation: bp1-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .bezeichnung-4ThDC7.bp1-animate-enter77 {
+  animation: bp1-animate-enter77-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter244-frames {
+@keyframes bp1-animate-enter77-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2834,13 +2818,13 @@ to{opacity: 1;
   width: 155px;
 }
 
-.produktansicht-detail-767 .linie-31-4ThDC7.bp1-animate-enter245 {
-  animation: bp1-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .linie-31-4ThDC7.bp1-animate-enter78 {
+  animation: bp1-animate-enter78-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter245-frames {
+@keyframes bp1-animate-enter78-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2859,13 +2843,13 @@ to{opacity: 1;
   width: calc(100.00% + 659px);
 }
 
-.produktansicht-detail-767 .rechteck-136-Slq7ie.bp1-animate-enter246 {
-  animation: bp1-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .rechteck-136-Slq7ie.bp1-animate-enter79 {
+  animation: bp1-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter246-frames {
+@keyframes bp1-animate-enter79-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2897,13 +2881,13 @@ to{opacity: 1;
   width: 330px;
 }
 
-.produktansicht-detail-767 .versand-und-rckgabeinformation-eTQgif.bp1-animate-enter247 {
-  animation: bp1-animate-enter247-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .versand-und-rckgabeinformation-eTQgif.bp1-animate-enter80 {
+  animation: bp1-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter247-frames {
+@keyframes bp1-animate-enter80-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2926,13 +2910,13 @@ to{opacity: 1;
   width: 171px;
 }
 
-.produktansicht-detail-767 .zahlungsoptionen-eTQgif.bp1-animate-enter248 {
-  animation: bp1-animate-enter248-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .zahlungsoptionen-eTQgif.bp1-animate-enter81 {
+  animation: bp1-animate-enter81-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter248-frames {
+@keyframes bp1-animate-enter81-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2954,13 +2938,13 @@ to{opacity: 1;
   width: calc(100.00% - 142px);
 }
 
-.produktansicht-detail-767 .bei-jeder-bestellung-eTQgif.bp1-animate-enter249 {
-  animation: bp1-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .bei-jeder-bestellung-eTQgif.bp1-animate-enter82 {
+  animation: bp1-animate-enter82-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter249-frames {
+@keyframes bp1-animate-enter82-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2982,13 +2966,13 @@ to{opacity: 1;
   width: 346px;
 }
 
-.produktansicht-detail-767 .borbus-akzeptiert-fo-eTQgif.bp1-animate-enter250 {
-  animation: bp1-animate-enter250-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .borbus-akzeptiert-fo-eTQgif.bp1-animate-enter83 {
+  animation: bp1-animate-enter83-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter250-frames {
+@keyframes bp1-animate-enter83-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3007,13 +2991,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-767 .linie-39-eTQgif.bp1-animate-enter251 {
-  animation: bp1-animate-enter251-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .linie-39-eTQgif.bp1-animate-enter84 {
+  animation: bp1-animate-enter84-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter251-frames {
+@keyframes bp1-animate-enter84-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3032,13 +3016,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-767 .linie-47-eTQgif.bp1-animate-enter252 {
-  animation: bp1-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .linie-47-eTQgif.bp1-animate-enter85 {
+  animation: bp1-animate-enter85-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter252-frames {
+@keyframes bp1-animate-enter85-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3074,13 +3058,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.produktansicht-detail-767 .hedera-E0exTh.bp1-animate-enter253 {
-  animation: bp1-animate-enter253-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-detail-767 .hedera-E0exTh.bp1-animate-enter86 {
+  animation: bp1-animate-enter86-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter253-frames {
+@keyframes bp1-animate-enter86-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3166,13 +3150,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.produktansicht-detail-767 .home-Slq7ie.bp1-animate-enter254 {
-  animation: bp1-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .home-Slq7ie.bp1-animate-enter87 {
+  animation: bp1-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter254-frames {
+@keyframes bp1-animate-enter87-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3195,13 +3179,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.produktansicht-detail-767 .shop-Slq7ie.bp1-animate-enter255 {
-  animation: bp1-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .shop-Slq7ie.bp1-animate-enter88 {
+  animation: bp1-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter255-frames {
+@keyframes bp1-animate-enter88-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3220,13 +3204,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.produktansicht-detail-767 .gruppe-188-Slq7ie.bp1-animate-enter256 {
-  animation: bp1-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .gruppe-188-Slq7ie.bp1-animate-enter89 {
+  animation: bp1-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter256-frames {
+@keyframes bp1-animate-enter89-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3260,13 +3244,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansicht-detail-767 .gruppe-203-Slq7ie.bp1-animate-enter257 {
-  animation: bp1-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .gruppe-203-Slq7ie.bp1-animate-enter90 {
+  animation: bp1-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter257-frames {
+@keyframes bp1-animate-enter90-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3321,13 +3305,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-767 .rechteck-137-xKKG21.bp1-animate-enter258 {
-  animation: bp1-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .rechteck-137-xKKG21.bp1-animate-enter91 {
+  animation: bp1-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter258-frames {
+@keyframes bp1-animate-enter91-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3345,13 +3329,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansicht-detail-767 .gruppe-189-xKKG21.bp1-animate-enter259 {
-  animation: bp1-animate-enter259-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .gruppe-189-xKKG21.bp1-animate-enter92 {
+  animation: bp1-animate-enter92-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter259-frames {
+@keyframes bp1-animate-enter92-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3411,13 +3395,13 @@ to{opacity: 1;
   width: 209px;
 }
 
-.produktansicht-detail-767 .produktinformationen-xKKG21.bp1-animate-enter260 {
-  animation: bp1-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .produktinformationen-xKKG21.bp1-animate-enter93 {
+  animation: bp1-animate-enter93-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter260-frames {
+@keyframes bp1-animate-enter93-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3439,13 +3423,13 @@ to{opacity: 1;
   width: 401px;
 }
 
-.produktansicht-detail-767 .infotext-xKKG21.bp1-animate-enter261 {
-  animation: bp1-animate-enter261-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .infotext-xKKG21.bp1-animate-enter94 {
+  animation: bp1-animate-enter94-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter261-frames {
+@keyframes bp1-animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3468,13 +3452,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansicht-detail-767 .vertrglichkeitwort-xKKG21.bp1-animate-enter262 {
-  animation: bp1-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .vertrglichkeitwort-xKKG21.bp1-animate-enter95 {
+  animation: bp1-animate-enter95-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter262-frames {
+@keyframes bp1-animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3496,13 +3480,13 @@ to{opacity: 1;
   width: 118px;
 }
 
-.produktansicht-detail-767 .grewort-xKKG21.bp1-animate-enter263 {
-  animation: bp1-animate-enter263-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .grewort-xKKG21.bp1-animate-enter96 {
+  animation: bp1-animate-enter96-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter263-frames {
+@keyframes bp1-animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3524,13 +3508,13 @@ to{opacity: 1;
   width: 104px;
 }
 
-.produktansicht-detail-767 .stoffewort-xKKG21.bp1-animate-enter264 {
-  animation: bp1-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .stoffewort-xKKG21.bp1-animate-enter97 {
+  animation: bp1-animate-enter97-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter264-frames {
+@keyframes bp1-animate-enter97-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3552,13 +3536,13 @@ to{opacity: 1;
   width: 104px;
 }
 
-.produktansicht-detail-767 .musterwort-xKKG21.bp1-animate-enter265 {
-  animation: bp1-animate-enter265-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .musterwort-xKKG21.bp1-animate-enter98 {
+  animation: bp1-animate-enter98-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter265-frames {
+@keyframes bp1-animate-enter98-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3580,13 +3564,13 @@ to{opacity: 1;
   width: 268px;
 }
 
-.produktansicht-detail-767 .vertraeglichkeit1-xKKG21.bp1-animate-enter266 {
-  animation: bp1-animate-enter266-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .vertraeglichkeit1-xKKG21.bp1-animate-enter99 {
+  animation: bp1-animate-enter99-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter266-frames {
+@keyframes bp1-animate-enter99-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3608,13 +3592,13 @@ to{opacity: 1;
   width: 109px;
 }
 
-.produktansicht-detail-767 .groesse1-xKKG21.bp1-animate-enter267 {
-  animation: bp1-animate-enter267-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .groesse1-xKKG21.bp1-animate-enter100 {
+  animation: bp1-animate-enter100-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter267-frames {
+@keyframes bp1-animate-enter100-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3636,13 +3620,13 @@ to{opacity: 1;
   width: 135px;
 }
 
-.produktansicht-detail-767 .stoff1-xKKG21.bp1-animate-enter268 {
-  animation: bp1-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .stoff1-xKKG21.bp1-animate-enter101 {
+  animation: bp1-animate-enter101-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter268-frames {
+@keyframes bp1-animate-enter101-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3664,13 +3648,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansicht-detail-767 .muster1-xKKG21.bp1-animate-enter269 {
-  animation: bp1-animate-enter269-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .muster1-xKKG21.bp1-animate-enter102 {
+  animation: bp1-animate-enter102-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter269-frames {
+@keyframes bp1-animate-enter102-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3689,13 +3673,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-767 .ellipse-34-xKKG21.bp1-animate-enter270 {
-  animation: bp1-animate-enter270-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .ellipse-34-xKKG21.bp1-animate-enter103 {
+  animation: bp1-animate-enter103-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter270-frames {
+@keyframes bp1-animate-enter103-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3714,13 +3698,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-767 .ellipse-35-xKKG21.bp1-animate-enter271 {
-  animation: bp1-animate-enter271-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .ellipse-35-xKKG21.bp1-animate-enter104 {
+  animation: bp1-animate-enter104-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter271-frames {
+@keyframes bp1-animate-enter104-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3739,13 +3723,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-767 .ellipse-36-xKKG21.bp1-animate-enter272 {
-  animation: bp1-animate-enter272-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .ellipse-36-xKKG21.bp1-animate-enter105 {
+  animation: bp1-animate-enter105-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter272-frames {
+@keyframes bp1-animate-enter105-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3764,71 +3748,17 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-detail-767 .ellipse-37-xKKG21.bp1-animate-enter273 {
-  animation: bp1-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-detail-767 .ellipse-37-xKKG21.bp1-animate-enter106 {
+  animation: bp1-animate-enter106-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter273-frames {
+@keyframes bp1-animate-enter106-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
-}
-
-.produktansicht-detail-767 .warenkorb-oben-rechts-Slq7ie {
-  background-color: transparent;
-  height: 41px;
-  position: absolute;
-  right: 49px;
-  top: 49px;
-  width: 44px;
-}
-
-.produktansicht-detail-767 .iconfinder_basket_ecommerce_shop_4177565-jFOP1A {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 16px;
-  top: 17px;
-  width: 28px;
-}
-
-.produktansicht-detail-767 .gruppe-579-jFOP1A {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-detail-767 .ellipse-47-4XECrs {
-  background-color: var(--stratos);
-  border-radius: 11.5px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-detail-767 .anzahl-warenkorb-4XECrs {
-  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
-  background-color: transparent;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 15px;
-  position: absolute;
-  right: 5px;
-  text-align: left;
-  top: 4px;
-  white-space: nowrap;
-  width: 11px;
 }
 
 .produktansicht-detail-767 .borbus-Slq7ie {
@@ -3856,13 +3786,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-detail-767 .gruppe-163-Slq7ie.bp1-animate-enter274 {
-  animation: bp1-animate-enter274-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-detail-767 .gruppe-163-Slq7ie.bp1-animate-enter107 {
+  animation: bp1-animate-enter107-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter274-frames {
+@keyframes bp1-animate-enter107-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3934,7 +3864,7 @@ to{opacity: 1;
 
 .produktansicht-detail-767 .gruppe-350-TNtVIV {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -3956,7 +3886,7 @@ to{opacity: 1;
 
 .produktansicht-detail-767 .gruppe-348-7u6mSE {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -3998,7 +3928,7 @@ to{opacity: 1;
 
 .produktansicht-detail-767 .gruppe-349-7u6mSE {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -4038,46 +3968,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.produktansicht-detail-767 .gruppe-693-7u6mSE {
+.produktansicht-detail-767 .gruppe-623-7u6mSE {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.produktansicht-detail-767 .gruppe-141-6hlOr9 {
+.produktansicht-detail-767 .gruppe-141-BTcxVt {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.produktansicht-detail-767 .nft-mmHOAU {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-detail-767 .nft-m9wBxx {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.produktansicht-detail-767 .x498951_child_clothes-6hlOr9 {
+.produktansicht-detail-767 .gruppe-622-m9wBxx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.produktansicht-detail-767 .gruppe-141-khSntm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-detail-767 .x498951_child_clothes-ZCR3O3 {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .produktansicht-detail-767 .gruppe-354-TNtVIV {
@@ -4241,7 +4189,6 @@ to{opacity: 1;
 
 .produktansicht-detail-767 .gruppe-156-Xed4RE {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -4370,7 +4317,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.produktansicht-detail-767 .instagram-sketched-YnOFxo {
+.produktansicht-detail-767 .icon-instagram-YnOFxo {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4392,17 +4339,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansicht-detail-767 .ssl-Slq7ie.bp1-animate-enter275 {
-  animation: bp1-animate-enter275-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-detail-767 .ssl-Slq7ie.bp1-animate-enter108 {
+  animation: bp1-animate-enter108-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter275-frames {
+@keyframes bp1-animate-enter108-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.produktansicht-detail-767 .warenkorb-oben-rechts-Slq7ie {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.produktansicht-detail-767 .iconfinder_basket_ecommerce_shop_4177565-jFOP1A {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht-detail-767 .gruppe-579-jFOP1A {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-detail-767 .ellipse-47-4XECrs {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-detail-767 .anzahl-warenkorb-4XECrs {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - produktansichtdetail */
 
@@ -4418,31 +4418,6 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .detailaufnahme-U4v42g {
-  background-color: transparent;
-  display: block;
-  height: 573px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  right: -122px;
-  top: calc(31.50% - 181px);
-  width: 859px;
-}
-
-.produktansichtdetail .detailaufnahme-U4v42g.bp3-animate-enter249 {
-  animation: bp3-animate-enter249-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter249-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
 .produktansichtdetail .rechteck-136-U4v42g {
   background-color: var(--gallery);
   bottom: calc(23.30% - 182px);
@@ -4455,20 +4430,20 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .rechteck-136-U4v42g.bp3-animate-enter250 {
-  animation: bp3-animate-enter250-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .rechteck-136-U4v42g.bp3-animate-enter78 {
+  animation: bp3-animate-enter78-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter250-frames {
+@keyframes bp3-animate-enter78-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.produktansichtdetail .linkprodukt-U4v42g {
+.produktansichtdetail .icon-play-U4v42g {
   background-color: transparent;
   cursor: pointer;
   display: block;
@@ -4483,20 +4458,20 @@ to{opacity: 1;
   width: 36px;
 }
 
-.produktansichtdetail .linkprodukt-U4v42g.bp3-animate-enter251 {
-  animation: bp3-animate-enter251-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .icon-play-U4v42g.bp3-animate-enter79 {
+  animation: bp3-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter251-frames {
+@keyframes bp3-animate-enter79-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.produktansichtdetail .linkprodukt-U4v42g:hover {
+.produktansichtdetail .icon-play-U4v42g:hover {
   transform: translate(-5px, 0);
 }
 
@@ -4525,13 +4500,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansichtdetail .informationen-uG7la4.bp3-animate-enter252 {
-  animation: bp3-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .informationen-uG7la4.bp3-animate-enter80 {
+  animation: bp3-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter252-frames {
+@keyframes bp3-animate-enter80-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4550,13 +4525,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansichtdetail .ellipse-32-uG7la4.bp3-animate-enter253 {
-  animation: bp3-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .ellipse-32-uG7la4.bp3-animate-enter81 {
+  animation: bp3-animate-enter81-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter253-frames {
+@keyframes bp3-animate-enter81-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4575,13 +4550,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansichtdetail .linie-32-uG7la4.bp3-animate-enter254 {
-  animation: bp3-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .linie-32-uG7la4.bp3-animate-enter82 {
+  animation: bp3-animate-enter82-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter254-frames {
+@keyframes bp3-animate-enter82-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4600,13 +4575,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansichtdetail .linie-33-uG7la4.bp3-animate-enter255 {
-  animation: bp3-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .linie-33-uG7la4.bp3-animate-enter83 {
+  animation: bp3-animate-enter83-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter255-frames {
+@keyframes bp3-animate-enter83-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4629,13 +4604,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansichtdetail .vertrglichkeitwort-uG7la4.bp3-animate-enter256 {
-  animation: bp3-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .vertrglichkeitwort-uG7la4.bp3-animate-enter84 {
+  animation: bp3-animate-enter84-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter256-frames {
+@keyframes bp3-animate-enter84-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4658,13 +4633,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.produktansichtdetail .grewort-uG7la4.bp3-animate-enter257 {
-  animation: bp3-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .grewort-uG7la4.bp3-animate-enter85 {
+  animation: bp3-animate-enter85-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter257-frames {
+@keyframes bp3-animate-enter85-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4687,13 +4662,13 @@ to{opacity: 1;
   width: 41px;
 }
 
-.produktansichtdetail .stoffwort-uG7la4.bp3-animate-enter258 {
-  animation: bp3-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .stoffwort-uG7la4.bp3-animate-enter86 {
+  animation: bp3-animate-enter86-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter258-frames {
+@keyframes bp3-animate-enter86-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4716,13 +4691,13 @@ to{opacity: 1;
   width: 54px;
 }
 
-.produktansichtdetail .musterwort-uG7la4.bp3-animate-enter259 {
-  animation: bp3-animate-enter259-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .musterwort-uG7la4.bp3-animate-enter87 {
+  animation: bp3-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter259-frames {
+@keyframes bp3-animate-enter87-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4745,13 +4720,13 @@ to{opacity: 1;
   width: 227px;
 }
 
-.produktansichtdetail .vertraeglichkeit1-uG7la4.bp3-animate-enter260 {
-  animation: bp3-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .vertraeglichkeit1-uG7la4.bp3-animate-enter88 {
+  animation: bp3-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter260-frames {
+@keyframes bp3-animate-enter88-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4774,13 +4749,13 @@ to{opacity: 1;
   width: 20px;
 }
 
-.produktansichtdetail .groesse1-uG7la4.bp3-animate-enter261 {
-  animation: bp3-animate-enter261-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .groesse1-uG7la4.bp3-animate-enter89 {
+  animation: bp3-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter261-frames {
+@keyframes bp3-animate-enter89-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4803,13 +4778,13 @@ to{opacity: 1;
   width: 80px;
 }
 
-.produktansichtdetail .stoff1-uG7la4.bp3-animate-enter262 {
-  animation: bp3-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .stoff1-uG7la4.bp3-animate-enter90 {
+  animation: bp3-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter262-frames {
+@keyframes bp3-animate-enter90-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4832,13 +4807,13 @@ to{opacity: 1;
   width: 58px;
 }
 
-.produktansichtdetail .muster1-uG7la4.bp3-animate-enter263 {
-  animation: bp3-animate-enter263-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .muster1-uG7la4.bp3-animate-enter91 {
+  animation: bp3-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter263-frames {
+@keyframes bp3-animate-enter91-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4857,13 +4832,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansichtdetail .ellipse-34-uG7la4.bp3-animate-enter264 {
-  animation: bp3-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .ellipse-34-uG7la4.bp3-animate-enter92 {
+  animation: bp3-animate-enter92-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter264-frames {
+@keyframes bp3-animate-enter92-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4882,13 +4857,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansichtdetail .ellipse-35-uG7la4.bp3-animate-enter265 {
-  animation: bp3-animate-enter265-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .ellipse-35-uG7la4.bp3-animate-enter93 {
+  animation: bp3-animate-enter93-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter265-frames {
+@keyframes bp3-animate-enter93-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4907,13 +4882,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansichtdetail .ellipse-36-uG7la4.bp3-animate-enter266 {
-  animation: bp3-animate-enter266-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .ellipse-36-uG7la4.bp3-animate-enter94 {
+  animation: bp3-animate-enter94-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter266-frames {
+@keyframes bp3-animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4932,13 +4907,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansichtdetail .ellipse-37-uG7la4.bp3-animate-enter267 {
-  animation: bp3-animate-enter267-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .ellipse-37-uG7la4.bp3-animate-enter95 {
+  animation: bp3-animate-enter95-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter267-frames {
+@keyframes bp3-animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4974,13 +4949,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .rechteck-137-ID8f1j.bp3-animate-enter268 {
-  animation: bp3-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .rechteck-137-ID8f1j.bp3-animate-enter96 {
+  animation: bp3-animate-enter96-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter268-frames {
+@keyframes bp3-animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4998,13 +4973,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansichtdetail .gruppe-189-ID8f1j.bp3-animate-enter269 {
-  animation: bp3-animate-enter269-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .gruppe-189-ID8f1j.bp3-animate-enter97 {
+  animation: bp3-animate-enter97-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter269-frames {
+@keyframes bp3-animate-enter97-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5063,13 +5038,13 @@ to{opacity: 1;
   width: calc(100.00% - 159px);
 }
 
-.produktansichtdetail .angefangen-bei-der-s-ID8f1j.bp3-animate-enter270 {
-  animation: bp3-animate-enter270-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .angefangen-bei-der-s-ID8f1j.bp3-animate-enter98 {
+  animation: bp3-animate-enter98-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter270-frames {
+@keyframes bp3-animate-enter98-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5092,13 +5067,13 @@ to{opacity: 1;
   width: 209px;
 }
 
-.produktansichtdetail .produktinformationen-ID8f1j.bp3-animate-enter271 {
-  animation: bp3-animate-enter271-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .produktinformationen-ID8f1j.bp3-animate-enter99 {
+  animation: bp3-animate-enter99-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter271-frames {
+@keyframes bp3-animate-enter99-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5120,13 +5095,13 @@ to{opacity: 1;
   width: calc(100.00% - 159px);
 }
 
-.produktansichtdetail .infotext-ID8f1j.bp3-animate-enter272 {
-  animation: bp3-animate-enter272-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .infotext-ID8f1j.bp3-animate-enter100 {
+  animation: bp3-animate-enter100-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter272-frames {
+@keyframes bp3-animate-enter100-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5158,13 +5133,13 @@ to{opacity: 1;
   width: 330px;
 }
 
-.produktansichtdetail .versand-und-rckgabeinformation-rDcMT2.bp3-animate-enter273 {
-  animation: bp3-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .versand-und-rckgabeinformation-rDcMT2.bp3-animate-enter101 {
+  animation: bp3-animate-enter101-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter273-frames {
+@keyframes bp3-animate-enter101-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5187,13 +5162,13 @@ to{opacity: 1;
   width: 171px;
 }
 
-.produktansichtdetail .zahlungsoptionen-rDcMT2.bp3-animate-enter274 {
-  animation: bp3-animate-enter274-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .zahlungsoptionen-rDcMT2.bp3-animate-enter102 {
+  animation: bp3-animate-enter102-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter274-frames {
+@keyframes bp3-animate-enter102-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5212,13 +5187,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .linie-38-rDcMT2.bp3-animate-enter275 {
-  animation: bp3-animate-enter275-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .linie-38-rDcMT2.bp3-animate-enter103 {
+  animation: bp3-animate-enter103-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter275-frames {
+@keyframes bp3-animate-enter103-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5237,13 +5212,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .linie-40-rDcMT2.bp3-animate-enter276 {
-  animation: bp3-animate-enter276-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .linie-40-rDcMT2.bp3-animate-enter104 {
+  animation: bp3-animate-enter104-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter276-frames {
+@keyframes bp3-animate-enter104-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5262,13 +5237,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .linie-39-rDcMT2.bp3-animate-enter277 {
-  animation: bp3-animate-enter277-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .linie-39-rDcMT2.bp3-animate-enter105 {
+  animation: bp3-animate-enter105-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter277-frames {
+@keyframes bp3-animate-enter105-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5290,13 +5265,13 @@ to{opacity: 1;
   width: calc(100.00% - 252px);
 }
 
-.produktansichtdetail .bei-jeder-bestellung-rDcMT2.bp3-animate-enter278 {
-  animation: bp3-animate-enter278-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .bei-jeder-bestellung-rDcMT2.bp3-animate-enter106 {
+  animation: bp3-animate-enter106-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter278-frames {
+@keyframes bp3-animate-enter106-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5318,13 +5293,13 @@ to{opacity: 1;
   width: calc(100.00% - 252px);
 }
 
-.produktansichtdetail .borbus-akzeptiert-fo-rDcMT2.bp3-animate-enter279 {
-  animation: bp3-animate-enter279-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .borbus-akzeptiert-fo-rDcMT2.bp3-animate-enter107 {
+  animation: bp3-animate-enter107-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter279-frames {
+@keyframes bp3-animate-enter107-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5360,13 +5335,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.produktansichtdetail .hedera-OmJxdV.bp3-animate-enter280 {
-  animation: bp3-animate-enter280-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansichtdetail .hedera-OmJxdV.bp3-animate-enter108 {
+  animation: bp3-animate-enter108-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter280-frames {
+@keyframes bp3-animate-enter108-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5650,7 +5625,7 @@ to{opacity: 1;
   width: 387px;
 }
 
-.produktansichtdetail .kleidchenbezeichnung-aYWyHF {
+.produktansichtdetail .bezeichnung-aYWyHF {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -5666,13 +5641,13 @@ to{opacity: 1;
   width: 129px;
 }
 
-.produktansichtdetail .kleidchenbezeichnung-aYWyHF.bp3-animate-enter281 {
-  animation: bp3-animate-enter281-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .bezeichnung-aYWyHF.bp3-animate-enter109 {
+  animation: bp3-animate-enter109-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter281-frames {
+@keyframes bp3-animate-enter109-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5694,13 +5669,13 @@ to{opacity: 1;
   width: 163px;
 }
 
-.produktansichtdetail .x6-monate-3-jahre-aYWyHF.bp3-animate-enter282 {
-  animation: bp3-animate-enter282-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .x6-monate-3-jahre-aYWyHF.bp3-animate-enter110 {
+  animation: bp3-animate-enter110-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter282-frames {
+@keyframes bp3-animate-enter110-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5723,13 +5698,13 @@ to{opacity: 1;
   width: 71px;
 }
 
-.produktansichtdetail .stckpreis-aYWyHF.bp3-animate-enter283 {
-  animation: bp3-animate-enter283-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .stckpreis-aYWyHF.bp3-animate-enter111 {
+  animation: bp3-animate-enter111-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter283-frames {
+@keyframes bp3-animate-enter111-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5748,13 +5723,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .linie-31-aYWyHF.bp3-animate-enter284 {
-  animation: bp3-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .linie-31-aYWyHF.bp3-animate-enter112 {
+  animation: bp3-animate-enter112-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter284-frames {
+@keyframes bp3-animate-enter112-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5775,13 +5750,13 @@ to{opacity: 1;
   width: calc(100.00% - 1px);
 }
 
-.produktansichtdetail .warenkorb-button-mitte-aYWyHF.bp3-animate-enter285 {
-  animation: bp3-animate-enter285-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .warenkorb-button-mitte-aYWyHF.bp3-animate-enter113 {
+  animation: bp3-animate-enter113-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter285-frames {
+@keyframes bp3-animate-enter113-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5832,13 +5807,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.produktansichtdetail .home-U4v42g.bp3-animate-enter286 {
-  animation: bp3-animate-enter286-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .home-U4v42g.bp3-animate-enter114 {
+  animation: bp3-animate-enter114-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter286-frames {
+@keyframes bp3-animate-enter114-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5861,13 +5836,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.produktansichtdetail .shop-U4v42g.bp3-animate-enter287 {
-  animation: bp3-animate-enter287-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .shop-U4v42g.bp3-animate-enter115 {
+  animation: bp3-animate-enter115-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter287-frames {
+@keyframes bp3-animate-enter115-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5886,13 +5861,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.produktansichtdetail .gruppe-188-U4v42g.bp3-animate-enter288 {
-  animation: bp3-animate-enter288-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .gruppe-188-U4v42g.bp3-animate-enter116 {
+  animation: bp3-animate-enter116-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter288-frames {
+@keyframes bp3-animate-enter116-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5926,13 +5901,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansichtdetail .gruppe-203-U4v42g.bp3-animate-enter289 {
-  animation: bp3-animate-enter289-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .gruppe-203-U4v42g.bp3-animate-enter117 {
+  animation: bp3-animate-enter117-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter289-frames {
+@keyframes bp3-animate-enter117-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5967,60 +5942,6 @@ to{opacity: 1;
   width: 106px;
 }
 
-.produktansichtdetail .warenkorb-oben-rechts-U4v42g {
-  background-color: transparent;
-  height: 41px;
-  position: absolute;
-  right: 80px;
-  top: 57px;
-  width: 44px;
-}
-
-.produktansichtdetail .iconfinder_basket_ecommerce_shop_4177565-IhzOSx {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 16px;
-  top: 17px;
-  width: 28px;
-}
-
-.produktansichtdetail .gruppe-579-IhzOSx {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansichtdetail .ellipse-47-y72I2a {
-  background-color: var(--stratos);
-  border-radius: 11.5px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansichtdetail .anzahl-warenkorb-y72I2a {
-  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
-  background-color: transparent;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 15px;
-  position: absolute;
-  right: 5px;
-  text-align: left;
-  top: 4px;
-  white-space: nowrap;
-  width: 11px;
-}
-
 .produktansichtdetail .borbus-U4v42g {
   background-color: transparent;
   cursor: pointer;
@@ -6046,13 +5967,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansichtdetail .gruppe-163-U4v42g.bp3-animate-enter290 {
-  animation: bp3-animate-enter290-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .gruppe-163-U4v42g.bp3-animate-enter118 {
+  animation: bp3-animate-enter118-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter290-frames {
+@keyframes bp3-animate-enter118-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6124,7 +6045,7 @@ to{opacity: 1;
 
 .produktansichtdetail .gruppe-367-tvJA5Y {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -6145,7 +6066,7 @@ to{opacity: 1;
 
 .produktansichtdetail .gruppe-365-BftXp5 {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -6188,7 +6109,7 @@ to{opacity: 1;
 
 .produktansichtdetail .gruppe-366-BftXp5 {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -6226,48 +6147,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.produktansichtdetail .gruppe-622-BftXp5 {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.produktansichtdetail .gruppe-141-FrSi1x {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.produktansichtdetail .nf-tlink-PMOMDP {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.produktansichtdetail .x498951_child_clothes-PMOMDP {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
 }
 
 .produktansichtdetail .gruppe-372-tvJA5Y {
@@ -6324,7 +6203,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.produktansichtdetail .instagram-sketched-5Qqbx9 {
+.produktansichtdetail .icon-instagram-5Qqbx9 {
   background-color: transparent;
   height: 100%;
   left: 1px;
@@ -6346,13 +6225,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansichtdetail .ssl-U4v42g.bp3-animate-enter291 {
-  animation: bp3-animate-enter291-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansichtdetail .ssl-U4v42g.bp3-animate-enter119 {
+  animation: bp3-animate-enter119-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter291-frames {
+@keyframes bp3-animate-enter119-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6504,7 +6383,6 @@ to{opacity: 1;
 
 .produktansichtdetail .gruppe-156-MLChjt {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -6591,6 +6469,110 @@ to{opacity: 1;
   text-align: left;
   white-space: nowrap;
   width: 76px;
+}
+
+.produktansichtdetail .gruppe-622-U4v42g {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.produktansichtdetail .gruppe-141-BJWX0k {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansichtdetail .nf-tlink-5gOXxO {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.produktansichtdetail .x498951_child_clothes-5gOXxO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.produktansichtdetail .detailaufnahme-U4v42g {
+  background-color: var(--white);
+  height: 573px;
+  position: absolute;
+  right: 0px;
+  top: calc(31.50% - 181px);
+  width: 737px;
+}
+
+.produktansichtdetail .warenkorb-oben-rechts-U4v42g {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.produktansichtdetail .iconfinder_basket_ecommerce_shop_4177565-IhzOSx {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansichtdetail .gruppe-579-IhzOSx {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansichtdetail .ellipse-47-y72I2a {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansichtdetail .anzahl-warenkorb-y72I2a {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 @media screen and (max-width: 1199px) {
   .screen.produktansichtdetail { 

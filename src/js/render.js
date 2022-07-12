@@ -6,6 +6,7 @@ import {
   _noUserFound,
   _noAddressFound,
 } from "./exceptions.js"
+import { _getAvailableNfts, _getCart, _getNfts, _getNftsFromNftStorage } from "./storage.js"
 
 export function _updateCartPointer() {
   const cartPointerTopRight = document.querySelectorAll("div[class*='anzahl-warenkorb']")
@@ -17,8 +18,6 @@ export function _updateCartPointer() {
 }
 
 export function _removeItemFromCart() {
-  // localStorage.clear()
-
   document.querySelectorAll("div[class*='kleidchenbezeichnung']").forEach(element => element.remove())
   document.querySelectorAll("img[class*='vorderseitebild']").forEach(element => element.remove())
   document.querySelectorAll("div[class*='lschen']").forEach(element => element.remove())
@@ -28,6 +27,78 @@ export function _removeItemFromCart() {
   _updateCartPointer()
 }
 
+export async function _renderShopList() {
+  const shopListDivs = document.querySelectorAll("div[class*='shopliste']")
+
+  if (shopListDivs.length === 0) return
+
+  const nfts = await _getAvailableNfts()
+
+  if (nfts.length === 0) return
+
+  if (!window.__DATA__) return
+
+  const nftContainer = []
+  nfts.forEach(nft => {
+    const dressId = nft.name.match(/\d+/)[0]
+    const nftBox = document.createElement("div")
+    nftBox.setAttribute("class", "item")
+    nftBox.setAttribute("style", `
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 90%;
+      margin-bottom: 100px;
+    `)
+
+    if (window.innerWidth > 767) {
+      nftBox.setAttribute("style", `
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 30%;
+        margin-bottom: 100px;
+      `)
+    }
+
+    nftBox.innerHTML = `
+      <img src="${nft.image}" alt="${nft.name}" style="width: 100%; object-fit: contain;"/>
+      <p>Kleidchen #${dressId}</p>
+      <p>${window.__DATA__[dressId - 1].price} €</p>
+      <a href="${window.__DATA__[dressId - 1].links.overview}" style="color: inherit;" >Einkaufen ᐅ</a>
+    `
+    nftContainer.push(nftBox)
+  })
+
+  if (nftContainer.length === 0) return
+
+  shopListDivs.forEach(div => {
+    div.innerHTML = ""
+
+    div.style.position = "relative"
+    div.style.bottom = "0"
+    div.style.left = "0"
+    div.style.top = "350px"
+    div.style.width = "100%"
+    div.style.height = "100%"
+    div.style.paddingBottom = "800px"
+    div.style.display = "flex"
+    div.style.flexWrap = "wrap"
+    div.style.justifyContent = "space-around"
+    div.style.alignItems = "center"
+    div.parentElement.style.height = "auto"
+
+    nftContainer.forEach(container => div.innerHTML += container.outerHTML)
+  })
+}
+_renderShopList()
+
+// export function _renderItemFrontImage() {
+//   const frontImageDivs = document.querySelectorAll("div[class*='vorderseitebild']")
+//   console.log(frontImageDivs);
+// }
+// _renderItemFrontImage()
+
 // function _cartList() {
 //   if (!window.localStorage.getItem("cart")) {
 //     _removeItemFromCart()
@@ -36,43 +107,66 @@ export function _removeItemFromCart() {
 // }
 // _cartList()
 
-function _productName() {
-  const nameElements = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+// function _productName() {
+//   const nameElements = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
+//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
 
-  if (nameElements.length === 0) return
+//   if (nameElements.length === 0) return
 
-  if (window.__DATA__) {
-    nameElements.forEach(element => element.innerHTML = `${window.__DATA__.name}`)
-    return
-  }
+//   if (window.__DATA__) {
+//     nameElements.forEach(element => element.innerHTML = `${window.__DATA__.name}`)
+//     return
+//   }
 
-  if (!window.localStorage.getItem("cart")) {
-    nameElements.forEach(element => element.remove())
-    return
-  }
-  nameElements.forEach(element => element.innerHTML = cart[0].name)
-}
-_productName()
+//   if (!window.localStorage.getItem("cart")) {
+//     nameElements.forEach(element => element.remove())
+//     return
+//   }
+//   nameElements.forEach(element => element.innerHTML = cart[0].name)
+// }
+// _productName()
 
-function _productPrice() {
-  const priceElements = document.querySelectorAll("div[class*='preis1']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+// function _productPrice() {
+//   const priceElements = document.querySelectorAll("div[class*='preis1']")
+//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
 
-  if (priceElements.length === 0) return
+//   if (priceElements.length === 0) return
 
-  if (window.__DATA__) {
-    priceElements.forEach(element => element.innerHTML = `${window.__DATA__.price} €`)
-    return
-  }
+//   if (window.__DATA__) {
+//     priceElements.forEach(element => element.innerHTML = `${window.__DATA__.price} €`)
+//     return
+//   }
 
-  if (!window.localStorage.getItem("cart")) {
-    priceElements.forEach(element => element.remove())
-  } else {
-    priceElements.forEach(element => element.innerHTML = `${cart[0].price} EUR`)
-  }
-}
-_productPrice()
+//   if (!window.localStorage.getItem("cart")) {
+//     priceElements.forEach(element => element.remove())
+//   } else {
+//     priceElements.forEach(element => element.innerHTML = `${cart[0].price} EUR`)
+//   }
+// }
+// _productPrice()
+
+// export async function _renderItemPrice() {
+//   const priceDivs = document.querySelectorAll("div[class*='stckpreis']")
+
+//   if (priceDivs.length === 0) return
+
+//   // const windowData = await _getWindowData()
+//   // console.log(windowData);
+
+//   // if (window.__DATA__) {
+//   //   priceDivs.forEach(div => div.innerHTML = `${window.__DATA__.price} €`)
+//   //   return
+//   // }
+
+//   // if (window.localStorage.getItem("cart")) {
+//   //   const cart = await _getCart()
+//   //   console.log(cart);
+
+//   //   if (cart.length === 0) return
+
+//   //   priceDivs.forEach(div => div.innerHTML = `${cart[0].price} €`)
+//   // }
+// }
 
 function _productDescription() {
   const infoTextElements = document.querySelectorAll("div[class*='infotext']")
@@ -92,7 +186,7 @@ function _productDescription() {
 
   infoTextElements.forEach(element => element.innerHTML = `${cart[0].name} <br />${cart[0].description}`)
 }
-_productDescription()
+// _productDescription()
 
 function _productCompatibility() {
   const compatibilityElements = document.querySelectorAll("div[class*='vertraeglichkeit1']")
@@ -112,7 +206,7 @@ function _productCompatibility() {
 
   compatibilityElements.forEach(element => element.innerHTML = cart[0].attributes.compatibility.join(" & "))
 }
-_productCompatibility()
+// _productCompatibility()
 
 function _productSize() {
   const sizeElements = document.querySelectorAll("div[class*='groesse1']")
@@ -132,7 +226,7 @@ function _productSize() {
 
   sizeElements.forEach(element => element.innerHTML = `${cart[0].attributes.size}`)
 }
-_productSize()
+// _productSize()
 
 function _productMaterial() {
   const materialElements = document.querySelectorAll("div[class*='stoff1']")
@@ -151,7 +245,7 @@ function _productMaterial() {
   }
   materialElements.forEach(element => element.innerHTML = `${cart[0].attributes.material.join(", ")}`)
 }
-_productMaterial()
+// _productMaterial()
 
 function _productPattern() {
   const patternElements = document.querySelectorAll("div[class*='muster1']")
@@ -171,7 +265,7 @@ function _productPattern() {
   patternElements.forEach(element => element.innerHTML = `${cart[0].attributes.pattern}`)
 
 }
-_productPattern()
+// _productPattern()
 
 export function _productDetailLinks() {
   const productDetailLinks = document.querySelectorAll("a[href*='produktansichtdetail1']")
@@ -197,55 +291,85 @@ export function _productLinks() {
 }
 // _productLinks()
 
-function _productFrontImage() {
-  const frontImages = document.querySelectorAll("img[class*='vorderseitebild']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+const frontImageDivs = document.querySelectorAll("div[class*='vorderseitebild']")
+export async function _renderItemFrontImage() {
 
-  if (frontImages.length === 0) return
+  if (frontImageDivs.length === 0) return
 
-  if (window.__DATA__) {
-    frontImages.forEach(image => {
-      image.setAttribute("style", "object-fit: contain;")
-      image.setAttribute("src", `${window.__DATA__.images.front}`)
-    })
-    return
-  }
+  const nfts = await _getNftsFromNftStorage()
+  console.log(nfts);
 
-  if (!window.localStorage.getItem("cart")) {
-    frontImages.forEach(image => image.remove())
-    return
-  }
-  frontImages.forEach(image => {
-    image.setAttribute("style", "object-fit: contain;")
-    image.setAttribute("src", `${cart[0].images.front}`)
+  console.log(window.location.pathname);
+  const dressIds = window.location.pathname.match(/\d+/)
+  console.log(dressIds);
+  const id = parseInt(dressIds[0])
+  console.log(id);
+  // const dressId = dres
+
+  // frontImageDivs.forEach(div => {
+  //   div.innerHTML = `
+  //     <img src="${item.image}" alt="${item.name}" style="object-fit: contain; width: 100%;" />
+  //   `
+  // })
+}
+// if (window.__DATA__) {
+_renderItemFrontImage()
+// }
+
+export async function _renderItemBackImage() {
+  const backImageDivs = document.querySelectorAll("div[class*='rckseitebild']")
+
+  if (backImageDivs.length === 0) return
+
+  const nfts = await _getNfts()
+  const response = await fetch(`https://ipfs.io/ipfs/${nfts[window.__DATA__.id - 1].metadata}`)
+  const data = await response.text()
+  const item = JSON.parse(data)
+
+  backImageDivs.forEach(div => {
+    div.innerHTML = `
+      <img src="${item.properties.images.back}" alt="${item.name}" style="object-fit: contain; width: 100%;" />
+    `
   })
 }
-_productFrontImage()
 
-function _productBackImage() {
-  const backImages = document.querySelectorAll("img[class*='rckseitebild']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+export async function _renderItemName() {
+  const nameDivs = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
 
-  if (backImages.length === 0) return
+  if (nameDivs.length === 0) return
 
-  if (window.__DATA__) {
-    backImages.forEach(image => {
-      image.setAttribute("style", "object-fit: contain;")
-      image.setAttribute("src", `${window.__DATA__.images.back}`)
-    })
-    return
-  }
+  const nfts = await _getNfts()
+  const response = await fetch(`https://ipfs.io/ipfs/${nfts[window.__DATA__.id - 1].metadata}`)
+  const data = await response.text()
+  const item = JSON.parse(data)
 
-  if (!window.localStorage.getItem("cart")) {
-    backImages.forEach(image => image.remove())
-    return
-  }
-  backImages.forEach(image => {
-    image.setAttribute("style", "object-fit: contain;")
-    image.setAttribute("src", `${cart[0].images.back}`)
-  })
+  nameDivs.forEach(div => div.innerHTML = `Kleidchen #${item.id}`)
 }
-_productBackImage()
+
+// function _productBackImage() {
+//   const backImages = document.querySelectorAll("img[class*='rckseitebild']")
+//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+
+//   if (backImages.length === 0) return
+
+//   if (window.__DATA__) {
+//     backImages.forEach(image => {
+//       image.setAttribute("style", "object-fit: contain;")
+//       image.setAttribute("src", `${window.__DATA__.images.back}`)
+//     })
+//     return
+//   }
+
+//   if (!window.localStorage.getItem("cart")) {
+//     backImages.forEach(image => image.remove())
+//     return
+//   }
+//   backImages.forEach(image => {
+//     image.setAttribute("style", "object-fit: contain;")
+//     image.setAttribute("src", `${cart[0].images.back}`)
+//   })
+// }
+// _productBackImage()
 
 function _productDetailImage() {
   const detailImages = document.querySelectorAll("img[class*='detailaufnahme']")
@@ -271,7 +395,7 @@ function _productDetailImage() {
     image.setAttribute("src", `${cart[0].images.detail}`)
   })
 }
-_productDetailImage()
+// _productDetailImage()
 
 function _productTotalPrice() {
   const totalPriceElements = document.querySelectorAll("div[class*='gesamtpreis1']")
@@ -285,7 +409,7 @@ function _productTotalPrice() {
   }
   totalPriceElements.forEach(element => element.innerHTML = `${_getTotalPrice()} EUR`)
 }
-_productTotalPrice()
+// _productTotalPrice()
 
 function _getTotalPrice() {
   const cart = JSON.parse(localStorage.getItem("cart")) || []
@@ -317,7 +441,7 @@ function _accountId() {
     element.innerHTML = userSession.accountId
   })
 }
-_accountId()
+// _accountId()
 
 // function _updateAddressName(cssSelector) {
 //   const elements = document.querySelectorAll(cssSelector)
@@ -541,7 +665,7 @@ async function _updateTotalHbarAmount() {
   // return priceInHbar
 }
 // _totalHbarAmount()
-_updateTotalHbarAmount()
+// _updateTotalHbarAmount()
 
 function _inputDefaultStyle(htmlInputElement) {
   htmlInputElement.setAttribute("style", `
@@ -618,7 +742,7 @@ function _accountIdInputField() {
   })
   return inputFields
 }
-_accountIdInputField()
+// _accountIdInputField()
 
 function _nameInputField() {
   const inputFields = document.querySelectorAll("div[class*='name-input']")
@@ -644,7 +768,7 @@ function _nameInputField() {
   })
   return inputFields
 }
-_nameInputField()
+// _nameInputField()
 
 function _streetInputField() {
   const inputFields = document.querySelectorAll("div[class*='strasse-input']")
@@ -670,7 +794,7 @@ function _streetInputField() {
   })
   return inputFields
 }
-_streetInputField()
+// _streetInputField()
 
 function _zipInputField() {
   const inputFields = document.querySelectorAll("div[class*='plz-input']")
@@ -696,7 +820,7 @@ function _zipInputField() {
   })
   return inputFields
 }
-_zipInputField()
+// _zipInputField()
 
 function _emailInputField() {
   const inputFields = document.querySelectorAll("div[class*='email-input']")
@@ -727,7 +851,7 @@ function _emailInputField() {
   return inputFields
 
 }
-_emailInputField()
+// _emailInputField()
 
 function _privateKeyInputField() {
   const inputFields = document.querySelectorAll("div[class*='private-key-input']")
@@ -754,7 +878,7 @@ function _privateKeyInputField() {
   return inputFields
 
 }
-_privateKeyInputField()
+// _privateKeyInputField()
 
 function _securityKeyInputField() {
   const inputFields = document.querySelectorAll("div[class*='sicherheitsschlssel-input']")
@@ -781,7 +905,7 @@ function _securityKeyInputField() {
   return inputFields
 
 }
-_securityKeyInputField()
+// _securityKeyInputField()
 
 export function _openNameInputField(cssSelector) {
   return new Promise((resolve, reject) => {
@@ -1091,10 +1215,10 @@ function _updateAllAddressFields() {
     field.innerHTML = addresses.filter(it => it.billingAddress === true)[0].email
   })
 }
-_updateAllAddressFields()
+// _updateAllAddressFields()
 
 export function _renderNotAvailableNfts() {
-  const nfts = JSON.parse(window.sessionStorage.getItem("nfts"))
+  const nfts = JSON.parse(window.sessionStorage.getItem("nfts")) // null exception
   console.log(nfts);
 
   const notAvailableNfts = nfts.filter(it => it.treasuryId !== it.owner)

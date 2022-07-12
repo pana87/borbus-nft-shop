@@ -24,13 +24,13 @@
   width: 100%;
 }
 
-.fehlgeschlagen .mehrerekleidchen-4qh0lb.bp4-animate-enter217 {
-  animation: bp4-animate-enter217-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen .mehrerekleidchen-4qh0lb.bp4-animate-enter122 {
+  animation: bp4-animate-enter122-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter217-frames {
+@keyframes bp4-animate-enter122-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -48,36 +48,36 @@ to{opacity: 1;
 
 .fehlgeschlagen .gruppe-525-4qh0lb {
   background-color: transparent;
-  height: 255px;
-  left: calc(25.57% - 175px);
+  height: 100px;
+  left: calc(24.23% - 149px);
   position: absolute;
-  top: calc(39.86% - 102px);
-  width: 684px;
+  top: calc(35.10% - 35px);
+  width: 616px;
 }
 
-.fehlgeschlagen .berprfen-sie-ihren-hedera-account-MGN6Rj {
+.fehlgeschlagen .unterschiedliche-fehlermeldung-MGN6Rj {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
+  bottom: 8px;
   display: block;
   height: 26px;
-  left: calc(48.25% - 206px);
   letter-spacing: 0.00px;
   line-height: 27px;
   opacity: 0;
   position: absolute;
+  right: 65px;
   text-align: left;
-  top: calc(28.60% - 7px);
   white-space: nowrap;
   width: 427px;
 }
 
-.fehlgeschlagen .berprfen-sie-ihren-hedera-account-MGN6Rj.bp4-animate-enter218 {
-  animation: bp4-animate-enter218-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen .unterschiedliche-fehlermeldung-MGN6Rj.bp4-animate-enter123 {
+  animation: bp4-animate-enter123-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter218-frames {
+@keyframes bp4-animate-enter123-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -93,77 +93,20 @@ to{opacity: 1;
   line-height: 27px;
   opacity: 0;
   position: absolute;
-  right: 66px;
+  right: -2px;
   text-align: left;
   top: 11px;
   white-space: nowrap;
   width: 494px;
 }
 
-.fehlgeschlagen .ohh-da-ist-etwas-schief-gelaufen-MGN6Rj.bp4-animate-enter219 {
-  animation: bp4-animate-enter219-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen .ohh-da-ist-etwas-schief-gelaufen-MGN6Rj.bp4-animate-enter124 {
+  animation: bp4-animate-enter124-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter219-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen .sollte-es-nicht-an-i-MGN6Rj {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: 33px;
-  display: block;
-  height: 56px;
-  letter-spacing: 0.00px;
-  line-height: 31px;
-  opacity: 0;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 562px;
-}
-
-.fehlgeschlagen .sollte-es-nicht-an-i-MGN6Rj.bp4-animate-enter220 {
-  animation: bp4-animate-enter220-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter220-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen .infoborbus-shopcom-MGN6Rj {
-  background-color: transparent;
-  bottom: 1px;
-  display: block;
-  height: 22px;
-  left: calc(25.94% - 54px);
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 208px;
-}
-
-.fehlgeschlagen .infoborbus-shopcom-MGN6Rj.bp4-animate-enter221 {
-  animation: bp4-animate-enter221-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter221-frames {
+@keyframes bp4-animate-enter124-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -172,7 +115,7 @@ to{opacity: 1;
 
 .fehlgeschlagen .page-1-MGN6Rj {
   background-color: transparent;
-  height: 100px;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
@@ -391,330 +334,6 @@ to{opacity: 1;
   top: 90px;
   white-space: nowrap;
   width: 240px;
-}
-
-.fehlgeschlagen .gruppe-163-4qh0lb {
-  background-color: transparent;
-  bottom: 0px;
-  display: block;
-  height: 331px;
-  left: 0px;
-  opacity: 0;
-  position: absolute;
-  width: 100%;
-}
-
-.fehlgeschlagen .gruppe-163-4qh0lb.bp4-animate-enter222 {
-  animation: bp4-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter222-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen .rechteck-90-cPMnFy {
-  background-color: var(--stratos);
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.fehlgeschlagen .gruppe-364-cPMnFy {
-  background-color: transparent;
-  height: 114px;
-  left: calc(13.51% - 32px);
-  position: absolute;
-  top: calc(17.06% - 19px);
-  width: 240px;
-}
-
-.fehlgeschlagen .exklusive-serviceleistungen-Rxhbxx {
-  background-color: transparent;
-  height: 63px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% - 26px);
-}
-
-.fehlgeschlagen .gruppe-137-Rxhbxx {
-  background-color: transparent;
-  bottom: 0px;
-  height: 15px;
-  left: 0px;
-  position: absolute;
-  width: 100%;
-}
-
-.fehlgeschlagen .versand-rckversand-frei-VTUQsd {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% - 32px);
-}
-
-.fehlgeschlagen .truck-VTUQsd {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 26px;
-}
-
-.fehlgeschlagen .gruppe-367-cPMnFy {
-  background-color: transparent;
-  height: 196px;
-  left: calc(40.73% - 134px);
-  position: absolute;
-  top: 37px;
-  width: 329px;
-}
-
-.fehlgeschlagen .knnen-wir-helfen-jPO7rS {
-  background-color: transparent;
-  height: 63px;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% + 1px);
-}
-
-.fehlgeschlagen .gruppe-365-jPO7rS {
-  background-color: transparent;
-  bottom: calc(45.44% - 7px);
-  height: 15px;
-  left: 0px;
-  position: absolute;
-  width: 92px;
-}
-
-.fehlgeschlagen .gruppe-140-C7VCsP {
-  background-color: transparent;
-  cursor: pointer;
-  height: 100%;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 57px;
-}
-
-.fehlgeschlagen .kontakt-QmqFKM {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.fehlgeschlagen .contact-C7VCsP {
-  background-color: transparent;
-  height: calc(100.00% - 3px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 2px;
-  width: 25px;
-}
-
-.fehlgeschlagen .gruppe-366-jPO7rS {
-  background-color: transparent;
-  bottom: calc(23.49% - 5px);
-  height: 20px;
-  left: 5px;
-  position: absolute;
-  width: 160px;
-}
-
-.fehlgeschlagen .gruppe-141-D3JMOC {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% - 4px);
-  position: absolute;
-  right: 0px;
-  top: 2px;
-  width: 130px;
-}
-
-.fehlgeschlagen .zahlungsoptionen-FivOxA {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.fehlgeschlagen .money-D3JMOC {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 20px;
-}
-
-.fehlgeschlagen .gruppe-622-jPO7rS {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.fehlgeschlagen .gruppe-141-5qyNT4 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.fehlgeschlagen .nf-tlink-FhAy5X {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.fehlgeschlagen .x498951_child_clothes-FhAy5X {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
-}
-
-.fehlgeschlagen .gruppe-372-cPMnFy {
-  background-color: transparent;
-  height: 117px;
-  position: absolute;
-  right: calc(12.59% - 27px);
-  top: 37px;
-  width: 212px;
-}
-
-.fehlgeschlagen .besuche-uns-hxQtvD {
-  background-color: transparent;
-  height: 44px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: calc(100.00% + 2px);
-}
-
-.fehlgeschlagen .gruppe-320-hxQtvD {
-  background-color: transparent;
-  bottom: 0px;
-  cursor: pointer;
-  height: 18px;
-  left: 0px;
-  position: absolute;
-  width: 102px;
-}
-
-.fehlgeschlagen .gruppe-162-Qv3StG {
-  background-color: transparent;
-  height: calc(100.00% - 2px);
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 73px;
-}
-
-.fehlgeschlagen .instagram-g4icPk {
-  background-color: transparent;
-  cursor: pointer;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -4px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.fehlgeschlagen .icon-instagram-Qv3StG {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 18px;
-}
-
-.fehlgeschlagen .ssl-4qh0lb {
-  background-color: transparent;
-  bottom: 60px;
-  display: block;
-  height: 90px;
-  left: calc(12.35% - 11px);
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  width: 90px;
-}
-
-.fehlgeschlagen .ssl-4qh0lb.bp4-animate-enter223 {
-  animation: bp4-animate-enter223-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter223-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
 }
 
 .fehlgeschlagen .gruppe-554-4qh0lb {
@@ -950,6 +569,605 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.fehlgeschlagen .gruppe-622-4qh0lb {
+  background-color: transparent;
+  bottom: 105px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.fehlgeschlagen .gruppe-141-N0WsiQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen .nf-tlink-vgdAco {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.fehlgeschlagen .x498951_child_clothes-vgdAco {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.fehlgeschlagen .gruppe-163-4qh0lb {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.fehlgeschlagen .gruppe-163-4qh0lb.bp4-animate-enter125 {
+  animation: bp4-animate-enter125-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter125-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.fehlgeschlagen .rechteck-90-cPMnFy {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen .gruppe-364-cPMnFy {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.fehlgeschlagen .exklusive-serviceleistungen-Rxhbxx {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.fehlgeschlagen .gruppe-137-Rxhbxx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.fehlgeschlagen .versand-rckversand-frei-VTUQsd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.fehlgeschlagen .truck-VTUQsd {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.fehlgeschlagen .gruppe-367-cPMnFy {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.fehlgeschlagen .knnen-wir-helfen-jPO7rS {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.fehlgeschlagen .gruppe-365-jPO7rS {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.fehlgeschlagen .gruppe-140-C7VCsP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.fehlgeschlagen .kontakt-QmqFKM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.fehlgeschlagen .contact-C7VCsP {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.fehlgeschlagen .gruppe-366-jPO7rS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.fehlgeschlagen .gruppe-141-D3JMOC {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.fehlgeschlagen .zahlungsoptionen-FivOxA {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.fehlgeschlagen .money-D3JMOC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.fehlgeschlagen .gruppe-372-cPMnFy {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.fehlgeschlagen .besuche-uns-hxQtvD {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.fehlgeschlagen .gruppe-320-hxQtvD {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.fehlgeschlagen .gruppe-162-Qv3StG {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.fehlgeschlagen .instagram-g4icPk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.fehlgeschlagen .icon-instagram-Qv3StG {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.fehlgeschlagen .ssl-4qh0lb {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.fehlgeschlagen .ssl-4qh0lb.bp4-animate-enter126 {
+  animation: bp4-animate-enter126-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter126-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.fehlgeschlagen .gruppe-554-BKeGga {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.fehlgeschlagen .gruppe-371-eZxsAA {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.fehlgeschlagen .das-unternehmen-K9vnJY {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.fehlgeschlagen .gruppe-370-K9vnJY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.fehlgeschlagen .gruppe-154-01hv3k {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen .gruppe-159-5ZhA6J {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen .ellipse-25-DLubCH {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.fehlgeschlagen .i-DLubCH {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.fehlgeschlagen .gruppe-160-K9vnJY {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.fehlgeschlagen .gruppe-155-2yKmkP {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.fehlgeschlagen .gruppe-138-zj0QRs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen .ber-borbus-ra8Xqw {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.fehlgeschlagen .b-2yKmkP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.fehlgeschlagen .gruppe-368-K9vnJY {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.fehlgeschlagen .gruppe-156-psfW6R {
+  background-color: transparent;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.fehlgeschlagen .geschfts-und-nutzungs-bediengungen-nZ5iJG {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.fehlgeschlagen .solid-psfW6R {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.fehlgeschlagen .gruppe-369-K9vnJY {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.fehlgeschlagen .gruppe-157-klygA9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.fehlgeschlagen .datenschutz-cookies-jjIiiY {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.fehlgeschlagen .cookie-klygA9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.fehlgeschlagen .impressum-eZxsAA {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.fehlgeschlagen .gruppe-622-BKeGga {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.fehlgeschlagen .gruppe-141-hdm8x4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen .nf-tlink-PxyaQk {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.fehlgeschlagen .x498951_child_clothes-PxyaQk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
 /* screen - fehlgeschlagen-1200 */
 
 .fehlgeschlagen-1200 {
@@ -976,13 +1194,13 @@ to{opacity: 1;
   width: calc(100.00% + 314px);
 }
 
-.fehlgeschlagen-1200 .mehrerekleidchen-xNHDWA.bp3-animate-enter219 {
-  animation: bp3-animate-enter219-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-1200 .mehrerekleidchen-xNHDWA.bp3-animate-enter164 {
+  animation: bp3-animate-enter164-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter219-frames {
+@keyframes bp3-animate-enter164-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1195,25 +1413,26 @@ to{opacity: 1;
 
 .fehlgeschlagen-1200 .gruppe-587-xNHDWA {
   background-color: transparent;
-  height: 265px;
-  left: calc(41.55% - 285px);
+  height: 101px;
+  left: calc(36.69% - 227px);
   position: absolute;
-  top: calc(46.75% - 124px);
-  width: 686px;
+  top: calc(39.89% - 40px);
+  width: 618px;
 }
 
 .fehlgeschlagen-1200 .gruppe-526-kycEWN {
   background-color: transparent;
   bottom: 0px;
-  height: 246px;
+  height: 82px;
   position: absolute;
   right: 0px;
-  width: 562px;
+  width: 494px;
 }
 
-.fehlgeschlagen-1200 .berprfen-sie-ihren-hedera-account-DOXFYu {
+.fehlgeschlagen-1200 .unterschiedliche-fehlermeldung-DOXFYu {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
+  bottom: 0px;
   display: block;
   height: 26px;
   left: 0px;
@@ -1222,18 +1441,17 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: calc(25.68% - 7px);
   white-space: nowrap;
-  width: 427px;
+  width: calc(100.00% - 67px);
 }
 
-.fehlgeschlagen-1200 .berprfen-sie-ihren-hedera-account-DOXFYu.bp3-animate-enter220 {
-  animation: bp3-animate-enter220-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-1200 .unterschiedliche-fehlermeldung-DOXFYu.bp3-animate-enter165 {
+  animation: bp3-animate-enter165-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter220-frames {
+@keyframes bp3-animate-enter165-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1253,73 +1471,16 @@ to{opacity: 1;
   text-align: left;
   top: 2px;
   white-space: nowrap;
-  width: calc(100.00% - 68px);
-}
-
-.fehlgeschlagen-1200 .ohh-da-ist-etwas-schief-gelaufen-DOXFYu.bp3-animate-enter221 {
-  animation: bp3-animate-enter221-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter221-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen-1200 .sollte-es-nicht-an-i-DOXFYu {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: 33px;
-  display: block;
-  height: 56px;
-  left: 2px;
-  letter-spacing: 0.00px;
-  line-height: 31px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
   width: 100%;
 }
 
-.fehlgeschlagen-1200 .sollte-es-nicht-an-i-DOXFYu.bp3-animate-enter222 {
-  animation: bp3-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-1200 .ohh-da-ist-etwas-schief-gelaufen-DOXFYu.bp3-animate-enter166 {
+  animation: bp3-animate-enter166-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter222-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen-1200 .infoborbus-shopcom-DOXFYu {
-  background-color: transparent;
-  bottom: 1px;
-  display: block;
-  height: 22px;
-  left: 2px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 208px;
-}
-
-.fehlgeschlagen-1200 .infoborbus-shopcom-DOXFYu.bp3-animate-enter223 {
-  animation: bp3-animate-enter223-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter223-frames {
+@keyframes bp3-animate-enter166-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1328,7 +1489,7 @@ to{opacity: 1;
 
 .fehlgeschlagen-1200 .page-1-kycEWN {
   background-color: transparent;
-  height: 100px;
+  height: calc(100.00% - 1px);
   left: 0px;
   position: absolute;
   top: 0px;
@@ -1374,13 +1535,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.fehlgeschlagen-1200 .gruppe-163-V7HaQj.bp3-animate-enter224 {
-  animation: bp3-animate-enter224-frames 0.20s linear 0.10s 1 normal forwards;
+.fehlgeschlagen-1200 .gruppe-163-V7HaQj.bp3-animate-enter167 {
+  animation: bp3-animate-enter167-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter224-frames {
+@keyframes bp3-animate-enter167-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1547,17 +1708,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.fehlgeschlagen-1200 .gruppe-692-RxkF0s {
+.fehlgeschlagen-1200 .gruppe-623-RxkF0s {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.fehlgeschlagen-1200 .gruppe-141-8sdh0g {
+.fehlgeschlagen-1200 .gruppe-141-RGRQSs {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1566,27 +1726,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.fehlgeschlagen-1200 .nft-zXE6DH {
+.fehlgeschlagen-1200 .nft-5oBfBf {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.fehlgeschlagen-1200 .x498951_child_clothes-RxkF0s {
+.fehlgeschlagen-1200 .gruppe-622-5oBfBf {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.fehlgeschlagen-1200 .gruppe-141-7UhsJJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen-1200 .x498951_child_clothes-usDEg6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .fehlgeschlagen-1200 .gruppe-345-zqwWxW {
@@ -1750,7 +1929,6 @@ to{opacity: 1;
 
 .fehlgeschlagen-1200 .gruppe-156-WDcKSU {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -1900,13 +2078,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.fehlgeschlagen-1200 .ssl-V7HaQj.bp3-animate-enter225 {
-  animation: bp3-animate-enter225-frames 0.20s linear 0.10s 1 normal forwards;
+.fehlgeschlagen-1200 .ssl-V7HaQj.bp3-animate-enter168 {
+  animation: bp3-animate-enter168-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter225-frames {
+@keyframes bp3-animate-enter168-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1938,13 +2116,13 @@ to{opacity: 1;
   width: calc(100.00% + 1155px);
 }
 
-.fehlgeschlagen-375 .mehrerekleidchen-VOehsQ.bp1-animate-enter206 {
-  animation: bp1-animate-enter206-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-375 .mehrerekleidchen-VOehsQ.bp1-animate-enter151 {
+  animation: bp1-animate-enter151-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter206-frames {
+@keyframes bp1-animate-enter151-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2173,25 +2351,26 @@ to{opacity: 1;
 
 .fehlgeschlagen-375 .gruppe-588-VOehsQ {
   background-color: transparent;
-  height: 442px;
+  height: 185px;
   left: calc(50.00% - 174px);
   position: absolute;
-  top: calc(35.01% - 155px);
+  top: calc(36.27% - 67px);
   width: 348px;
 }
 
 .fehlgeschlagen-375 .gruppe-528-S3SNHB {
   background-color: transparent;
   bottom: 0px;
-  height: 345px;
+  height: 88px;
   left: calc(50.00% - 174px);
   position: absolute;
   width: 348px;
 }
 
-.fehlgeschlagen-375 .berprfen-sie-ihren-hedera-account-1xuExk {
+.fehlgeschlagen-375 .unterschiedliche-fehlermeldung-1xuExk {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
+  bottom: 2px;
   display: block;
   height: 22px;
   left: 1px;
@@ -2200,18 +2379,17 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: calc(19.97% - 4px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
 
-.fehlgeschlagen-375 .berprfen-sie-ihren-hedera-account-1xuExk.bp1-animate-enter207 {
-  animation: bp1-animate-enter207-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-375 .unterschiedliche-fehlermeldung-1xuExk.bp1-animate-enter152 {
+  animation: bp1-animate-enter152-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter207-frames {
+@keyframes bp1-animate-enter152-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2239,69 +2417,13 @@ to{opacity: 1;
   width: calc(100.00% - 8px);
 }
 
-.fehlgeschlagen-375 .ohh-etwas-ist-schief-gelaufen-1xuExk.bp1-animate-enter208 {
-  animation: bp1-animate-enter208-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-375 .ohh-etwas-ist-schief-gelaufen-1xuExk.bp1-animate-enter153 {
+  animation: bp1-animate-enter153-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter208-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen-375 .sollte-es-nicht-an-i-1xuExk {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: 14px;
-  display: block;
-  height: 118px;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: 31px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  width: 100%;
-}
-
-.fehlgeschlagen-375 .sollte-es-nicht-an-i-1xuExk.bp1-animate-enter209 {
-  animation: bp1-animate-enter209-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter209-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen-375 .infoborbus-shopcom-1xuExk {
-  background-color: transparent;
-  bottom: 1px;
-  display: block;
-  height: 22px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 208px;
-}
-
-.fehlgeschlagen-375 .infoborbus-shopcom-1xuExk.bp1-animate-enter210 {
-  animation: bp1-animate-enter210-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter210-frames {
+@keyframes bp1-animate-enter153-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2433,7 +2555,7 @@ to{opacity: 1;
 
 .fehlgeschlagen-375 .gruppe-357-yw5xSz {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2475,7 +2597,7 @@ to{opacity: 1;
 
 .fehlgeschlagen-375 .gruppe-358-yw5xSz {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2485,7 +2607,6 @@ to{opacity: 1;
 .fehlgeschlagen-375 .gruppe-141-ge88qo {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2494,6 +2615,7 @@ to{opacity: 1;
 
 .fehlgeschlagen-375 .zahlungsoptionen-M8DRZl {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2515,46 +2637,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.fehlgeschlagen-375 .gruppe-694-yw5xSz {
+.fehlgeschlagen-375 .gruppe-623-yw5xSz {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.fehlgeschlagen-375 .gruppe-141-sjYy7W {
+.fehlgeschlagen-375 .gruppe-141-kAvcBk {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.fehlgeschlagen-375 .nft-DePKB4 {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen-375 .nft-CHMQii {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.fehlgeschlagen-375 .x498951_child_clothes-sjYy7W {
+.fehlgeschlagen-375 .gruppe-622-CHMQii {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.fehlgeschlagen-375 .gruppe-141-xAWsNp {
   background-color: transparent;
   height: 100%;
   left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.fehlgeschlagen-375 .x498951_child_clothes-aK8lNP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .fehlgeschlagen-375 .gruppe-363-1LXtmV {
@@ -2720,7 +2860,6 @@ to{opacity: 1;
 
 .fehlgeschlagen-375 .gruppe-156-EjxQx6 {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -2850,13 +2989,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.fehlgeschlagen-375 .ssl-1LXtmV.bp1-animate-enter211 {
-  animation: bp1-animate-enter211-frames 0.20s linear 0.10s 1 normal forwards;
+.fehlgeschlagen-375 .ssl-1LXtmV.bp1-animate-enter154 {
+  animation: bp1-animate-enter154-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter211-frames {
+@keyframes bp1-animate-enter154-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2888,13 +3027,13 @@ to{opacity: 1;
   width: calc(100.00% + 737px);
 }
 
-.fehlgeschlagen-767 .mehrerekleidchen-kjK4Ht.bp2-animate-enter215 {
-  animation: bp2-animate-enter215-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-767 .mehrerekleidchen-kjK4Ht.bp2-animate-enter163 {
+  animation: bp2-animate-enter163-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter215-frames {
+@keyframes bp2-animate-enter163-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3107,25 +3246,26 @@ to{opacity: 1;
 
 .fehlgeschlagen-767 .gruppe-586-kjK4Ht {
   background-color: transparent;
-  height: 276px;
+  height: 101px;
+  left: calc(29.26% - 178px);
   position: absolute;
-  right: calc(49.45% - 334px);
-  top: calc(42.10% - 116px);
-  width: 676px;
+  top: calc(35.51% - 36px);
+  width: 610px;
 }
 
 .fehlgeschlagen-767 .gruppe-527-EdhxX6 {
   background-color: transparent;
   bottom: 0px;
-  height: 257px;
+  height: 82px;
   position: absolute;
   right: 0px;
-  width: 560px;
+  width: 494px;
 }
 
-.fehlgeschlagen-767 .berprfen-sie-ihren-hedera-account-IxhE9x {
+.fehlgeschlagen-767 .unterschiedliche-fehlermeldung-IxhE9x {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
+  bottom: 0px;
   display: block;
   height: 26px;
   left: 0px;
@@ -3134,18 +3274,17 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: calc(24.46% - 6px);
   white-space: nowrap;
-  width: 427px;
+  width: calc(100.00% - 67px);
 }
 
-.fehlgeschlagen-767 .berprfen-sie-ihren-hedera-account-IxhE9x.bp2-animate-enter216 {
-  animation: bp2-animate-enter216-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-767 .unterschiedliche-fehlermeldung-IxhE9x.bp2-animate-enter164 {
+  animation: bp2-animate-enter164-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter216-frames {
+@keyframes bp2-animate-enter164-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3165,73 +3304,16 @@ to{opacity: 1;
   text-align: left;
   top: 2px;
   white-space: nowrap;
-  width: calc(100.00% - 66px);
+  width: 100%;
 }
 
-.fehlgeschlagen-767 .ohh-da-ist-etwas-schief-gelaufen-IxhE9x.bp2-animate-enter217 {
-  animation: bp2-animate-enter217-frames 0.20s ease 0.10s 1 normal forwards;
+.fehlgeschlagen-767 .ohh-da-ist-etwas-schief-gelaufen-IxhE9x.bp2-animate-enter165 {
+  animation: bp2-animate-enter165-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter217-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen-767 .sollte-es-nicht-an-i-IxhE9x {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: 40px;
-  display: block;
-  height: 56px;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: 31px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.fehlgeschlagen-767 .sollte-es-nicht-an-i-IxhE9x.bp2-animate-enter218 {
-  animation: bp2-animate-enter218-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter218-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.fehlgeschlagen-767 .infoborbus-shopcom-IxhE9x {
-  background-color: transparent;
-  bottom: 1px;
-  display: block;
-  height: 22px;
-  left: 4px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 208px;
-}
-
-.fehlgeschlagen-767 .infoborbus-shopcom-IxhE9x.bp2-animate-enter219 {
-  animation: bp2-animate-enter219-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter219-frames {
+@keyframes bp2-animate-enter165-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3277,13 +3359,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.fehlgeschlagen-767 .gruppe-163-kjK4Ht.bp2-animate-enter220 {
-  animation: bp2-animate-enter220-frames 0.20s linear 0.10s 1 normal forwards;
+.fehlgeschlagen-767 .gruppe-163-kjK4Ht.bp2-animate-enter166 {
+  animation: bp2-animate-enter166-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter220-frames {
+@keyframes bp2-animate-enter166-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3355,7 +3437,7 @@ to{opacity: 1;
 
 .fehlgeschlagen-767 .gruppe-350-5cSdfq {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -3377,7 +3459,7 @@ to{opacity: 1;
 
 .fehlgeschlagen-767 .gruppe-348-E8SKj1 {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -3419,7 +3501,7 @@ to{opacity: 1;
 
 .fehlgeschlagen-767 .gruppe-349-E8SKj1 {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -3459,46 +3541,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.fehlgeschlagen-767 .gruppe-693-E8SKj1 {
+.fehlgeschlagen-767 .gruppe-623-E8SKj1 {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.fehlgeschlagen-767 .gruppe-141-i5SCzz {
+.fehlgeschlagen-767 .gruppe-141-zWPgF2 {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.fehlgeschlagen-767 .nft-2rWeCL {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen-767 .nft-zFWjMd {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.fehlgeschlagen-767 .x498951_child_clothes-i5SCzz {
+.fehlgeschlagen-767 .gruppe-622-zFWjMd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.fehlgeschlagen-767 .gruppe-141-lxRJI5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fehlgeschlagen-767 .x498951_child_clothes-j7cPPm {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .fehlgeschlagen-767 .gruppe-354-5cSdfq {
@@ -3662,7 +3762,6 @@ to{opacity: 1;
 
 .fehlgeschlagen-767 .gruppe-156-to4xLI {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -3813,13 +3912,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.fehlgeschlagen-767 .ssl-kjK4Ht.bp2-animate-enter221 {
-  animation: bp2-animate-enter221-frames 0.20s linear 0.10s 1 normal forwards;
+.fehlgeschlagen-767 .ssl-kjK4Ht.bp2-animate-enter167 {
+  animation: bp2-animate-enter167-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter221-frames {
+@keyframes bp2-animate-enter167-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
