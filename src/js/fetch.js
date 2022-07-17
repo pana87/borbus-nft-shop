@@ -1,4 +1,5 @@
 import { _renderNotAvailableNfts } from "./render.js"
+import { _getNfts } from "./storage.js"
 
 export async function getPriceInHbar(priceInEur) {
   const data = await _getHbarExchangeRate()
@@ -22,10 +23,7 @@ async function _getHbarExchangeRate() {
 export async function _getAvailableNftsFromCollectionOne() {
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest()
-    // url needs to be changed dynamically
-    // const url = process.env.URL | "url"
     xhr.open("GET", "http://localhost:8888/.netlify/functions/check-collection-one-availability")
-    // xhr.setRequestHeader("Access-Control-Allow-Origin", url)
     xhr.setRequestHeader("Content-Type", "application/json")
     xhr.overrideMimeType("text/html")
 
@@ -35,8 +33,7 @@ export async function _getAvailableNftsFromCollectionOne() {
 
         const data = JSON.parse(xhr.response)
         window.sessionStorage.setItem("nfts", JSON.stringify(data))
-
-        _renderNotAvailableNfts()
+        window.location.reload()
         resolve()
       } else {
         console.log("fetch fehlgeschlagen.. retry");
@@ -47,4 +44,12 @@ export async function _getAvailableNftsFromCollectionOne() {
 
     xhr.send()
   })
+}
+
+export async function _getItemFromNftStorage() {
+  if (!window.__DATA__) return
+  const nfts = await _getNfts()
+  const response = await fetch(`https://ipfs.io/ipfs/${nfts[window.__DATA__.id - 1].metadata}`)
+  const data = await response.text()
+  return JSON.parse(data)
 }

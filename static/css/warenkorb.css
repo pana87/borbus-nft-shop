@@ -24,13 +24,13 @@
   width: 100%;
 }
 
-.warenkorb .linie-29-Bxv3WM.bp4-animate-enter231 {
-  animation: bp4-animate-enter231-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .linie-29-Bxv3WM.bp4-animate-enter61 {
+  animation: bp4-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter231-frames {
+@keyframes bp4-animate-enter61-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -49,13 +49,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb .linie-44-Bxv3WM.bp4-animate-enter232 {
-  animation: bp4-animate-enter232-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .linie-44-Bxv3WM.bp4-animate-enter62 {
+  animation: bp4-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter232-frames {
+@keyframes bp4-animate-enter62-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -87,13 +87,13 @@ to{opacity: 1;
   width: 52px;
 }
 
-.warenkorb .preiswort-yXsHv9.bp4-animate-enter233 {
-  animation: bp4-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .preiswort-yXsHv9.bp4-animate-enter63 {
+  animation: bp4-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter233-frames {
+@keyframes bp4-animate-enter63-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -116,13 +116,13 @@ to{opacity: 1;
   width: 77px;
 }
 
-.warenkorb .gesamtpreis1-yXsHv9.bp4-animate-enter234 {
-  animation: bp4-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .gesamtpreis1-yXsHv9.bp4-animate-enter64 {
+  animation: bp4-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter234-frames {
+@keyframes bp4-animate-enter64-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -145,13 +145,13 @@ to{opacity: 1;
   width: 126px;
 }
 
-.warenkorb .gesamtpreiswort-yXsHv9.bp4-animate-enter235 {
-  animation: bp4-animate-enter235-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .gesamtpreiswort-yXsHv9.bp4-animate-enter65 {
+  animation: bp4-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter235-frames {
+@keyframes bp4-animate-enter65-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -174,13 +174,13 @@ to{opacity: 1;
   width: 75px;
 }
 
-.warenkorb .preis1-yXsHv9.bp4-animate-enter236 {
-  animation: bp4-animate-enter236-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .preis1-yXsHv9.bp4-animate-enter66 {
+  animation: bp4-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter236-frames {
+@keyframes bp4-animate-enter66-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -203,13 +203,13 @@ to{opacity: 1;
   width: 122px;
 }
 
-.warenkorb .jetzt-kaufen-yXsHv9.bp4-animate-enter237 {
-  animation: bp4-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .jetzt-kaufen-yXsHv9.bp4-animate-enter67 {
+  animation: bp4-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter237-frames {
+@keyframes bp4-animate-enter67-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -501,11 +501,11 @@ to{opacity: 1;
 
 .warenkorb .gruppe-568-Bxv3WM {
   background-color: transparent;
-  height: 188px;
-  left: calc(21.35% - 99px);
+  height: 189px;
+  left: calc(21.38% - 99px);
   position: absolute;
-  top: calc(31.83% - 60px);
-  width: 466px;
+  top: calc(31.82% - 60px);
+  width: 465px;
 }
 
 .warenkorb .gruppe-510-ykumxx {
@@ -533,13 +533,13 @@ to{opacity: 1;
   width: calc(100.00% - 9px);
 }
 
-.warenkorb .kleidchenbezeichnung-LToOkr.bp4-animate-enter238 {
-  animation: bp4-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .kleidchenbezeichnung-LToOkr.bp4-animate-enter68 {
+  animation: bp4-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter238-frames {
+@keyframes bp4-animate-enter68-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -562,13 +562,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb .versand-5-7-werktage-LToOkr.bp4-animate-enter239 {
-  animation: bp4-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .versand-5-7-werktage-LToOkr.bp4-animate-enter69 {
+  animation: bp4-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter239-frames {
+@keyframes bp4-animate-enter69-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -590,27 +590,26 @@ to{opacity: 1;
   width: 55px;
 }
 
-.warenkorb .lschen-LToOkr.bp4-animate-enter240 {
-  animation: bp4-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .lschen-LToOkr.bp4-animate-enter70 {
+  animation: bp4-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter240-frames {
+@keyframes bp4-animate-enter70-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb .vorderseitebild-ykumxx {
-  background-color: transparent;
+.warenkorb .vorderseiteklein-ykumxx {
+  background-color: var(--white);
   height: 100%;
-  left: 1px;
-  object-fit: cover;
+  left: 0px;
   position: absolute;
-  top: 1px;
-  width: 241px;
+  top: 0px;
+  width: 240px;
 }
 
 .warenkorb .gruppe-574-Bxv3WM {
@@ -634,13 +633,13 @@ to{opacity: 1;
   width: 144px;
 }
 
-.warenkorb .ssl-Zz7vhC.bp4-animate-enter241 {
-  animation: bp4-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .ssl-Zz7vhC.bp4-animate-enter71 {
+  animation: bp4-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter241-frames {
+@keyframes bp4-animate-enter71-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -663,13 +662,13 @@ to{opacity: 1;
   width: 156px;
 }
 
-.warenkorb .sichere-verbindung-Zz7vhC.bp4-animate-enter242 {
-  animation: bp4-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .sichere-verbindung-Zz7vhC.bp4-animate-enter72 {
+  animation: bp4-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter242-frames {
+@keyframes bp4-animate-enter72-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -692,13 +691,13 @@ to{opacity: 1;
   width: 190px;
 }
 
-.warenkorb .versand-rckversand-kostenlos-Zz7vhC.bp4-animate-enter243 {
-  animation: bp4-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .versand-rckversand-kostenlos-Zz7vhC.bp4-animate-enter73 {
+  animation: bp4-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter243-frames {
+@keyframes bp4-animate-enter73-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -721,13 +720,13 @@ to{opacity: 1;
   width: 142px;
 }
 
-.warenkorb .sicheres-netzwerk-Zz7vhC.bp4-animate-enter244 {
-  animation: bp4-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .sicheres-netzwerk-Zz7vhC.bp4-animate-enter74 {
+  animation: bp4-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter244-frames {
+@keyframes bp4-animate-enter74-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -856,13 +855,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb .gruppe-163-Bxv3WM.bp4-animate-enter245 {
-  animation: bp4-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .gruppe-163-Bxv3WM.bp4-animate-enter75 {
+  animation: bp4-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter245-frames {
+@keyframes bp4-animate-enter75-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -934,7 +933,7 @@ to{opacity: 1;
 
 .warenkorb .gruppe-367-CFc5dA {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -955,7 +954,7 @@ to{opacity: 1;
 
 .warenkorb .gruppe-365-EjUxAL {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -998,7 +997,7 @@ to{opacity: 1;
 
 .warenkorb .gruppe-366-EjUxAL {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -1036,48 +1035,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.warenkorb .gruppe-622-EjUxAL {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.warenkorb .gruppe-141-8rwGg8 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.warenkorb .nf-tlink-RLgrgi {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.warenkorb .x498951_child_clothes-RLgrgi {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
 }
 
 .warenkorb .gruppe-372-CFc5dA {
@@ -1134,7 +1091,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb .instagram-sketched-G2xoDn {
+.warenkorb .icon-instagram-G2xoDn {
   background-color: transparent;
   height: 100%;
   left: 1px;
@@ -1156,13 +1113,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb .ssl-Bxv3WM.bp4-animate-enter246 {
-  animation: bp4-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb .ssl-Bxv3WM.bp4-animate-enter76 {
+  animation: bp4-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter246-frames {
+@keyframes bp4-animate-enter76-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1314,7 +1271,6 @@ to{opacity: 1;
 
 .warenkorb .gruppe-156-OzyXx3 {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -1402,6 +1358,48 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.warenkorb .gruppe-622-Bxv3WM {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.warenkorb .gruppe-141-a6w3sd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb .nf-tlink-mJSuIb {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.warenkorb .x498951_child_clothes-mJSuIb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
 /* screen - warenkorb-1200 */
 
 .warenkorb-1200 {
@@ -1428,13 +1426,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .linie-29-qEoC5i.bp3-animate-enter233 {
-  animation: bp3-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .linie-29-qEoC5i.bp3-animate-enter62 {
+  animation: bp3-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter233-frames {
+@keyframes bp3-animate-enter62-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1453,13 +1451,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .linie-44-qEoC5i.bp3-animate-enter234 {
-  animation: bp3-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .linie-44-qEoC5i.bp3-animate-enter63 {
+  animation: bp3-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter234-frames {
+@keyframes bp3-animate-enter63-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1491,13 +1489,13 @@ to{opacity: 1;
   width: 77px;
 }
 
-.warenkorb-1200 .gesamtpreis1-EzBGOk.bp3-animate-enter235 {
-  animation: bp3-animate-enter235-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .gesamtpreis1-EzBGOk.bp3-animate-enter64 {
+  animation: bp3-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter235-frames {
+@keyframes bp3-animate-enter64-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1520,13 +1518,13 @@ to{opacity: 1;
   width: 126px;
 }
 
-.warenkorb-1200 .gesamtpreiswort-EzBGOk.bp3-animate-enter236 {
-  animation: bp3-animate-enter236-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .gesamtpreiswort-EzBGOk.bp3-animate-enter65 {
+  animation: bp3-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter236-frames {
+@keyframes bp3-animate-enter65-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1558,13 +1556,13 @@ to{opacity: 1;
   width: 52px;
 }
 
-.warenkorb-1200 .preiswort-Vpo0L9.bp3-animate-enter237 {
-  animation: bp3-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .preiswort-Vpo0L9.bp3-animate-enter66 {
+  animation: bp3-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter237-frames {
+@keyframes bp3-animate-enter66-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1587,13 +1585,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-1200 .preis1-Vpo0L9.bp3-animate-enter238 {
-  animation: bp3-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .preis1-Vpo0L9.bp3-animate-enter67 {
+  animation: bp3-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter238-frames {
+@keyframes bp3-animate-enter67-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1625,13 +1623,13 @@ to{opacity: 1;
   width: 122px;
 }
 
-.warenkorb-1200 .jetzt-kaufen-pHxyv8.bp3-animate-enter239 {
-  animation: bp3-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .jetzt-kaufen-pHxyv8.bp3-animate-enter68 {
+  animation: bp3-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter239-frames {
+@keyframes bp3-animate-enter68-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1923,19 +1921,19 @@ to{opacity: 1;
 
 .warenkorb-1200 .gruppe-569-qEoC5i {
   background-color: transparent;
-  height: 188px;
-  left: calc(22.29% - 95px);
+  height: 189px;
+  left: calc(22.28% - 95px);
   position: absolute;
-  top: calc(34.13% - 64px);
+  top: calc(34.12% - 64px);
   width: 428px;
 }
 
 .warenkorb-1200 .gruppe-514-cF5xHF {
   background-color: transparent;
-  bottom: calc(50.00% - 83px);
   height: 167px;
   position: absolute;
   right: 0px;
+  top: calc(50.00% - 84px);
   width: 145px;
 }
 
@@ -1964,13 +1962,13 @@ to{opacity: 1;
   width: calc(100.00% - 9px);
 }
 
-.warenkorb-1200 .kleidchenbezeichnung-xaXJTK.bp3-animate-enter240 {
-  animation: bp3-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .kleidchenbezeichnung-xaXJTK.bp3-animate-enter69 {
+  animation: bp3-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter240-frames {
+@keyframes bp3-animate-enter69-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1993,13 +1991,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-1200 .versand-5-7-werktage-xaXJTK.bp3-animate-enter241 {
-  animation: bp3-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .versand-5-7-werktage-xaXJTK.bp3-animate-enter70 {
+  animation: bp3-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter241-frames {
+@keyframes bp3-animate-enter70-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2021,26 +2019,25 @@ to{opacity: 1;
   width: 55px;
 }
 
-.warenkorb-1200 .lschen-xaXJTK.bp3-animate-enter242 {
-  animation: bp3-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .lschen-xaXJTK.bp3-animate-enter71 {
+  animation: bp3-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter242-frames {
+@keyframes bp3-animate-enter71-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-1200 .vorderseitebild-cF5xHF {
-  background-color: transparent;
-  bottom: 0px;
-  height: 188px;
+.warenkorb-1200 .vorderseiteklein-cF5xHF {
+  background-color: var(--white);
+  height: 189px;
   left: 0px;
-  object-fit: cover;
   position: absolute;
+  top: calc(50.00% - 94px);
   width: 241px;
 }
 
@@ -2065,13 +2062,13 @@ to{opacity: 1;
   width: 91px;
 }
 
-.warenkorb-1200 .ssl-RxAIJp.bp3-animate-enter243 {
-  animation: bp3-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .ssl-RxAIJp.bp3-animate-enter72 {
+  animation: bp3-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter243-frames {
+@keyframes bp3-animate-enter72-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2094,13 +2091,13 @@ to{opacity: 1;
   width: 98px;
 }
 
-.warenkorb-1200 .sichere-verbindung-RxAIJp.bp3-animate-enter244 {
-  animation: bp3-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .sichere-verbindung-RxAIJp.bp3-animate-enter73 {
+  animation: bp3-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter244-frames {
+@keyframes bp3-animate-enter73-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2123,13 +2120,13 @@ to{opacity: 1;
   width: 118px;
 }
 
-.warenkorb-1200 .versand-rckversand-kostenlos-RxAIJp.bp3-animate-enter245 {
-  animation: bp3-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .versand-rckversand-kostenlos-RxAIJp.bp3-animate-enter74 {
+  animation: bp3-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter245-frames {
+@keyframes bp3-animate-enter74-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2152,13 +2149,13 @@ to{opacity: 1;
   width: 84px;
 }
 
-.warenkorb-1200 .starkes-netzwerk-RxAIJp.bp3-animate-enter246 {
-  animation: bp3-animate-enter246-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-1200 .starkes-netzwerk-RxAIJp.bp3-animate-enter75 {
+  animation: bp3-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter246-frames {
+@keyframes bp3-animate-enter75-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2296,13 +2293,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .gruppe-163-egvS0n.bp3-animate-enter247 {
-  animation: bp3-animate-enter247-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-1200 .gruppe-163-egvS0n.bp3-animate-enter76 {
+  animation: bp3-animate-enter76-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter247-frames {
+@keyframes bp3-animate-enter76-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2469,17 +2466,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.warenkorb-1200 .gruppe-692-lbObZk {
+.warenkorb-1200 .gruppe-623-lbObZk {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.warenkorb-1200 .gruppe-141-AD09Ax {
+.warenkorb-1200 .gruppe-141-cXyidE {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -2488,27 +2484,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-1200 .nft-DwFhqc {
+.warenkorb-1200 .nft-oiiMlR {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.warenkorb-1200 .x498951_child_clothes-lbObZk {
+.warenkorb-1200 .gruppe-622-oiiMlR {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.warenkorb-1200 .gruppe-141-x04NxL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-1200 .x498951_child_clothes-XxD5y7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .warenkorb-1200 .gruppe-345-OPbvUx {
@@ -2672,7 +2687,6 @@ to{opacity: 1;
 
 .warenkorb-1200 .gruppe-156-QijJu5 {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -2800,7 +2814,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-1200 .instagram-sketched-UTjk8M {
+.warenkorb-1200 .icon-instagram-UTjk8M {
   background-color: transparent;
   height: 18px;
   left: 1px;
@@ -2822,13 +2836,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb-1200 .ssl-egvS0n.bp3-animate-enter248 {
-  animation: bp3-animate-enter248-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-1200 .ssl-egvS0n.bp3-animate-enter77 {
+  animation: bp3-animate-enter77-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter248-frames {
+@keyframes bp3-animate-enter77-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2870,13 +2884,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-375 .linie-29-pxkV8d.bp1-animate-enter218 {
-  animation: bp1-animate-enter218-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .linie-29-pxkV8d.bp1-animate-enter52 {
+  animation: bp1-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter218-frames {
+@keyframes bp1-animate-enter52-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2895,13 +2909,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-375 .linie-44-pxkV8d.bp1-animate-enter219 {
-  animation: bp1-animate-enter219-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .linie-44-pxkV8d.bp1-animate-enter53 {
+  animation: bp1-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter219-frames {
+@keyframes bp1-animate-enter53-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2933,13 +2947,13 @@ to{opacity: 1;
   width: 107px;
 }
 
-.warenkorb-375 .gesamtpreiswort-rrnwaF.bp1-animate-enter220 {
-  animation: bp1-animate-enter220-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .gesamtpreiswort-rrnwaF.bp1-animate-enter54 {
+  animation: bp1-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter220-frames {
+@keyframes bp1-animate-enter54-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2962,35 +2976,25 @@ to{opacity: 1;
   width: 66px;
 }
 
-.warenkorb-375 .gesamtpreis1-rrnwaF.bp1-animate-enter221 {
-  animation: bp1-animate-enter221-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .gesamtpreis1-rrnwaF.bp1-animate-enter55 {
+  animation: bp1-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter221-frames {
+@keyframes bp1-animate-enter55-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-375 .gruppe-571-pxkV8d {
-  background-color: transparent;
-  height: 156px;
-  left: calc(12.52% - 25px);
+.warenkorb-375 .vorderseiteklein-pxkV8d {
+  background-color: var(--white);
+  height: 157px;
+  left: calc(16.00% - 32px);
   position: absolute;
-  top: calc(33.10% - 52px);
-  width: 200px;
-}
-
-.warenkorb-375 .vorderseitebild-VsSxAa {
-  background-color: transparent;
-  height: 156px;
-  left: calc(50.00% - 100px);
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
+  top: calc(33.11% - 52px);
   width: 200px;
 }
 
@@ -3036,13 +3040,13 @@ to{opacity: 1;
   width: calc(100.00% - 9px);
 }
 
-.warenkorb-375 .kleidchenbezeichnung-Ioxqug.bp1-animate-enter222 {
-  animation: bp1-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .kleidchenbezeichnung-Ioxqug.bp1-animate-enter56 {
+  animation: bp1-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter222-frames {
+@keyframes bp1-animate-enter56-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3065,13 +3069,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-375 .versand-5-7-werktage-Ioxqug.bp1-animate-enter223 {
-  animation: bp1-animate-enter223-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .versand-5-7-werktage-Ioxqug.bp1-animate-enter57 {
+  animation: bp1-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter223-frames {
+@keyframes bp1-animate-enter57-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3084,7 +3088,7 @@ to{opacity: 1;
   color: var(--stratos);
   display: block;
   font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: var(--font-size-xxxs);
+  font-size: var(--font-size-xxxxs);
   font-style: normal;
   font-weight: 400;
   height: 12px;
@@ -3098,13 +3102,13 @@ to{opacity: 1;
   width: 41px;
 }
 
-.warenkorb-375 .lschen-Ioxqug.bp1-animate-enter224 {
-  animation: bp1-animate-enter224-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .lschen-Ioxqug.bp1-animate-enter58 {
+  animation: bp1-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter224-frames {
+@keyframes bp1-animate-enter58-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3127,13 +3131,13 @@ to{opacity: 1;
   width: 60px;
 }
 
-.warenkorb-375 .preis1-Ioxqug.bp1-animate-enter225 {
-  animation: bp1-animate-enter225-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .preis1-Ioxqug.bp1-animate-enter59 {
+  animation: bp1-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter225-frames {
+@keyframes bp1-animate-enter59-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3156,13 +3160,13 @@ to{opacity: 1;
   width: 44px;
 }
 
-.warenkorb-375 .preiswort-Ioxqug.bp1-animate-enter226 {
-  animation: bp1-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .preiswort-Ioxqug.bp1-animate-enter60 {
+  animation: bp1-animate-enter60-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter226-frames {
+@keyframes bp1-animate-enter60-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3194,13 +3198,13 @@ to{opacity: 1;
   width: 98px;
 }
 
-.warenkorb-375 .jetzt-kaufen-buujxT.bp1-animate-enter227 {
-  animation: bp1-animate-enter227-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .jetzt-kaufen-buujxT.bp1-animate-enter61 {
+  animation: bp1-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter227-frames {
+@keyframes bp1-animate-enter61-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3545,13 +3549,13 @@ to{opacity: 1;
   width: 64px;
 }
 
-.warenkorb-375 .ssl-WpQd1Y.bp1-animate-enter228 {
-  animation: bp1-animate-enter228-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .ssl-WpQd1Y.bp1-animate-enter62 {
+  animation: bp1-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter228-frames {
+@keyframes bp1-animate-enter62-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3574,13 +3578,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-375 .sichere-verbindung-WpQd1Y.bp1-animate-enter229 {
-  animation: bp1-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .sichere-verbindung-WpQd1Y.bp1-animate-enter63 {
+  animation: bp1-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter229-frames {
+@keyframes bp1-animate-enter63-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3612,13 +3616,13 @@ to{opacity: 1;
   width: calc(100.00% - 6px);
 }
 
-.warenkorb-375 .versand-rckversand-kostenlos-JB45Gr.bp1-animate-enter230 {
-  animation: bp1-animate-enter230-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .versand-rckversand-kostenlos-JB45Gr.bp1-animate-enter64 {
+  animation: bp1-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter230-frames {
+@keyframes bp1-animate-enter64-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3679,13 +3683,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-375 .starkes-netzwerk-xSIolg.bp1-animate-enter231 {
-  animation: bp1-animate-enter231-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-375 .starkes-netzwerk-xSIolg.bp1-animate-enter65 {
+  animation: bp1-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter231-frames {
+@keyframes bp1-animate-enter65-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3871,7 +3875,7 @@ to{opacity: 1;
 
 .warenkorb-375 .gruppe-357-zipaOi {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -3913,7 +3917,7 @@ to{opacity: 1;
 
 .warenkorb-375 .gruppe-358-zipaOi {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -3923,7 +3927,6 @@ to{opacity: 1;
 .warenkorb-375 .gruppe-141-EIq4yK {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -3932,6 +3935,7 @@ to{opacity: 1;
 
 .warenkorb-375 .zahlungsoptionen-PQoSse {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -3953,46 +3957,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.warenkorb-375 .gruppe-694-zipaOi {
+.warenkorb-375 .gruppe-623-zipaOi {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.warenkorb-375 .gruppe-141-aeES9T {
+.warenkorb-375 .gruppe-141-FjTQYA {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.warenkorb-375 .nft-pcEQwx {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-375 .nft-aUO8xq {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.warenkorb-375 .x498951_child_clothes-aeES9T {
+.warenkorb-375 .gruppe-622-aUO8xq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.warenkorb-375 .gruppe-141-2kcZ4J {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.warenkorb-375 .x498951_child_clothes-6fMHY8 {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .warenkorb-375 .gruppe-363-hbrIwX {
@@ -4158,7 +4180,6 @@ to{opacity: 1;
 
 .warenkorb-375 .gruppe-156-8eHmQh {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -4266,7 +4287,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-375 .instagram-sketched-qGJEZb {
+.warenkorb-375 .icon-instagram-qGJEZb {
   background-color: transparent;
   height: 100%;
   object-fit: cover;
@@ -4288,13 +4309,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb-375 .ssl-hbrIwX.bp1-animate-enter232 {
-  animation: bp1-animate-enter232-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-375 .ssl-hbrIwX.bp1-animate-enter66 {
+  animation: bp1-animate-enter66-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter232-frames {
+@keyframes bp1-animate-enter66-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4326,13 +4347,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .linie-29-tkUahl.bp2-animate-enter229 {
-  animation: bp2-animate-enter229-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .linie-29-tkUahl.bp2-animate-enter59 {
+  animation: bp2-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter229-frames {
+@keyframes bp2-animate-enter59-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4351,13 +4372,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .linie-44-tkUahl.bp2-animate-enter230 {
-  animation: bp2-animate-enter230-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .linie-44-tkUahl.bp2-animate-enter60 {
+  animation: bp2-animate-enter60-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter230-frames {
+@keyframes bp2-animate-enter60-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4398,13 +4419,13 @@ to{opacity: 1;
   width: 77px;
 }
 
-.warenkorb-767 .gesamtpreis1-Hg57IW.bp2-animate-enter231 {
-  animation: bp2-animate-enter231-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .gesamtpreis1-Hg57IW.bp2-animate-enter61 {
+  animation: bp2-animate-enter61-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter231-frames {
+@keyframes bp2-animate-enter61-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4427,13 +4448,13 @@ to{opacity: 1;
   width: 126px;
 }
 
-.warenkorb-767 .gesamtpreiswort-Hg57IW.bp2-animate-enter232 {
-  animation: bp2-animate-enter232-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .gesamtpreiswort-Hg57IW.bp2-animate-enter62 {
+  animation: bp2-animate-enter62-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter232-frames {
+@keyframes bp2-animate-enter62-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4465,13 +4486,13 @@ to{opacity: 1;
   width: 52px;
 }
 
-.warenkorb-767 .preiswort-SgkiHa.bp2-animate-enter233 {
-  animation: bp2-animate-enter233-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .preiswort-SgkiHa.bp2-animate-enter63 {
+  animation: bp2-animate-enter63-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter233-frames {
+@keyframes bp2-animate-enter63-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4494,13 +4515,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-767 .preis1-SgkiHa.bp2-animate-enter234 {
-  animation: bp2-animate-enter234-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .preis1-SgkiHa.bp2-animate-enter64 {
+  animation: bp2-animate-enter64-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter234-frames {
+@keyframes bp2-animate-enter64-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4532,13 +4553,13 @@ to{opacity: 1;
   width: 122px;
 }
 
-.warenkorb-767 .jetzt-kaufen-282XYF.bp2-animate-enter235 {
-  animation: bp2-animate-enter235-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .jetzt-kaufen-282XYF.bp2-animate-enter65 {
+  animation: bp2-animate-enter65-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter235-frames {
+@keyframes bp2-animate-enter65-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4831,9 +4852,9 @@ to{opacity: 1;
 .warenkorb-767 .gruppe-570-tkUahl {
   background-color: transparent;
   height: 188px;
-  left: calc(8.83% - 36px);
+  left: calc(8.89% - 36px);
   position: absolute;
-  top: calc(32.93% - 62px);
+  top: calc(32.95% - 62px);
   width: 407px;
 }
 
@@ -4842,7 +4863,7 @@ to{opacity: 1;
   height: 155px;
   position: absolute;
   right: 0px;
-  top: calc(50.00% - 77px);
+  top: calc(49.51% - 77px);
   width: 145px;
 }
 
@@ -4871,13 +4892,13 @@ to{opacity: 1;
   width: calc(100.00% - 9px);
 }
 
-.warenkorb-767 .kleidchenbezeichnung-8XREJr.bp2-animate-enter236 {
-  animation: bp2-animate-enter236-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .kleidchenbezeichnung-8XREJr.bp2-animate-enter66 {
+  animation: bp2-animate-enter66-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter236-frames {
+@keyframes bp2-animate-enter66-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4900,13 +4921,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-767 .versand-5-7-werktage-8XREJr.bp2-animate-enter237 {
-  animation: bp2-animate-enter237-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .versand-5-7-werktage-8XREJr.bp2-animate-enter67 {
+  animation: bp2-animate-enter67-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter237-frames {
+@keyframes bp2-animate-enter67-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4928,27 +4949,26 @@ to{opacity: 1;
   width: 55px;
 }
 
-.warenkorb-767 .lschen-8XREJr.bp2-animate-enter238 {
-  animation: bp2-animate-enter238-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .lschen-8XREJr.bp2-animate-enter68 {
+  animation: bp2-animate-enter68-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter238-frames {
+@keyframes bp2-animate-enter68-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.warenkorb-767 .vorderseitebild-T49sLK {
-  background-color: transparent;
+.warenkorb-767 .vorderseiteklein-T49sLK {
+  background-color: var(--white);
   height: 100%;
   left: 0px;
-  object-fit: cover;
   position: absolute;
-  top: 1px;
-  width: 241px;
+  top: 0px;
+  width: 240px;
 }
 
 .warenkorb-767 .gruppe-574-tkUahl {
@@ -4972,13 +4992,13 @@ to{opacity: 1;
   width: 64px;
 }
 
-.warenkorb-767 .ssl-QyFon5.bp2-animate-enter239 {
-  animation: bp2-animate-enter239-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .ssl-QyFon5.bp2-animate-enter69 {
+  animation: bp2-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter239-frames {
+@keyframes bp2-animate-enter69-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5001,13 +5021,13 @@ to{opacity: 1;
   width: 108px;
 }
 
-.warenkorb-767 .sichere-verbindung-QyFon5.bp2-animate-enter240 {
-  animation: bp2-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .sichere-verbindung-QyFon5.bp2-animate-enter70 {
+  animation: bp2-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter240-frames {
+@keyframes bp2-animate-enter70-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5030,13 +5050,13 @@ to{opacity: 1;
   width: 130px;
 }
 
-.warenkorb-767 .versand-rckversand-kostenlos-QyFon5.bp2-animate-enter241 {
-  animation: bp2-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .versand-rckversand-kostenlos-QyFon5.bp2-animate-enter71 {
+  animation: bp2-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter241-frames {
+@keyframes bp2-animate-enter71-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5059,13 +5079,13 @@ to{opacity: 1;
   width: 96px;
 }
 
-.warenkorb-767 .starkes-netzwerk-QyFon5.bp2-animate-enter242 {
-  animation: bp2-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
+.warenkorb-767 .starkes-netzwerk-QyFon5.bp2-animate-enter72 {
+  animation: bp2-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter242-frames {
+@keyframes bp2-animate-enter72-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5194,13 +5214,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.warenkorb-767 .gruppe-163-tkUahl.bp2-animate-enter243 {
-  animation: bp2-animate-enter243-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-767 .gruppe-163-tkUahl.bp2-animate-enter73 {
+  animation: bp2-animate-enter73-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter243-frames {
+@keyframes bp2-animate-enter73-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5272,7 +5292,7 @@ to{opacity: 1;
 
 .warenkorb-767 .gruppe-350-XKZhUf {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -5294,7 +5314,7 @@ to{opacity: 1;
 
 .warenkorb-767 .gruppe-348-ztuS7S {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -5336,7 +5356,7 @@ to{opacity: 1;
 
 .warenkorb-767 .gruppe-349-ztuS7S {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -5376,46 +5396,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.warenkorb-767 .gruppe-693-ztuS7S {
+.warenkorb-767 .gruppe-623-ztuS7S {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.warenkorb-767 .gruppe-141-L7v8Kj {
+.warenkorb-767 .gruppe-141-CPCqvw {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.warenkorb-767 .nft-ZHsqtl {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-767 .nft-sW2oGP {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.warenkorb-767 .x498951_child_clothes-L7v8Kj {
+.warenkorb-767 .gruppe-622-sW2oGP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.warenkorb-767 .gruppe-141-NFh6U6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.warenkorb-767 .x498951_child_clothes-uUThli {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .warenkorb-767 .gruppe-354-XKZhUf {
@@ -5579,7 +5617,6 @@ to{opacity: 1;
 
 .warenkorb-767 .gruppe-156-t6hn9T {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -5708,7 +5745,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.warenkorb-767 .instagram-sketched-xqgkt6 {
+.warenkorb-767 .icon-instagram-xqgkt6 {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -5730,13 +5767,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.warenkorb-767 .ssl-tkUahl.bp2-animate-enter244 {
-  animation: bp2-animate-enter244-frames 0.20s linear 0.10s 1 normal forwards;
+.warenkorb-767 .ssl-tkUahl.bp2-animate-enter74 {
+  animation: bp2-animate-enter74-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter244-frames {
+@keyframes bp2-animate-enter74-frames {
   from{opacity: 0;
 }
 to{opacity: 1;

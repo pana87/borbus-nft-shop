@@ -193,302 +193,6 @@
   width: 100%;
 }
 
-.nftinfo .gruppe-558-bJjxbX {
-  background-color: transparent;
-  height: 429px;
-  left: 282px;
-  position: absolute;
-  top: calc(36.66% - 157px);
-  width: 1000px;
-}
-
-.nftinfo .gruppe-541-xxWtLN {
-  background-color: transparent;
-  height: 429px;
-  left: calc(50.00% - 500px);
-  position: relative;
-  top: calc(50.00% - 214px);
-  width: 1000px;
-}
-
-.nftinfo .gruppe-166-HodTT5 {
-  background-color: transparent;
-  display: block;
-  height: 100%;
-  left: 0px;
-  opacity: 0;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.nftinfo .gruppe-166-HodTT5.bp4-animate-enter351 {
-  animation: bp4-animate-enter351-frames 0.20s linear 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter351-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo .nft-ySm49m {
-  background-color: transparent;
-  height: 37px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: calc(30.63% - 23px);
-  text-align: left;
-  top: 5px;
-  white-space: nowrap;
-  width: 76px;
-}
-
-.nftinfo .jedes-borbus-kleidch-ySm49m {
-  background-color: transparent;
-  bottom: 3px;
-  height: 255px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 35px;
-  position: absolute;
-  text-align: left;
-  width: calc(100.00% + 2px);
-}
-
-.nftinfo .linie-28-ySm49m {
-  background-color: transparent;
-  height: 1px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(30.90% - 23px);
-  top: 22.24%;
-  width: 76px;
-}
-
-.nftinfo .borbus-bJjxbX {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.94% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.nftinfo .gruppe-621-bJjxbX {
-  background-color: transparent;
-  height: 745px;
-  position: absolute;
-  right: 0px;
-  top: calc(42.89% - 320px);
-  width: 635px;
-}
-
-.nftinfo .gruppe-620-Aw8D5K {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.nftinfo .referenz-Qzc963 {
-  background-color: transparent;
-  height: calc(100.00% + 18px);
-  left: -9px;
-  object-fit: cover;
-  position: absolute;
-  top: -6px;
-  width: calc(100.00% + 18px);
-}
-
-.nftinfo .bildschirmfoto-2022-02-15-um-192234-Qzc963 {
-  background-color: transparent;
-  height: 418px;
-  left: 93px;
-  object-fit: cover;
-  position: absolute;
-  top: 49px;
-  width: 202px;
-}
-
-.nftinfo .rechteck-176-Qzc963 {
-  background-color: var(--white);
-  height: 381px;
-  left: calc(22.80% - 41px);
-  position: absolute;
-  top: 73px;
-  transform: rotate(2.00deg);
-  width: 179px;
-}
-
-.nftinfo .rechteck-177-Qzc963 {
-  background-color: var(--white);
-  height: 22px;
-  left: calc(43.87% - 8px);
-  position: absolute;
-  top: 66px;
-  width: 19px;
-}
-
-.nftinfo .rechteck-178-Qzc963 {
-  background-color: var(--white);
-  bottom: calc(45.85% - 10px);
-  height: 22px;
-  left: calc(43.63% - 5px);
-  position: absolute;
-  width: 11px;
-}
-
-.nftinfo .x2-Aw8D5K {
-  background-color: transparent;
-  display: block;
-  height: 286px;
-  left: 91px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  top: calc(27.37% - 78px);
-  width: 202px;
-}
-
-.nftinfo .x2-Aw8D5K.bp4-animate-enter352 {
-  animation: bp4-animate-enter352-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter352-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo .kleidchenbezeichnung-Aw8D5K {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 20px;
-  left: calc(25.60% - 31px);
-  letter-spacing: 0.00px;
-  line-height: 18px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(47.45% - 9px);
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 123px;
-}
-
-.nftinfo .kleidchenbezeichnung-Aw8D5K.bp4-animate-enter353 {
-  animation: bp4-animate-enter353-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter353-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo .kleidchenbezeichnung-6YESxk {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(49.07% - 10px);
-  display: block;
-  height: 20px;
-  left: calc(25.60% - 31px);
-  letter-spacing: 0.00px;
-  line-height: 12px;
-  opacity: 0;
-  position: absolute;
-  text-align: center;
-  transform: rotate(2.00deg);
-  width: 123px;
-}
-
-.nftinfo .kleidchenbezeichnung-6YESxk.bp4-animate-enter354 {
-  animation: bp4-animate-enter354-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter354-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo .echtheitszertifikat-Aw8D5K {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-  height: 17px;
-  left: calc(26.23% - 35px);
-  letter-spacing: 0.00px;
-  line-height: 35px;
-  position: absolute;
-  text-align: left;
-  top: 108px;
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 135px;
-}
-
-.nftinfo .gruppe-592-bJjxbX {
-  background-color: transparent;
-  bottom: calc(36.64% - 15px);
-  height: 41px;
-  left: 282px;
-  position: absolute;
-  width: 223px;
-}
-
-.nftinfo .zur-accountbersicht-iyJCdh {
-  background-color: transparent;
-  height: 20px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 20px;
-  white-space: nowrap;
-  width: calc(100.00% - 25px);
-}
-
-.nftinfo .sie-haben-bereits-einen-account-iyJCdh {
-  background-color: transparent;
-  height: 16px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
 .nftinfo .gruppe-163-bJjxbX {
   background-color: transparent;
   bottom: 0px;
@@ -500,13 +204,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.nftinfo .gruppe-163-bJjxbX.bp4-animate-enter355 {
-  animation: bp4-animate-enter355-frames 0.20s ease 0.10s 1 normal forwards;
+.nftinfo .gruppe-163-bJjxbX.bp4-animate-enter199 {
+  animation: bp4-animate-enter199-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter355-frames {
+@keyframes bp4-animate-enter199-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -799,13 +503,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.nftinfo .ssl-bJjxbX.bp4-animate-enter356 {
-  animation: bp4-animate-enter356-frames 0.20s ease 0.10s 1 normal forwards;
+.nftinfo .ssl-bJjxbX.bp4-animate-enter200 {
+  animation: bp4-animate-enter200-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter356-frames {
+@keyframes bp4-animate-enter200-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -957,7 +661,6 @@ to{opacity: 1;
 
 .nftinfo .gruppe-156-xcwPyX {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -1045,6 +748,355 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.nftinfo .gruppe-558-bJjxbX {
+  background-color: transparent;
+  height: 429px;
+  left: 282px;
+  position: absolute;
+  top: calc(36.66% - 157px);
+  width: 1000px;
+}
+
+.nftinfo .gruppe-541-xxWtLN {
+  background-color: transparent;
+  height: 429px;
+  left: calc(50.00% - 500px);
+  position: relative;
+  top: calc(50.00% - 214px);
+  width: 1000px;
+}
+
+.nftinfo .gruppe-166-HodTT5 {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo .gruppe-166-HodTT5.bp4-animate-enter201 {
+  animation: bp4-animate-enter201-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter201-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo .nft-ySm49m {
+  background-color: transparent;
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(30.63% - 23px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.nftinfo .jedes-borbus-kleidch-ySm49m {
+  background-color: transparent;
+  bottom: 3px;
+  height: 255px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.nftinfo .linie-28-ySm49m {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(30.90% - 23px);
+  top: 22.24%;
+  width: 76px;
+}
+
+.nftinfo .borbus-bJjxbX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.nftinfo .gruppe-621-bJjxbX {
+  background-color: transparent;
+  height: 745px;
+  position: absolute;
+  right: 0px;
+  top: calc(42.89% - 320px);
+  width: 635px;
+}
+
+.nftinfo .gruppe-620-Aw8D5K {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo .referenz-Qzc963 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.nftinfo .bildschirmfoto-2022-02-15-um-192234-Qzc963 {
+  background-color: transparent;
+  height: 418px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 202px;
+}
+
+.nftinfo .rechteck-176-Qzc963 {
+  background-color: var(--white);
+  height: 381px;
+  left: calc(22.80% - 41px);
+  position: absolute;
+  top: 73px;
+  transform: rotate(2.00deg);
+  width: 179px;
+}
+
+.nftinfo .rechteck-177-Qzc963 {
+  background-color: var(--white);
+  height: 22px;
+  left: calc(43.87% - 8px);
+  position: absolute;
+  top: 66px;
+  width: 19px;
+}
+
+.nftinfo .rechteck-178-Qzc963 {
+  background-color: var(--white);
+  bottom: calc(45.85% - 10px);
+  height: 22px;
+  left: calc(43.63% - 5px);
+  position: absolute;
+  width: 11px;
+}
+
+.nftinfo .x2-Aw8D5K {
+  background-color: transparent;
+  display: block;
+  height: 286px;
+  left: 91px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(27.37% - 78px);
+  width: 202px;
+}
+
+.nftinfo .x2-Aw8D5K.bp4-animate-enter202 {
+  animation: bp4-animate-enter202-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter202-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo .kleidchenbezeichnung-Aw8D5K {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: calc(25.60% - 31px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(47.45% - 9px);
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 123px;
+}
+
+.nftinfo .kleidchenbezeichnung-Aw8D5K.bp4-animate-enter203 {
+  animation: bp4-animate-enter203-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter203-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo .kleidchenbezeichnung-6YESxk {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(49.07% - 10px);
+  display: block;
+  height: 20px;
+  left: calc(25.60% - 31px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  transform: rotate(2.00deg);
+  width: 123px;
+}
+
+.nftinfo .kleidchenbezeichnung-6YESxk.bp4-animate-enter204 {
+  animation: bp4-animate-enter204-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter204-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo .echtheitszertifikat-Aw8D5K {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: calc(26.23% - 35px);
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 108px;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 135px;
+}
+
+.nftinfo .gruppe-592-bJjxbX {
+  background-color: transparent;
+  bottom: calc(36.64% - 15px);
+  height: 41px;
+  left: 282px;
+  position: absolute;
+  width: 223px;
+}
+
+.nftinfo .zur-accountbersicht-iyJCdh {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 20px;
+  white-space: nowrap;
+  width: calc(100.00% - 25px);
+}
+
+.nftinfo .sie-haben-bereits-einen-account-iyJCdh {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.nftinfo .warenkorb-oben-rechts-bJjxbX {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.nftinfo .iconfinder_basket_ecommerce_shop_4177565-TUl4le {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.nftinfo .gruppe-579-TUl4le {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.nftinfo .ellipse-47-obdI0G {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.nftinfo .anzahl-warenkorb-obdI0G {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
 /* screen - nftinfo-1200 */
 
 .nftinfo-1200 {
@@ -1079,13 +1131,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.nftinfo-1200 .gruppe-166-7QS0FW.bp3-animate-enter394 {
-  animation: bp3-animate-enter394-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-1200 .gruppe-166-7QS0FW.bp3-animate-enter240 {
+  animation: bp3-animate-enter240-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter394-frames {
+@keyframes bp3-animate-enter240-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1096,7 +1148,7 @@ to{opacity: 1;
   background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: var(--font-size-xl);
+  font-size: 22px;
   font-style: normal;
   font-weight: 400;
   height: 372px;
@@ -1313,226 +1365,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.nftinfo-1200 .borbus-DR0NlU {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.90% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.nftinfo-1200 .gruppe-621-DR0NlU {
-  background-color: transparent;
-  height: 578px;
-  position: absolute;
-  right: 1px;
-  top: calc(49.35% - 285px);
-  width: 493px;
-}
-
-.nftinfo-1200 .gruppe-620-77RuZz {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.nftinfo-1200 .referenz-ZfzouF {
-  background-color: transparent;
-  height: calc(100.00% + 18px);
-  left: -9px;
-  object-fit: cover;
-  position: absolute;
-  top: -6px;
-  width: calc(100.00% + 18px);
-}
-
-.nftinfo-1200 .bildschirmfoto-2022-02-15-um-192234-ZfzouF {
-  background-color: transparent;
-  height: 324px;
-  left: 72px;
-  object-fit: cover;
-  position: absolute;
-  top: 38px;
-  width: 157px;
-}
-
-.nftinfo-1200 .rechteck-176-ZfzouF {
-  background-color: var(--white);
-  height: 295px;
-  left: calc(22.80% - 32px);
-  position: absolute;
-  top: 56px;
-  transform: rotate(2.00deg);
-  width: 139px;
-}
-
-.nftinfo-1200 .rechteck-177-ZfzouF {
-  background-color: var(--white);
-  height: 17px;
-  left: calc(43.87% - 6px);
-  position: absolute;
-  top: 52px;
-  width: 15px;
-}
-
-.nftinfo-1200 .rechteck-178-ZfzouF {
-  background-color: var(--white);
-  bottom: calc(45.85% - 8px);
-  height: 17px;
-  left: calc(43.63% - 4px);
-  position: absolute;
-  width: 9px;
-}
-
-.nftinfo-1200 .x2-77RuZz {
-  background-color: transparent;
-  display: block;
-  height: 222px;
-  left: 70px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  top: calc(27.37% - 61px);
-  width: 156px;
-}
-
-.nftinfo-1200 .x2-77RuZz.bp3-animate-enter395 {
-  animation: bp3-animate-enter395-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter395-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-1200 .kleidchenbezeichnung-77RuZz {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 16px;
-  left: calc(25.63% - 25px);
-  letter-spacing: 0.00px;
-  line-height: 18px;
-  opacity: 0;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: calc(47.49% - 8px);
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 96px;
-}
-
-.nftinfo-1200 .kleidchenbezeichnung-77RuZz.bp3-animate-enter396 {
-  animation: bp3-animate-enter396-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter396-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-1200 .kleidchenbezeichnung-RPxRfp {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(49.03% - 8px);
-  display: block;
-  height: 16px;
-  left: calc(25.63% - 25px);
-  letter-spacing: 0.00px;
-  line-height: 12px;
-  opacity: 0;
-  position: absolute;
-  text-align: center;
-  transform: rotate(2.00deg);
-  width: 96px;
-}
-
-.nftinfo-1200 .kleidchenbezeichnung-RPxRfp.bp3-animate-enter397 {
-  animation: bp3-animate-enter397-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter397-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-1200 .echtheitszertifikat-77RuZz {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: 11px;
-  font-style: normal;
-  font-weight: 400;
-  height: 13px;
-  left: calc(25.85% - 26px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  position: absolute;
-  text-align: left;
-  top: 84px;
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 99px;
-}
-
-.nftinfo-1200 .gruppe-592-DR0NlU {
-  background-color: transparent;
-  bottom: calc(33.46% - 14px);
-  height: 41px;
-  left: 100px;
-  position: absolute;
-  width: 223px;
-}
-
-.nftinfo-1200 .zur-accountbersicht-bDIMxg {
-  background-color: transparent;
-  height: 20px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 20px;
-  white-space: nowrap;
-  width: calc(100.00% - 25px);
-}
-
-.nftinfo-1200 .sie-haben-bereits-einen-account-bDIMxg {
-  background-color: transparent;
-  height: 16px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
 .nftinfo-1200 .gruppe-322-DR0NlU {
   background-color: transparent;
   bottom: 0px;
@@ -1553,13 +1385,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.nftinfo-1200 .gruppe-163-KCTlx8.bp3-animate-enter398 {
-  animation: bp3-animate-enter398-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-1200 .gruppe-163-KCTlx8.bp3-animate-enter241 {
+  animation: bp3-animate-enter241-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter398-frames {
+@keyframes bp3-animate-enter241-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1696,7 +1528,6 @@ to{opacity: 1;
 .nftinfo-1200 .gruppe-141-Zv4bWc {
   background-color: transparent;
   bottom: 1px;
-  cursor: pointer;
   height: 15px;
   position: absolute;
   right: 0px;
@@ -1705,6 +1536,7 @@ to{opacity: 1;
 
 .nftinfo-1200 .zahlungsoptionen-nPSk4s {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -1726,16 +1558,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.nftinfo-1200 .gruppe-692-MOlx5q {
+.nftinfo-1200 .gruppe-623-MOlx5q {
   background-color: transparent;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(4.50% - 3px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.nftinfo-1200 .gruppe-141-rIfll1 {
+.nftinfo-1200 .gruppe-141-GX2XqH {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -1744,27 +1576,45 @@ to{opacity: 1;
   width: 100%;
 }
 
-.nftinfo-1200 .nft-FcxULI {
+.nftinfo-1200 .nft-kOPjoE {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.nftinfo-1200 .x498951_child_clothes-MOlx5q {
+.nftinfo-1200 .gruppe-622-kOPjoE {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.nftinfo-1200 .gruppe-141-trx6Zw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo-1200 .x498951_child_clothes-TMyctZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .nftinfo-1200 .gruppe-345-Wbmb7D {
@@ -1928,7 +1778,6 @@ to{opacity: 1;
 
 .nftinfo-1200 .gruppe-156-pgMGRT {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -2078,17 +1927,290 @@ to{opacity: 1;
   width: 90px;
 }
 
-.nftinfo-1200 .ssl-KCTlx8.bp3-animate-enter399 {
-  animation: bp3-animate-enter399-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-1200 .ssl-KCTlx8.bp3-animate-enter242 {
+  animation: bp3-animate-enter242-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter399-frames {
+@keyframes bp3-animate-enter242-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.nftinfo-1200 .borbus-DR0NlU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.nftinfo-1200 .gruppe-621-DR0NlU {
+  background-color: transparent;
+  height: 578px;
+  position: absolute;
+  right: 1px;
+  top: calc(49.35% - 285px);
+  width: 493px;
+}
+
+.nftinfo-1200 .gruppe-620-77RuZz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo-1200 .referenz-ZfzouF {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.nftinfo-1200 .bildschirmfoto-2022-02-15-um-192234-ZfzouF {
+  background-color: transparent;
+  height: 324px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 157px;
+}
+
+.nftinfo-1200 .rechteck-176-ZfzouF {
+  background-color: var(--white);
+  height: 295px;
+  left: calc(22.80% - 32px);
+  position: absolute;
+  top: 56px;
+  transform: rotate(2.00deg);
+  width: 139px;
+}
+
+.nftinfo-1200 .rechteck-177-ZfzouF {
+  background-color: var(--white);
+  height: 17px;
+  left: calc(43.87% - 6px);
+  position: absolute;
+  top: 52px;
+  width: 15px;
+}
+
+.nftinfo-1200 .rechteck-178-ZfzouF {
+  background-color: var(--white);
+  bottom: calc(45.85% - 8px);
+  height: 17px;
+  left: calc(43.63% - 4px);
+  position: absolute;
+  width: 9px;
+}
+
+.nftinfo-1200 .x2-77RuZz {
+  background-color: transparent;
+  display: block;
+  height: 222px;
+  left: 70px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(27.37% - 61px);
+  width: 156px;
+}
+
+.nftinfo-1200 .x2-77RuZz.bp3-animate-enter243 {
+  animation: bp3-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter243-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-1200 .kleidchenbezeichnung-77RuZz {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 16px;
+  left: calc(25.63% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(47.49% - 8px);
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 96px;
+}
+
+.nftinfo-1200 .kleidchenbezeichnung-77RuZz.bp3-animate-enter244 {
+  animation: bp3-animate-enter244-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter244-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-1200 .kleidchenbezeichnung-RPxRfp {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(49.03% - 8px);
+  display: block;
+  height: 16px;
+  left: calc(25.63% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  transform: rotate(2.00deg);
+  width: 96px;
+}
+
+.nftinfo-1200 .kleidchenbezeichnung-RPxRfp.bp3-animate-enter245 {
+  animation: bp3-animate-enter245-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter245-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-1200 .echtheitszertifikat-77RuZz {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: calc(25.85% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 99px;
+}
+
+.nftinfo-1200 .gruppe-592-DR0NlU {
+  background-color: transparent;
+  bottom: calc(33.46% - 14px);
+  height: 41px;
+  left: 100px;
+  position: absolute;
+  width: 223px;
+}
+
+.nftinfo-1200 .zur-accountbersicht-bDIMxg {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 20px;
+  white-space: nowrap;
+  width: calc(100.00% - 25px);
+}
+
+.nftinfo-1200 .sie-haben-bereits-einen-account-bDIMxg {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.nftinfo-1200 .warenkorb-oben-rechts-DR0NlU {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.nftinfo-1200 .iconfinder_basket_ecommerce_shop_4177565-me4rFs {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.nftinfo-1200 .gruppe-579-me4rFs {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.nftinfo-1200 .ellipse-47-DvdsJ1 {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.nftinfo-1200 .anzahl-warenkorb-DvdsJ1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - nftinfo-375 */
 
@@ -2124,13 +2246,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.nftinfo-375 .gruppe-166-kJdrdx.bp1-animate-enter364 {
-  animation: bp1-animate-enter364-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-375 .gruppe-166-kJdrdx.bp1-animate-enter212 {
+  animation: bp1-animate-enter212-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter364-frames {
+@keyframes bp1-animate-enter212-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2369,226 +2491,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.nftinfo-375 .borbus-ac9Ore {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.26% - 118px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.nftinfo-375 .gruppe-621-ac9Ore {
-  background-color: transparent;
-  bottom: calc(24.18% - 125px);
-  height: 518px;
-  position: absolute;
-  right: -98px;
-  width: 441px;
-}
-
-.nftinfo-375 .gruppe-620-UMF0HM {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.nftinfo-375 .referenz-dTYYZL {
-  background-color: transparent;
-  height: calc(100.00% + 18px);
-  left: -9px;
-  object-fit: cover;
-  position: absolute;
-  top: -6px;
-  width: calc(100.00% + 18px);
-}
-
-.nftinfo-375 .bildschirmfoto-2022-02-15-um-192234-dTYYZL {
-  background-color: transparent;
-  height: 291px;
-  left: 64px;
-  object-fit: cover;
-  position: absolute;
-  top: 34px;
-  width: 141px;
-}
-
-.nftinfo-375 .rechteck-176-dTYYZL {
-  background-color: var(--white);
-  height: 265px;
-  left: calc(22.80% - 28px);
-  position: absolute;
-  top: 50px;
-  transform: rotate(2.00deg);
-  width: 124px;
-}
-
-.nftinfo-375 .rechteck-177-dTYYZL {
-  background-color: var(--white);
-  height: 15px;
-  left: calc(43.87% - 6px);
-  position: absolute;
-  top: 46px;
-  width: 13px;
-}
-
-.nftinfo-375 .rechteck-178-dTYYZL {
-  background-color: var(--white);
-  bottom: calc(45.85% - 7px);
-  height: 15px;
-  left: calc(43.63% - 3px);
-  position: absolute;
-  width: 8px;
-}
-
-.nftinfo-375 .x2-UMF0HM {
-  background-color: transparent;
-  display: block;
-  height: 199px;
-  left: 63px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  top: calc(27.37% - 54px);
-  width: 140px;
-}
-
-.nftinfo-375 .x2-UMF0HM.bp1-animate-enter365 {
-  animation: bp1-animate-enter365-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter365-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-375 .kleidchenbezeichnung-UMF0HM {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 15px;
-  left: calc(25.64% - 22px);
-  letter-spacing: 0.00px;
-  line-height: 18px;
-  opacity: 0;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: calc(47.51% - 7px);
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 86px;
-}
-
-.nftinfo-375 .kleidchenbezeichnung-UMF0HM.bp1-animate-enter366 {
-  animation: bp1-animate-enter366-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter366-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-375 .kleidchenbezeichnung-nnGhuQ {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(49.01% - 7px);
-  display: block;
-  height: 15px;
-  left: calc(25.64% - 22px);
-  letter-spacing: 0.00px;
-  line-height: 12px;
-  opacity: 0;
-  position: absolute;
-  text-align: center;
-  transform: rotate(2.00deg);
-  width: 86px;
-}
-
-.nftinfo-375 .kleidchenbezeichnung-nnGhuQ.bp1-animate-enter367 {
-  animation: bp1-animate-enter367-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter367-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-375 .echtheitszertifikat-UMF0HM {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: 9px;
-  font-style: normal;
-  font-weight: 400;
-  height: 11px;
-  left: calc(25.38% - 21px);
-  letter-spacing: 0.00px;
-  line-height: 21px;
-  position: absolute;
-  text-align: left;
-  top: 76px;
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 82px;
-}
-
-.nftinfo-375 .gruppe-592-ac9Ore {
-  background-color: transparent;
-  bottom: calc(23.02% - 9px);
-  height: 41px;
-  left: 23px;
-  position: absolute;
-  width: 223px;
-}
-
-.nftinfo-375 .zur-accountbersicht-tu3oVB {
-  background-color: transparent;
-  height: 20px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 20px;
-  white-space: nowrap;
-  width: calc(100.00% - 25px);
-}
-
-.nftinfo-375 .sie-haben-bereits-einen-account-tu3oVB {
-  background-color: transparent;
-  height: 16px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
 .nftinfo-375 .gruppe-327-ac9Ore {
   background-color: transparent;
   bottom: 0px;
@@ -2686,7 +2588,7 @@ to{opacity: 1;
 
 .nftinfo-375 .gruppe-357-4sVHCR {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -2728,7 +2630,7 @@ to{opacity: 1;
 
 .nftinfo-375 .gruppe-358-4sVHCR {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -2738,7 +2640,6 @@ to{opacity: 1;
 .nftinfo-375 .gruppe-141-sW77yP {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -2747,6 +2648,7 @@ to{opacity: 1;
 
 .nftinfo-375 .zahlungsoptionen-3M5CIF {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -2768,45 +2670,63 @@ to{opacity: 1;
   width: 15px;
 }
 
-.nftinfo-375 .gruppe-694-4sVHCR {
+.nftinfo-375 .gruppe-623-4sVHCR {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.nftinfo-375 .gruppe-141-bJ4cla {
-  background-color: transparent;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.nftinfo-375 .nft-3hUNxx {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: -8px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
-.nftinfo-375 .x498951_child_clothes-bJ4cla {
+.nftinfo-375 .gruppe-141-vCcvbm {
   background-color: transparent;
   height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo-375 .nft-pcuwBJ {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.nftinfo-375 .gruppe-622-pcuwBJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.nftinfo-375 .gruppe-141-nirQj5 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.nftinfo-375 .x498951_child_clothes-NgPUHq {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .nftinfo-375 .gruppe-363-ltUpFn {
@@ -2972,7 +2892,6 @@ to{opacity: 1;
 
 .nftinfo-375 .gruppe-156-3AhitP {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -3102,17 +3021,290 @@ to{opacity: 1;
   width: 90px;
 }
 
-.nftinfo-375 .ssl-ltUpFn.bp1-animate-enter368 {
-  animation: bp1-animate-enter368-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-375 .ssl-ltUpFn.bp1-animate-enter213 {
+  animation: bp1-animate-enter213-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter368-frames {
+@keyframes bp1-animate-enter213-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.nftinfo-375 .borbus-ac9Ore {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.nftinfo-375 .gruppe-621-ac9Ore {
+  background-color: transparent;
+  bottom: calc(24.18% - 125px);
+  height: 518px;
+  position: absolute;
+  right: -98px;
+  width: 441px;
+}
+
+.nftinfo-375 .gruppe-620-UMF0HM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo-375 .referenz-dTYYZL {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.nftinfo-375 .bildschirmfoto-2022-02-15-um-192234-dTYYZL {
+  background-color: transparent;
+  height: 291px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 141px;
+}
+
+.nftinfo-375 .rechteck-176-dTYYZL {
+  background-color: var(--white);
+  height: 265px;
+  left: calc(22.80% - 28px);
+  position: absolute;
+  top: 50px;
+  transform: rotate(2.00deg);
+  width: 124px;
+}
+
+.nftinfo-375 .rechteck-177-dTYYZL {
+  background-color: var(--white);
+  height: 15px;
+  left: calc(43.87% - 6px);
+  position: absolute;
+  top: 46px;
+  width: 13px;
+}
+
+.nftinfo-375 .rechteck-178-dTYYZL {
+  background-color: var(--white);
+  bottom: calc(45.85% - 7px);
+  height: 15px;
+  left: calc(43.63% - 3px);
+  position: absolute;
+  width: 8px;
+}
+
+.nftinfo-375 .x2-UMF0HM {
+  background-color: transparent;
+  display: block;
+  height: 199px;
+  left: 63px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(27.37% - 54px);
+  width: 140px;
+}
+
+.nftinfo-375 .x2-UMF0HM.bp1-animate-enter214 {
+  animation: bp1-animate-enter214-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter214-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-375 .kleidchenbezeichnung-UMF0HM {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  left: calc(25.64% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(47.51% - 7px);
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 86px;
+}
+
+.nftinfo-375 .kleidchenbezeichnung-UMF0HM.bp1-animate-enter215 {
+  animation: bp1-animate-enter215-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter215-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-375 .kleidchenbezeichnung-nnGhuQ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(49.01% - 7px);
+  display: block;
+  height: 15px;
+  left: calc(25.64% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  transform: rotate(2.00deg);
+  width: 86px;
+}
+
+.nftinfo-375 .kleidchenbezeichnung-nnGhuQ.bp1-animate-enter216 {
+  animation: bp1-animate-enter216-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter216-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-375 .echtheitszertifikat-UMF0HM {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  left: calc(25.38% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 76px;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 82px;
+}
+
+.nftinfo-375 .gruppe-592-ac9Ore {
+  background-color: transparent;
+  bottom: calc(23.02% - 9px);
+  height: 41px;
+  left: 23px;
+  position: absolute;
+  width: 223px;
+}
+
+.nftinfo-375 .zur-accountbersicht-tu3oVB {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 20px;
+  white-space: nowrap;
+  width: calc(100.00% - 25px);
+}
+
+.nftinfo-375 .sie-haben-bereits-einen-account-tu3oVB {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.nftinfo-375 .warenkorb-oben-rechts-ac9Ore {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.nftinfo-375 .iconfinder_basket_ecommerce_shop_4177565-5YZ1E8 {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.nftinfo-375 .gruppe-579-5YZ1E8 {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.nftinfo-375 .ellipse-47-wLPcLl {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.nftinfo-375 .anzahl-warenkorb-wLPcLl {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
 }
 /* screen - nftinfo-767 */
 
@@ -3148,13 +3340,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.nftinfo-767 .gruppe-166-TCXC6L.bp2-animate-enter391 {
-  animation: bp2-animate-enter391-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-767 .gruppe-166-TCXC6L.bp2-animate-enter238 {
+  animation: bp2-animate-enter238-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter391-frames {
+@keyframes bp2-animate-enter238-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3377,226 +3569,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.nftinfo-767 .borbus-2FI6Hp {
-  background-color: transparent;
-  cursor: pointer;
-  height: 57px;
-  letter-spacing: 0.00px;
-  line-height: 55px;
-  position: absolute;
-  right: calc(49.81% - 120px);
-  text-align: left;
-  top: 90px;
-  white-space: nowrap;
-  width: 240px;
-}
-
-.nftinfo-767 .gruppe-621-2FI6Hp {
-  background-color: transparent;
-  bottom: calc(44.57% - 257px);
-  height: 578px;
-  position: absolute;
-  right: -160px;
-  width: 493px;
-}
-
-.nftinfo-767 .gruppe-620-7N6IPn {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.nftinfo-767 .referenz-NG2Nj5 {
-  background-color: transparent;
-  height: calc(100.00% + 18px);
-  left: -9px;
-  object-fit: cover;
-  position: absolute;
-  top: -6px;
-  width: calc(100.00% + 18px);
-}
-
-.nftinfo-767 .bildschirmfoto-2022-02-15-um-192234-NG2Nj5 {
-  background-color: transparent;
-  height: 324px;
-  left: 72px;
-  object-fit: cover;
-  position: absolute;
-  top: 38px;
-  width: 157px;
-}
-
-.nftinfo-767 .rechteck-176-NG2Nj5 {
-  background-color: var(--white);
-  height: 295px;
-  left: calc(22.80% - 32px);
-  position: absolute;
-  top: 56px;
-  transform: rotate(2.00deg);
-  width: 139px;
-}
-
-.nftinfo-767 .rechteck-177-NG2Nj5 {
-  background-color: var(--white);
-  height: 17px;
-  left: calc(43.87% - 6px);
-  position: absolute;
-  top: 52px;
-  width: 15px;
-}
-
-.nftinfo-767 .rechteck-178-NG2Nj5 {
-  background-color: var(--white);
-  bottom: calc(45.85% - 8px);
-  height: 17px;
-  left: calc(43.63% - 4px);
-  position: absolute;
-  width: 9px;
-}
-
-.nftinfo-767 .x2-7N6IPn {
-  background-color: transparent;
-  display: block;
-  height: 222px;
-  left: 70px;
-  object-fit: cover;
-  opacity: 0;
-  position: absolute;
-  top: calc(27.37% - 61px);
-  width: 156px;
-}
-
-.nftinfo-767 .x2-7N6IPn.bp2-animate-enter392 {
-  animation: bp2-animate-enter392-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter392-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-767 .kleidchenbezeichnung-7N6IPn {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 16px;
-  left: calc(25.63% - 25px);
-  letter-spacing: 0.00px;
-  line-height: 18px;
-  opacity: 0;
-  overflow: hidden;
-  position: absolute;
-  text-align: left;
-  top: calc(47.49% - 8px);
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 96px;
-}
-
-.nftinfo-767 .kleidchenbezeichnung-7N6IPn.bp2-animate-enter393 {
-  animation: bp2-animate-enter393-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter393-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-767 .kleidchenbezeichnung-9D4jIO {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(49.03% - 8px);
-  display: block;
-  height: 16px;
-  left: calc(25.63% - 25px);
-  letter-spacing: 0.00px;
-  line-height: 12px;
-  opacity: 0;
-  position: absolute;
-  text-align: center;
-  transform: rotate(2.00deg);
-  width: 96px;
-}
-
-.nftinfo-767 .kleidchenbezeichnung-9D4jIO.bp2-animate-enter394 {
-  animation: bp2-animate-enter394-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter394-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.nftinfo-767 .echtheitszertifikat-7N6IPn {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
-  font-size: 11px;
-  font-style: normal;
-  font-weight: 400;
-  height: 13px;
-  left: calc(25.85% - 26px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  position: absolute;
-  text-align: left;
-  top: 84px;
-  transform: rotate(2.00deg);
-  white-space: nowrap;
-  width: 99px;
-}
-
-.nftinfo-767 .gruppe-592-2FI6Hp {
-  background-color: transparent;
-  bottom: calc(28.05% - 12px);
-  height: 41px;
-  position: absolute;
-  right: calc(13.79% - 31px);
-  width: 223px;
-}
-
-.nftinfo-767 .zur-accountbersicht-zmdfyh {
-  background-color: transparent;
-  height: 20px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 20px;
-  white-space: nowrap;
-  width: calc(100.00% - 25px);
-}
-
-.nftinfo-767 .sie-haben-bereits-einen-account-zmdfyh {
-  background-color: transparent;
-  height: 16px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
-
 .nftinfo-767 .gruppe-163-2FI6Hp {
   background-color: transparent;
   bottom: 0px;
@@ -3608,13 +3580,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.nftinfo-767 .gruppe-163-2FI6Hp.bp2-animate-enter395 {
-  animation: bp2-animate-enter395-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-767 .gruppe-163-2FI6Hp.bp2-animate-enter239 {
+  animation: bp2-animate-enter239-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter395-frames {
+@keyframes bp2-animate-enter239-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3686,7 +3658,7 @@ to{opacity: 1;
 
 .nftinfo-767 .gruppe-350-9ltCcp {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -3708,7 +3680,7 @@ to{opacity: 1;
 
 .nftinfo-767 .gruppe-348-dqeiZp {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -3750,7 +3722,7 @@ to{opacity: 1;
 
 .nftinfo-767 .gruppe-349-dqeiZp {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -3760,7 +3732,6 @@ to{opacity: 1;
 .nftinfo-767 .gruppe-141-Fbrtx5 {
   background-color: transparent;
   bottom: 1px;
-  cursor: pointer;
   height: 15px;
   position: absolute;
   right: 0px;
@@ -3769,6 +3740,7 @@ to{opacity: 1;
 
 .nftinfo-767 .zahlungsoptionen-XOYqki {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -3790,45 +3762,63 @@ to{opacity: 1;
   width: 20px;
 }
 
-.nftinfo-767 .gruppe-693-dqeiZp {
+.nftinfo-767 .gruppe-623-dqeiZp {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.nftinfo-767 .gruppe-141-HCcGux {
+.nftinfo-767 .gruppe-141-5CGpAp {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.nftinfo-767 .nft-H4U47Z {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo-767 .nft-h8bCVu {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.nftinfo-767 .x498951_child_clothes-HCcGux {
+.nftinfo-767 .gruppe-622-h8bCVu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.nftinfo-767 .gruppe-141-qKfDfe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo-767 .x498951_child_clothes-imbLXI {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .nftinfo-767 .gruppe-354-9ltCcp {
@@ -3992,7 +3982,6 @@ to{opacity: 1;
 
 .nftinfo-767 .gruppe-156-xFPOyX {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -4143,17 +4132,290 @@ to{opacity: 1;
   width: 90px;
 }
 
-.nftinfo-767 .ssl-2FI6Hp.bp2-animate-enter396 {
-  animation: bp2-animate-enter396-frames 0.20s linear 0.10s 1 normal forwards;
+.nftinfo-767 .ssl-2FI6Hp.bp2-animate-enter240 {
+  animation: bp2-animate-enter240-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter396-frames {
+@keyframes bp2-animate-enter240-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.nftinfo-767 .borbus-2FI6Hp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.nftinfo-767 .gruppe-621-2FI6Hp {
+  background-color: transparent;
+  bottom: calc(44.57% - 257px);
+  height: 578px;
+  position: absolute;
+  right: -160px;
+  width: 493px;
+}
+
+.nftinfo-767 .gruppe-620-7N6IPn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.nftinfo-767 .referenz-NG2Nj5 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.nftinfo-767 .bildschirmfoto-2022-02-15-um-192234-NG2Nj5 {
+  background-color: transparent;
+  height: 324px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 157px;
+}
+
+.nftinfo-767 .rechteck-176-NG2Nj5 {
+  background-color: var(--white);
+  height: 295px;
+  left: calc(22.80% - 32px);
+  position: absolute;
+  top: 56px;
+  transform: rotate(2.00deg);
+  width: 139px;
+}
+
+.nftinfo-767 .rechteck-177-NG2Nj5 {
+  background-color: var(--white);
+  height: 17px;
+  left: calc(43.87% - 6px);
+  position: absolute;
+  top: 52px;
+  width: 15px;
+}
+
+.nftinfo-767 .rechteck-178-NG2Nj5 {
+  background-color: var(--white);
+  bottom: calc(45.85% - 8px);
+  height: 17px;
+  left: calc(43.63% - 4px);
+  position: absolute;
+  width: 9px;
+}
+
+.nftinfo-767 .x2-7N6IPn {
+  background-color: transparent;
+  display: block;
+  height: 222px;
+  left: 70px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(27.37% - 61px);
+  width: 156px;
+}
+
+.nftinfo-767 .x2-7N6IPn.bp2-animate-enter241 {
+  animation: bp2-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter241-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-767 .kleidchenbezeichnung-7N6IPn {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 16px;
+  left: calc(25.63% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(47.49% - 8px);
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 96px;
+}
+
+.nftinfo-767 .kleidchenbezeichnung-7N6IPn.bp2-animate-enter242 {
+  animation: bp2-animate-enter242-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter242-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-767 .kleidchenbezeichnung-9D4jIO {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(49.03% - 8px);
+  display: block;
+  height: 16px;
+  left: calc(25.63% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  transform: rotate(2.00deg);
+  width: 96px;
+}
+
+.nftinfo-767 .kleidchenbezeichnung-9D4jIO.bp2-animate-enter243 {
+  animation: bp2-animate-enter243-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter243-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.nftinfo-767 .echtheitszertifikat-7N6IPn {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-hiraginomaru_gothic_pron-w4);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: calc(25.85% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 99px;
+}
+
+.nftinfo-767 .gruppe-592-2FI6Hp {
+  background-color: transparent;
+  bottom: calc(28.05% - 12px);
+  height: 41px;
+  position: absolute;
+  right: calc(13.79% - 31px);
+  width: 223px;
+}
+
+.nftinfo-767 .zur-accountbersicht-zmdfyh {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 20px;
+  white-space: nowrap;
+  width: calc(100.00% - 25px);
+}
+
+.nftinfo-767 .sie-haben-bereits-einen-account-zmdfyh {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.nftinfo-767 .warenkorb-oben-rechts-2FI6Hp {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.nftinfo-767 .iconfinder_basket_ecommerce_shop_4177565-e89YNi {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.nftinfo-767 .gruppe-579-e89YNi {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.nftinfo-767 .ellipse-47-ipGSvU {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.nftinfo-767 .anzahl-warenkorb-ipGSvU {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 @media screen and (max-width: 766px) {
   .screen.nftinfo { 

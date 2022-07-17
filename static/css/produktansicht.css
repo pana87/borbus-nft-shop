@@ -12,6 +12,24 @@
   width: 100%;
 }
 
+.produktansicht .rckseitebild-EOXKB0 {
+  background-color: var(--white);
+  height: 503px;
+  position: absolute;
+  right: 114px;
+  top: calc(24.39% - 123px);
+  width: 578px;
+}
+
+.produktansicht .vorderseitebild-EOXKB0 {
+  background-color: var(--white);
+  height: 453px;
+  left: 92px;
+  position: absolute;
+  top: calc(25.13% - 114px);
+  width: 579px;
+}
+
 .produktansicht .rechteck-136-EOXKB0 {
   background-color: var(--gallery);
   bottom: calc(23.30% - 182px);
@@ -24,13 +42,13 @@
   width: 100%;
 }
 
-.produktansicht .rechteck-136-EOXKB0.bp4-animate-enter250 {
-  animation: bp4-animate-enter250-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .rechteck-136-EOXKB0.bp4-animate-enter77 {
+  animation: bp4-animate-enter77-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter250-frames {
+@keyframes bp4-animate-enter77-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -49,13 +67,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht .ellipse-33-EOXKB0.bp4-animate-enter251 {
-  animation: bp4-animate-enter251-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .ellipse-33-EOXKB0.bp4-animate-enter78 {
+  animation: bp4-animate-enter78-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter251-frames {
+@keyframes bp4-animate-enter78-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -74,13 +92,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht .linie-37-EOXKB0.bp4-animate-enter252 {
-  animation: bp4-animate-enter252-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-37-EOXKB0.bp4-animate-enter79 {
+  animation: bp4-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter252-frames {
+@keyframes bp4-animate-enter79-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -99,13 +117,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht .linie-36-EOXKB0.bp4-animate-enter253 {
-  animation: bp4-animate-enter253-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-36-EOXKB0.bp4-animate-enter80 {
+  animation: bp4-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter253-frames {
+@keyframes bp4-animate-enter80-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -133,13 +151,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht .ellipse-32-6LkQjv.bp4-animate-enter254 {
-  animation: bp4-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .ellipse-32-6LkQjv.bp4-animate-enter81 {
+  animation: bp4-animate-enter81-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter254-frames {
+@keyframes bp4-animate-enter81-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -158,13 +176,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht .linie-32-6LkQjv.bp4-animate-enter255 {
-  animation: bp4-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-32-6LkQjv.bp4-animate-enter82 {
+  animation: bp4-animate-enter82-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter255-frames {
+@keyframes bp4-animate-enter82-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -183,13 +201,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht .linie-33-6LkQjv.bp4-animate-enter256 {
-  animation: bp4-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-33-6LkQjv.bp4-animate-enter83 {
+  animation: bp4-animate-enter83-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter256-frames {
+@keyframes bp4-animate-enter83-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -205,7 +223,7 @@ to{opacity: 1;
   width: 387px;
 }
 
-.produktansicht .kleidchenbezeichnung-vTIerX {
+.produktansicht .bezeichnung-vTIerX {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -221,13 +239,13 @@ to{opacity: 1;
   width: 129px;
 }
 
-.produktansicht .kleidchenbezeichnung-vTIerX.bp4-animate-enter257 {
-  animation: bp4-animate-enter257-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .bezeichnung-vTIerX.bp4-animate-enter84 {
+  animation: bp4-animate-enter84-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter257-frames {
+@keyframes bp4-animate-enter84-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -249,13 +267,13 @@ to{opacity: 1;
   width: 163px;
 }
 
-.produktansicht .x6-monate-3-jahre-vTIerX.bp4-animate-enter258 {
-  animation: bp4-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .x6-monate-3-jahre-vTIerX.bp4-animate-enter85 {
+  animation: bp4-animate-enter85-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter258-frames {
+@keyframes bp4-animate-enter85-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -278,13 +296,13 @@ to{opacity: 1;
   width: 71px;
 }
 
-.produktansicht .stckpreis-vTIerX.bp4-animate-enter259 {
-  animation: bp4-animate-enter259-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .stckpreis-vTIerX.bp4-animate-enter86 {
+  animation: bp4-animate-enter86-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter259-frames {
+@keyframes bp4-animate-enter86-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -303,13 +321,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht .linie-31-vTIerX.bp4-animate-enter260 {
-  animation: bp4-animate-enter260-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-31-vTIerX.bp4-animate-enter87 {
+  animation: bp4-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter260-frames {
+@keyframes bp4-animate-enter87-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -330,13 +348,13 @@ to{opacity: 1;
   width: calc(100.00% - 1px);
 }
 
-.produktansicht .warenkorb-button-mitte-vTIerX.bp4-animate-enter261 {
-  animation: bp4-animate-enter261-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .warenkorb-button-mitte-vTIerX.bp4-animate-enter88 {
+  animation: bp4-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter261-frames {
+@keyframes bp4-animate-enter88-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -386,13 +404,13 @@ to{opacity: 1;
   width: 88px;
 }
 
-.produktansicht .vorderseitewort-6LkQjv.bp4-animate-enter262 {
-  animation: bp4-animate-enter262-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .vorderseitewort-6LkQjv.bp4-animate-enter89 {
+  animation: bp4-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter262-frames {
+@keyframes bp4-animate-enter89-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -414,13 +432,13 @@ to{opacity: 1;
   width: 74px;
 }
 
-.produktansicht .rckseitewort-6LkQjv.bp4-animate-enter263 {
-  animation: bp4-animate-enter263-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .rckseitewort-6LkQjv.bp4-animate-enter90 {
+  animation: bp4-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter263-frames {
+@keyframes bp4-animate-enter90-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -441,13 +459,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansicht .gruppe-203-EOXKB0.bp4-animate-enter264 {
-  animation: bp4-animate-enter264-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .gruppe-203-EOXKB0.bp4-animate-enter91 {
+  animation: bp4-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter264-frames {
+@keyframes bp4-animate-enter91-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -511,13 +529,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht .rechteck-137-ZFbhr1.bp4-animate-enter265 {
-  animation: bp4-animate-enter265-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .rechteck-137-ZFbhr1.bp4-animate-enter92 {
+  animation: bp4-animate-enter92-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter265-frames {
+@keyframes bp4-animate-enter92-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -535,13 +553,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansicht .gruppe-189-ZFbhr1.bp4-animate-enter266 {
-  animation: bp4-animate-enter266-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .gruppe-189-ZFbhr1.bp4-animate-enter93 {
+  animation: bp4-animate-enter93-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter266-frames {
+@keyframes bp4-animate-enter93-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -601,13 +619,13 @@ to{opacity: 1;
   width: 209px;
 }
 
-.produktansicht .produktinformationen-ZFbhr1.bp4-animate-enter267 {
-  animation: bp4-animate-enter267-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .produktinformationen-ZFbhr1.bp4-animate-enter94 {
+  animation: bp4-animate-enter94-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter267-frames {
+@keyframes bp4-animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -630,13 +648,13 @@ to{opacity: 1;
   width: calc(100.00% - 159px);
 }
 
-.produktansicht .infotext-ZFbhr1.bp4-animate-enter268 {
-  animation: bp4-animate-enter268-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .infotext-ZFbhr1.bp4-animate-enter95 {
+  animation: bp4-animate-enter95-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter268-frames {
+@keyframes bp4-animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -659,13 +677,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansicht .vertrglichkeitwort-ZFbhr1.bp4-animate-enter269 {
-  animation: bp4-animate-enter269-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .vertrglichkeitwort-ZFbhr1.bp4-animate-enter96 {
+  animation: bp4-animate-enter96-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter269-frames {
+@keyframes bp4-animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -687,13 +705,13 @@ to{opacity: 1;
   width: 75px;
 }
 
-.produktansicht .grewort-ZFbhr1.bp4-animate-enter270 {
-  animation: bp4-animate-enter270-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .grewort-ZFbhr1.bp4-animate-enter97 {
+  animation: bp4-animate-enter97-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter270-frames {
+@keyframes bp4-animate-enter97-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -715,13 +733,13 @@ to{opacity: 1;
   width: 59px;
 }
 
-.produktansicht .stoffwort-ZFbhr1.bp4-animate-enter271 {
-  animation: bp4-animate-enter271-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .stoffwort-ZFbhr1.bp4-animate-enter98 {
+  animation: bp4-animate-enter98-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter271-frames {
+@keyframes bp4-animate-enter98-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -743,13 +761,13 @@ to{opacity: 1;
   width: 102px;
 }
 
-.produktansicht .musterwort-ZFbhr1.bp4-animate-enter272 {
-  animation: bp4-animate-enter272-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .musterwort-ZFbhr1.bp4-animate-enter99 {
+  animation: bp4-animate-enter99-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter272-frames {
+@keyframes bp4-animate-enter99-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -771,13 +789,13 @@ to{opacity: 1;
   width: 268px;
 }
 
-.produktansicht .vertraeglichkeit1-ZFbhr1.bp4-animate-enter273 {
-  animation: bp4-animate-enter273-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .vertraeglichkeit1-ZFbhr1.bp4-animate-enter100 {
+  animation: bp4-animate-enter100-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter273-frames {
+@keyframes bp4-animate-enter100-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -799,13 +817,13 @@ to{opacity: 1;
   width: 109px;
 }
 
-.produktansicht .groesse1-ZFbhr1.bp4-animate-enter274 {
-  animation: bp4-animate-enter274-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .groesse1-ZFbhr1.bp4-animate-enter101 {
+  animation: bp4-animate-enter101-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter274-frames {
+@keyframes bp4-animate-enter101-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -827,13 +845,13 @@ to{opacity: 1;
   width: 98px;
 }
 
-.produktansicht .stoff1-ZFbhr1.bp4-animate-enter275 {
-  animation: bp4-animate-enter275-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .stoff1-ZFbhr1.bp4-animate-enter102 {
+  animation: bp4-animate-enter102-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter275-frames {
+@keyframes bp4-animate-enter102-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -855,13 +873,13 @@ to{opacity: 1;
   width: 109px;
 }
 
-.produktansicht .muster1-ZFbhr1.bp4-animate-enter276 {
-  animation: bp4-animate-enter276-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .muster1-ZFbhr1.bp4-animate-enter103 {
+  animation: bp4-animate-enter103-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter276-frames {
+@keyframes bp4-animate-enter103-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -880,13 +898,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht .ellipse-34-ZFbhr1.bp4-animate-enter277 {
-  animation: bp4-animate-enter277-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .ellipse-34-ZFbhr1.bp4-animate-enter104 {
+  animation: bp4-animate-enter104-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter277-frames {
+@keyframes bp4-animate-enter104-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -905,13 +923,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht .ellipse-35-ZFbhr1.bp4-animate-enter278 {
-  animation: bp4-animate-enter278-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .ellipse-35-ZFbhr1.bp4-animate-enter105 {
+  animation: bp4-animate-enter105-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter278-frames {
+@keyframes bp4-animate-enter105-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -930,13 +948,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht .ellipse-36-ZFbhr1.bp4-animate-enter279 {
-  animation: bp4-animate-enter279-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .ellipse-36-ZFbhr1.bp4-animate-enter106 {
+  animation: bp4-animate-enter106-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter279-frames {
+@keyframes bp4-animate-enter106-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -955,13 +973,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht .ellipse-37-ZFbhr1.bp4-animate-enter280 {
-  animation: bp4-animate-enter280-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .ellipse-37-ZFbhr1.bp4-animate-enter107 {
+  animation: bp4-animate-enter107-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter280-frames {
+@keyframes bp4-animate-enter107-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -993,13 +1011,13 @@ to{opacity: 1;
   width: 330px;
 }
 
-.produktansicht .versand-und-rckgabeinformation-T4hrAx.bp4-animate-enter281 {
-  animation: bp4-animate-enter281-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .versand-und-rckgabeinformation-T4hrAx.bp4-animate-enter108 {
+  animation: bp4-animate-enter108-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter281-frames {
+@keyframes bp4-animate-enter108-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1022,13 +1040,13 @@ to{opacity: 1;
   width: 171px;
 }
 
-.produktansicht .zahlungsoptionen-T4hrAx.bp4-animate-enter282 {
-  animation: bp4-animate-enter282-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .zahlungsoptionen-T4hrAx.bp4-animate-enter109 {
+  animation: bp4-animate-enter109-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter282-frames {
+@keyframes bp4-animate-enter109-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1047,13 +1065,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht .linie-38-T4hrAx.bp4-animate-enter283 {
-  animation: bp4-animate-enter283-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-38-T4hrAx.bp4-animate-enter110 {
+  animation: bp4-animate-enter110-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter283-frames {
+@keyframes bp4-animate-enter110-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1072,13 +1090,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht .linie-40-T4hrAx.bp4-animate-enter284 {
-  animation: bp4-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-40-T4hrAx.bp4-animate-enter111 {
+  animation: bp4-animate-enter111-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter284-frames {
+@keyframes bp4-animate-enter111-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1097,13 +1115,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht .linie-39-T4hrAx.bp4-animate-enter285 {
-  animation: bp4-animate-enter285-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .linie-39-T4hrAx.bp4-animate-enter112 {
+  animation: bp4-animate-enter112-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter285-frames {
+@keyframes bp4-animate-enter112-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1125,13 +1143,13 @@ to{opacity: 1;
   width: calc(100.00% - 252px);
 }
 
-.produktansicht .bei-jeder-bestellung-T4hrAx.bp4-animate-enter286 {
-  animation: bp4-animate-enter286-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .bei-jeder-bestellung-T4hrAx.bp4-animate-enter113 {
+  animation: bp4-animate-enter113-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter286-frames {
+@keyframes bp4-animate-enter113-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1153,13 +1171,13 @@ to{opacity: 1;
   width: calc(100.00% - 252px);
 }
 
-.produktansicht .borbus-akzeptiert-fo-T4hrAx.bp4-animate-enter287 {
-  animation: bp4-animate-enter287-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .borbus-akzeptiert-fo-T4hrAx.bp4-animate-enter114 {
+  animation: bp4-animate-enter114-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter287-frames {
+@keyframes bp4-animate-enter114-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1195,13 +1213,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.produktansicht .hedera-1uxOGG.bp4-animate-enter288 {
-  animation: bp4-animate-enter288-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht .hedera-1uxOGG.bp4-animate-enter115 {
+  animation: bp4-animate-enter115-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter288-frames {
+@keyframes bp4-animate-enter115-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1491,13 +1509,13 @@ to{opacity: 1;
   width: 36px;
 }
 
-.produktansicht .icon-play-EOXKB0.bp4-animate-enter289 {
-  animation: bp4-animate-enter289-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .icon-play-EOXKB0.bp4-animate-enter116 {
+  animation: bp4-animate-enter116-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter289-frames {
+@keyframes bp4-animate-enter116-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1524,13 +1542,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.produktansicht .home-EOXKB0.bp4-animate-enter290 {
-  animation: bp4-animate-enter290-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .home-EOXKB0.bp4-animate-enter117 {
+  animation: bp4-animate-enter117-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter290-frames {
+@keyframes bp4-animate-enter117-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1553,13 +1571,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.produktansicht .shop-EOXKB0.bp4-animate-enter291 {
-  animation: bp4-animate-enter291-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .shop-EOXKB0.bp4-animate-enter118 {
+  animation: bp4-animate-enter118-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter291-frames {
+@keyframes bp4-animate-enter118-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1578,13 +1596,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.produktansicht .gruppe-188-EOXKB0.bp4-animate-enter292 {
-  animation: bp4-animate-enter292-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .gruppe-188-EOXKB0.bp4-animate-enter119 {
+  animation: bp4-animate-enter119-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter292-frames {
+@keyframes bp4-animate-enter119-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1602,80 +1620,6 @@ to{opacity: 1;
   top: 1px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
-}
-
-.produktansicht .rckseitebild-EOXKB0 {
-  background-color: transparent;
-  height: 504px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(8.49% - 49px);
-  top: 412px;
-  width: 578px;
-}
-
-.produktansicht .vorderseitebild-EOXKB0 {
-  background-color: transparent;
-  height: 453px;
-  left: calc(6.88% - 40px);
-  object-fit: cover;
-  position: absolute;
-  top: 437px;
-  width: 579px;
-}
-
-.produktansicht .warenkorb-oben-rechts-EOXKB0 {
-  background-color: transparent;
-  height: 41px;
-  position: absolute;
-  right: 80px;
-  top: 57px;
-  width: 44px;
-}
-
-.produktansicht .iconfinder_basket_ecommerce_shop_4177565-1mqQJq {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 16px;
-  top: 17px;
-  width: 28px;
-}
-
-.produktansicht .gruppe-579-1mqQJq {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht .ellipse-47-7mY6mI {
-  background-color: var(--stratos);
-  border-radius: 11.5px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht .anzahl-warenkorb-7mY6mI {
-  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
-  background-color: transparent;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 15px;
-  position: absolute;
-  right: 5px;
-  text-align: left;
-  top: 4px;
-  white-space: nowrap;
-  width: 11px;
 }
 
 .produktansicht .borbus-EOXKB0 {
@@ -1703,13 +1647,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht .gruppe-163-EOXKB0.bp4-animate-enter293 {
-  animation: bp4-animate-enter293-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .gruppe-163-EOXKB0.bp4-animate-enter120 {
+  animation: bp4-animate-enter120-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter293-frames {
+@keyframes bp4-animate-enter120-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1781,7 +1725,7 @@ to{opacity: 1;
 
 .produktansicht .gruppe-367-0o8mFP {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -1802,7 +1746,7 @@ to{opacity: 1;
 
 .produktansicht .gruppe-365-MVXUJT {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -1845,7 +1789,7 @@ to{opacity: 1;
 
 .produktansicht .gruppe-366-MVXUJT {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -1883,48 +1827,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.produktansicht .gruppe-622-MVXUJT {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.produktansicht .gruppe-141-1PVxiR {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.produktansicht .nf-tlink-u60zHl {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.produktansicht .x498951_child_clothes-u60zHl {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
 }
 
 .produktansicht .gruppe-372-0o8mFP {
@@ -1981,7 +1883,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.produktansicht .instagram-sketched-QjAMlF {
+.produktansicht .icon-instagram-QjAMlF {
   background-color: transparent;
   height: 100%;
   left: 1px;
@@ -2003,13 +1905,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansicht .ssl-EOXKB0.bp4-animate-enter294 {
-  animation: bp4-animate-enter294-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht .ssl-EOXKB0.bp4-animate-enter121 {
+  animation: bp4-animate-enter121-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter294-frames {
+@keyframes bp4-animate-enter121-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2161,7 +2063,6 @@ to{opacity: 1;
 
 .produktansicht .gruppe-156-XHjv6f {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -2249,6 +2150,101 @@ to{opacity: 1;
   white-space: nowrap;
   width: 76px;
 }
+
+.produktansicht .gruppe-622-EOXKB0 {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.produktansicht .gruppe-141-F55K7I {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .nf-tlink-E7B9JE {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.produktansicht .x498951_child_clothes-E7B9JE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.produktansicht .warenkorb-oben-rechts-EOXKB0 {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.produktansicht .iconfinder_basket_ecommerce_shop_4177565-1mqQJq {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht .gruppe-579-1mqQJq {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht .ellipse-47-7mY6mI {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht .anzahl-warenkorb-7mY6mI {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
 /* screen - produktansicht-1200 */
 
 .produktansicht-1200 {
@@ -2275,13 +2271,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-1200 .rechteck-136-uqEa1J.bp3-animate-enter295 {
-  animation: bp3-animate-enter295-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .rechteck-136-uqEa1J.bp3-animate-enter120 {
+  animation: bp3-animate-enter120-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter295-frames {
+@keyframes bp3-animate-enter120-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2300,13 +2296,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-1200 .ellipse-32-uqEa1J.bp3-animate-enter296 {
-  animation: bp3-animate-enter296-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .ellipse-32-uqEa1J.bp3-animate-enter121 {
+  animation: bp3-animate-enter121-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter296-frames {
+@keyframes bp3-animate-enter121-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2325,13 +2321,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-1200 .ellipse-33-uqEa1J.bp3-animate-enter297 {
-  animation: bp3-animate-enter297-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .ellipse-33-uqEa1J.bp3-animate-enter122 {
+  animation: bp3-animate-enter122-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter297-frames {
+@keyframes bp3-animate-enter122-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2350,13 +2346,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-1200 .linie-32-uqEa1J.bp3-animate-enter298 {
-  animation: bp3-animate-enter298-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .linie-32-uqEa1J.bp3-animate-enter123 {
+  animation: bp3-animate-enter123-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter298-frames {
+@keyframes bp3-animate-enter123-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2375,13 +2371,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-1200 .linie-37-uqEa1J.bp3-animate-enter299 {
-  animation: bp3-animate-enter299-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .linie-37-uqEa1J.bp3-animate-enter124 {
+  animation: bp3-animate-enter124-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter299-frames {
+@keyframes bp3-animate-enter124-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2400,13 +2396,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-1200 .linie-33-uqEa1J.bp3-animate-enter300 {
-  animation: bp3-animate-enter300-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .linie-33-uqEa1J.bp3-animate-enter125 {
+  animation: bp3-animate-enter125-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter300-frames {
+@keyframes bp3-animate-enter125-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2425,13 +2421,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-1200 .linie-36-uqEa1J.bp3-animate-enter301 {
-  animation: bp3-animate-enter301-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .linie-36-uqEa1J.bp3-animate-enter126 {
+  animation: bp3-animate-enter126-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter301-frames {
+@keyframes bp3-animate-enter126-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2458,13 +2454,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-1200 .rechteck-137-FHGSfx.bp3-animate-enter302 {
-  animation: bp3-animate-enter302-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .rechteck-137-FHGSfx.bp3-animate-enter127 {
+  animation: bp3-animate-enter127-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter302-frames {
+@keyframes bp3-animate-enter127-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2482,13 +2478,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansicht-1200 .gruppe-189-FHGSfx.bp3-animate-enter303 {
-  animation: bp3-animate-enter303-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .gruppe-189-FHGSfx.bp3-animate-enter128 {
+  animation: bp3-animate-enter128-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter303-frames {
+@keyframes bp3-animate-enter128-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2548,13 +2544,13 @@ to{opacity: 1;
   width: 209px;
 }
 
-.produktansicht-1200 .produktinformationen-FHGSfx.bp3-animate-enter304 {
-  animation: bp3-animate-enter304-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .produktinformationen-FHGSfx.bp3-animate-enter129 {
+  animation: bp3-animate-enter129-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter304-frames {
+@keyframes bp3-animate-enter129-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2576,13 +2572,13 @@ to{opacity: 1;
   width: calc(100.00% - 110px);
 }
 
-.produktansicht-1200 .infotext-FHGSfx.bp3-animate-enter305 {
-  animation: bp3-animate-enter305-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .infotext-FHGSfx.bp3-animate-enter130 {
+  animation: bp3-animate-enter130-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter305-frames {
+@keyframes bp3-animate-enter130-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2605,13 +2601,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansicht-1200 .vertrglichkeitwort-FHGSfx.bp3-animate-enter306 {
-  animation: bp3-animate-enter306-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .vertrglichkeitwort-FHGSfx.bp3-animate-enter131 {
+  animation: bp3-animate-enter131-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter306-frames {
+@keyframes bp3-animate-enter131-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2633,13 +2629,13 @@ to{opacity: 1;
   width: 118px;
 }
 
-.produktansicht-1200 .grewort-FHGSfx.bp3-animate-enter307 {
-  animation: bp3-animate-enter307-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .grewort-FHGSfx.bp3-animate-enter132 {
+  animation: bp3-animate-enter132-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter307-frames {
+@keyframes bp3-animate-enter132-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2661,13 +2657,13 @@ to{opacity: 1;
   width: 109px;
 }
 
-.produktansicht-1200 .stoffwort-FHGSfx.bp3-animate-enter308 {
-  animation: bp3-animate-enter308-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .stoffwort-FHGSfx.bp3-animate-enter133 {
+  animation: bp3-animate-enter133-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter308-frames {
+@keyframes bp3-animate-enter133-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2689,13 +2685,13 @@ to{opacity: 1;
   width: 104px;
 }
 
-.produktansicht-1200 .musterwort-FHGSfx.bp3-animate-enter309 {
-  animation: bp3-animate-enter309-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .musterwort-FHGSfx.bp3-animate-enter134 {
+  animation: bp3-animate-enter134-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter309-frames {
+@keyframes bp3-animate-enter134-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2717,13 +2713,13 @@ to{opacity: 1;
   width: 268px;
 }
 
-.produktansicht-1200 .vertraeglichkeit1-FHGSfx.bp3-animate-enter310 {
-  animation: bp3-animate-enter310-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .vertraeglichkeit1-FHGSfx.bp3-animate-enter135 {
+  animation: bp3-animate-enter135-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter310-frames {
+@keyframes bp3-animate-enter135-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2745,13 +2741,13 @@ to{opacity: 1;
   width: 109px;
 }
 
-.produktansicht-1200 .groesse1-FHGSfx.bp3-animate-enter311 {
-  animation: bp3-animate-enter311-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .groesse1-FHGSfx.bp3-animate-enter136 {
+  animation: bp3-animate-enter136-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter311-frames {
+@keyframes bp3-animate-enter136-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2773,13 +2769,13 @@ to{opacity: 1;
   width: 110px;
 }
 
-.produktansicht-1200 .stoff1-FHGSfx.bp3-animate-enter312 {
-  animation: bp3-animate-enter312-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .stoff1-FHGSfx.bp3-animate-enter137 {
+  animation: bp3-animate-enter137-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter312-frames {
+@keyframes bp3-animate-enter137-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2801,13 +2797,13 @@ to{opacity: 1;
   width: 121px;
 }
 
-.produktansicht-1200 .muster1-FHGSfx.bp3-animate-enter313 {
-  animation: bp3-animate-enter313-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .muster1-FHGSfx.bp3-animate-enter138 {
+  animation: bp3-animate-enter138-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter313-frames {
+@keyframes bp3-animate-enter138-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2826,13 +2822,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-1200 .ellipse-34-FHGSfx.bp3-animate-enter314 {
-  animation: bp3-animate-enter314-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .ellipse-34-FHGSfx.bp3-animate-enter139 {
+  animation: bp3-animate-enter139-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter314-frames {
+@keyframes bp3-animate-enter139-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2851,13 +2847,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-1200 .ellipse-35-FHGSfx.bp3-animate-enter315 {
-  animation: bp3-animate-enter315-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .ellipse-35-FHGSfx.bp3-animate-enter140 {
+  animation: bp3-animate-enter140-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter315-frames {
+@keyframes bp3-animate-enter140-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2876,13 +2872,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-1200 .ellipse-36-FHGSfx.bp3-animate-enter316 {
-  animation: bp3-animate-enter316-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .ellipse-36-FHGSfx.bp3-animate-enter141 {
+  animation: bp3-animate-enter141-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter316-frames {
+@keyframes bp3-animate-enter141-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2901,13 +2897,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-1200 .ellipse-37-FHGSfx.bp3-animate-enter317 {
-  animation: bp3-animate-enter317-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .ellipse-37-FHGSfx.bp3-animate-enter142 {
+  animation: bp3-animate-enter142-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter317-frames {
+@keyframes bp3-animate-enter142-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2932,7 +2928,7 @@ to{opacity: 1;
   width: 386px;
 }
 
-.produktansicht-1200 .kleidchenbezeichnung-oMnFRg {
+.produktansicht-1200 .bezeichnung-oMnFRg {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -2948,13 +2944,13 @@ to{opacity: 1;
   width: 129px;
 }
 
-.produktansicht-1200 .kleidchenbezeichnung-oMnFRg.bp3-animate-enter318 {
-  animation: bp3-animate-enter318-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .bezeichnung-oMnFRg.bp3-animate-enter143 {
+  animation: bp3-animate-enter143-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter318-frames {
+@keyframes bp3-animate-enter143-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2976,13 +2972,13 @@ to{opacity: 1;
   width: 163px;
 }
 
-.produktansicht-1200 .x6-monate-3-jahre-oMnFRg.bp3-animate-enter319 {
-  animation: bp3-animate-enter319-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .x6-monate-3-jahre-oMnFRg.bp3-animate-enter144 {
+  animation: bp3-animate-enter144-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter319-frames {
+@keyframes bp3-animate-enter144-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3005,13 +3001,13 @@ to{opacity: 1;
   width: 71px;
 }
 
-.produktansicht-1200 .stckpreis-oMnFRg.bp3-animate-enter320 {
-  animation: bp3-animate-enter320-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .stckpreis-oMnFRg.bp3-animate-enter145 {
+  animation: bp3-animate-enter145-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter320-frames {
+@keyframes bp3-animate-enter145-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3030,13 +3026,13 @@ to{opacity: 1;
   width: calc(100.00% - 122px);
 }
 
-.produktansicht-1200 .linie-31-oMnFRg.bp3-animate-enter321 {
-  animation: bp3-animate-enter321-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .linie-31-oMnFRg.bp3-animate-enter146 {
+  animation: bp3-animate-enter146-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter321-frames {
+@keyframes bp3-animate-enter146-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3057,13 +3053,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-1200 .warenkorb-button-mitte-oMnFRg.bp3-animate-enter322 {
-  animation: bp3-animate-enter322-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .warenkorb-button-mitte-oMnFRg.bp3-animate-enter147 {
+  animation: bp3-animate-enter147-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter322-frames {
+@keyframes bp3-animate-enter147-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3112,13 +3108,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansicht-1200 .gruppe-203-uqEa1J.bp3-animate-enter323 {
-  animation: bp3-animate-enter323-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .gruppe-203-uqEa1J.bp3-animate-enter148 {
+  animation: bp3-animate-enter148-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter323-frames {
+@keyframes bp3-animate-enter148-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3178,13 +3174,13 @@ to{opacity: 1;
   width: 330px;
 }
 
-.produktansicht-1200 .versand-und-rckgabeinformation-kSIrXv.bp3-animate-enter324 {
-  animation: bp3-animate-enter324-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .versand-und-rckgabeinformation-kSIrXv.bp3-animate-enter149 {
+  animation: bp3-animate-enter149-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter324-frames {
+@keyframes bp3-animate-enter149-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3207,13 +3203,13 @@ to{opacity: 1;
   width: 171px;
 }
 
-.produktansicht-1200 .zahlungsoptionen-kSIrXv.bp3-animate-enter325 {
-  animation: bp3-animate-enter325-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .zahlungsoptionen-kSIrXv.bp3-animate-enter150 {
+  animation: bp3-animate-enter150-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter325-frames {
+@keyframes bp3-animate-enter150-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3235,13 +3231,13 @@ to{opacity: 1;
   width: calc(100.00% - 34px);
 }
 
-.produktansicht-1200 .bei-jeder-bestellung-kSIrXv.bp3-animate-enter326 {
-  animation: bp3-animate-enter326-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .bei-jeder-bestellung-kSIrXv.bp3-animate-enter151 {
+  animation: bp3-animate-enter151-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter326-frames {
+@keyframes bp3-animate-enter151-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3263,13 +3259,13 @@ to{opacity: 1;
   width: calc(100.00% - 171px);
 }
 
-.produktansicht-1200 .borbus-akzeptiert-fo-kSIrXv.bp3-animate-enter327 {
-  animation: bp3-animate-enter327-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .borbus-akzeptiert-fo-kSIrXv.bp3-animate-enter152 {
+  animation: bp3-animate-enter152-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter327-frames {
+@keyframes bp3-animate-enter152-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3288,13 +3284,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-1200 .linie-39-kSIrXv.bp3-animate-enter328 {
-  animation: bp3-animate-enter328-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .linie-39-kSIrXv.bp3-animate-enter153 {
+  animation: bp3-animate-enter153-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter328-frames {
+@keyframes bp3-animate-enter153-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3313,13 +3309,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-1200 .linie-47-kSIrXv.bp3-animate-enter329 {
-  animation: bp3-animate-enter329-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .linie-47-kSIrXv.bp3-animate-enter154 {
+  animation: bp3-animate-enter154-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter329-frames {
+@keyframes bp3-animate-enter154-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3355,13 +3351,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.produktansicht-1200 .hedera-peWeEz.bp3-animate-enter330 {
-  animation: bp3-animate-enter330-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-1200 .hedera-peWeEz.bp3-animate-enter155 {
+  animation: bp3-animate-enter155-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter330-frames {
+@keyframes bp3-animate-enter155-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3652,13 +3648,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.produktansicht-1200 .home-uqEa1J.bp3-animate-enter331 {
-  animation: bp3-animate-enter331-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .home-uqEa1J.bp3-animate-enter156 {
+  animation: bp3-animate-enter156-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter331-frames {
+@keyframes bp3-animate-enter156-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3681,13 +3677,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.produktansicht-1200 .shop-uqEa1J.bp3-animate-enter332 {
-  animation: bp3-animate-enter332-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .shop-uqEa1J.bp3-animate-enter157 {
+  animation: bp3-animate-enter157-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter332-frames {
+@keyframes bp3-animate-enter157-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3706,13 +3702,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.produktansicht-1200 .gruppe-188-uqEa1J.bp3-animate-enter333 {
-  animation: bp3-animate-enter333-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .gruppe-188-uqEa1J.bp3-animate-enter158 {
+  animation: bp3-animate-enter158-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter333-frames {
+@keyframes bp3-animate-enter158-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3770,13 +3766,13 @@ to{opacity: 1;
   width: 74px;
 }
 
-.produktansicht-1200 .rckseitewort-q5HsVH.bp3-animate-enter334 {
-  animation: bp3-animate-enter334-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .rckseitewort-q5HsVH.bp3-animate-enter159 {
+  animation: bp3-animate-enter159-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter334-frames {
+@keyframes bp3-animate-enter159-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3784,12 +3780,11 @@ to{opacity: 1;
 }
 
 .produktansicht-1200 .rckseitebild-q5HsVH {
-  background-color: transparent;
-  height: 370px;
+  background-color: var(--white);
+  height: 366px;
   left: calc(50.00% - 212px);
-  object-fit: cover;
   position: absolute;
-  top: 1px;
+  top: 0px;
   width: 425px;
 }
 
@@ -3799,7 +3794,7 @@ to{opacity: 1;
   left: 56px;
   position: absolute;
   top: 451px;
-  width: 432px;
+  width: 431px;
 }
 
 .produktansicht-1200 .vorderseitewort-aNzxJn {
@@ -3811,19 +3806,19 @@ to{opacity: 1;
   line-height: 24px;
   opacity: 0;
   position: absolute;
-  right: calc(49.71% - 44px);
+  right: calc(49.78% - 44px);
   text-align: left;
   white-space: nowrap;
   width: 88px;
 }
 
-.produktansicht-1200 .vorderseitewort-aNzxJn.bp3-animate-enter335 {
-  animation: bp3-animate-enter335-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .vorderseitewort-aNzxJn.bp3-animate-enter160 {
+  animation: bp3-animate-enter160-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter335-frames {
+@keyframes bp3-animate-enter160-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3831,13 +3826,12 @@ to{opacity: 1;
 }
 
 .produktansicht-1200 .vorderseitebild-aNzxJn {
-  background-color: transparent;
+  background-color: var(--white);
   height: 338px;
   left: calc(50.00% - 216px);
-  object-fit: cover;
   position: absolute;
-  top: 1px;
-  width: 432px;
+  top: 0px;
+  width: 431px;
 }
 
 .produktansicht-1200 .icon-play-uqEa1J {
@@ -3855,13 +3849,13 @@ to{opacity: 1;
   width: 36px;
 }
 
-.produktansicht-1200 .icon-play-uqEa1J.bp3-animate-enter336 {
-  animation: bp3-animate-enter336-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-1200 .icon-play-uqEa1J.bp3-animate-enter161 {
+  animation: bp3-animate-enter161-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter336-frames {
+@keyframes bp3-animate-enter161-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3870,60 +3864,6 @@ to{opacity: 1;
 
 .produktansicht-1200 .icon-play-uqEa1J:hover {
   transform: translate(5px, 0);
-}
-
-.produktansicht-1200 .warenkorb-oben-rechts-uqEa1J {
-  background-color: transparent;
-  height: 41px;
-  position: absolute;
-  right: 83px;
-  top: 54px;
-  width: 44px;
-}
-
-.produktansicht-1200 .iconfinder_basket_ecommerce_shop_4177565-XCH4ZQ {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 16px;
-  top: 17px;
-  width: 28px;
-}
-
-.produktansicht-1200 .gruppe-579-XCH4ZQ {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-1200 .ellipse-47-jMxZZ4 {
-  background-color: var(--stratos);
-  border-radius: 11.5px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-1200 .anzahl-warenkorb-jMxZZ4 {
-  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
-  background-color: transparent;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 15px;
-  position: absolute;
-  right: 5px;
-  text-align: left;
-  top: 4px;
-  white-space: nowrap;
-  width: 11px;
 }
 
 .produktansicht-1200 .gruppe-322-uqEa1J {
@@ -3946,13 +3886,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-1200 .gruppe-163-GWqFkn.bp3-animate-enter337 {
-  animation: bp3-animate-enter337-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-1200 .gruppe-163-GWqFkn.bp3-animate-enter162 {
+  animation: bp3-animate-enter162-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter337-frames {
+@keyframes bp3-animate-enter162-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4119,17 +4059,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.produktansicht-1200 .gruppe-692-0K0GxB {
+.produktansicht-1200 .gruppe-623-0K0GxB {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.produktansicht-1200 .gruppe-141-S7RFrh {
+.produktansicht-1200 .gruppe-141-rdzORn {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -4138,27 +4077,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-1200 .nft-JwLoBr {
+.produktansicht-1200 .nft-LZCU36 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.produktansicht-1200 .x498951_child_clothes-0K0GxB {
+.produktansicht-1200 .gruppe-622-LZCU36 {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.produktansicht-1200 .gruppe-141-x92Vwp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200 .x498951_child_clothes-h2XlTU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 0px;
+  width: 100%;
 }
 
 .produktansicht-1200 .gruppe-345-lwCwMC {
@@ -4322,7 +4280,6 @@ to{opacity: 1;
 
 .produktansicht-1200 .gruppe-156-6xkzFg {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -4450,7 +4407,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.produktansicht-1200 .instagram-sketched-02rnFD {
+.produktansicht-1200 .icon-instagram-02rnFD {
   background-color: transparent;
   height: 18px;
   left: 1px;
@@ -4472,17 +4429,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansicht-1200 .ssl-GWqFkn.bp3-animate-enter338 {
-  animation: bp3-animate-enter338-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-1200 .ssl-GWqFkn.bp3-animate-enter163 {
+  animation: bp3-animate-enter163-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter338-frames {
+@keyframes bp3-animate-enter163-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.produktansicht-1200 .warenkorb-oben-rechts-uqEa1J {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.produktansicht-1200 .iconfinder_basket_ecommerce_shop_4177565-XCH4ZQ {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht-1200 .gruppe-579-XCH4ZQ {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-1200 .ellipse-47-jMxZZ4 {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-1200 .anzahl-warenkorb-jMxZZ4 {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 /* screen - produktansicht-375 */
 
@@ -4510,13 +4520,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-375 .rechteck-136-hymGLb.bp1-animate-enter278 {
-  animation: bp1-animate-enter278-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .rechteck-136-hymGLb.bp1-animate-enter109 {
+  animation: bp1-animate-enter109-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter278-frames {
+@keyframes bp1-animate-enter109-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4544,13 +4554,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-375 .ellipse-32-Oh0P0E.bp1-animate-enter279 {
-  animation: bp1-animate-enter279-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .ellipse-32-Oh0P0E.bp1-animate-enter110 {
+  animation: bp1-animate-enter110-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter279-frames {
+@keyframes bp1-animate-enter110-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4569,13 +4579,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-375 .ellipse-33-Oh0P0E.bp1-animate-enter280 {
-  animation: bp1-animate-enter280-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .ellipse-33-Oh0P0E.bp1-animate-enter111 {
+  animation: bp1-animate-enter111-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter280-frames {
+@keyframes bp1-animate-enter111-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4594,13 +4604,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-375 .linie-32-Oh0P0E.bp1-animate-enter281 {
-  animation: bp1-animate-enter281-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .linie-32-Oh0P0E.bp1-animate-enter112 {
+  animation: bp1-animate-enter112-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter281-frames {
+@keyframes bp1-animate-enter112-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4619,13 +4629,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-375 .linie-37-Oh0P0E.bp1-animate-enter282 {
-  animation: bp1-animate-enter282-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .linie-37-Oh0P0E.bp1-animate-enter113 {
+  animation: bp1-animate-enter113-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter282-frames {
+@keyframes bp1-animate-enter113-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4644,13 +4654,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-375 .linie-33-Oh0P0E.bp1-animate-enter283 {
-  animation: bp1-animate-enter283-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .linie-33-Oh0P0E.bp1-animate-enter114 {
+  animation: bp1-animate-enter114-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter283-frames {
+@keyframes bp1-animate-enter114-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4669,13 +4679,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-375 .linie-36-Oh0P0E.bp1-animate-enter284 {
-  animation: bp1-animate-enter284-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .linie-36-Oh0P0E.bp1-animate-enter115 {
+  animation: bp1-animate-enter115-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter284-frames {
+@keyframes bp1-animate-enter115-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4693,13 +4703,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-375 .rechteck-137-Oh0P0E.bp1-animate-enter285 {
-  animation: bp1-animate-enter285-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .rechteck-137-Oh0P0E.bp1-animate-enter116 {
+  animation: bp1-animate-enter116-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter285-frames {
+@keyframes bp1-animate-enter116-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4717,13 +4727,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansicht-375 .gruppe-189-Oh0P0E.bp1-animate-enter286 {
-  animation: bp1-animate-enter286-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .gruppe-189-Oh0P0E.bp1-animate-enter117 {
+  animation: bp1-animate-enter117-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter286-frames {
+@keyframes bp1-animate-enter117-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4783,13 +4793,13 @@ to{opacity: 1;
   width: 209px;
 }
 
-.produktansicht-375 .produktinformationen-Oh0P0E.bp1-animate-enter287 {
-  animation: bp1-animate-enter287-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .produktinformationen-Oh0P0E.bp1-animate-enter118 {
+  animation: bp1-animate-enter118-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter287-frames {
+@keyframes bp1-animate-enter118-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4811,13 +4821,13 @@ to{opacity: 1;
   width: calc(100.00% - 44px);
 }
 
-.produktansicht-375 .infotext-Oh0P0E.bp1-animate-enter288 {
-  animation: bp1-animate-enter288-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .infotext-Oh0P0E.bp1-animate-enter119 {
+  animation: bp1-animate-enter119-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter288-frames {
+@keyframes bp1-animate-enter119-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4840,13 +4850,13 @@ to{opacity: 1;
   width: 92px;
 }
 
-.produktansicht-375 .vertrglichkeitwort-Oh0P0E.bp1-animate-enter289 {
-  animation: bp1-animate-enter289-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .vertrglichkeitwort-Oh0P0E.bp1-animate-enter120 {
+  animation: bp1-animate-enter120-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter289-frames {
+@keyframes bp1-animate-enter120-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4869,13 +4879,13 @@ to{opacity: 1;
   width: 40px;
 }
 
-.produktansicht-375 .grewort-Oh0P0E.bp1-animate-enter290 {
-  animation: bp1-animate-enter290-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .grewort-Oh0P0E.bp1-animate-enter121 {
+  animation: bp1-animate-enter121-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter290-frames {
+@keyframes bp1-animate-enter121-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4898,13 +4908,13 @@ to{opacity: 1;
   width: 31px;
 }
 
-.produktansicht-375 .stoffwort-Oh0P0E.bp1-animate-enter291 {
-  animation: bp1-animate-enter291-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .stoffwort-Oh0P0E.bp1-animate-enter122 {
+  animation: bp1-animate-enter122-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter291-frames {
+@keyframes bp1-animate-enter122-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4927,13 +4937,13 @@ to{opacity: 1;
   width: 49px;
 }
 
-.produktansicht-375 .musterwort-Oh0P0E.bp1-animate-enter292 {
-  animation: bp1-animate-enter292-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .musterwort-Oh0P0E.bp1-animate-enter123 {
+  animation: bp1-animate-enter123-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter292-frames {
+@keyframes bp1-animate-enter123-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4956,13 +4966,13 @@ to{opacity: 1;
   width: 87px;
 }
 
-.produktansicht-375 .vertraeglichkeit1-Oh0P0E.bp1-animate-enter293 {
-  animation: bp1-animate-enter293-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .vertraeglichkeit1-Oh0P0E.bp1-animate-enter124 {
+  animation: bp1-animate-enter124-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter293-frames {
+@keyframes bp1-animate-enter124-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4985,13 +4995,13 @@ to{opacity: 1;
   width: 16px;
 }
 
-.produktansicht-375 .groesse1-Oh0P0E.bp1-animate-enter294 {
-  animation: bp1-animate-enter294-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .groesse1-Oh0P0E.bp1-animate-enter125 {
+  animation: bp1-animate-enter125-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter294-frames {
+@keyframes bp1-animate-enter125-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5014,13 +5024,13 @@ to{opacity: 1;
   width: 64px;
 }
 
-.produktansicht-375 .stoff1-Oh0P0E.bp1-animate-enter295 {
-  animation: bp1-animate-enter295-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .stoff1-Oh0P0E.bp1-animate-enter126 {
+  animation: bp1-animate-enter126-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter295-frames {
+@keyframes bp1-animate-enter126-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5043,13 +5053,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.produktansicht-375 .muster1-Oh0P0E.bp1-animate-enter296 {
-  animation: bp1-animate-enter296-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .muster1-Oh0P0E.bp1-animate-enter127 {
+  animation: bp1-animate-enter127-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter296-frames {
+@keyframes bp1-animate-enter127-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5068,13 +5078,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-375 .ellipse-34-Oh0P0E.bp1-animate-enter297 {
-  animation: bp1-animate-enter297-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .ellipse-34-Oh0P0E.bp1-animate-enter128 {
+  animation: bp1-animate-enter128-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter297-frames {
+@keyframes bp1-animate-enter128-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5093,13 +5103,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-375 .ellipse-35-Oh0P0E.bp1-animate-enter298 {
-  animation: bp1-animate-enter298-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .ellipse-35-Oh0P0E.bp1-animate-enter129 {
+  animation: bp1-animate-enter129-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter298-frames {
+@keyframes bp1-animate-enter129-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5118,13 +5128,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-375 .ellipse-36-Oh0P0E.bp1-animate-enter299 {
-  animation: bp1-animate-enter299-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .ellipse-36-Oh0P0E.bp1-animate-enter130 {
+  animation: bp1-animate-enter130-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter299-frames {
+@keyframes bp1-animate-enter130-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5143,13 +5153,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-375 .ellipse-37-Oh0P0E.bp1-animate-enter300 {
-  animation: bp1-animate-enter300-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .ellipse-37-Oh0P0E.bp1-animate-enter131 {
+  animation: bp1-animate-enter131-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter300-frames {
+@keyframes bp1-animate-enter131-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5181,13 +5191,13 @@ to{opacity: 1;
   width: 196px;
 }
 
-.produktansicht-375 .borbus-akzeptiert-fo-xugemg.bp1-animate-enter301 {
-  animation: bp1-animate-enter301-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .borbus-akzeptiert-fo-xugemg.bp1-animate-enter132 {
+  animation: bp1-animate-enter132-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter301-frames {
+@keyframes bp1-animate-enter132-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5228,13 +5238,13 @@ to{opacity: 1;
   width: calc(100.00% - 56px);
 }
 
-.produktansicht-375 .versand-und-rckgabeinformation-6mpNgx.bp1-animate-enter302 {
-  animation: bp1-animate-enter302-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .versand-und-rckgabeinformation-6mpNgx.bp1-animate-enter133 {
+  animation: bp1-animate-enter133-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter302-frames {
+@keyframes bp1-animate-enter133-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5257,13 +5267,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansicht-375 .zahlungsoptionen-6mpNgx.bp1-animate-enter303 {
-  animation: bp1-animate-enter303-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .zahlungsoptionen-6mpNgx.bp1-animate-enter134 {
+  animation: bp1-animate-enter134-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter303-frames {
+@keyframes bp1-animate-enter134-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5285,13 +5295,13 @@ to{opacity: 1;
   width: calc(100.00% - 42px);
 }
 
-.produktansicht-375 .bei-jeder-bestellung-6mpNgx.bp1-animate-enter304 {
-  animation: bp1-animate-enter304-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .bei-jeder-bestellung-6mpNgx.bp1-animate-enter135 {
+  animation: bp1-animate-enter135-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter304-frames {
+@keyframes bp1-animate-enter135-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5310,13 +5320,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-375 .linie-39-6mpNgx.bp1-animate-enter305 {
-  animation: bp1-animate-enter305-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .linie-39-6mpNgx.bp1-animate-enter136 {
+  animation: bp1-animate-enter136-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter305-frames {
+@keyframes bp1-animate-enter136-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5335,13 +5345,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-375 .linie-48-6mpNgx.bp1-animate-enter306 {
-  animation: bp1-animate-enter306-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .linie-48-6mpNgx.bp1-animate-enter137 {
+  animation: bp1-animate-enter137-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter306-frames {
+@keyframes bp1-animate-enter137-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5377,13 +5387,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.produktansicht-375 .hedera-bxPOVO.bp1-animate-enter307 {
-  animation: bp1-animate-enter307-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-375 .hedera-bxPOVO.bp1-animate-enter138 {
+  animation: bp1-animate-enter138-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter307-frames {
+@keyframes bp1-animate-enter138-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5497,13 +5507,13 @@ to{opacity: 1;
   width: 48px;
 }
 
-.produktansicht-375 .home-CDVoKk.bp1-animate-enter308 {
-  animation: bp1-animate-enter308-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .home-CDVoKk.bp1-animate-enter139 {
+  animation: bp1-animate-enter139-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter308-frames {
+@keyframes bp1-animate-enter139-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5526,13 +5536,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansicht-375 .shop-hymGLb.bp1-animate-enter309 {
-  animation: bp1-animate-enter309-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .shop-hymGLb.bp1-animate-enter140 {
+  animation: bp1-animate-enter140-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter309-frames {
+@keyframes bp1-animate-enter140-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5551,13 +5561,13 @@ to{opacity: 1;
   width: 100px;
 }
 
-.produktansicht-375 .gruppe-188-hymGLb.bp1-animate-enter310 {
-  animation: bp1-animate-enter310-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .gruppe-188-hymGLb.bp1-animate-enter141 {
+  animation: bp1-animate-enter141-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter310-frames {
+@keyframes bp1-animate-enter141-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5591,13 +5601,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansicht-375 .gruppe-203-hymGLb.bp1-animate-enter311 {
-  animation: bp1-animate-enter311-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .gruppe-203-hymGLb.bp1-animate-enter142 {
+  animation: bp1-animate-enter142-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter311-frames {
+@keyframes bp1-animate-enter142-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5832,8 +5842,8 @@ to{opacity: 1;
 .produktansicht-375 .gruppe-565-hymGLb {
   background-color: transparent;
   height: 1033px;
+  left: calc(50.00% - 154px);
   position: absolute;
-  right: calc(50.00% - 154px);
   top: 362px;
   width: 307px;
 }
@@ -5862,13 +5872,13 @@ to{opacity: 1;
   width: 66px;
 }
 
-.produktansicht-375 .vorderseitewort-wVQQUR.bp1-animate-enter312 {
-  animation: bp1-animate-enter312-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .vorderseitewort-wVQQUR.bp1-animate-enter143 {
+  animation: bp1-animate-enter143-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter312-frames {
+@keyframes bp1-animate-enter143-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5884,7 +5894,7 @@ to{opacity: 1;
   width: 155px;
 }
 
-.produktansicht-375 .kleidchenbezeichnung-F5bfcM {
+.produktansicht-375 .bezeichnung-F5bfcM {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -5900,13 +5910,13 @@ to{opacity: 1;
   width: calc(100.00% - 26px);
 }
 
-.produktansicht-375 .kleidchenbezeichnung-F5bfcM.bp1-animate-enter313 {
-  animation: bp1-animate-enter313-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .bezeichnung-F5bfcM.bp1-animate-enter144 {
+  animation: bp1-animate-enter144-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter313-frames {
+@keyframes bp1-animate-enter144-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5928,13 +5938,13 @@ to{opacity: 1;
   width: calc(100.00% - 36px);
 }
 
-.produktansicht-375 .x6-monate-3-jahre-F5bfcM.bp1-animate-enter314 {
-  animation: bp1-animate-enter314-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .x6-monate-3-jahre-F5bfcM.bp1-animate-enter145 {
+  animation: bp1-animate-enter145-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter314-frames {
+@keyframes bp1-animate-enter145-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5957,13 +5967,13 @@ to{opacity: 1;
   width: 71px;
 }
 
-.produktansicht-375 .stckpreis-F5bfcM.bp1-animate-enter315 {
-  animation: bp1-animate-enter315-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .stckpreis-F5bfcM.bp1-animate-enter146 {
+  animation: bp1-animate-enter146-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter315-frames {
+@keyframes bp1-animate-enter146-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -5982,13 +5992,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-375 .linie-31-F5bfcM.bp1-animate-enter316 {
-  animation: bp1-animate-enter316-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .linie-31-F5bfcM.bp1-animate-enter147 {
+  animation: bp1-animate-enter147-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter316-frames {
+@keyframes bp1-animate-enter147-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6009,13 +6019,13 @@ to{opacity: 1;
   width: 290px;
 }
 
-.produktansicht-375 .warenkorb-button-mitte-wVQQUR.bp1-animate-enter317 {
-  animation: bp1-animate-enter317-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .warenkorb-button-mitte-wVQQUR.bp1-animate-enter148 {
+  animation: bp1-animate-enter148-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter317-frames {
+@keyframes bp1-animate-enter148-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6065,13 +6075,13 @@ to{opacity: 1;
   width: 56px;
 }
 
-.produktansicht-375 .rckseitewort-wVQQUR.bp1-animate-enter318 {
-  animation: bp1-animate-enter318-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-375 .rckseitewort-wVQQUR.bp1-animate-enter149 {
+  animation: bp1-animate-enter149-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter318-frames {
+@keyframes bp1-animate-enter149-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6079,82 +6089,21 @@ to{opacity: 1;
 }
 
 .produktansicht-375 .vorderseitebild-tZr381 {
-  background-color: transparent;
+  background-color: var(--white);
   height: 241px;
   left: calc(50.00% - 154px);
-  object-fit: cover;
   position: absolute;
   top: 282px;
   width: 307px;
 }
 
 .produktansicht-375 .rckseitebild-tZr381 {
-  background-color: transparent;
+  background-color: var(--white);
   height: 264px;
-  left: calc(50.00% - 151px);
-  object-fit: cover;
+  left: calc(50.00% - 154px);
   position: absolute;
   top: 613px;
-  width: 303px;
-}
-
-.produktansicht-375 .warenkorb-oben-rechts-hymGLb {
-  background-color: transparent;
-  height: 32px;
-  position: absolute;
-  right: 10px;
-  top: 44px;
-  width: 35px;
-}
-
-.produktansicht-375 .iconfinder_basket_ecommerce_shop_4177565-8QBP4U {
-  background-color: transparent;
-  cursor: pointer;
-  height: 21px;
-  object-fit: cover;
-  position: absolute;
-  right: 11px;
-  top: 11px;
-  width: 24px;
-}
-
-.produktansicht-375 .gruppe-579-8QBP4U {
-  background-color: transparent;
-  height: 16px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 16px;
-}
-
-.produktansicht-375 .ellipse-47-9D98nO {
-  background-color: var(--stratos);
-  border-radius: 8.16px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 16px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 16px;
-}
-
-.produktansicht-375 .anzahl-warenkorb-9D98nO {
-  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
-  background-color: transparent;
-  color: var(--gallery);
-  font-family: var(--font-family-hiraginomincho_pron-w3);
-  font-size: 9px;
-  font-style: normal;
-  font-weight: 400;
-  height: 11px;
-  letter-spacing: 0.00px;
-  line-height: 9px;
-  position: absolute;
-  right: 4px;
-  text-align: left;
-  top: 3px;
-  white-space: nowrap;
-  width: 7px;
+  width: 307px;
 }
 
 .produktansicht-375 .borbus-hymGLb {
@@ -6268,7 +6217,7 @@ to{opacity: 1;
 
 .produktansicht-375 .gruppe-357-OCs9ZH {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -6310,7 +6259,7 @@ to{opacity: 1;
 
 .produktansicht-375 .gruppe-358-OCs9ZH {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -6320,7 +6269,6 @@ to{opacity: 1;
 .produktansicht-375 .gruppe-141-ZA1wuG {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -6329,6 +6277,7 @@ to{opacity: 1;
 
 .produktansicht-375 .zahlungsoptionen-Znxy60 {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -6350,46 +6299,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.produktansicht-375 .gruppe-694-OCs9ZH {
+.produktansicht-375 .gruppe-623-OCs9ZH {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.produktansicht-375 .gruppe-141-1r4Fg2 {
+.produktansicht-375 .gruppe-141-dTSx8X {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.produktansicht-375 .nft-UeHX7d {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .nft-jaWIBX {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.produktansicht-375 .x498951_child_clothes-1r4Fg2 {
+.produktansicht-375 .gruppe-622-jaWIBX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.produktansicht-375 .gruppe-141-l7oNgD {
   background-color: transparent;
   height: 100%;
   left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.produktansicht-375 .x498951_child_clothes-t3MbsE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .produktansicht-375 .gruppe-363-DHcYff {
@@ -6555,7 +6522,6 @@ to{opacity: 1;
 
 .produktansicht-375 .gruppe-156-KtOcXR {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -6663,7 +6629,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.produktansicht-375 .instagram-sketched-Kcj9go {
+.produktansicht-375 .icon-instagram-Kcj9go {
   background-color: transparent;
   height: 100%;
   object-fit: cover;
@@ -6685,17 +6651,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansicht-375 .ssl-DHcYff.bp1-animate-enter319 {
-  animation: bp1-animate-enter319-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-375 .ssl-DHcYff.bp1-animate-enter150 {
+  animation: bp1-animate-enter150-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter319-frames {
+@keyframes bp1-animate-enter150-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.produktansicht-375 .warenkorb-oben-rechts-hymGLb {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.produktansicht-375 .iconfinder_basket_ecommerce_shop_4177565-8QBP4U {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.produktansicht-375 .gruppe-579-8QBP4U {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.produktansicht-375 .ellipse-47-9D98nO {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.produktansicht-375 .anzahl-warenkorb-9D98nO {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
 }
 /* screen - produktansicht-767 */
 
@@ -6723,13 +6742,13 @@ to{opacity: 1;
   width: calc(100.00% + 659px);
 }
 
-.produktansicht-767 .rechteck-136-EHMNUx.bp2-animate-enter293 {
-  animation: bp2-animate-enter293-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .rechteck-136-EHMNUx.bp2-animate-enter119 {
+  animation: bp2-animate-enter119-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter293-frames {
+@keyframes bp2-animate-enter119-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6748,13 +6767,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-767 .ellipse-32-EHMNUx.bp2-animate-enter294 {
-  animation: bp2-animate-enter294-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .ellipse-32-EHMNUx.bp2-animate-enter120 {
+  animation: bp2-animate-enter120-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter294-frames {
+@keyframes bp2-animate-enter120-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6773,13 +6792,13 @@ to{opacity: 1;
   width: 23px;
 }
 
-.produktansicht-767 .ellipse-33-EHMNUx.bp2-animate-enter295 {
-  animation: bp2-animate-enter295-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .ellipse-33-EHMNUx.bp2-animate-enter121 {
+  animation: bp2-animate-enter121-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter295-frames {
+@keyframes bp2-animate-enter121-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6798,13 +6817,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-767 .linie-32-EHMNUx.bp2-animate-enter296 {
-  animation: bp2-animate-enter296-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .linie-32-EHMNUx.bp2-animate-enter122 {
+  animation: bp2-animate-enter122-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter296-frames {
+@keyframes bp2-animate-enter122-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6823,13 +6842,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.produktansicht-767 .linie-37-EHMNUx.bp2-animate-enter297 {
-  animation: bp2-animate-enter297-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .linie-37-EHMNUx.bp2-animate-enter123 {
+  animation: bp2-animate-enter123-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter297-frames {
+@keyframes bp2-animate-enter123-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6848,13 +6867,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-767 .linie-33-EHMNUx.bp2-animate-enter298 {
-  animation: bp2-animate-enter298-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .linie-33-EHMNUx.bp2-animate-enter124 {
+  animation: bp2-animate-enter124-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter298-frames {
+@keyframes bp2-animate-enter124-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6873,13 +6892,13 @@ to{opacity: 1;
   width: 13px;
 }
 
-.produktansicht-767 .linie-36-EHMNUx.bp2-animate-enter299 {
-  animation: bp2-animate-enter299-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .linie-36-EHMNUx.bp2-animate-enter125 {
+  animation: bp2-animate-enter125-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter299-frames {
+@keyframes bp2-animate-enter125-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6906,13 +6925,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-767 .rechteck-137-APMeAU.bp2-animate-enter300 {
-  animation: bp2-animate-enter300-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .rechteck-137-APMeAU.bp2-animate-enter126 {
+  animation: bp2-animate-enter126-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter300-frames {
+@keyframes bp2-animate-enter126-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6930,13 +6949,13 @@ to{opacity: 1;
   width: 42px;
 }
 
-.produktansicht-767 .gruppe-189-APMeAU.bp2-animate-enter301 {
-  animation: bp2-animate-enter301-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .gruppe-189-APMeAU.bp2-animate-enter127 {
+  animation: bp2-animate-enter127-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter301-frames {
+@keyframes bp2-animate-enter127-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -6996,13 +7015,13 @@ to{opacity: 1;
   width: 209px;
 }
 
-.produktansicht-767 .produktinformationen-APMeAU.bp2-animate-enter302 {
-  animation: bp2-animate-enter302-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .produktinformationen-APMeAU.bp2-animate-enter128 {
+  animation: bp2-animate-enter128-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter302-frames {
+@keyframes bp2-animate-enter128-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7024,13 +7043,13 @@ to{opacity: 1;
   width: 401px;
 }
 
-.produktansicht-767 .infotext-APMeAU.bp2-animate-enter303 {
-  animation: bp2-animate-enter303-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .infotext-APMeAU.bp2-animate-enter129 {
+  animation: bp2-animate-enter129-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter303-frames {
+@keyframes bp2-animate-enter129-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7053,13 +7072,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansicht-767 .vertrglichkeitwort-APMeAU.bp2-animate-enter304 {
-  animation: bp2-animate-enter304-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .vertrglichkeitwort-APMeAU.bp2-animate-enter130 {
+  animation: bp2-animate-enter130-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter304-frames {
+@keyframes bp2-animate-enter130-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7081,13 +7100,13 @@ to{opacity: 1;
   width: 118px;
 }
 
-.produktansicht-767 .grewort-APMeAU.bp2-animate-enter305 {
-  animation: bp2-animate-enter305-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .grewort-APMeAU.bp2-animate-enter131 {
+  animation: bp2-animate-enter131-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter305-frames {
+@keyframes bp2-animate-enter131-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7109,13 +7128,13 @@ to{opacity: 1;
   width: 104px;
 }
 
-.produktansicht-767 .stoffwort-APMeAU.bp2-animate-enter306 {
-  animation: bp2-animate-enter306-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .stoffwort-APMeAU.bp2-animate-enter132 {
+  animation: bp2-animate-enter132-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter306-frames {
+@keyframes bp2-animate-enter132-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7137,13 +7156,13 @@ to{opacity: 1;
   width: 104px;
 }
 
-.produktansicht-767 .musterwort-APMeAU.bp2-animate-enter307 {
-  animation: bp2-animate-enter307-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .musterwort-APMeAU.bp2-animate-enter133 {
+  animation: bp2-animate-enter133-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter307-frames {
+@keyframes bp2-animate-enter133-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7165,13 +7184,13 @@ to{opacity: 1;
   width: 268px;
 }
 
-.produktansicht-767 .vertraeglichkeit1-APMeAU.bp2-animate-enter308 {
-  animation: bp2-animate-enter308-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .vertraeglichkeit1-APMeAU.bp2-animate-enter134 {
+  animation: bp2-animate-enter134-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter308-frames {
+@keyframes bp2-animate-enter134-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7193,13 +7212,13 @@ to{opacity: 1;
   width: 109px;
 }
 
-.produktansicht-767 .groesse1-APMeAU.bp2-animate-enter309 {
-  animation: bp2-animate-enter309-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .groesse1-APMeAU.bp2-animate-enter135 {
+  animation: bp2-animate-enter135-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter309-frames {
+@keyframes bp2-animate-enter135-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7221,13 +7240,13 @@ to{opacity: 1;
   width: 135px;
 }
 
-.produktansicht-767 .stoff1-APMeAU.bp2-animate-enter310 {
-  animation: bp2-animate-enter310-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .stoff1-APMeAU.bp2-animate-enter136 {
+  animation: bp2-animate-enter136-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter310-frames {
+@keyframes bp2-animate-enter136-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7249,13 +7268,13 @@ to{opacity: 1;
   width: 123px;
 }
 
-.produktansicht-767 .muster1-APMeAU.bp2-animate-enter311 {
-  animation: bp2-animate-enter311-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .muster1-APMeAU.bp2-animate-enter137 {
+  animation: bp2-animate-enter137-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter311-frames {
+@keyframes bp2-animate-enter137-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7274,13 +7293,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-767 .ellipse-34-APMeAU.bp2-animate-enter312 {
-  animation: bp2-animate-enter312-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .ellipse-34-APMeAU.bp2-animate-enter138 {
+  animation: bp2-animate-enter138-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter312-frames {
+@keyframes bp2-animate-enter138-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7299,13 +7318,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-767 .ellipse-35-APMeAU.bp2-animate-enter313 {
-  animation: bp2-animate-enter313-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .ellipse-35-APMeAU.bp2-animate-enter139 {
+  animation: bp2-animate-enter139-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter313-frames {
+@keyframes bp2-animate-enter139-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7324,13 +7343,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-767 .ellipse-36-APMeAU.bp2-animate-enter314 {
-  animation: bp2-animate-enter314-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .ellipse-36-APMeAU.bp2-animate-enter140 {
+  animation: bp2-animate-enter140-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter314-frames {
+@keyframes bp2-animate-enter140-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7349,13 +7368,13 @@ to{opacity: 1;
   width: 7px;
 }
 
-.produktansicht-767 .ellipse-37-APMeAU.bp2-animate-enter315 {
-  animation: bp2-animate-enter315-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .ellipse-37-APMeAU.bp2-animate-enter141 {
+  animation: bp2-animate-enter141-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter315-frames {
+@keyframes bp2-animate-enter141-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7387,13 +7406,13 @@ to{opacity: 1;
   width: 330px;
 }
 
-.produktansicht-767 .versand-und-rckgabeinformation-bbn0o1.bp2-animate-enter316 {
-  animation: bp2-animate-enter316-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .versand-und-rckgabeinformation-bbn0o1.bp2-animate-enter142 {
+  animation: bp2-animate-enter142-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter316-frames {
+@keyframes bp2-animate-enter142-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7416,13 +7435,13 @@ to{opacity: 1;
   width: 171px;
 }
 
-.produktansicht-767 .zahlungsoptionen-bbn0o1.bp2-animate-enter317 {
-  animation: bp2-animate-enter317-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .zahlungsoptionen-bbn0o1.bp2-animate-enter143 {
+  animation: bp2-animate-enter143-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter317-frames {
+@keyframes bp2-animate-enter143-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7444,13 +7463,13 @@ to{opacity: 1;
   width: calc(100.00% - 142px);
 }
 
-.produktansicht-767 .bei-jeder-bestellung-bbn0o1.bp2-animate-enter318 {
-  animation: bp2-animate-enter318-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .bei-jeder-bestellung-bbn0o1.bp2-animate-enter144 {
+  animation: bp2-animate-enter144-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter318-frames {
+@keyframes bp2-animate-enter144-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7472,13 +7491,13 @@ to{opacity: 1;
   width: 346px;
 }
 
-.produktansicht-767 .borbus-akzeptiert-fo-bbn0o1.bp2-animate-enter319 {
-  animation: bp2-animate-enter319-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .borbus-akzeptiert-fo-bbn0o1.bp2-animate-enter145 {
+  animation: bp2-animate-enter145-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter319-frames {
+@keyframes bp2-animate-enter145-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7497,13 +7516,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-767 .linie-39-bbn0o1.bp2-animate-enter320 {
-  animation: bp2-animate-enter320-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .linie-39-bbn0o1.bp2-animate-enter146 {
+  animation: bp2-animate-enter146-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter320-frames {
+@keyframes bp2-animate-enter146-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7522,13 +7541,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-767 .linie-47-bbn0o1.bp2-animate-enter321 {
-  animation: bp2-animate-enter321-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .linie-47-bbn0o1.bp2-animate-enter147 {
+  animation: bp2-animate-enter147-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter321-frames {
+@keyframes bp2-animate-enter147-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7564,13 +7583,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.produktansicht-767 .hedera-gYzMxF.bp2-animate-enter322 {
-  animation: bp2-animate-enter322-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-767 .hedera-gYzMxF.bp2-animate-enter148 {
+  animation: bp2-animate-enter148-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter322-frames {
+@keyframes bp2-animate-enter148-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7847,21 +7866,20 @@ to{opacity: 1;
 
 .produktansicht-767 .gruppe-564-EHMNUx {
   background-color: transparent;
-  height: 286px;
+  height: 287px;
   position: absolute;
-  right: calc(4.63% - 14px);
+  right: calc(4.54% - 14px);
   top: 432px;
-  width: 303px;
+  width: 304px;
 }
 
 .produktansicht-767 .rckseitebild-TA9Cqk {
-  background-color: transparent;
-  height: 264px;
+  background-color: var(--white);
+  height: 265px;
   left: calc(50.00% - 152px);
-  object-fit: cover;
   position: absolute;
   top: 0px;
-  width: 303px;
+  width: 304px;
 }
 
 .produktansicht-767 .rckseitewort-TA9Cqk {
@@ -7873,19 +7891,19 @@ to{opacity: 1;
   line-height: 24px;
   opacity: 0;
   position: absolute;
-  right: calc(47.79% - 27px);
+  right: calc(47.80% - 27px);
   text-align: left;
   white-space: nowrap;
   width: 56px;
 }
 
-.produktansicht-767 .rckseitewort-TA9Cqk.bp2-animate-enter323 {
-  animation: bp2-animate-enter323-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .rckseitewort-TA9Cqk.bp2-animate-enter149 {
+  animation: bp2-animate-enter149-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter323-frames {
+@keyframes bp2-animate-enter149-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7895,19 +7913,18 @@ to{opacity: 1;
 .produktansicht-767 .gruppe-563-EHMNUx {
   background-color: transparent;
   height: 263px;
-  left: calc(6.02% - 18px);
+  left: calc(6.09% - 19px);
   position: absolute;
   top: 456px;
   width: 307px;
 }
 
 .produktansicht-767 .vorderseitebild-m5zj7t {
-  background-color: transparent;
+  background-color: var(--white);
   height: 241px;
   left: calc(50.00% - 154px);
-  object-fit: cover;
   position: absolute;
-  top: 1px;
+  top: 0px;
   width: 307px;
 }
 
@@ -7920,19 +7937,19 @@ to{opacity: 1;
   line-height: 24px;
   opacity: 0;
   position: absolute;
-  right: calc(49.59% - 33px);
+  right: calc(49.67% - 33px);
   text-align: left;
   white-space: nowrap;
   width: 66px;
 }
 
-.produktansicht-767 .vorderseitewort-m5zj7t.bp2-animate-enter324 {
-  animation: bp2-animate-enter324-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .vorderseitewort-m5zj7t.bp2-animate-enter150 {
+  animation: bp2-animate-enter150-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter324-frames {
+@keyframes bp2-animate-enter150-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -7972,13 +7989,13 @@ to{opacity: 1;
   width: 163px;
 }
 
-.produktansicht-767 .x6-monate-3-jahre-2KPmRh.bp2-animate-enter325 {
-  animation: bp2-animate-enter325-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .x6-monate-3-jahre-2KPmRh.bp2-animate-enter151 {
+  animation: bp2-animate-enter151-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter325-frames {
+@keyframes bp2-animate-enter151-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8001,13 +8018,13 @@ to{opacity: 1;
   width: 71px;
 }
 
-.produktansicht-767 .stckpreis-2KPmRh.bp2-animate-enter326 {
-  animation: bp2-animate-enter326-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .stckpreis-2KPmRh.bp2-animate-enter152 {
+  animation: bp2-animate-enter152-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter326-frames {
+@keyframes bp2-animate-enter152-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8028,13 +8045,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-767 .warenkorb-button-mitte-2KPmRh.bp2-animate-enter327 {
-  animation: bp2-animate-enter327-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .warenkorb-button-mitte-2KPmRh.bp2-animate-enter153 {
+  animation: bp2-animate-enter153-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter327-frames {
+@keyframes bp2-animate-enter153-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8069,7 +8086,7 @@ to{opacity: 1;
   width: 147px;
 }
 
-.produktansicht-767 .kleidchenbezeichnung-2KPmRh {
+.produktansicht-767 .bezeichnung-2KPmRh {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -8085,13 +8102,13 @@ to{opacity: 1;
   width: 129px;
 }
 
-.produktansicht-767 .kleidchenbezeichnung-2KPmRh.bp2-animate-enter328 {
-  animation: bp2-animate-enter328-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .bezeichnung-2KPmRh.bp2-animate-enter154 {
+  animation: bp2-animate-enter154-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter328-frames {
+@keyframes bp2-animate-enter154-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8110,13 +8127,13 @@ to{opacity: 1;
   width: 155px;
 }
 
-.produktansicht-767 .linie-31-2KPmRh.bp2-animate-enter329 {
-  animation: bp2-animate-enter329-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .linie-31-2KPmRh.bp2-animate-enter155 {
+  animation: bp2-animate-enter155-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter329-frames {
+@keyframes bp2-animate-enter155-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8138,13 +8155,13 @@ to{opacity: 1;
   width: 36px;
 }
 
-.produktansicht-767 .icon-play-EHMNUx.bp2-animate-enter330 {
-  animation: bp2-animate-enter330-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .icon-play-EHMNUx.bp2-animate-enter156 {
+  animation: bp2-animate-enter156-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter330-frames {
+@keyframes bp2-animate-enter156-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8171,13 +8188,13 @@ to{opacity: 1;
   width: 53px;
 }
 
-.produktansicht-767 .home-EHMNUx.bp2-animate-enter331 {
-  animation: bp2-animate-enter331-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .home-EHMNUx.bp2-animate-enter157 {
+  animation: bp2-animate-enter157-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter331-frames {
+@keyframes bp2-animate-enter157-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8200,13 +8217,13 @@ to{opacity: 1;
   width: 47px;
 }
 
-.produktansicht-767 .shop-EHMNUx.bp2-animate-enter332 {
-  animation: bp2-animate-enter332-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .shop-EHMNUx.bp2-animate-enter158 {
+  animation: bp2-animate-enter158-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter332-frames {
+@keyframes bp2-animate-enter158-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8225,13 +8242,13 @@ to{opacity: 1;
   width: 113px;
 }
 
-.produktansicht-767 .gruppe-188-EHMNUx.bp2-animate-enter333 {
-  animation: bp2-animate-enter333-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .gruppe-188-EHMNUx.bp2-animate-enter159 {
+  animation: bp2-animate-enter159-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter333-frames {
+@keyframes bp2-animate-enter159-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8265,13 +8282,13 @@ to{opacity: 1;
   width: 146px;
 }
 
-.produktansicht-767 .gruppe-203-EHMNUx.bp2-animate-enter334 {
-  animation: bp2-animate-enter334-frames 0.20s ease 0.10s 1 normal forwards;
+.produktansicht-767 .gruppe-203-EHMNUx.bp2-animate-enter160 {
+  animation: bp2-animate-enter160-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter334-frames {
+@keyframes bp2-animate-enter160-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8306,60 +8323,6 @@ to{opacity: 1;
   width: 106px;
 }
 
-.produktansicht-767 .warenkorb-oben-rechts-EHMNUx {
-  background-color: transparent;
-  height: 41px;
-  position: absolute;
-  right: 49px;
-  top: 49px;
-  width: 44px;
-}
-
-.produktansicht-767 .iconfinder_basket_ecommerce_shop_4177565-gOheSN {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  object-fit: cover;
-  position: absolute;
-  right: 16px;
-  top: 17px;
-  width: 28px;
-}
-
-.produktansicht-767 .gruppe-579-gOheSN {
-  background-color: transparent;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-767 .ellipse-47-TqxLws {
-  background-color: var(--stratos);
-  border-radius: 11.5px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 23px;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 23px;
-}
-
-.produktansicht-767 .anzahl-warenkorb-TqxLws {
-  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
-  background-color: transparent;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 15px;
-  position: absolute;
-  right: 5px;
-  text-align: left;
-  top: 4px;
-  white-space: nowrap;
-  width: 11px;
-}
-
 .produktansicht-767 .borbus-EHMNUx {
   background-color: transparent;
   cursor: pointer;
@@ -8385,13 +8348,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.produktansicht-767 .gruppe-163-EHMNUx.bp2-animate-enter335 {
-  animation: bp2-animate-enter335-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-767 .gruppe-163-EHMNUx.bp2-animate-enter161 {
+  animation: bp2-animate-enter161-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter335-frames {
+@keyframes bp2-animate-enter161-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -8463,7 +8426,7 @@ to{opacity: 1;
 
 .produktansicht-767 .gruppe-350-Jb0eNO {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -8485,7 +8448,7 @@ to{opacity: 1;
 
 .produktansicht-767 .gruppe-348-eQhXyp {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -8527,7 +8490,7 @@ to{opacity: 1;
 
 .produktansicht-767 .gruppe-349-eQhXyp {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -8567,46 +8530,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.produktansicht-767 .gruppe-693-eQhXyp {
+.produktansicht-767 .gruppe-623-eQhXyp {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.produktansicht-767 .gruppe-141-jcQ1Lq {
+.produktansicht-767 .gruppe-141-pxTFKF {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.produktansicht-767 .nft-TlYkjd {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .nft-zD10DS {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.produktansicht-767 .x498951_child_clothes-jcQ1Lq {
+.produktansicht-767 .gruppe-622-zD10DS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.produktansicht-767 .gruppe-141-tv3Mbt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .x498951_child_clothes-Zt3ZDG {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .produktansicht-767 .gruppe-354-Jb0eNO {
@@ -8770,7 +8751,6 @@ to{opacity: 1;
 
 .produktansicht-767 .gruppe-156-KoYckx {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -8899,7 +8879,7 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.produktansicht-767 .instagram-sketched-CpKmAK {
+.produktansicht-767 .icon-instagram-CpKmAK {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -8921,17 +8901,70 @@ to{opacity: 1;
   width: 90px;
 }
 
-.produktansicht-767 .ssl-EHMNUx.bp2-animate-enter336 {
-  animation: bp2-animate-enter336-frames 0.20s linear 0.10s 1 normal forwards;
+.produktansicht-767 .ssl-EHMNUx.bp2-animate-enter162 {
+  animation: bp2-animate-enter162-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter336-frames {
+@keyframes bp2-animate-enter162-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
+}
+
+.produktansicht-767 .warenkorb-oben-rechts-EHMNUx {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.produktansicht-767 .iconfinder_basket_ecommerce_shop_4177565-gOheSN {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht-767 .gruppe-579-gOheSN {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-767 .ellipse-47-TqxLws {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-767 .anzahl-warenkorb-TqxLws {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
 }
 @media screen and (max-width: 766px) {
   .screen.produktansicht { 

@@ -17,21 +17,21 @@
   border-radius: 4px;
   box-shadow: 0px 2px 4px #00000029;
   display: block;
-  height: 889px;
+  height: 803px;
   left: 936px;
   opacity: 0;
   position: absolute;
-  top: calc(34.78% - 309px);
+  top: calc(33.33% - 268px);
   width: calc(100.00% - 1228px);
 }
 
-.bestellformular .rechteck-136-xywSQy.bp4-animate-enter77 {
-  animation: bp4-animate-enter77-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .rechteck-136-xywSQy.bp4-animate-enter48 {
+  animation: bp4-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter77-frames {
+@keyframes bp4-animate-enter48-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -46,17 +46,17 @@ to{opacity: 1;
   left: 936px;
   opacity: 0;
   position: absolute;
-  top: calc(15.13% - 16px);
+  top: calc(16.58% - 18px);
   width: calc(100.00% - 1228px);
 }
 
-.bestellformular .rechteck-172-xywSQy.bp4-animate-enter78 {
-  animation: bp4-animate-enter78-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .rechteck-172-xywSQy.bp4-animate-enter49 {
+  animation: bp4-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter78-frames {
+@keyframes bp4-animate-enter49-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -267,16 +267,6 @@ to{opacity: 1;
   width: 240px;
 }
 
-.bestellformular .vorderseitebild-xywSQy {
-  background-color: transparent;
-  height: calc(100.00% - 1075px);
-  left: 292px;
-  object-fit: cover;
-  position: absolute;
-  top: 432px;
-  width: 530px;
-}
-
 .bestellformular .kleidchenbezeichnung-xywSQy {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
@@ -293,309 +283,272 @@ to{opacity: 1;
   width: 236px;
 }
 
-.bestellformular .kleidchenbezeichnung-xywSQy.bp4-animate-enter79 {
-  animation: bp4-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .kleidchenbezeichnung-xywSQy.bp4-animate-enter50 {
+  animation: bp4-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter79-frames {
+@keyframes bp4-animate-enter50-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular .text-xywSQy {
+.bestellformular .gruppe-646-xywSQy {
+  background-color: transparent;
+  bottom: calc(42.67% - 31px);
+  height: 72px;
+  position: absolute;
+  right: calc(28.21% - 118px);
+  width: 417px;
+}
+
+.bestellformular .email12eingabe-pjlpWF {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 21px);
+  left: 0px;
+  opacity: 0.6;
+  position: absolute;
+  top: 21px;
+  width: 100%;
+}
+
+.bestellformular .e-mail-pjlpWF {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
   height: 18px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 16px;
   opacity: 0;
   position: absolute;
-  right: calc(39.11% - 58px);
   text-align: left;
-  top: calc(23.64% - 4px);
-  white-space: nowrap;
-  width: 148px;
-}
-
-.bestellformular .text-xywSQy.bp4-animate-enter80 {
-  animation: bp4-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter80-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular .private-key-xywSQy {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 19px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  opacity: 0;
-  position: absolute;
-  right: calc(41.07% - 37px);
-  text-align: left;
-  top: calc(29.67% - 6px);
-  white-space: nowrap;
-  width: 89px;
-}
-
-.bestellformular .private-key-xywSQy.bp4-animate-enter81 {
-  animation: bp4-animate-enter81-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter81-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular .sicherheitsschlssel-xywSQy {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 18px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  opacity: 0;
-  position: absolute;
-  right: calc(38.97% - 59px);
-  text-align: left;
-  top: calc(35.60% - 6px);
-  white-space: nowrap;
-  width: 152px;
-}
-
-.bestellformular .sicherheitsschlssel-xywSQy.bp4-animate-enter82 {
-  animation: bp4-animate-enter82-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter82-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular .name-vorname-xywSQy {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 18px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  opacity: 0;
-  position: absolute;
-  right: calc(39.89% - 50px);
-  text-align: left;
-  top: calc(41.64% - 7px);
-  white-space: nowrap;
-  width: 125px;
-}
-
-.bestellformular .name-vorname-xywSQy.bp4-animate-enter83 {
-  animation: bp4-animate-enter83-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter83-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular .plz-ort-xywSQy {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(46.40% - 8px);
-  display: block;
-  height: 18px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  opacity: 0;
-  position: absolute;
-  right: calc(41.77% - 28px);
-  text-align: left;
-  white-space: nowrap;
-  width: 67px;
-}
-
-.bestellformular .plz-ort-xywSQy.bp4-animate-enter84 {
-  animation: bp4-animate-enter84-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter84-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular .strae-hausnummer-xywSQy {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 18px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  opacity: 0;
-  position: absolute;
-  right: calc(38.66% - 62px);
-  text-align: left;
-  top: calc(47.62% - 9px);
-  white-space: nowrap;
-  width: 161px;
-}
-
-.bestellformular .strae-hausnummer-xywSQy.bp4-animate-enter85 {
-  animation: bp4-animate-enter85-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp4-animate-enter85-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular .e-mail-xywSQy {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(40.42% - 7px);
-  display: block;
-  height: 18px;
-  letter-spacing: 0.00px;
-  line-height: 16px;
-  opacity: 0;
-  position: absolute;
-  right: calc(42.30% - 21px);
-  text-align: left;
+  top: 0px;
   white-space: nowrap;
   width: 50px;
 }
 
-.bestellformular .e-mail-xywSQy.bp4-animate-enter86 {
-  animation: bp4-animate-enter86-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .e-mail-pjlpWF.bp4-animate-enter51 {
+  animation: bp4-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter86-frames {
+@keyframes bp4-animate-enter51-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular .hedera-account-id-input-xywSQy {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 51px;
-  opacity: 0.6;
+.bestellformular .gruppe-642-xywSQy {
+  background-color: transparent;
+  height: 72px;
   position: absolute;
   right: calc(28.21% - 118px);
-  top: calc(25.64% - 13px);
+  top: calc(25.95% - 19px);
   width: 417px;
 }
 
-.bestellformular .private-key-input-xywSQy {
+.bestellformular .text-noDCXC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.bestellformular .text-noDCXC.bp4-animate-enter52 {
+  animation: bp4-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular .hedera-account-id-eingabe-noDCXC {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 51px;
+  height: calc(100.00% - 21px);
+  left: 0px;
   opacity: 0.6;
   position: absolute;
+  top: 21px;
+  width: 100%;
+}
+
+.bestellformular .gruppe-643-xywSQy {
+  background-color: transparent;
+  height: 72px;
+  position: absolute;
   right: calc(28.21% - 118px);
-  top: calc(31.76% - 16px);
+  top: calc(33.78% - 24px);
   width: 417px;
 }
 
-.bestellformular .sicherheitsschlssel-input-xywSQy {
+.bestellformular .name-RHqo2c {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.bestellformular .name-RHqo2c.bp4-animate-enter53 {
+  animation: bp4-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter53-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular .namederpersoneingabe-RHqo2c {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 52px;
+  height: calc(100.00% - 21px);
+  left: 0px;
   opacity: 0.6;
   position: absolute;
+  top: 21px;
+  width: 100%;
+}
+
+.bestellformular .gruppe-644-xywSQy {
+  background-color: transparent;
+  height: 73px;
+  position: absolute;
   right: calc(28.21% - 118px);
-  top: calc(37.90% - 20px);
+  top: calc(41.64% - 30px);
   width: 417px;
 }
 
-.bestellformular .name-input-xywSQy {
+.bestellformular .strae-hausnummer-bJLPhS {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 161px;
+}
+
+.bestellformular .strae-hausnummer-bJLPhS.bp4-animate-enter54 {
+  animation: bp4-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter54-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular .strasse1eingabe-bJLPhS {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 51px;
+  height: calc(100.00% - 21px);
+  left: 0px;
   opacity: 0.6;
   position: absolute;
+  top: 21px;
+  width: 100%;
+}
+
+.bestellformular .gruppe-645-xywSQy {
+  background-color: transparent;
+  height: 72px;
+  position: absolute;
   right: calc(28.21% - 118px);
-  top: calc(44.06% - 22px);
+  top: calc(49.51% - 36px);
   width: 417px;
 }
 
-.bestellformular .strasse-input-xywSQy {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(49.83% - 25px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 51px;
-  opacity: 0.6;
+.bestellformular .plz-ort-18vyTB {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
   position: absolute;
-  right: calc(28.21% - 118px);
-  width: 417px;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 67px;
 }
 
-.bestellformular .plz-input-xywSQy {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(43.71% - 22px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 51px;
-  opacity: 0.6;
-  position: absolute;
-  right: calc(28.21% - 118px);
-  width: 417px;
+.bestellformular .plz-ort-18vyTB.bp4-animate-enter55 {
+  animation: bp4-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
 }
 
-.bestellformular .email-input-xywSQy {
+@keyframes bp4-animate-enter55-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular .plz1eingabe1-18vyTB {
   background-color: var(--cream-can);
   border-radius: 15px;
-  bottom: calc(37.60% - 19px);
   box-shadow: 0px 3px 6px #00000029;
-  height: 51px;
+  height: calc(100.00% - 21px);
+  left: 0px;
   opacity: 0.6;
   position: absolute;
-  right: calc(28.21% - 118px);
-  width: 417px;
+  top: 21px;
+  width: 100%;
 }
 
 .bestellformular .registrieren1-xywSQy {
   background-color: transparent;
-  bottom: calc(30.30% - 18px);
+  bottom: calc(35.41% - 22px);
   height: 61px;
   position: absolute;
   right: calc(28.21% - 118px);
@@ -636,58 +589,67 @@ to{opacity: 1;
   width: calc(100.00% - 60px);
 }
 
-.bestellformular .sicher-einkaufen-xywSQy {
+.bestellformular .gruppe-647-xywSQy {
+  background-color: transparent;
+  height: 75px;
+  position: absolute;
+  right: calc(23.20% - 119px);
+  top: calc(17.39% - 13px);
+  width: 515px;
+}
+
+.bestellformular .sicher-einkaufen-Qq2rI1 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
   height: 24px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 22px;
   opacity: 0;
   position: absolute;
-  right: calc(37.38% - 74px);
   text-align: left;
-  top: 226px;
+  top: 0px;
   white-space: nowrap;
   width: 197px;
 }
 
-.bestellformular .sicher-einkaufen-xywSQy.bp4-animate-enter87 {
-  animation: bp4-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .sicher-einkaufen-Qq2rI1.bp4-animate-enter56 {
+  animation: bp4-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter87-frames {
+@keyframes bp4-animate-enter56-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular .ein-netzwerk-mit-bew-xywSQy {
+.bestellformular .ein-netzwerk-mit-bew-Qq2rI1 {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
+  bottom: 2px;
   display: block;
   height: 39px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 22px;
   opacity: 0;
   position: absolute;
-  right: calc(23.09% - 119px);
   text-align: left;
-  top: calc(17.95% - 7px);
   white-space: nowrap;
-  width: 517px;
+  width: calc(100.00% + 2px);
 }
 
-.bestellformular .ein-netzwerk-mit-bew-xywSQy.bp4-animate-enter88 {
-  animation: bp4-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .ein-netzwerk-mit-bew-Qq2rI1.bp4-animate-enter57 {
+  animation: bp4-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter88-frames {
+@keyframes bp4-animate-enter57-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -712,20 +674,20 @@ to{opacity: 1;
   width: 50px;
 }
 
-.bestellformular .zurck-xywSQy.bp4-animate-enter89 {
-  animation: bp4-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .zurck-xywSQy.bp4-animate-enter58 {
+  animation: bp4-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter89-frames {
+@keyframes bp4-animate-enter58-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular .login2-xywSQy {
+.bestellformular .login-xywSQy {
   background-color: transparent;
   bottom: calc(28.41% - 6px);
   height: 22px;
@@ -763,13 +725,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.bestellformular .gruppe-163-xywSQy.bp4-animate-enter90 {
-  animation: bp4-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .gruppe-163-xywSQy.bp4-animate-enter59 {
+  animation: bp4-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter90-frames {
+@keyframes bp4-animate-enter59-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -841,7 +803,7 @@ to{opacity: 1;
 
 .bestellformular .gruppe-367-HONz8v {
   background-color: transparent;
-  height: 196px;
+  height: 155px;
   left: calc(40.73% - 134px);
   position: absolute;
   top: 37px;
@@ -862,7 +824,7 @@ to{opacity: 1;
 
 .bestellformular .gruppe-365-dygxez {
   background-color: transparent;
-  bottom: calc(45.44% - 7px);
+  bottom: calc(29.29% - 4px);
   height: 15px;
   left: 0px;
   position: absolute;
@@ -905,7 +867,7 @@ to{opacity: 1;
 
 .bestellformular .gruppe-366-dygxez {
   background-color: transparent;
-  bottom: calc(23.49% - 5px);
+  bottom: 0px;
   height: 20px;
   left: 5px;
   position: absolute;
@@ -943,48 +905,6 @@ to{opacity: 1;
   position: absolute;
   top: 1px;
   width: 20px;
-}
-
-.bestellformular .gruppe-622-dygxez {
-  background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 6px;
-  position: absolute;
-  width: 61px;
-}
-
-.bestellformular .gruppe-141-RwOetK {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.bestellformular .nf-tlink-rj4vWg {
-  background-color: transparent;
-  bottom: calc(131.68% - 22px);
-  cursor: pointer;
-  height: 17px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  right: -2px;
-  text-align: left;
-  white-space: nowrap;
-  width: 34px;
-}
-
-.bestellformular .x498951_child_clothes-rj4vWg {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 18px;
 }
 
 .bestellformular .gruppe-372-HONz8v {
@@ -1063,13 +983,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.bestellformular .ssl-xywSQy.bp4-animate-enter91 {
-  animation: bp4-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular .ssl-xywSQy.bp4-animate-enter60 {
+  animation: bp4-animate-enter60-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp4-animate-enter91-frames {
+@keyframes bp4-animate-enter60-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1221,7 +1141,6 @@ to{opacity: 1;
 
 .bestellformular .gruppe-156-xivQOd {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 29px;
   position: absolute;
@@ -1308,6 +1227,57 @@ to{opacity: 1;
   text-align: left;
   white-space: nowrap;
   width: 76px;
+}
+
+.bestellformular .gruppe-622-xywSQy {
+  background-color: transparent;
+  bottom: 99px;
+  height: 22px;
+  left: calc(35.18% - 21px);
+  position: absolute;
+  width: 61px;
+}
+
+.bestellformular .gruppe-141-DZUyhV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular .nf-tlink-L2AHZ4 {
+  background-color: transparent;
+  bottom: calc(131.68% - 22px);
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.bestellformular .x498951_child_clothes-L2AHZ4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.bestellformular .vorderseiteklein-xywSQy {
+  background-color: var(--white);
+  height: calc(100.00% - 1071px);
+  left: 292px;
+  position: absolute;
+  top: 432px;
+  width: 530px;
 }
 /* screen - bestellformular-1200 */
 
@@ -1522,21 +1492,21 @@ to{opacity: 1;
   background-color: var(--gallery);
   box-shadow: 0px 2px 4px #00000029;
   display: block;
-  height: 782px;
+  height: 630px;
   opacity: 0;
   position: absolute;
   right: calc(11.57% - 63px);
-  top: calc(34.33% - 268px);
+  top: calc(35.66% - 225px);
   width: 543px;
 }
 
-.bestellformular-1200 .rechteck-136-yUV2KQ.bp3-animate-enter79 {
-  animation: bp3-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .rechteck-136-yUV2KQ.bp3-animate-enter49 {
+  animation: bp3-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter79-frames {
+@keyframes bp3-animate-enter49-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1551,17 +1521,17 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   right: calc(11.57% - 63px);
-  top: calc(15.06% - 13px);
+  top: calc(20.01% - 17px);
   width: 543px;
 }
 
-.bestellformular-1200 .rechteck-172-yUV2KQ.bp3-animate-enter80 {
-  animation: bp3-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .rechteck-172-yUV2KQ.bp3-animate-enter50 {
+  animation: bp3-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter80-frames {
+@keyframes bp3-animate-enter50-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1571,17 +1541,16 @@ to{opacity: 1;
 .bestellformular-1200 .gruppe-596-yUV2KQ {
   background-color: transparent;
   height: 405px;
-  left: calc(9.70% - 40px);
+  left: calc(9.69% - 40px);
   position: absolute;
-  top: calc(35.63% - 144px);
+  top: calc(35.61% - 144px);
   width: 416px;
 }
 
-.bestellformular-1200 .vorderseitebild-434zpz {
-  background-color: transparent;
+.bestellformular-1200 .vorderseiteklein-434zpz {
+  background-color: var(--white);
   height: calc(100.00% - 80px);
   left: 0px;
-  object-fit: cover;
   position: absolute;
   top: 80px;
   width: 416px;
@@ -1596,20 +1565,20 @@ to{opacity: 1;
   line-height: 27px;
   opacity: 0;
   position: absolute;
-  right: calc(49.57% - 90px);
+  right: calc(49.56% - 90px);
   text-align: left;
   top: 0px;
   white-space: nowrap;
   width: 182px;
 }
 
-.bestellformular-1200 .kleidchenbezeichnung-434zpz.bp3-animate-enter81 {
-  animation: bp3-animate-enter81-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .kleidchenbezeichnung-434zpz.bp3-animate-enter51 {
+  animation: bp3-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter81-frames {
+@keyframes bp3-animate-enter51-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1618,20 +1587,32 @@ to{opacity: 1;
 
 .bestellformular-1200 .gruppe-591-yUV2KQ {
   background-color: transparent;
-  height: 755px;
+  height: 581px;
   position: absolute;
   right: calc(15.29% - 62px);
-  top: calc(34.59% - 261px);
+  top: calc(34.77% - 202px);
   width: 404px;
 }
 
 .bestellformular-1200 .gruppe-590-i50SVS {
   background-color: transparent;
   bottom: 0px;
-  height: 657px;
+  height: 483px;
   left: 0px;
   position: absolute;
   width: 327px;
+}
+
+.bestellformular-1200 .email12eingabe-ApFMpm {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(17.38% - 7px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 0px;
+  opacity: 0.6;
+  position: absolute;
+  width: 100%;
 }
 
 .bestellformular-1200 .text-ApFMpm {
@@ -1650,49 +1631,20 @@ to{opacity: 1;
   width: 112px;
 }
 
-.bestellformular-1200 .text-ApFMpm.bp3-animate-enter82 {
-  animation: bp3-animate-enter82-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .text-ApFMpm.bp3-animate-enter52 {
+  animation: bp3-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter82-frames {
+@keyframes bp3-animate-enter52-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular-1200 .private-key-ApFMpm {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 15px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 12px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: 88px;
-  white-space: nowrap;
-  width: 67px;
-}
-
-.bestellformular-1200 .private-key-ApFMpm.bp3-animate-enter83 {
-  animation: bp3-animate-enter83-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter83-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-1200 .sicherheitsschlssel-ApFMpm {
+.bestellformular-1200 .name-ApFMpm {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1703,25 +1655,25 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: calc(27.06% - 4px);
+  top: calc(18.55% - 3px);
   white-space: nowrap;
-  width: 115px;
+  width: 35px;
 }
 
-.bestellformular-1200 .sicherheitsschlssel-ApFMpm.bp3-animate-enter84 {
-  animation: bp3-animate-enter84-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .name-ApFMpm.bp3-animate-enter53 {
+  animation: bp3-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter84-frames {
+@keyframes bp3-animate-enter53-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular-1200 .name-vorname-ApFMpm {
+.bestellformular-1200 .strae-hausnummer-ApFMpm {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
   display: block;
@@ -1732,18 +1684,18 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: calc(40.75% - 6px);
+  top: calc(37.10% - 5px);
   white-space: nowrap;
-  width: 94px;
+  width: 122px;
 }
 
-.bestellformular-1200 .name-vorname-ApFMpm.bp3-animate-enter85 {
-  animation: bp3-animate-enter85-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .strae-hausnummer-ApFMpm.bp3-animate-enter54 {
+  animation: bp3-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter85-frames {
+@keyframes bp3-animate-enter54-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1753,7 +1705,7 @@ to{opacity: 1;
 .bestellformular-1200 .plz-ort-ApFMpm {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: calc(32.19% - 5px);
+  bottom: calc(44.14% - 6px);
   display: block;
   height: 14px;
   left: 0px;
@@ -1766,13 +1718,13 @@ to{opacity: 1;
   width: 51px;
 }
 
-.bestellformular-1200 .plz-ort-ApFMpm.bp3-animate-enter86 {
-  animation: bp3-animate-enter86-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .plz-ort-ApFMpm.bp3-animate-enter55 {
+  animation: bp3-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter86-frames {
+@keyframes bp3-animate-enter55-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -1782,7 +1734,7 @@ to{opacity: 1;
 .bestellformular-1200 .e-mail-ApFMpm {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: calc(18.66% - 3px);
+  bottom: calc(25.59% - 4px);
   display: block;
   height: 14px;
   left: 0px;
@@ -1795,49 +1747,20 @@ to{opacity: 1;
   width: 38px;
 }
 
-.bestellformular-1200 .e-mail-ApFMpm.bp3-animate-enter87 {
-  animation: bp3-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .e-mail-ApFMpm.bp3-animate-enter56 {
+  animation: bp3-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter87-frames {
+@keyframes bp3-animate-enter56-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular-1200 .strae-hausnummer-ApFMpm {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(45.72% - 6px);
-  display: block;
-  height: 14px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 12px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 122px;
-}
-
-.bestellformular-1200 .strae-hausnummer-ApFMpm.bp3-animate-enter88 {
-  animation: bp3-animate-enter88-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp3-animate-enter88-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-1200 .hedera-account-id-input-ApFMpm {
+.bestellformular-1200 .hedera-account-i-deingabe-ApFMpm {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1849,7 +1772,7 @@ to{opacity: 1;
   width: 100%;
 }
 
-.bestellformular-1200 .private-key-input-ApFMpm {
+.bestellformular-1200 .namederpersoneingabe-ApFMpm {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1857,11 +1780,11 @@ to{opacity: 1;
   left: 0px;
   opacity: 0.6;
   position: absolute;
-  top: calc(16.86% - 7px);
+  top: calc(23.48% - 9px);
   width: 100%;
 }
 
-.bestellformular-1200 .sicherheitsschlssel-input-ApFMpm {
+.bestellformular-1200 .strasse1eingabe-ApFMpm {
   background-color: var(--cream-can);
   border-radius: 15px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1869,50 +1792,14 @@ to{opacity: 1;
   left: 0px;
   opacity: 0.6;
   position: absolute;
-  top: calc(31.01% - 13px);
+  top: calc(43.21% - 18px);
   width: 100%;
 }
 
-.bestellformular-1200 .name-input-ApFMpm {
+.bestellformular-1200 .plz1eingabe-ApFMpm {
   background-color: var(--cream-can);
   border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 40px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: calc(45.22% - 18px);
-  width: 100%;
-}
-
-.bestellformular-1200 .strasse-input-ApFMpm {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(40.68% - 16px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 40px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-1200 .plz-input-ApFMpm {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(26.58% - 11px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 40px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-1200 .email-input-ApFMpm {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: 77px;
+  bottom: calc(37.02% - 15px);
   box-shadow: 0px 3px 6px #00000029;
   height: 40px;
   left: 0px;
@@ -1988,13 +1875,13 @@ to{opacity: 1;
   width: calc(100.00% + 2px);
 }
 
-.bestellformular-1200 .ein-netzwerk-mit-bew-XkhxB4.bp3-animate-enter89 {
-  animation: bp3-animate-enter89-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .ein-netzwerk-mit-bew-XkhxB4.bp3-animate-enter57 {
+  animation: bp3-animate-enter57-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter89-frames {
+@keyframes bp3-animate-enter57-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2017,13 +1904,13 @@ to{opacity: 1;
   width: 197px;
 }
 
-.bestellformular-1200 .sicher-einkaufen-XkhxB4.bp3-animate-enter90 {
-  animation: bp3-animate-enter90-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .sicher-einkaufen-XkhxB4.bp3-animate-enter58 {
+  animation: bp3-animate-enter58-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter90-frames {
+@keyframes bp3-animate-enter58-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2039,7 +1926,7 @@ to{opacity: 1;
   width: 191px;
 }
 
-.bestellformular-1200 .login2-AvxGRo {
+.bestellformular-1200 .login-AvxGRo {
   background-color: transparent;
   height: 22px;
   left: 141px;
@@ -2084,13 +1971,13 @@ to{opacity: 1;
   width: 50px;
 }
 
-.bestellformular-1200 .zurck-yUV2KQ.bp3-animate-enter91 {
-  animation: bp3-animate-enter91-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-1200 .zurck-yUV2KQ.bp3-animate-enter59 {
+  animation: bp3-animate-enter59-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter91-frames {
+@keyframes bp3-animate-enter59-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2117,13 +2004,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.bestellformular-1200 .gruppe-163-uNwvdk.bp3-animate-enter92 {
-  animation: bp3-animate-enter92-frames 0.20s linear 0.10s 1 normal forwards;
+.bestellformular-1200 .gruppe-163-uNwvdk.bp3-animate-enter60 {
+  animation: bp3-animate-enter60-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter92-frames {
+@keyframes bp3-animate-enter60-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2290,17 +2177,16 @@ to{opacity: 1;
   width: 20px;
 }
 
-.bestellformular-1200 .gruppe-692-ysxyMt {
+.bestellformular-1200 .gruppe-623-ysxyMt {
   background-color: transparent;
-  cursor: pointer;
-  height: 14px;
-  left: calc(19.68% - 6px);
+  height: 22px;
+  left: calc(3.23% - 2px);
   position: absolute;
-  top: 181px;
-  width: 30px;
+  top: 178px;
+  width: 60px;
 }
 
-.bestellformular-1200 .gruppe-141-jkj1bx {
+.bestellformular-1200 .gruppe-141-pApIxt {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -2309,27 +2195,46 @@ to{opacity: 1;
   width: 100%;
 }
 
-.bestellformular-1200 .nft-uwxVMN {
+.bestellformular-1200 .nft-98eCZF {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 0px;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.bestellformular-1200 .x498951_child_clothes-ysxyMt {
+.bestellformular-1200 .gruppe-622-98eCZF {
   background-color: transparent;
-  bottom: 0px;
-  height: 22px;
-  left: 7px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.bestellformular-1200 .gruppe-141-if3EVU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular-1200 .x498951_child_clothes-gC7zqm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 18px;
+  top: 1px;
+  width: 100%;
 }
 
 .bestellformular-1200 .gruppe-345-d4tCuH {
@@ -2493,7 +2398,6 @@ to{opacity: 1;
 
 .bestellformular-1200 .gruppe-156-D0w8BY {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 30px;
   position: absolute;
@@ -2643,13 +2547,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.bestellformular-1200 .ssl-uNwvdk.bp3-animate-enter93 {
-  animation: bp3-animate-enter93-frames 0.20s linear 0.10s 1 normal forwards;
+.bestellformular-1200 .ssl-uNwvdk.bp3-animate-enter61 {
+  animation: bp3-animate-enter61-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp3-animate-enter93-frames {
+@keyframes bp3-animate-enter61-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2880,35 +2784,25 @@ to{opacity: 1;
   width: 240px;
 }
 
-.bestellformular-375 .vorderseitebild-e9GmoU {
-  background-color: transparent;
-  height: 561px;
-  left: calc(50.00% - 358px);
-  object-fit: cover;
-  position: absolute;
-  top: calc(36.81% - 207px);
-  width: 717px;
-}
-
 .bestellformular-375 .rechteck-136-e9GmoU {
   background-color: var(--gallery);
   box-shadow: 0px 2px 4px #00000029;
   display: block;
-  height: 662px;
+  height: 588px;
   left: calc(50.00% - 188px);
   opacity: 0;
   position: absolute;
-  top: calc(38.39% - 254px);
+  top: calc(40.23% - 236px);
   width: 375px;
 }
 
-.bestellformular-375 .rechteck-136-e9GmoU.bp1-animate-enter69 {
-  animation: bp1-animate-enter69-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-375 .rechteck-136-e9GmoU.bp1-animate-enter41 {
+  animation: bp1-animate-enter41-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter69-frames {
+@keyframes bp1-animate-enter41-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2923,17 +2817,17 @@ to{opacity: 1;
   left: calc(50.00% - 188px);
   opacity: 0;
   position: absolute;
-  top: calc(20.46% - 16px);
+  top: calc(23.82% - 19px);
   width: 375px;
 }
 
-.bestellformular-375 .rechteck-172-e9GmoU.bp1-animate-enter70 {
-  animation: bp1-animate-enter70-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-375 .rechteck-172-e9GmoU.bp1-animate-enter42 {
+  animation: bp1-animate-enter42-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter70-frames {
+@keyframes bp1-animate-enter42-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -2949,7 +2843,7 @@ to{opacity: 1;
   width: 127px;
 }
 
-.bestellformular-375 .login2-TsAe7w {
+.bestellformular-375 .login-TsAe7w {
   background-color: transparent;
   bottom: 2px;
   color: var(--black);
@@ -2983,17 +2877,264 @@ to{opacity: 1;
 
 .bestellformular-375 .gruppe-595-e9GmoU {
   background-color: transparent;
-  height: 56px;
+  height: 557px;
   left: calc(50.00% - 166px);
   position: absolute;
-  top: calc(21.17% - 12px);
+  top: calc(40.44% - 225px);
   width: 331px;
+}
+
+.bestellformular-375 .email12eingabe-zdQvxD {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: 72px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 37px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: calc(100.00% - 26px);
+}
+
+.bestellformular-375 .text-zdQvxD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(19.56% - 3px);
+  white-space: nowrap;
+  width: 102px;
+}
+
+.bestellformular-375 .text-zdQvxD.bp1-animate-enter43 {
+  animation: bp1-animate-enter43-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter43-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-375 .name-zdQvxD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(34.42% - 4px);
+  white-space: nowrap;
+  width: 30px;
+}
+
+.bestellformular-375 .name-zdQvxD.bp1-animate-enter44 {
+  animation: bp1-animate-enter44-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter44-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-375 .strae-hausnummer-zdQvxD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(49.40% - 6px);
+  white-space: nowrap;
+  width: 112px;
+}
+
+.bestellformular-375 .strae-hausnummer-zdQvxD.bp1-animate-enter45 {
+  animation: bp1-animate-enter45-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter45-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-375 .plz-ort-zdQvxD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(35.51% - 5px);
+  display: block;
+  height: 13px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.bestellformular-375 .plz-ort-zdQvxD.bp1-animate-enter46 {
+  animation: bp1-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter46-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-375 .e-mail-zdQvxD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(20.59% - 3px);
+  display: block;
+  height: 13px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.bestellformular-375 .e-mail-zdQvxD.bp1-animate-enter47 {
+  animation: bp1-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter47-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-375 .hedera-account-i-deingabe-zdQvxD {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 37px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(23.53% - 9px);
+  width: calc(100.00% - 26px);
+}
+
+.bestellformular-375 .namederpersoneingabe-zdQvxD {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 37px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(39.15% - 15px);
+  width: calc(100.00% - 26px);
+}
+
+.bestellformular-375 .strasse1eingabe-zdQvxD {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(45.14% - 17px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 38px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: calc(100.00% - 26px);
+}
+
+.bestellformular-375 .plz1eingabe-zdQvxD {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(29.44% - 11px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 37px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: calc(100.00% - 26px);
+}
+
+.bestellformular-375 .registrieren1-zdQvxD {
+  background-color: transparent;
+  bottom: 0px;
+  height: 44px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 26px);
+}
+
+.bestellformular-375 .gruppe-204-kw1rw2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular-375 .rechteck-114-Erq8Ew {
+  background-color: var(--sandy-brown);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular-375 .registrieren-Erq8Ew {
+  background-color: transparent;
+  bottom: calc(47.81% - 10px);
+  height: 21px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 28px);
 }
 
 .bestellformular-375 .ein-netzwerk-mit-bew-zdQvxD {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: 1px;
   display: block;
   height: 27px;
   left: 1px;
@@ -3002,17 +3143,18 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
+  top: 28px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
 
-.bestellformular-375 .ein-netzwerk-mit-bew-zdQvxD.bp1-animate-enter71 {
-  animation: bp1-animate-enter71-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-375 .ein-netzwerk-mit-bew-zdQvxD.bp1-animate-enter48 {
+  animation: bp1-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter71-frames {
+@keyframes bp1-animate-enter48-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3035,13 +3177,13 @@ to{opacity: 1;
   width: 179px;
 }
 
-.bestellformular-375 .sicher-einkaufen-zdQvxD.bp1-animate-enter72 {
-  animation: bp1-animate-enter72-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-375 .sicher-einkaufen-zdQvxD.bp1-animate-enter49 {
+  animation: bp1-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter72-frames {
+@keyframes bp1-animate-enter49-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3059,360 +3201,22 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 197px;
+  top: 221px;
   white-space: nowrap;
   width: 173px;
 }
 
-.bestellformular-375 .kleidchenbezeichnung-e9GmoU.bp1-animate-enter73 {
-  animation: bp1-animate-enter73-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-375 .kleidchenbezeichnung-e9GmoU.bp1-animate-enter50 {
+  animation: bp1-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter73-frames {
+@keyframes bp1-animate-enter50-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
-}
-
-.bestellformular-375 .gruppe-635-e9GmoU {
-  background-color: transparent;
-  height: 537px;
-  left: calc(50.00% - 164px);
-  position: absolute;
-  top: calc(45.82% - 246px);
-  width: 327px;
-}
-
-.bestellformular-375 .text-wxYj2O {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: 102px;
-}
-
-.bestellformular-375 .text-wxYj2O.bp1-animate-enter74 {
-  animation: bp1-animate-enter74-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter74-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-375 .private-key-wxYj2O {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 14px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: 68px;
-  white-space: nowrap;
-  width: 62px;
-}
-
-.bestellformular-375 .private-key-wxYj2O.bp1-animate-enter75 {
-  animation: bp1-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter75-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-375 .sicherheitsschlssel-wxYj2O {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(26.65% - 3px);
-  white-space: nowrap;
-  width: 105px;
-}
-
-.bestellformular-375 .sicherheitsschlssel-wxYj2O.bp1-animate-enter76 {
-  animation: bp1-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter76-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-375 .name-vorname-wxYj2O {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(40.34% - 5px);
-  white-space: nowrap;
-  width: 86px;
-}
-
-.bestellformular-375 .name-vorname-wxYj2O.bp1-animate-enter77 {
-  animation: bp1-animate-enter77-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter77-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-375 .strae-hausnummer-wxYj2O {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(46.15% - 6px);
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 112px;
-}
-
-.bestellformular-375 .strae-hausnummer-wxYj2O.bp1-animate-enter78 {
-  animation: bp1-animate-enter78-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter78-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-375 .plz-ort-wxYj2O {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(32.62% - 4px);
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 47px;
-}
-
-.bestellformular-375 .plz-ort-wxYj2O.bp1-animate-enter79 {
-  animation: bp1-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter79-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-375 .e-mail-wxYj2O {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(20.73% - 3px);
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 35px;
-}
-
-.bestellformular-375 .e-mail-wxYj2O.bp1-animate-enter80 {
-  animation: bp1-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp1-animate-enter80-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-375 .hedera-account-id-input-wxYj2O {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: 13px;
-  width: 100%;
-}
-
-.bestellformular-375 .private-key-input-wxYj2O {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: calc(16.36% - 6px);
-  width: 100%;
-}
-
-.bestellformular-375 .sicherheitsschlssel-input-wxYj2O {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 38px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: calc(30.59% - 12px);
-  width: 100%;
-}
-
-.bestellformular-375 .name-input-wxYj2O {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: calc(44.89% - 17px);
-  width: 100%;
-}
-
-.bestellformular-375 .strasse-input-wxYj2O {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(40.93% - 15px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-375 .plz-input-wxYj2O {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(26.74% - 10px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-375 .email-input-wxYj2O {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: 72px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-375 .registrieren1-wxYj2O {
-  background-color: transparent;
-  bottom: 1px;
-  height: 44px;
-  left: 1px;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-375 .gruppe-204-nFXEpJ {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.bestellformular-375 .rechteck-114-9tp89j {
-  background-color: var(--sandy-brown);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 100%;
-  left: 0px;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.bestellformular-375 .registrieren-9tp89j {
-  background-color: transparent;
-  bottom: -1px;
-  height: 31px;
-  left: 24px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  width: calc(100.00% - 47px);
 }
 
 .bestellformular-375 .gruppe-327-e9GmoU {
@@ -3512,7 +3316,7 @@ to{opacity: 1;
 
 .bestellformular-375 .gruppe-357-Jhjl3s {
   background-color: transparent;
-  bottom: calc(46.52% - 5px);
+  bottom: calc(46.57% - 5px);
   height: 10px;
   left: 0px;
   position: absolute;
@@ -3554,7 +3358,7 @@ to{opacity: 1;
 
 .bestellformular-375 .gruppe-358-Jhjl3s {
   background-color: transparent;
-  bottom: calc(24.72% - 4px);
+  bottom: calc(24.79% - 4px);
   height: 16px;
   left: 3px;
   position: absolute;
@@ -3564,7 +3368,6 @@ to{opacity: 1;
 .bestellformular-375 .gruppe-141-5xxYzl {
   background-color: transparent;
   bottom: 0px;
-  cursor: pointer;
   height: 11px;
   position: absolute;
   right: 0px;
@@ -3573,6 +3376,7 @@ to{opacity: 1;
 
 .bestellformular-375 .zahlungsoptionen-Y2GjWe {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
@@ -3594,46 +3398,64 @@ to{opacity: 1;
   width: 15px;
 }
 
-.bestellformular-375 .gruppe-694-Jhjl3s {
+.bestellformular-375 .gruppe-623-Jhjl3s {
   background-color: transparent;
-  bottom: 0px;
-  height: 14px;
-  left: 4px;
+  height: 15px;
+  left: calc(4.70% - 2px);
   position: absolute;
-  width: 40px;
+  top: 139px;
+  width: 41px;
 }
 
-.bestellformular-375 .gruppe-141-usA4ao {
+.bestellformular-375 .gruppe-141-UpfuH0 {
   background-color: transparent;
-  cursor: pointer;
-  height: 10px;
-  position: absolute;
-  right: 0px;
-  top: calc(49.99% - 5px);
-  width: 21px;
-}
-
-.bestellformular-375 .nft-yXxUfL {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular-375 .nft-q09uLU {
+  background-color: transparent;
+  bottom: calc(238.48% - 29px);
+  cursor: pointer;
+  height: 12px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -8px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 23px;
 }
 
-.bestellformular-375 .x498951_child_clothes-usA4ao {
+.bestellformular-375 .gruppe-622-q09uLU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.bestellformular-375 .gruppe-141-2EORp6 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.bestellformular-375 .x498951_child_clothes-bIfpOE {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 12px;
+  width: 100%;
 }
 
 .bestellformular-375 .gruppe-363-cUWH0Y {
@@ -3799,7 +3621,6 @@ to{opacity: 1;
 
 .bestellformular-375 .gruppe-156-usMzx3 {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 16px;
   position: absolute;
@@ -3929,13 +3750,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.bestellformular-375 .ssl-cUWH0Y.bp1-animate-enter81 {
-  animation: bp1-animate-enter81-frames 0.20s linear 0.10s 1 normal forwards;
+.bestellformular-375 .ssl-cUWH0Y.bp1-animate-enter51 {
+  animation: bp1-animate-enter51-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter81-frames {
+@keyframes bp1-animate-enter51-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -3953,16 +3774,6 @@ to{opacity: 1;
   overflow-x: hidden;
   position: relative;
   width: 100%;
-}
-
-.bestellformular-767 .vorderseitebild-W27t8Y {
-  background-color: transparent;
-  height: 573px;
-  left: calc(50.00% - 366px);
-  object-fit: cover;
-  position: absolute;
-  top: calc(41.45% - 238px);
-  width: 732px;
 }
 
 .bestellformular-767 .rechteck-118-W27t8Y {
@@ -4164,21 +3975,21 @@ to{opacity: 1;
   background-color: var(--gallery);
   box-shadow: 0px 2px 4px #00000029;
   display: block;
-  height: 647px;
+  height: 630px;
   left: calc(50.00% - 271px);
   opacity: 0;
   position: absolute;
-  top: calc(37.59% - 243px);
+  top: calc(36.67% - 231px);
   width: 543px;
 }
 
-.bestellformular-767 .rechteck-136-W27t8Y.bp2-animate-enter75 {
-  animation: bp2-animate-enter75-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-767 .rechteck-136-W27t8Y.bp2-animate-enter46 {
+  animation: bp2-animate-enter46-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter75-frames {
+@keyframes bp2-animate-enter46-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4197,13 +4008,13 @@ to{opacity: 1;
   width: 543px;
 }
 
-.bestellformular-767 .rechteck-172-W27t8Y.bp2-animate-enter76 {
-  animation: bp2-animate-enter76-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-767 .rechteck-172-W27t8Y.bp2-animate-enter47 {
+  animation: bp2-animate-enter47-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter76-frames {
+@keyframes bp2-animate-enter47-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4212,17 +4023,264 @@ to{opacity: 1;
 
 .bestellformular-767 .gruppe-593-W27t8Y {
   background-color: transparent;
-  height: 60px;
+  height: 581px;
   left: calc(50.00% - 202px);
   position: absolute;
-  top: calc(21.01% - 13px);
+  top: calc(35.70% - 207px);
   width: 404px;
+}
+
+.bestellformular-767 .email12eingabe-hpHi8q {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: 77px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: 327px;
+}
+
+.bestellformular-767 .text-hpHi8q {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.bestellformular-767 .text-hpHi8q.bp2-animate-enter48 {
+  animation: bp2-animate-enter48-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter48-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-767 .name-hpHi8q {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(32.63% - 5px);
+  white-space: nowrap;
+  width: 35px;
+}
+
+.bestellformular-767 .name-hpHi8q.bp2-animate-enter49 {
+  animation: bp2-animate-enter49-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter49-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-767 .strae-hausnummer-hpHi8q {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(47.97% - 7px);
+  white-space: nowrap;
+  width: 122px;
+}
+
+.bestellformular-767 .strae-hausnummer-hpHi8q.bp2-animate-enter50 {
+  animation: bp2-animate-enter50-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter50-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-767 .plz-ort-hpHi8q {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(36.51% - 5px);
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.bestellformular-767 .plz-ort-hpHi8q.bp2-animate-enter51 {
+  animation: bp2-animate-enter51-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter51-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-767 .e-mail-hpHi8q {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(21.16% - 3px);
+  display: block;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.bestellformular-767 .e-mail-hpHi8q.bp2-animate-enter52 {
+  animation: bp2-animate-enter52-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellformular-767 .hedera-account-i-deingabe-hpHi8q {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(21.26% - 9px);
+  width: 327px;
+}
+
+.bestellformular-767 .namederpersoneingabe-hpHi8q {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  top: calc(37.34% - 15px);
+  width: 327px;
+}
+
+.bestellformular-767 .strasse1eingabe-hpHi8q {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(46.48% - 19px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 41px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: 327px;
+}
+
+.bestellformular-767 .plz1eingabe-hpHi8q {
+  background-color: var(--cream-can);
+  border-radius: 15px;
+  bottom: calc(30.31% - 12px);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 40px;
+  left: 1px;
+  opacity: 0.6;
+  position: absolute;
+  width: 327px;
+}
+
+.bestellformular-767 .registrieren1-hpHi8q {
+  background-color: transparent;
+  bottom: 1px;
+  height: 47px;
+  left: 1px;
+  position: absolute;
+  width: 327px;
+}
+
+.bestellformular-767 .gruppe-204-ewwEIl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.bestellformular-767 .rechteck-114-rPxGUo {
+  background-color: var(--sandy-brown);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular-767 .registrieren-rPxGUo {
+  background-color: transparent;
+  bottom: 5px;
+  height: 27px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 47px);
 }
 
 .bestellformular-767 .ein-netzwerk-mit-bew-hpHi8q {
   -webkit-text-stroke: 0.05000000074505806px var(--black);
   background-color: transparent;
-  bottom: 0px;
   display: block;
   height: 30px;
   left: 1px;
@@ -4231,17 +4289,18 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   text-align: left;
+  top: 30px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
 
-.bestellformular-767 .ein-netzwerk-mit-bew-hpHi8q.bp2-animate-enter77 {
-  animation: bp2-animate-enter77-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-767 .ein-netzwerk-mit-bew-hpHi8q.bp2-animate-enter53 {
+  animation: bp2-animate-enter53-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter77-frames {
+@keyframes bp2-animate-enter53-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4264,13 +4323,13 @@ to{opacity: 1;
   width: 197px;
 }
 
-.bestellformular-767 .sicher-einkaufen-hpHi8q.bp2-animate-enter78 {
-  animation: bp2-animate-enter78-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-767 .sicher-einkaufen-hpHi8q.bp2-animate-enter54 {
+  animation: bp2-animate-enter54-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter78-frames {
+@keyframes bp2-animate-enter54-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4293,20 +4352,20 @@ to{opacity: 1;
   width: 182px;
 }
 
-.bestellformular-767 .kleidchenbezeichnung-W27t8Y.bp2-animate-enter79 {
-  animation: bp2-animate-enter79-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-767 .kleidchenbezeichnung-W27t8Y.bp2-animate-enter55 {
+  animation: bp2-animate-enter55-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter79-frames {
+@keyframes bp2-animate-enter55-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.bestellformular-767 .login2-W27t8Y {
+.bestellformular-767 .login-W27t8Y {
   background-color: transparent;
   bottom: calc(27.05% - 6px);
   height: 22px;
@@ -4351,355 +4410,17 @@ to{opacity: 1;
   width: 43px;
 }
 
-.bestellformular-767 .zurck-W27t8Y.bp2-animate-enter80 {
-  animation: bp2-animate-enter80-frames 0.20s ease 0.10s 1 normal forwards;
+.bestellformular-767 .zurck-W27t8Y.bp2-animate-enter56 {
+  animation: bp2-animate-enter56-frames 0.20s ease 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter80-frames {
+@keyframes bp2-animate-enter56-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
-}
-
-.bestellformular-767 .gruppe-634-W27t8Y {
-  background-color: transparent;
-  height: 537px;
-  left: calc(50.00% - 164px);
-  position: absolute;
-  top: calc(44.08% - 237px);
-  width: 327px;
-}
-
-.bestellformular-767 .text-U09Yp9 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: 102px;
-}
-
-.bestellformular-767 .text-U09Yp9.bp2-animate-enter81 {
-  animation: bp2-animate-enter81-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter81-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-767 .private-key-U09Yp9 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 14px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: 68px;
-  white-space: nowrap;
-  width: 62px;
-}
-
-.bestellformular-767 .private-key-U09Yp9.bp2-animate-enter82 {
-  animation: bp2-animate-enter82-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter82-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-767 .sicherheitsschlssel-U09Yp9 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(26.65% - 3px);
-  white-space: nowrap;
-  width: 105px;
-}
-
-.bestellformular-767 .sicherheitsschlssel-U09Yp9.bp2-animate-enter83 {
-  animation: bp2-animate-enter83-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter83-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-767 .name-vorname-U09Yp9 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  top: calc(40.34% - 5px);
-  white-space: nowrap;
-  width: 86px;
-}
-
-.bestellformular-767 .name-vorname-U09Yp9.bp2-animate-enter84 {
-  animation: bp2-animate-enter84-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter84-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-767 .strae-hausnummer-U09Yp9 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(46.15% - 6px);
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 112px;
-}
-
-.bestellformular-767 .strae-hausnummer-U09Yp9.bp2-animate-enter85 {
-  animation: bp2-animate-enter85-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter85-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-767 .plz-ort-U09Yp9 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(32.62% - 4px);
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 47px;
-}
-
-.bestellformular-767 .plz-ort-U09Yp9.bp2-animate-enter86 {
-  animation: bp2-animate-enter86-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter86-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-767 .e-mail-U09Yp9 {
-  -webkit-text-stroke: 0.05000000074505806px var(--black);
-  background-color: transparent;
-  bottom: calc(20.73% - 3px);
-  display: block;
-  height: 13px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 11px;
-  opacity: 0;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: 35px;
-}
-
-.bestellformular-767 .e-mail-U09Yp9.bp2-animate-enter87 {
-  animation: bp2-animate-enter87-frames 0.20s ease 0.10s 1 normal forwards;
-  display: block;
-  opacity: 0;
-}
-
-@keyframes bp2-animate-enter87-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.bestellformular-767 .hedera-account-id-input-U09Yp9 {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: 13px;
-  width: 100%;
-}
-
-.bestellformular-767 .private-key-input-U09Yp9 {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: calc(16.36% - 6px);
-  width: 100%;
-}
-
-.bestellformular-767 .sicherheitsschlssel-input-U09Yp9 {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 38px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: calc(30.59% - 12px);
-  width: 100%;
-}
-
-.bestellformular-767 .name-input-U09Yp9 {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  top: calc(44.89% - 17px);
-  width: 100%;
-}
-
-.bestellformular-767 .strasse-input-U09Yp9 {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(40.93% - 15px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-767 .plz-input-U09Yp9 {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: calc(26.74% - 10px);
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-767 .email-input-U09Yp9 {
-  background-color: var(--cream-can);
-  border-radius: 15px;
-  bottom: 72px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 37px;
-  left: 0px;
-  opacity: 0.6;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-767 .registrieren1-U09Yp9 {
-  background-color: transparent;
-  bottom: 1px;
-  height: 44px;
-  left: 1px;
-  position: absolute;
-  width: 100%;
-}
-
-.bestellformular-767 .gruppe-204-kUrQxn {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
-
-.bestellformular-767 .rechteck-114-rwPkFN {
-  background-color: var(--sandy-brown);
-  border-radius: 15px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 100%;
-  left: 0px;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.bestellformular-767 .registrieren-rwPkFN {
-  background-color: transparent;
-  bottom: -1px;
-  height: 31px;
-  left: 24px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  width: calc(100.00% - 47px);
 }
 
 .bestellformular-767 .gruppe-163-W27t8Y {
@@ -4713,13 +4434,13 @@ to{opacity: 1;
   width: 100%;
 }
 
-.bestellformular-767 .gruppe-163-W27t8Y.bp2-animate-enter88 {
-  animation: bp2-animate-enter88-frames 0.20s linear 0.10s 1 normal forwards;
+.bestellformular-767 .gruppe-163-W27t8Y.bp2-animate-enter57 {
+  animation: bp2-animate-enter57-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter88-frames {
+@keyframes bp2-animate-enter57-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -4791,7 +4512,7 @@ to{opacity: 1;
 
 .bestellformular-767 .gruppe-350-hcTTvm {
   background-color: transparent;
-  height: 199px;
+  height: 200px;
   left: calc(38.10% - 60px);
   position: absolute;
   top: 37px;
@@ -4813,7 +4534,7 @@ to{opacity: 1;
 
 .bestellformular-767 .gruppe-348-zxHSWQ {
   background-color: transparent;
-  bottom: calc(46.47% - 7px);
+  bottom: calc(46.90% - 7px);
   height: 14px;
   left: 0px;
   position: absolute;
@@ -4855,7 +4576,7 @@ to{opacity: 1;
 
 .bestellformular-767 .gruppe-349-zxHSWQ {
   background-color: transparent;
-  bottom: calc(24.56% - 5px);
+  bottom: calc(25.19% - 5px);
   height: 20px;
   left: calc(37.82% - 57px);
   position: absolute;
@@ -4895,46 +4616,64 @@ to{opacity: 1;
   width: 20px;
 }
 
-.bestellformular-767 .gruppe-693-zxHSWQ {
+.bestellformular-767 .gruppe-623-zxHSWQ {
   background-color: transparent;
-  bottom: 0px;
   height: 22px;
-  left: calc(3.93% - 2px);
+  left: calc(2.96% - 2px);
   position: absolute;
-  width: 59px;
+  top: 179px;
+  width: 60px;
 }
 
-.bestellformular-767 .gruppe-141-1Sefmb {
+.bestellformular-767 .gruppe-141-hl6CNt {
   background-color: transparent;
-  bottom: calc(50.00% - 7px);
-  cursor: pointer;
-  height: 14px;
-  position: absolute;
-  right: 0px;
-  width: 30px;
-}
-
-.bestellformular-767 .nft-xL8LH9 {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: 100%;
   left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular-767 .nft-ZjMIFX {
+  background-color: transparent;
+  bottom: calc(134.78% - 22px);
+  cursor: pointer;
+  height: 16px;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
+  right: -2px;
   text-align: left;
-  top: -6px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 32px;
 }
 
-.bestellformular-767 .x498951_child_clothes-1Sefmb {
+.bestellformular-767 .gruppe-622-ZjMIFX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.bestellformular-767 .gruppe-141-SUOBuz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellformular-767 .x498951_child_clothes-ZBCPpj {
   background-color: transparent;
   height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 18px;
+  width: 100%;
 }
 
 .bestellformular-767 .gruppe-354-hcTTvm {
@@ -5098,7 +4837,6 @@ to{opacity: 1;
 
 .bestellformular-767 .gruppe-156-XuwMiM {
   background-color: transparent;
-  cursor: pointer;
   height: 100%;
   left: 33px;
   position: absolute;
@@ -5249,13 +4987,13 @@ to{opacity: 1;
   width: 90px;
 }
 
-.bestellformular-767 .ssl-W27t8Y.bp2-animate-enter89 {
-  animation: bp2-animate-enter89-frames 0.20s linear 0.10s 1 normal forwards;
+.bestellformular-767 .ssl-W27t8Y.bp2-animate-enter58 {
+  animation: bp2-animate-enter58-frames 0.20s linear 0.10s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter89-frames {
+@keyframes bp2-animate-enter58-frames {
   from{opacity: 0;
 }
 to{opacity: 1;

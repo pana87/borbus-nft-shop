@@ -1,6 +1,13 @@
-import { _productLinks, _productDetailLinks } from "./render.js"
+// import {
+//   // _renderItemFrontImage,
+//   // _renderItemBackImage,
+//   // _renderItemName,
+//   _renderItemPrice,
+// } from "./render.js"
 
 console.log("product-view");
 
-_productLinks()
-_productDetailLinks()
+// _renderItemFrontImage()
+// _renderItemBackImage()
+// _renderItemName()
+// _renderItemPrice()

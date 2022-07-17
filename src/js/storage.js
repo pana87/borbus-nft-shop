@@ -1,68 +1,54 @@
-// import { _noAddressFound, _noCartItemFound } from "./exceptions.js"
+import { _getAvailableNftsFromCollectionOne } from "./fetch.js"
 
-// export async function getPriceInHbar(priceInEur) {
-//   const response = await fetch("http://localhost:8888/.netlify/functions/hbar-exchange-rate", {
-//     mode: "same-origin"
-//   })
-//   const body = await response.text()
-//   const data = JSON.parse(body)
+export async function _getNfts() {
+  return new Promise(async (resolve, reject) => {
+    if (!window.sessionStorage.getItem("nfts")) {
+      alert("Es wurden keine NFTs gefunden. Die Seite wird neu geladen sobald Nfts gefunden wurden.") // statt alert wie ein lade balken angezeigt
+      await _getAvailableNftsFromCollectionOne()
+      resolve(JSON.parse(window.sessionStorage.getItem("nfts")))
+    }
+    resolve(JSON.parse(window.sessionStorage.getItem("nfts")))
+  })
+}
 
-//   const USD_EUR = parseFloat(data.USD_EUR)
-//   const HBAR_USD = parseFloat(data.HBAR_USD)
+export async function _getNftsFromNftStorage() {
+  return new Promise(async (resolve, reject) => {
+    const nftsMetadata = []
+    const nfts = await _getNfts()
 
-//   const priceInDollar = priceInEur / USD_EUR
-//   const priceInHbar = priceInDollar / HBAR_USD
-//   return priceInHbar
-// }
+    nfts.forEach(async (nft, index, array) => {
+      const response = await fetch(`https://ipfs.io/ipfs/${nft.metadata}`)
+      const data = await response.text()
 
-// export function getCartListFromLocalStorage() {
-//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+      nftsMetadata.push(JSON.parse(data))
 
-//   if (cart.length === 0) {
-//     _noCartItemFound()
-//     return
-//   }
-//   return cart
-// }
+      if (index + 1 === array.length) resolve(nftsMetadata)
+    })
+  })
+}
 
-// export function getAddressesFromLocalStorage() {
-//   const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
+export async function _getAvailableNfts() {
+  return new Promise(async (resolve, reject) => {
+    const nftsMetadata = []
+    const nfts = await _getNfts()
+    const availableNfts = nfts.filter(it => it.treasuryId === it.owner)
 
-//   if (addresses.length === 0) {
-//     _noAddressFound()
-//     return
-//   }
-//   return addresses
-// }
+    availableNfts.forEach(async (nft, index, array) => {
+      const response = await fetch(`https://ipfs.io/ipfs/${nft.metadata}`)
+      const data = await response.text()
 
+      nftsMetadata.push(JSON.parse(data))
 
-// if (!window.sessionStorage.getItem("nfts")) {
-//   await _getAvailableNftsFromCollectionOne()
+      if (index + 1 === array.length) resolve(nftsMetadata)
+    })
+  })
+}
 
-  // const nfts = JSON.parse(window.sessionStorage.getItem("nfts"))
-  // console.log(nfts);
-
-
-  // // render not available nfts    
-  // const notAvailableNfts = nfts.filter(it => it.treasuryId !== it.owner)
-  // console.log(notAvailableNfts);
-  // notAvailableNfts.forEach(nft => {
-  //   const notAvailableElements = document.querySelectorAll(`div[class*='kleidchen-${nft.serial}']`)
-  //   const notAvailableElementParents = []
-  //   notAvailableElements.forEach(element => {
-  //     notAvailableElementParents.push(element.parentElement)
-  //   })
-
-  //   notAvailableElementParents.forEach(parent => {
-  //     // need good grouping in adobe xd like dress 3 or 4
-  //     parent.innerHTML = /*html*/`
-  //       <div style="display: flex; flex-direction: column; align-items: center; line-height: 2; opacity: 0.6;">
-  //         <img src="${window.__DATA__[nft.serial - 1].images.front}" style="width: 100%; " />
-  //         <div class="sold" style="padding-top: 20px; color: red;">Verkauft</div>
-  //         <div class="owner" style="padding-top: 10px;">Besitzer: ${nft.owner}</div>
-  //       </div>
-  //     `
-  //   })
-  // })
-
-// }
+export function _getCart() {
+  return new Promise((resolve, reject) => {
+    if (!window.localStorage.getItem("cart")) {
+      resolve([])
+    }
+    resolve(JSON.parse(window.localStorage.getItem("cart")))
+  })
+}
