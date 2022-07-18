@@ -136,12 +136,12 @@ permalink: "produktansichtdetail{{ pagination.pageNumber + 1 }}/index.html"
 
     // need this for production only
     // dev rebuild gets in infinite loop
-    if (fs.existsSync("./src/js/fetch.js")) {
-      const fileBuffer = fs.readFileSync("./src/js/fetch.js")
+    // if (fs.existsSync("./src/js/fetch.js")) {
+    //   const fileBuffer = fs.readFileSync("./src/js/fetch.js")
 
-      const result = fileBuffer.toString().replace(/http:\/\/localhost:8888/g, url)
-      fs.writeFileSync("./src/js/fetch.js", result, "utf-8")
-    }
+    //   const result = fileBuffer.toString().replace(/http:\/\/localhost:8888/g, url)
+    //   fs.writeFileSync("./src/js/fetch.js", result, "utf-8")
+    // }
   })
 
   return {

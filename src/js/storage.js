@@ -16,6 +16,7 @@ export async function _getNftsFromNftStorage() {
     const nftsMetadata = []
     const nfts = await _getNfts()
 
+    // dont use for each with fetch. use for loop instead
     nfts.forEach(async (nft, index, array) => {
       const response = await fetch(`https://ipfs.io/ipfs/${nft.metadata}`)
       const data = await response.text()
@@ -33,14 +34,13 @@ export async function _getAvailableNfts() {
     const nfts = await _getNfts()
     const availableNfts = nfts.filter(it => it.treasuryId === it.owner)
 
-    availableNfts.forEach(async (nft, index, array) => {
+    for (const nft of availableNfts) {
       const response = await fetch(`https://ipfs.io/ipfs/${nft.metadata}`)
       const data = await response.text()
 
       nftsMetadata.push(JSON.parse(data))
-
-      if (index + 1 === array.length) resolve(nftsMetadata)
-    })
+    }
+    resolve(nftsMetadata)
   })
 }
 

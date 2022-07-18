@@ -8,14 +8,15 @@ import {
 } from "./exceptions.js"
 import { _getAvailableNfts, _getCart, _getNfts, _getNftsFromNftStorage } from "./storage.js"
 
-export function _updateCartPointer() {
+export async function _updateCartPointer() {
   const cartPointerTopRight = document.querySelectorAll("div[class*='anzahl-warenkorb']")
 
   if (cartPointerTopRight.length === 0) return
 
-  const cart = JSON.parse(localStorage.getItem("cart")) || []
+  const cart = await _getCart()
   cartPointerTopRight.forEach(pointer => pointer.innerHTML = `${cart.length}`)
 }
+_updateCartPointer()
 
 export function _removeItemFromCart() {
   document.querySelectorAll("div[class*='kleidchenbezeichnung']").forEach(element => element.remove())
@@ -32,11 +33,11 @@ export async function _renderShopList() {
 
   if (shopListDivs.length === 0) return
 
+  if (!window.__DATA__) return
+
   const nfts = await _getAvailableNfts()
 
   if (nfts.length === 0) return
-
-  if (!window.__DATA__) return
 
   const nftContainer = []
   nfts.forEach(nft => {
@@ -62,7 +63,9 @@ export async function _renderShopList() {
     }
 
     nftBox.innerHTML = `
-      <img src="${nft.image}" alt="${nft.name}" style="width: 100%; object-fit: contain;"/>
+      <a href="${window.__DATA__[dressId - 1].links.overview}">
+        <img src="${nft.image}" alt="${nft.name}" style="width: 100%; object-fit: contain;"/>
+      </a>
       <p>Kleidchen #${dressId}</p>
       <p>${window.__DATA__[dressId - 1].price} €</p>
       <a href="${window.__DATA__[dressId - 1].links.overview}" style="color: inherit;" >Einkaufen ᐅ</a>
@@ -90,336 +93,240 @@ export async function _renderShopList() {
 
     nftContainer.forEach(container => div.innerHTML += container.outerHTML)
   })
+
+  const articleDivs = document.querySelectorAll("div[class*='x24-artikel']")
+
+  if (articleDivs.length === 0) return
+
+  articleDivs.forEach(div => div.innerHTML = `${nfts.length} Artikel`)
 }
 _renderShopList()
 
-// export function _renderItemFrontImage() {
-//   const frontImageDivs = document.querySelectorAll("div[class*='vorderseitebild']")
-//   console.log(frontImageDivs);
-// }
-// _renderItemFrontImage()
+export async function _renderFrontImage() {
+  const divs = document.querySelectorAll("div[class*='vorderseitebild']")
 
-// function _cartList() {
-//   if (!window.localStorage.getItem("cart")) {
-//     _removeItemFromCart()
-//     return
-//   }
-// }
-// _cartList()
-
-// function _productName() {
-//   const nameElements = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
-//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-//   if (nameElements.length === 0) return
-
-//   if (window.__DATA__) {
-//     nameElements.forEach(element => element.innerHTML = `${window.__DATA__.name}`)
-//     return
-//   }
-
-//   if (!window.localStorage.getItem("cart")) {
-//     nameElements.forEach(element => element.remove())
-//     return
-//   }
-//   nameElements.forEach(element => element.innerHTML = cart[0].name)
-// }
-// _productName()
-
-// function _productPrice() {
-//   const priceElements = document.querySelectorAll("div[class*='preis1']")
-//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-//   if (priceElements.length === 0) return
-
-//   if (window.__DATA__) {
-//     priceElements.forEach(element => element.innerHTML = `${window.__DATA__.price} €`)
-//     return
-//   }
-
-//   if (!window.localStorage.getItem("cart")) {
-//     priceElements.forEach(element => element.remove())
-//   } else {
-//     priceElements.forEach(element => element.innerHTML = `${cart[0].price} EUR`)
-//   }
-// }
-// _productPrice()
-
-// export async function _renderItemPrice() {
-//   const priceDivs = document.querySelectorAll("div[class*='stckpreis']")
-
-//   if (priceDivs.length === 0) return
-
-//   // const windowData = await _getWindowData()
-//   // console.log(windowData);
-
-//   // if (window.__DATA__) {
-//   //   priceDivs.forEach(div => div.innerHTML = `${window.__DATA__.price} €`)
-//   //   return
-//   // }
-
-//   // if (window.localStorage.getItem("cart")) {
-//   //   const cart = await _getCart()
-//   //   console.log(cart);
-
-//   //   if (cart.length === 0) return
-
-//   //   priceDivs.forEach(div => div.innerHTML = `${cart[0].price} €`)
-//   // }
-// }
-
-function _productDescription() {
-  const infoTextElements = document.querySelectorAll("div[class*='infotext']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-  if (infoTextElements.length === 0) return
+  if (divs.length === 0) return
 
   if (window.__DATA__) {
-    infoTextElements.forEach(element => element.innerHTML = `${window.__DATA__.name} <br />${window.__DATA__.description}`)
-    return
-  }
-
-  if (!window.localStorage.getItem("cart")) {
-    infoTextElements.forEach(element => element.remove())
-    return
-  }
-
-  infoTextElements.forEach(element => element.innerHTML = `${cart[0].name} <br />${cart[0].description}`)
-}
-// _productDescription()
-
-function _productCompatibility() {
-  const compatibilityElements = document.querySelectorAll("div[class*='vertraeglichkeit1']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-  if (compatibilityElements.length === 0) return
-
-  if (window.__DATA__) {
-    compatibilityElements.forEach(element => element.innerHTML = window.__DATA__.attributes.compatibility.join(" & "))
-    return
-  }
-
-  if (!window.localStorage.getItem("cart")) {
-    compatibilityElements.forEach(element => element.remove())
-    return
-  }
-
-  compatibilityElements.forEach(element => element.innerHTML = cart[0].attributes.compatibility.join(" & "))
-}
-// _productCompatibility()
-
-function _productSize() {
-  const sizeElements = document.querySelectorAll("div[class*='groesse1']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-  if (sizeElements.length === 0) return
-
-  if (window.__DATA__) {
-    sizeElements.forEach(element => element.innerHTML = `${window.__DATA__.attributes.size}`)
-    return
-  }
-
-  if (!window.localStorage.getItem("cart")) {
-    sizeElements.forEach(element => element.remove())
-    return
-  }
-
-  sizeElements.forEach(element => element.innerHTML = `${cart[0].attributes.size}`)
-}
-// _productSize()
-
-function _productMaterial() {
-  const materialElements = document.querySelectorAll("div[class*='stoff1']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-  if (materialElements.length === 0) return
-
-  if (window.__DATA__) {
-    materialElements.forEach(element => element.innerHTML = `${window.__DATA__.attributes.material.join(", ")}`)
-    return
-  }
-
-  if (!window.localStorage.getItem("cart")) {
-    materialElements.forEach(element => element.remove())
-    return
-  }
-  materialElements.forEach(element => element.innerHTML = `${cart[0].attributes.material.join(", ")}`)
-}
-// _productMaterial()
-
-function _productPattern() {
-  const patternElements = document.querySelectorAll("div[class*='muster1']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-  if (patternElements.length === 0) return
-
-  if (window.__DATA__) {
-    patternElements.forEach(element => element.innerHTML = `${window.__DATA__.attributes.pattern}`)
-    return
-  }
-
-  if (!window.localStorage.getItem("cart")) {
-    patternElements.forEach(element => element.remove())
-    return
-  }
-  patternElements.forEach(element => element.innerHTML = `${cart[0].attributes.pattern}`)
-
-}
-// _productPattern()
-
-export function _productDetailLinks() {
-  const productDetailLinks = document.querySelectorAll("a[href*='produktansichtdetail1']")
-
-  if (productDetailLinks.length === 0) return
-
-  if (window.__DATA__) {
-    productDetailLinks.forEach(link => link.setAttribute("href", `${window.__DATA__.links.detail}`))
-    return
-  }
-}
-// _productDetailLinks()
-
-export function _productLinks() {
-  const productLinks = document.querySelectorAll("a[href*='produktansicht1']")
-
-  if (productLinks.length === 0) return
-
-  if (window.__DATA__) {
-    productLinks.forEach(link => link.setAttribute("href", `${window.__DATA__.links.overview}`))
-    return
-  }
-}
-// _productLinks()
-
-const frontImageDivs = document.querySelectorAll("div[class*='vorderseitebild']")
-export async function _renderItemFrontImage() {
-
-  if (frontImageDivs.length === 0) return
-
-  const nfts = await _getNftsFromNftStorage()
-  console.log(nfts);
-
-  console.log(window.location.pathname);
-  const dressIds = window.location.pathname.match(/\d+/)
-  console.log(dressIds);
-  const id = parseInt(dressIds[0])
-  console.log(id);
-  // const dressId = dres
-
-  // frontImageDivs.forEach(div => {
-  //   div.innerHTML = `
-  //     <img src="${item.image}" alt="${item.name}" style="object-fit: contain; width: 100%;" />
-  //   `
-  // })
-}
-// if (window.__DATA__) {
-_renderItemFrontImage()
-// }
-
-export async function _renderItemBackImage() {
-  const backImageDivs = document.querySelectorAll("div[class*='rckseitebild']")
-
-  if (backImageDivs.length === 0) return
-
-  const nfts = await _getNfts()
-  const response = await fetch(`https://ipfs.io/ipfs/${nfts[window.__DATA__.id - 1].metadata}`)
-  const data = await response.text()
-  const item = JSON.parse(data)
-
-  backImageDivs.forEach(div => {
-    div.innerHTML = `
-      <img src="${item.properties.images.back}" alt="${item.name}" style="object-fit: contain; width: 100%;" />
-    `
-  })
-}
-
-export async function _renderItemName() {
-  const nameDivs = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
-
-  if (nameDivs.length === 0) return
-
-  const nfts = await _getNfts()
-  const response = await fetch(`https://ipfs.io/ipfs/${nfts[window.__DATA__.id - 1].metadata}`)
-  const data = await response.text()
-  const item = JSON.parse(data)
-
-  nameDivs.forEach(div => div.innerHTML = `Kleidchen #${item.id}`)
-}
-
-// function _productBackImage() {
-//   const backImages = document.querySelectorAll("img[class*='rckseitebild']")
-//   const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-//   if (backImages.length === 0) return
-
-//   if (window.__DATA__) {
-//     backImages.forEach(image => {
-//       image.setAttribute("style", "object-fit: contain;")
-//       image.setAttribute("src", `${window.__DATA__.images.back}`)
-//     })
-//     return
-//   }
-
-//   if (!window.localStorage.getItem("cart")) {
-//     backImages.forEach(image => image.remove())
-//     return
-//   }
-//   backImages.forEach(image => {
-//     image.setAttribute("style", "object-fit: contain;")
-//     image.setAttribute("src", `${cart[0].images.back}`)
-//   })
-// }
-// _productBackImage()
-
-function _productDetailImage() {
-  const detailImages = document.querySelectorAll("img[class*='detailaufnahme']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-  if (detailImages.length === 0) return
-
-  if (window.__DATA__) {
-    detailImages.forEach(image => {
-      image.setAttribute("style", "opacity: 0.3 !important;")
-      image.setAttribute("src", `${window.__DATA__.images.detail}`)
+    divs.forEach(div => {
+      div.innerHTML = `
+        <img src="${window.__DATA__.images.front}" alt="${window.__DATA__.name}" style="object-fit: contain; width: 100%;" />
+      `
     })
     return
   }
 
-  if (!window.localStorage.getItem("cart")) {
-    detailImages.forEach(image => image.remove())
+  const cart = await _getCart()
+
+  if (cart.length !== 0) {
+    divs.forEach(div => {
+      div.innerHTML = `
+        <img src="${cart[0].images.front}" alt="${cart[0].name}" style="object-fit: contain; width: 100%;" />
+      `
+    })
+    return
+  }
+}
+_renderFrontImage()
+
+function _renderBackImage() {
+  const divs = document.querySelectorAll("div[class*='rckseitebild']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => {
+      div.innerHTML = `
+        <img src="${window.__DATA__.images.back}" alt="${window.__DATA__.name}" style="object-fit: contain; width: 100%;" />
+      `
+    })
+    return
+  }
+}
+_renderBackImage()
+
+async function _renderName() {
+  const divs = document.querySelectorAll("div[class*='kleidchenbezeichnung']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => div.innerHTML = `${window.__DATA__.name}`)
     return
   }
 
-  detailImages.forEach(image => {
-    image.setAttribute("style", "opacity: 0.3 !important;")
-    image.setAttribute("src", `${cart[0].images.detail}`)
-  })
-}
-// _productDetailImage()
+  const cart = await _getCart()
 
-function _productTotalPrice() {
-  const totalPriceElements = document.querySelectorAll("div[class*='gesamtpreis1']")
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-
-  if (totalPriceElements.length === 0) return
-
-  if (!window.localStorage.getItem("cart")) {
-    totalPriceElements.forEach(element => element.remove())
+  if (cart.length !== 0) {
+    divs.forEach(div => div.innerHTML = `${cart[0].name}`)
     return
   }
-  totalPriceElements.forEach(element => element.innerHTML = `${_getTotalPrice()} EUR`)
 }
-// _productTotalPrice()
+_renderName()
 
-function _getTotalPrice() {
-  const cart = JSON.parse(localStorage.getItem("cart")) || []
+async function _renderPrice() {
+  const divs = document.querySelectorAll("div[class*='stckpreis']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => div.innerHTML = `${window.__DATA__.price} €`)
+    return
+  }
+
+  const cart = await _getCart()
+
+  if (cart.length !== 0) {
+    divs.forEach(div => div.innerHTML = `${cart[0].price} €`)
+    return
+  }
+}
+_renderPrice()
+
+function _renderInfoText() {
+  const divs = document.querySelectorAll("div[class*='infotext']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => div.innerHTML = `
+    ${window.__DATA__.name} <br />
+    ${window.__DATA__.description}
+    `)
+    return
+  }
+}
+_renderInfoText()
+
+function _renderCompatibility() {
+  const divs = document.querySelectorAll("div[class*='vertraeglichkeit1']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => div.innerHTML = `${window.__DATA__.attributes.compatibility[0]} & ${window.__DATA__.attributes.compatibility[1]}`)
+    return
+  }
+}
+_renderCompatibility()
+
+function _renderSize() {
+  const divs = document.querySelectorAll("div[class*='groesse1']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => div.innerHTML = `${window.__DATA__.attributes.size}`)
+    return
+  }
+}
+_renderSize()
+
+function _renderMaterial() {
+  const divs = document.querySelectorAll("div[class*='stoff1']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => div.innerHTML = `${window.__DATA__.attributes.material}`)
+    return
+  }
+}
+_renderMaterial()
+
+function _renderPattern() {
+  const divs = document.querySelectorAll("div[class*='muster1']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => div.innerHTML = `${window.__DATA__.attributes.pattern}`)
+    return
+  }
+}
+_renderPattern()
+
+function _renderDetailLinks() {
+  const links = document.querySelectorAll("a[href*='produktansichtdetail1']")
+
+  if (links.length === 0) return
+
+  if (window.__DATA__) {
+    links.forEach(link => link.setAttribute("href", `${window.__DATA__.links.detail}`))
+    return
+  }
+}
+_renderDetailLinks()
+
+function _renderLinks() {
+  const links = document.querySelectorAll("a[href*='produktansicht1']")
+
+  if (links.length === 0) return
+
+  if (window.__DATA__) {
+    links.forEach(link => link.setAttribute("href", `${window.__DATA__.links.overview}`))
+    return
+  }
+}
+_renderLinks()
+
+function _renderDetailImage() {
+  const divs = document.querySelectorAll("div[class*='detailaufnahme']")
+
+  if (divs.length === 0) return
+
+  if (window.__DATA__) {
+    divs.forEach(div => {
+      div.innerHTML = `
+        <img src="${window.__DATA__.images.detail}" alt="${window.__DATA__.name}" style="object-fit: contain; width: 100%; opacity: 0.3;"/>
+      `
+    })
+    return
+  }
+}
+_renderDetailImage()
+
+async function _renderCartList() {
+  if (window.location.pathname === "/warenkorb/") {
+    const cart = await _getCart()
+    if (cart.length === 0) {
+      _noCartItemFound()
+      return
+    }
+  }
+}
+_renderCartList()
+
+async function _renderTotalPrice() {
+  const divs = document.querySelectorAll("div[class*='gesamtpreis1']")
+
+  if (divs.length === 0) return
+
+  const cart = await _getCart()
 
   const total = cart
-    .map(item => parseFloat(item.price.replace(",", ".")))
-    .reduce((prev, curr) => prev + curr, 0)
+  .map(item => parseFloat(item.price.replace(",", ".")))
+  .reduce((prev, curr) => prev + curr, 0)
 
-  return total.toFixed(2)
+  if (cart.length === 0) {
+    divs.forEach(div => div.remove())
+    return
+  }
+
+  if (cart.length !== 0) {
+    divs.forEach(div => div.innerHTML = `${total.toFixed(2)} €`)
+    return
+  }
 }
+_renderTotalPrice()
+
+
+
+
+
+
+
+
 
 function _accountId() {
   const accountIdElements = document.querySelectorAll("div[class*='account-id-einzigartig']")
@@ -619,28 +526,12 @@ function _accountId() {
 // }
 // _billingAddressEmail()
 
-async function _updateTotalHbarAmount() {
-  const elements = document.querySelectorAll("div[class*='hbar-gesamtkosten-rechner']")
+async function _renderTotalHbarAmount() {
+  const divs = document.querySelectorAll("div[class*='hbar-gesamtkosten-rechner']")
 
-  if (elements.length === 0) return
+  if (divs.length === 0) return
 
-  // var lastHbarPrice
-  // elements.forEach(element => {
-  //   lastHbarPrice = element.innerHTML
-  // })
-  // // console.log(lastHbarPrice.trim().split(" "))
-  // console.log(parseFloat(lastHbarPrice.trim().split(" ")[0].replace(".", "").replace(",", ".")))
-
-  // const response = await fetch("http://localhost:8888/.netlify/functions/hbar-exchange-rate", {
-  //   mode: "same-origin"
-  // })
-  // const body = await response.text()
-  // const data = JSON.parse(body)
-
-  // const USD_EUR = parseFloat(data.USD_EUR)
-  // const HBAR_USD = parseFloat(data.HBAR_USD)
-
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+  const cart = await _getCart()
 
   if (cart.length === 0) {
     _noCartItemFound()
@@ -648,24 +539,11 @@ async function _updateTotalHbarAmount() {
   }
 
   const cartPrice = parseFloat(cart[0].price.replace(",", "."))
-  // const priceInDollar = cartPrice / USD_EUR
-  // const priceInHbar = priceInDollar / HBAR_USD
-
   const priceInHbar = await getPriceInHbar(cartPrice)
 
-  elements.forEach(element => element.innerHTML = `${priceInHbar.toFixed(8)} ℏ`)
-
-  // var lastHbarPrice
-  // elements.forEach(element => {
-  //   lastHbarPrice = element.innerHTML
-  // })
-  // console.log(lastHbarPrice.trim().split(" "))
-  // console.log(parseFloat(lastHbarPrice.trim().split(" ")[0]))
-
-  // return priceInHbar
+  divs.forEach(div => div.innerHTML = `${priceInHbar.toFixed(8)} ℏ`)
 }
-// _totalHbarAmount()
-// _updateTotalHbarAmount()
+_renderTotalHbarAmount()
 
 function _inputDefaultStyle(htmlInputElement) {
   htmlInputElement.setAttribute("style", `
@@ -713,12 +591,12 @@ function _inputIsValid(htmlInputElement) {
   }
 }
 
-function _accountIdInputField() {
-  const inputFields = document.querySelectorAll("div[class*='hedera-account-id-input']")
+function _renderAccountIdInputField() {
+  const fields = document.querySelectorAll("div[class*='hedera-account-id-input']")
 
-  if (inputFields.length === 0) return
+  if (fields.length === 0) return
 
-  inputFields.forEach(field => {
+  fields.forEach(field => {
     const input = document.createElement("input")
 
     input.setAttribute("type", "text")
@@ -742,7 +620,7 @@ function _accountIdInputField() {
   })
   return inputFields
 }
-// _accountIdInputField()
+// _renderAccountIdInputField()
 
 function _nameInputField() {
   const inputFields = document.querySelectorAll("div[class*='name-input']")
